@@ -1,0 +1,69 @@
+body.splash {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  padding: 1em;
+
+  background-color: $dark;
+  background-image: url('../images/lxad-background-small.png');
+  background-origin: border-box;
+  background-size: cover;
+  background-attachment: fixed;
+
+  .splash-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+
+    text-align: center;
+    line-height: 1;
+    color: $white;
+    text-shadow: $dark 0px 0px 4vw;
+
+    .podcast-cover {
+      width: 50vw;
+      max-width: 512px;
+
+      img {
+        width: 100%;
+      }
+    }
+
+    .teaser {
+      font-size: 3vw;
+    }
+
+    .questions {
+      margin-top: 1vw;
+
+      width: 50vw;
+      max-width: 512px;
+
+      line-height: 1.2;
+
+      a {
+        color: $lxad-cyan;
+      }
+    }
+
+    .tagline { font-size: 3vw; }
+
+    @media screen and (max-width: 768px) {
+      .podcast-cover { width: 80vw; }
+      .teaser { font-size: 6vw; }
+      .questions { width: 80vw; }
+    }
+
+    @media screen and (max-width: 576px) {
+      .podcast-cover { width: 80vw; }
+      .teaser { font-size: 6vw; }
+      .questions { margin-top: 3vw; }
+    }
+
+  }
+}

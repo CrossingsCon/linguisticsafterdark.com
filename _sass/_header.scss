@@ -1,0 +1,7 @@
+#page > header > nav {
+  background-color: transparentize($color: $dark, $amount: 0.3);
+}
+
+#navbar-corp-name {
+  line-height: 1em;
+}

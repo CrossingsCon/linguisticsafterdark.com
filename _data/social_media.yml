@@ -1,0 +1,6 @@
+- service: facebook
+  site: https://facebook.com/crossingscon
+- service: twitter
+  site: https://twitter.com/crossingscon
+- service: instagram
+  site: https://instagram.com/crossingscon

@@ -1,0 +1,31 @@
+footer {
+  color: $white;
+
+  .heart {
+    color: $ee-cyan;
+  }
+
+  .footer-text {
+    height: 2.5em;
+    display: grid;
+    align-items: center;
+  }
+}
+
+footer .social-list {
+  justify-content: center;
+
+  img {
+    height: 1.5rem;
+  }
+}
+
+footer .flipper {
+  .unflipped { display: inline; }
+  .flipped { display: none; }
+
+  &:hover {
+    .flipped { display: inline; }
+    .unflipped { display: none; }
+  }
+}

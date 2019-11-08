@@ -1,0 +1,18 @@
+body {
+  font-family: $font-family-base;
+  font-variant-numeric: lining-nums;
+}
+
+body {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  background-image: url($baseurl + '/images/lxad-background-small.png');
+  background-origin: border-box;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center top;
+}
