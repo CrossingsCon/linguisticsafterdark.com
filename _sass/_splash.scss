@@ -51,18 +51,31 @@ body.splash {
       }
     }
 
-    .tagline { font-size: 3vw; }
+    .social-media {
+      margin-top: 2vw;
+
+      span {
+        padding: 1vw;
+      }
+
+      img {
+        width: 2vw;
+      }
+    }
 
     @media screen and (max-width: 768px) {
       .podcast-cover { width: 80vw; }
-      .teaser { font-size: 6vw; }
+      .teaser { font-size: 5vw; }
       .questions { width: 80vw; }
+      .social-media img { width: 3vw; }
     }
 
     @media screen and (max-width: 576px) {
       .podcast-cover { width: 80vw; }
       .teaser { font-size: 6vw; }
       .questions { margin-top: 3vw; }
+      .social-media { margin-top: 3vw; }
+      .social-media img { width: 5vw; }
     }
 
   }

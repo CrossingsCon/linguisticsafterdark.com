@@ -1,6 +1,8 @@
-- service: facebook
-  site: https://facebook.com/crossingscon
 - service: twitter
-  site: https://twitter.com/crossingscon
+  site: https://twitter.com/lxadpodcast
 - service: instagram
-  site: https://instagram.com/crossingscon
+  site: https://instagram.com/lxadpodcast
+- service: facebook
+  site: https://facebook.com/lxadpodcast
+- service: patreon
+  site: https://patreon.com/emfozzing

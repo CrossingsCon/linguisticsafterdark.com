@@ -12,4 +12,9 @@ layout: splash
   <div class="questions">
     Need linguistic advice? Send your questions to <a href="mailto:questions@linguisticsafterdark.com">questions@linguisticsafterdark.com</a>.
   </div>
+  <div class="social-media">
+      {% for sm in site.data.social_media %}
+      <span><a href="{{sm.site}}"><img src="{{site.baseurl}}/images/social-icons/{{sm.service}}-white.svg" alt="{{sm.service}} logo"/></a></span>
+      {% endfor %}
+  </div>
 </div>
