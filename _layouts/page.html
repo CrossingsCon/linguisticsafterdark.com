@@ -2,14 +2,20 @@
 layout: default
 ---
 
-<div class="row">
-  <aside class="col-3">
-    {% include sidebar.html %}
-  </aside>
-  <main class="col-6 p-3">
-    {{ content }}
-  </main>
+<div class="row h-100">
+  <div class="col-3 sidebar">
+    <aside class="p-3">
+      {% include sidebar.html %}
+    </aside>
+  </div>
+  <div class="col-9 main-content">
+    <div class="row justify-content-center">
+      <main class="col-9 p-3">
+        {{ content }}
+      </main>
+    </div>
+    <footer class="row py-3">
+      {% include footer.html %}
+    </footer>
+  </div>
 </div>
-<footer class="row">
-  {% include footer.html %}
-</footer>

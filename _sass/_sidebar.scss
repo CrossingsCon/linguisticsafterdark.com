@@ -1,4 +1,11 @@
+.sidebar {
+  background-color: transparentize($color: #222222, $amount: 0.3);
+  padding: 0;
+}
+
 aside {
+  position: fixed;
+  max-width: 25%; // col-3
 
   .rules {
 

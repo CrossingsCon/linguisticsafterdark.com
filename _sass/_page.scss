@@ -8,3 +8,12 @@ article {
   border-radius: 1rem;
   @include neon-under($lxad-magenta);
 }
+
+#page { 
+  overflow-y: overlay;
+}
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+}
