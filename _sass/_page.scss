@@ -1,7 +1,10 @@
-.page-main {
-  background-color: transparentize($color: $white, $amount: 0.1);
-}
+article {
+  @extend .mb-3;
+  @extend .py-4;
+  @extend .px-5;
 
-.page-main img {
-  max-width: 100%;
+  background: $post-background-color;
+  color: $post-text-color;
+  border-radius: 1rem;
+  @include neon-under($lxad-magenta);
 }

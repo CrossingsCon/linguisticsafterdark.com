@@ -1,0 +1,31 @@
+<div class="container-fluid">
+  <div class="row">
+    <a class="col" href="{{ site.baseurl }}/">
+      <img class="w-100" src="{{ site.baseurl }}/images/LXAD_Cover-TransparentAlternate.png" />
+    </a>
+  </div>
+  <div class="row">
+    <div class="col mx-2 rules">
+      <h3>The rules:</h3>
+      <ol class="pl-3">
+        <li>Any question is fair game</li>
+        <li>No research allowed beforehand</li>
+        <li>If we can't answer, we have to drink</li>
+      </ol>
+    </div>
+  </div>
+  <div class="row">
+    <nav>
+      <div class="p-1"><a href="mailto:questions@linguisticsafterdark.com">Ask a Question!</a></div>
+      <div class="p-1"><a href="/about">About</a></div>
+      <div class="p-1"><a href="/episodes">Episodes</a></div>
+      <div class="p-1"><a href="{{ site.data.social_media.patreon }}">Support Us</a></div>
+    </nav>
+  </div>
+  <div class="row mt-3">
+    {% assign socials = "patreon|twitter|instagram|facebook|youtube" | split: "|" %}
+    {% for social in socials %}
+    <div class="col"><a href="{{ site.data.social_media[social] }}"><img src="{{ site.baseurl }}/images/social-icons/Icon_LxAD-{{social}}-cyan.svg" /></a></div>
+    {% endfor %}
+  </div>
+</div>

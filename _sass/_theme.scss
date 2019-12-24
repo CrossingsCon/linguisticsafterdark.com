@@ -1,9 +1,37 @@
 $font-family-lxad-body: "Nunito Sans", sans-serif;
 $font-family-lxad-headings: "Nunito Sans", sans-serif;
+$font-family-neon-script: "Nickainley", sans-serif;
+$font-family-neon-block: "Beon", sans-serif;
+
 $font-family-base: $font-family-lxad-body;
 $headings-font-family: $font-family-lxad-headings;
 
 $font-weight-normal: 500;
 $headings-font-weight: 500;
 
-$navbar-dark-color: rgba($white, .8);
+$h1-font-size:  2rem !default;
+$h2-font-size:  1.5rem !default;
+$h3-font-size:  1.25rem !default;
+$h4-font-size:  1.125rem !default;
+
+$post-background-color: $white;
+$post-text-color: $black;
+
+$link-color: scale-color($lxad-magenta, $lightness: -20%);
+
+$neon-white: $white;
+@mixin neon($color) {
+  border: 2px solid $neon-white;
+  border-radius: 1rem;
+  box-shadow: 0 0 0.5em $color,
+        inset 0 0 0.5em $color;
+};
+
+@mixin neon-under($color) {
+  box-shadow: 0 0 0.5em $color;
+};
+
+@mixin neon-text($color) {
+  color: $neon-white;
+  text-shadow: 0 0 0.5em $color;
+};

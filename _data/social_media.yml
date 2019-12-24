@@ -1,8 +1,5 @@
-- service: twitter
-  site: https://twitter.com/lxadpodcast
-- service: instagram
-  site: https://instagram.com/lxadpodcast
-- service: facebook
-  site: https://facebook.com/lxadpodcast
-- service: patreon
-  site: https://patreon.com/emfozzing
+twitter: https://twitter.com/lxadpodcast
+instagram: https://instagram.com/lxadpodcast
+facebook: https://facebook.com/lxadpodcast
+youtube: https://youtube.com/channel/UC3T9DIlBZZb6c12IkJhRY7w
+patreon: https://patreon.com/emfozzing

@@ -1,0 +1,32 @@
+---
+layout: page
+title: About The Podcast
+---
+
+<article class="about">
+  <h2>What is Linguistics After Dark?</h2>
+  <p>Lingustics After Dark is a podcast where three linguists (and sometimes other people) answer your burning questions about language, linguistics, and whatever else you need advice about. We have three rules: any question is fair game, there's no research allowed, and if we can't answer, we have to drink.</p>
+  <p>Think of it like a fun conversation with some people you met at a bar: off-the-cuff, a little drunk, and a no-consequences opportunity to see if your pet theory about all words being derived from Greek holds any water.</p>
+  <h2>Meet the Hosts</h2>
+  {% for host in site.data.hosts %}
+  <div class="host my-3">
+    <h3>{{ host.name }} ({{ host.native }})</h3>
+    <div>
+      <p class="question">How many languages do you speak?</p>
+      {{ host.languages | markdownify }}
+    </div>
+    <div>
+      <p class="question">What's your linguistic specialty?</p>
+      {{ host.specialty | markdownify }}
+    </div>
+    <div>
+      <p class="question">What's your accent like?</p>
+      {{ host.accent | markdownify }}
+    </div>
+    <div>
+      <p class="question">{{ host.bonus-q }}</p>
+      {{ host.bonus-a | markdownify }}
+    </div>
+  </div>
+  {% endfor %}
+</article>
