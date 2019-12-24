@@ -1,6 +1,8 @@
 body {
   font-family: $font-family-base;
   font-variant-numeric: lining-nums;
+
+  color: $white;
 }
 
 body {
@@ -10,9 +12,17 @@ body {
   left: 0;
   right: 0;
 
-  background-image: url($baseurl + '/images/lxad-background-small.png');
+  background-image: url($baseurl + '/images/Edit_LXD_Background-tileable.png');
+  background-size: 50%;
   background-origin: border-box;
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: center top;
+  background-repeat: repeat;
+  background-color: black;
+}
+
+a {
+  color: $link-color;
+
+  &:hover {
+    color: $link-color;
+  }
 }

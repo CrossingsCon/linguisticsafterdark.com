@@ -1,0 +1,16 @@
+{% capture tagscommas %}{% for tag in include.post.tags %}<a href="/tag/{{tag}}">{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}{% endcapture %}
+<article class="post">
+  <header class="mb-3">
+    <h1><a href="{{ include.post.url }}">{{ include.post.title }}</a></h1>
+    <div class="post-metadata">{{ include.post.date | date: "%B %e, %Y" }} • Filed under: {{ tagscommas }}</div>
+  </header>
+  <div class="podcast-player mb-3">
+    PODCAST PLAYER EMBED GOES HERE
+  </div>
+  <div class="post-content">
+    {{ include.post.content }}
+  </div>
+  <footer class="mt-3 pt-3">
+    Send your questions to <a href="mailto:questions@linguisticsafterdark.com">questions@linguisticsafterdark.com</a>, and follow us at @lxadpodcast on Twitter, Instagram, and Facebook. And if you'd like to support us, you can pledge at patreon.com/emfozzing. Thanks for listening!
+  </footer>
+</article>
