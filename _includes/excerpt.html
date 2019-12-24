@@ -5,7 +5,7 @@
     <div class="post-metadata">{{ include.post.date | date: "%B %e, %Y" }} • Filed under: {{ tagscommas }}</div>
   </header>
   <div class="podcast-player mb-3">
-    PODCAST PLAYER EMBED GOES HERE
+      <iframe src="https://anchor.fm/lxadpodcast/embed/episodes/{{ include.post.embed }}" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
   </div>
   <div class="post-content">
     {{ include.post.excerpt }}
