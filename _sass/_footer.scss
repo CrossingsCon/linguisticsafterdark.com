@@ -1,4 +1,11 @@
-footer {
-    flex: 1;
-    align-content: flex-end;
+#footer {
+  font-size: .8rem;
+
+  a {
+    color: $lxad-magenta;
+  }
+
+  .heart {
+    color: $lxad-magenta;
+  }
 }
