@@ -19,10 +19,6 @@ body {
   background-color: black;
 }
 
-a {
+a &:hover {
   color: $link-color;
-
-  &:hover {
-    color: $link-color;
-  }
 }
