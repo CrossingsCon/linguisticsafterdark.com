@@ -1,7 +1,11 @@
 aside {
 
-  .produced-by{
+  .produced-by {
     text-align: center;
+
+    a {
+      color: inherit;
+    }
 
     img {
       height: 1em;

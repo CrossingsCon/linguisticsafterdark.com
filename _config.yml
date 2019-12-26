@@ -20,4 +20,4 @@ markdown: kramdown
 collections:
   static:
     output: true
-    permalink: /:path/
+    permalink: static/:path

@@ -1,3 +1,9 @@
-article.post > footer {
-  border-top: 2px solid $post-text-color;
+article.post {
+  a {
+    color: $post-link-color;
+  }
+
+  footer {
+    border-top: 2px solid $post-text-color;
+  }
 }

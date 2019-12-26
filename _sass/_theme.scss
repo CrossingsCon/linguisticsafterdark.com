@@ -17,7 +17,8 @@ $h4-font-size:  1.125rem !default;
 $post-background-color: $white;
 $post-text-color: $black;
 
-$link-color: scale-color($lxad-magenta, $lightness: -20%);
+$link-color: $lxad-magenta;
+$post-link-color: scale-color($link-color, $lightness: -20%);
 
 $neon-white: $white;
 @mixin neon($color) {
