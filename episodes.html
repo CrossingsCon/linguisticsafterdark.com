@@ -5,6 +5,6 @@ title: Episode List
 
 {% for post in site.posts %}
 <div>
-  {% include excerpt.html post=post %}
+  {% include post.html post=post excerpt=true %}
 </div>
 {% endfor %}
