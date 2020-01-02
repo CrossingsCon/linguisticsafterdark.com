@@ -3,14 +3,14 @@
 <article class="post">
   <header class="mb-3">
     <h1><a href="{{ include.post.url }}">{{ include.post.title }}</a></h1>
-    <div class="post-metadata">{{ include.post.date | date: "%B %e, %Y" }} • <a href="{{ site.baseurl }}/static/{{ idslug }}/transcript.sbv.txt">Transcript</a> <!-- • Filed under: {{ tagscommas }}--></div>
+    <div class="post-metadata">{{ include.post.date | date: "%B %e, %Y" }} • <a href="{{ site.baseurl }}/static/{{ idslug }}/transcript.sbv.txt">Transcript</a><!-- • Filed under: {{ tagscommas }}--></div>
+    <div class="podcast-links">{% for player in site.data.players %}<a class="mr-2" href="{{ player[1].link }}"><img class="podcast-icon" alt="{{  player[1].name  }} logo" title="Subscribe on {{ player[1].name }}" src="{{ site.baseurl }}/images/players/{{ player[0] }}/{{ player[1].icon }}" /></a>{% endfor %}</div>
   </header>
+  {% if include.post.embed %}
   <div class="podcast-player">
     <iframe src="https://anchor.fm/lxadpodcast/embed/episodes/{{ include.post.embed }}" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
   </div>
-  <div class="podcast-links mb-3">
-    Or listen on <a href="https://anchor.fm/lxadpodcast/episodes/{{ include.post.embed }}">Anchor</a>, <a href="https://open.spotify.com/show/7KmypR70TEU3sGDH4uerdr">Spotify</a>, or <a href="https://pca.st/qz1zrisl">Pocket Casts</a>!
-  </div>
+  {% endif %}
   {% if include.excerpt %}
   <div class="excerpt-content">
     {{ include.post.excerpt }}
