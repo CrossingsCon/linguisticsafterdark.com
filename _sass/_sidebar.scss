@@ -1,6 +1,13 @@
 aside {
   .logo img {
-    width: 100%;
+    max-width: 100%;
+    @extend .px-3;
+
+    @include media-breakpoint-up(md) {
+      // You can't @extend inside an @include, so this is the equivalent of .px-0;
+      padding-left: 0 !important;
+      padding-right: 0 !important;
+    }
   }
 
   .produced-by {

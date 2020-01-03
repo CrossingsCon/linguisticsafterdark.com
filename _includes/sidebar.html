@@ -13,20 +13,19 @@
     <div><a href="/episodes">Episodes</a></div>
     <div><a href="{{ site.data.social_media.patreon }}">Support Us</a></div>
   </nav>
-  <div class="row social-media">
-    <div class="col-0 col-lg-2"></div>
-    {% assign socials = "patreon|youtube|rss" | split: "|" %}
+  <!--
+    sm
+    md 0 X X X 0 = 12, 3X = 12, X = 4
+    lg 2 X X X 2 = 12, 3X = 8, X ~ 2-3
+  -->
+  <div class="row justify-content-center social-media">
+    {% assign socials = "patreon|youtube|rss|x|instagram|twitter|facebook" | split: "|" %}
     {% for social in socials %}
-    <div class="col"><a href="{{ site.data.social_media[social] }}"><img src="{{ site.baseurl }}/images/social/Icon_LxAD-{{social}}-cyan.svg" /></a></div>
+    {% unless social == "x" %}
+    <div class="col-2 col-md-3"><a href="{{ site.data.social_media[social] }}"><img src="{{ site.baseurl }}/images/social/Icon_LxAD-{{social}}-cyan.svg" /></a></div>
+    {% else %}
+    <div class="w-100 d-none d-md-block"></div>
+    {% endunless %}
     {% endfor %}
-    <div class="col-0 col-lg-2"></div>
-  </div>
-  <div class="row social-media">
-    <div class="col-0 col-lg-2"></div>
-    {% assign socials = "instagram|twitter|facebook" | split: "|" %}
-    {% for social in socials %}
-    <div class="col"><a href="{{ site.data.social_media[social] }}"><img src="{{ site.baseurl }}/images/social/Icon_LxAD-{{social}}-cyan.svg" /></a></div>
-    {% endfor %}
-    <div class="col-0 col-lg-2"></div>
   </div>
 </div>
