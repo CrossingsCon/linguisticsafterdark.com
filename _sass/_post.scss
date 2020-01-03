@@ -1,6 +1,12 @@
 article.post {
-  .podcast-icon {
-    height: 1.5em;
-    margin-top: -.5em;
+  .podcast-links {
+    a {
+      @extend .ml-2;
+    }
+
+    .podcast-icon {
+      height: 1.5em;
+      margin-top: -.16em;
+    }
   }
 }

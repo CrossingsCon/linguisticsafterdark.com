@@ -10,7 +10,11 @@
 <div class="podcast-player">
   <iframe src="https://anchor.fm/lxadpodcast/embed/episodes/{{ include.post.embed }}" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 </div>
-<div class="podcast-links">Or listen and subscribe: {% for player in site.data.players %}<a class="mr-2" href="{{ player[1].link }}"><img class="podcast-icon" alt="{{  player[1].name  }} logo" title="Subscribe on {{ player[1].name }}" src="{{ site.baseurl }}/images/players/{{ player[0] }}/{{ player[1].icon }}" /></a>{% endfor %}</div>
+<div class="podcast-links">Or listen and subscribe:
+  {% for player in site.data.players %}
+  <a href="{{ player[1].link }}"><img class="podcast-icon" alt="{{  player[1].name  }} logo" title="Subscribe on {{ player[1].name }}" src="{{ site.baseurl }}/images/players/{{ player[0] }}/{{ player[1].icon }}" /></a>
+  {% endfor %}
+</div>
 {% endcapture %}
 
 {% unless include.excerpt %}
