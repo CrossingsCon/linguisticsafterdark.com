@@ -1,4 +1,4 @@
-<div class="container-fluid">
+<div class="container-fluid px-0 px-lg-3">
   <div class="row logo">
     <a class="col" href="{{ site.baseurl }}/">
       <img src="{{ site.baseurl }}/images/LXAD_Cover-TransparentAlternate.png" />
@@ -14,19 +14,19 @@
     <div><a href="{{ site.data.social_media.patreon }}">Support Us</a></div>
   </nav>
   <div class="row social-media">
-    <div class="col-2"></div>
+    <div class="col-0 col-lg-2"></div>
     {% assign socials = "patreon|youtube|rss" | split: "|" %}
     {% for social in socials %}
     <div class="col"><a href="{{ site.data.social_media[social] }}"><img src="{{ site.baseurl }}/images/social/Icon_LxAD-{{social}}-cyan.svg" /></a></div>
     {% endfor %}
-    <div class="col-2"></div>
+    <div class="col-0 col-lg-2"></div>
   </div>
   <div class="row social-media">
-    <div class="col-2"></div>
+    <div class="col-0 col-lg-2"></div>
     {% assign socials = "instagram|twitter|facebook" | split: "|" %}
     {% for social in socials %}
     <div class="col"><a href="{{ site.data.social_media[social] }}"><img src="{{ site.baseurl }}/images/social/Icon_LxAD-{{social}}-cyan.svg" /></a></div>
     {% endfor %}
-    <div class="col-2"></div>
+    <div class="col-0 col-lg-2"></div>
   </div>
 </div>

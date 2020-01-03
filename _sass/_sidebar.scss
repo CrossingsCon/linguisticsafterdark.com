@@ -1,10 +1,6 @@
 aside {
-  .logo {
-
-    img {
-      width: 100%;
-    }
-
+  .logo img {
+    width: 100%;
   }
 
   .produced-by {
@@ -34,9 +30,13 @@ aside {
 
       text-align: center;
       text-transform: uppercase;
-      font-size: 1.8em;
+      font-size: 1.25em;
       font-family: $font-family-neon-block;
       @include neon-text($lxad-magenta);
+
+      @include media-breakpoint-up(lg) {
+        font-size: 1.75em;
+      }
 
       & .little-x {
         font-size: .67em;
