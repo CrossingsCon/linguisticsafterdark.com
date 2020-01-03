@@ -1,13 +1,6 @@
 article.post {
-  a {
-    color: $post-link-color;
-  }
-
-  .podcast-links .podcast-icon {
+  .podcast-icon {
     height: 1.5em;
-  }
-
-  footer {
-    border-top: 2px solid $post-text-color;
+    margin-top: -.5em;
   }
 }

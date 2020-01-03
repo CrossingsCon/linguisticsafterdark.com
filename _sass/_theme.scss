@@ -14,11 +14,12 @@ $h2-font-size:  1.5rem !default;
 $h3-font-size:  1.25rem !default;
 $h4-font-size:  1.125rem !default;
 
-$post-background-color: $white;
-$post-text-color: $black;
-
 $link-color: $lxad-magenta;
-$post-link-color: scale-color($link-color, $lightness: -20%);
+
+$article-background-color: $white;
+$article-text-color: $black;
+$article-link-color: scale-color($link-color, $lightness: -20%);
+$article-divider: 1px solid $black;
 
 $neon-white: $white;
 @mixin neon($color) {
