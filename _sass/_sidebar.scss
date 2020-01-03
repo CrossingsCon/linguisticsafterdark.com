@@ -13,21 +13,6 @@ aside {
     }
   }
 
-  .rules {
-
-    h3 {
-      font-family: $font-family-neon-script;
-      font-size: 3em;
-      text-transform: lowercase;
-      text-align: center;
-      @include neon-text($lxad-cyan);
-    }
-
-    ol {
-      padding: 0;
-    }
-  }
-
   nav {
     width: 100%;
 
