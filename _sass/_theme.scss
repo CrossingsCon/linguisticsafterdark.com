@@ -36,4 +36,8 @@ $neon-white: $white;
 @mixin neon-text($color) {
   color: $neon-white;
   text-shadow: 0 0 0.5em $color;
+
+  a, a:hover {
+    color: inherit;
+  }
 };

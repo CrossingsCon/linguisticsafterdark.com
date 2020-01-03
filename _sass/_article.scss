@@ -4,14 +4,7 @@ article {
     @extend .mb-0;
 
     font-family: $font-family-neon-block;
-    color: $white;
-
     @include neon-text($lxad-magenta);
-
-    a, a:hover {
-      /* keeps header links white like normal text */
-      color: inherit;
-    }
   }
 
   p:last-child {
@@ -47,16 +40,10 @@ article {
     font-family: $font-family-neon-script;
     font-size: 2em;
     text-transform: lowercase;
-    color: $white;
     @include neon-text($lxad-cyan);
 
     text-align: right;
     @extend .pr-3;
-
-    a, a:hover {
-      /* keeps footer links white like normal text */
-      color: inherit;
-    }
   }
 
   & > :last-child{
