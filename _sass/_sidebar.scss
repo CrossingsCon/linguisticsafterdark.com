@@ -53,5 +53,9 @@ aside {
 
   .social-media {
     @extend .mt-3;
+
+    img:hover {
+      @include neon-svg($lxad-cyan);
+    }
   }
 }
