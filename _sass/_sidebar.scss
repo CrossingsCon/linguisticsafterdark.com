@@ -44,10 +44,6 @@ aside {
       @include media-breakpoint-up(lg) {
         font-size: 1.75em;
       }
-
-      & .little-x {
-        font-size: .67em;
-      }
     }
   }
 
