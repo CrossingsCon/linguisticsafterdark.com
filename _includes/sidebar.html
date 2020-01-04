@@ -13,11 +13,6 @@
     <div><a href="/episodes">Episodes</a></div>
     <div><a href="{{ site.data.social_media.patreon }}">Support Us</a></div>
   </nav>
-  <!--
-    sm
-    md 0 X X X 0 = 12, 3X = 12, X = 4
-    lg 2 X X X 2 = 12, 3X = 8, X ~ 2-3
-  -->
   <div class="row justify-content-center social-media">
     {% assign socials = "patreon|youtube|rss|x|instagram|twitter|facebook" | split: "|" %}
     {% for social in socials %}
