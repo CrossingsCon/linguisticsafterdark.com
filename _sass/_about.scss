@@ -1,5 +1,13 @@
-.about {
-  .host {
+article.hosts {
+  .host-description {
+    @extend .py-3;
+    // TODO: technically this gives extra padding on the top and bottom of the hosts article but...
+    // I got other stuff to do, so this is a TODO to fix, 'cause it's not glaring
+
+    &:not(:first-child) {
+      border-top: $article-divider;
+    }
+
     .question {
       font-weight: bold;
       margin-bottom: 0;

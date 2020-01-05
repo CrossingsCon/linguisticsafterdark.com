@@ -1,0 +1,19 @@
+<article class="{{ include.class }}">
+  <header>
+    <h1>{{ include.title }} </h1>
+  </header>
+  <div class="article-main">
+    {% if intro %}
+    <div class="article-intro">{{ include.intro }}</div>
+    {% endif %}
+    {{ include.content }}
+    {% if outro %}
+    <div class="article-outro">{{ include.outro }}</div>
+    {% endif %}
+  </div>
+  {% if footer %}
+  <footer>
+    {{ include.footer }}
+  </footer>
+  {% endif %}
+</article>

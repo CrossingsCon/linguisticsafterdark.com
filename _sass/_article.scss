@@ -1,0 +1,52 @@
+article {
+
+  & > header h1 {
+    @extend .mb-0;
+
+    font-family: $font-family-neon-block;
+    @include neon-text($lxad-magenta);
+  }
+
+  p:last-child {
+    @extend .mb-0;
+  }
+
+  .article-main {
+    @extend .p-3;
+
+    background: $article-background-color;
+    color: $article-text-color;
+    border-radius: 1rem;
+    @include neon-under($lxad-magenta);
+
+    a, a:hover {
+      color: $article-link-color;
+    }
+  }
+
+  .article-intro {
+    @extend .mb-3;
+    @extend .pb-3;
+    border-bottom: $article-divider;
+  }
+
+  .article-outro {
+    @extend .mt-3;
+    @extend .pt-3;
+    border-top: $article-divider;
+  }
+
+  footer {
+    font-family: $font-family-neon-script;
+    font-size: 2em;
+    text-transform: lowercase;
+    @include neon-text($lxad-cyan);
+
+    text-align: right;
+    @extend .pr-3;
+  }
+
+  & > :last-child{
+    @extend .mb-3;
+  }
+}

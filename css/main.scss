@@ -9,6 +9,7 @@ $baseurl: "{{ site.baseurl }}";
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
   // setup
+  'fonts',
   'variables',
   'theme',
 
@@ -21,6 +22,7 @@ $baseurl: "{{ site.baseurl }}";
   'footer',
   'sidebar',
   'post',
+  'article',
 
   // specific to a page
   'page',

@@ -1,0 +1,36 @@
+---
+layout: page
+title: ARTICLE TEST
+---
+{% capture title %}
+<a href="/article-test">Article Test!!!</a>
+{% endcapture %}
+
+{% capture intro %}
+<div class="post-metadata">Framptuary 83, 1966 • <a href="/transcripts/blarg">Transcript</a><!-- • Filed under: {{ tagscommas }}--></div>
+<div class="podcast-player">
+  <iframe src="https://anchor.fm/lxadpodcast/embed/episodes/Episode-1-Batmans-Batsman-e9ol3v" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+</div>
+<div class="podcast-links">Or listen and subscribe: {% for player in site.data.players %}<a class="mr-2" href="{{ player[1].link }}"><img class="podcast-icon" alt="{{  player[1].name  }} logo" title="Subscribe on {{ player[1].name }}" src="{{ site.baseurl }}/images/players/{{ player[0] }}/{{ player[1].icon }}" /></a>{% endfor %}</div>
+{% endcapture %}
+
+{% capture outro %}
+Send your questions (text or voice memo) to <a href="mailto:questions@linguisticsafterdark.com">questions@linguisticsafterdark.com</a>, and follow us at @lxadpodcast on <a href="{{ site.data.social_media.twitter }}">Twitter</a>, <a href="{{ site.data.social_media.twitter }}">Instagram</a>, and <a href="{{ site.data.social_media.facebook }}">Facebook</a>. And if you'd like to support us, you can <a href="{{ site.data.social_media.patreon }}">pledge on our Patreon</a>. Thanks for listening!
+{% endcapture %}
+
+{% capture content %}
+<div class="excerpt-content">
+  <p>Our very first episode, answering real language questions from real listeners! And boy do we live up to our no-research policy. (What is the truth about bubblers? TEACH THE CONTROVERSY!)</p>
+</div>
+<div class="post-read-more">
+  <a href="{{ include.post.url  }}">Read more ☞</a>
+</div>
+{% endcapture %}
+
+{% include article.html
+  class="post"
+  title=title
+  intro=intro
+  outro=outro
+  content=content
+%}

@@ -1,6 +1,14 @@
 aside {
+  .logo {
+
+    img {
+      width: 100%;
+    }
+
+  }
 
   .produced-by {
+    font-size: 0.8em;
     text-align: center;
 
     a {
@@ -11,40 +19,32 @@ aside {
       height: 1em;
       margin-top: -0.25em;
     }
-  }
 
-  .rules {
-
-    h3 {
-      font-family: $font-family-neon-script;
-      font-size: 3em;
-      text-transform: lowercase;
-      text-align: center;
-      @include neon-text($lxad-cyan);
-    }
-
-    ol {
-      padding: 0;
+    .ee {
+      @include neon-text($ee-cyan);
     }
   }
 
   nav {
-    width: 100%;
+    @extend .mt-3;
 
-    div {
+    & > div {
+      @extend .col-12;
+      @extend .my-1;
+
       text-align: center;
       text-transform: uppercase;
-      font-size: 2em;
+      font-size: 1.8em;
       font-family: $font-family-neon-block;
       @include neon-text($lxad-magenta);
 
-      a {
-        color: inherit;
-        &:hover {
-          color: inherit;
-        }
+      & .little-x {
+        font-size: .67em;
       }
     }
   }
 
+  .social-media {
+    @extend .mt-3;
+  }
 }
