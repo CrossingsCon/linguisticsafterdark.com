@@ -12,7 +12,7 @@ Our dry run episode, answering fake language questions from fake listeners! How 
 - Fun with affixes!
 - In the word "scent", is it the s or the c that's silent?
 - Everyone has an awkward teenage spelling reform phase
-- Has studying lingustics made us alter how we speak?
+- Has studying linguistics made us alter how we speak?
 - Obligatory citation of the Nantucket study
 - Obligatory mention of "bubbler" as a synonym for "water/drinking fountain"
 - Conscious and unconscious integration of unknown/ambiguous "they"
