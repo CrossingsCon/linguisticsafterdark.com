@@ -75,12 +75,6 @@ redirect_url: http://youngwizards-slackin.herokuapp.com/
 ## Global TODOs:
 
 - Make a black version and a white version of Breaker (just needs black), Google Podcasts, and Pocket Casts logos
-- Make the site look good on mobile
-- Change the headings so they are neon
 - Investigate a better player
 - Add a "download" link to episode posts
-- Add RSS to social logo lineup
-- Hashify social network YAML
-- Tweak description to add CarTalk reference
-- Move rules into the About page
-- Move the footer into the sidebar (?)
+- Update this README so someone other than Eli can use it without knowing how everything works

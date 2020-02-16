@@ -1,4 +1,8 @@
 article.post {
+  .post-metadata {
+    @extend .mb-1;
+  }
+
   .podcast-links {
     a {
       @extend .ml-2;

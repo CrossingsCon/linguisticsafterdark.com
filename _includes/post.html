@@ -5,8 +5,16 @@
 <a href="{{ include.post.url }}">{{ include.post.title }}</a>
 {% endcapture %}
 
+{% capture transcript %}
+{% if include.post.transcript %}
+<a href="{{ site.baseurl }}/static/{{ idslug }}/transcript.sbv.txt">Transcript</a>
+{% else %}
+Transcript coming soon!
+{% endif %}
+{% endcapture %}
+
 {% capture intro %}
-<div class="post-metadata">{{ include.post.date | date: "%B %e, %Y" }} • <a href="{{ site.baseurl }}/static/{{ idslug }}/transcript.sbv.txt">Transcript</a><!-- • Filed under: {{ tagscommas }}--></div>
+<div class="post-metadata">{{ include.post.date | date: "%B %e, %Y" }} • {{ transcript }}<!-- • Filed under: {{ tagscommas }}--></div>
 <div class="podcast-player">
   <iframe src="https://anchor.fm/lxadpodcast/embed/episodes/{{ include.post.embed }}" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 </div>
