@@ -1,0 +1,2198 @@
+0:00:00.000,0:00:07.300
+[intro music]
+
+0:00:07.300,0:00:11.160
+JENNY: Hi! and welcome to Linguistics After Dark. I'm Jenny,
+
+0:00:11.160,0:00:13.240
+SARAH: I'm Sarah,
+ELI: and I'm Eli.
+
+0:00:13.240,0:00:19.240
+ELI: If you've got a question about language, and you want experts to answer it without having done any research whatsoever,
+
+0:00:19.240,0:00:20.840
+ELI: we're your podcast.
+
+0:00:20.840,0:00:24.080
+JENNY: Settle in, grab a snack or a drink, and enjoy!
+
+0:00:24.080,0:00:27.160
+ELI: I like to think of us as Car Talk for linguistics,
+
+0:00:27.380,0:00:30.860
+ELI: like if your language is making a funny noise and you don't know what it is,
+
+0:00:30.860,0:00:33.220
+ELI: you can call us up and ask.
+SARAH: [laughs]
+
+0:00:33.220,0:00:38.680
+SARAH: So, apparently, the first episode, my family listened to in the car
+
+0:00:38.680,0:00:45.880
+as they were driving to our family Christmas thing, and my dad, who raised me on Car Talk,
+
+0:00:45.880,0:00:52.480
+was just like "Oh, yes. This." And then we got to the puzzler segment, and they were like,
+
+0:00:52.480,0:00:55.180
+"You are straight-up ripping off Car Talk,"
+JENNY: [laughs]
+
+0:00:55.180,0:00:57.860
+and he told me that when we got together, and I was like, "Yes!"
+
+0:00:57.860,0:00:59.420
+ELI: Yes.
+SARAH: "Yes, we straight-up are."
+
+0:00:59.420,0:01:02.840
+ELI: We 100% are ripping off Car Talk, and it's great!
+
+0:01:02.840,0:01:07.840
+SARAH: Also, fun fact, when I was in college and I was taking my intro linguistics class,
+
+0:01:07.840,0:01:14.030
+one of our extra credit homework assignments was to listen to Car Talk and analyze the—
+
+0:01:14.030,0:01:16.280
+analyze the Klick and Klack accents.
+
+0:01:16.280,0:01:19.740
+ELI: Oh my gosh.
+SARAH: Um, and I was like, "Are you kidding,
+
+0:01:19.740,0:01:23.640
+you're gonna give me points in class for
+doing something I do anyway?"
+
+0:01:23.640,0:01:26.380
+SARAH and JENNY: Amazing!
+JENNY: [laughs]
+SARAH: It was so good.
+
+0:01:26.380,0:01:31.880
+ELI: I mean, that's all of intro ling for people
+who know that they're gonna be linguists
+SARAH: That's true.
+
+0:01:31.880,0:01:35.600
+JENNY: [laughs]
+ELI: Cool! Shall we all learn a
+language thing?
+
+0:01:35.610,0:01:37.040
+JENNY: Let's! Yes!
+
+0:01:37.040,0:01:41.620
+SARAH: All right, I'm so excited about this language thing.
+ELI: Yeahhhh!
+
+0:01:41.620,0:01:43.280
+SARAH: So, did you know
+
+0:01:43.280,0:01:49.360
+that there's a gummy candy that you can use to compare the sounds available in different languages,
+
+0:01:49.360,0:01:54.523
+and also study languages' potential historic connection to one another?
+
+0:01:54.523,0:01:58.600
+ELI: No? This feels—
+SARAH: It's the Swadesh fish.
+
+0:01:58.600,0:02:00.860
+[ELI and JENNY laugh, confused]
+
+0:02:00.860,0:02:02.680
+[SARAH laughs]
+
+0:02:02.680,0:02:07.280
+ELI: I don't—I don't—I feel like I learned a
+thing but it's not the thing you wanted me to learn.
+
+0:02:07.280,0:02:09.640
+[laughter]
+
+0:02:09.640,0:02:13.960
+SARAH: Okay, so, I've been sitting on
+that pun for like a year,
+
+0:02:13.960,0:02:22.180
+SARAH: So, a Swadesh list, which is not the same thing as Swedish fish, is a list of words
+
+0:02:22.180,0:02:26.570
+SARAH: developed by… somebody whose last name was Swadesh, I forget his first name—
+
+0:02:26.570,0:02:31.660
+ELI: —and we don't do research.
+SARAH: —and we don't do research—
+ELI: Look—look to the show notes to find out.
+
+0:02:31.660,0:02:32.460
+SARAH: Yeah.
+
+0:02:32.460,0:02:35.020
+SARAH: Or just imagine that he never had a first name. Either way.
+
+0:02:35.020,0:02:37.060
+ELI: [laughs]
+SARAH: So—[laughs]
+
+0:02:37.060,0:02:42.360
+SARAH: So, this guy, Swadesh, wrote a list of like 250-something words, that
+
+0:02:42.360,0:02:46.220
+has been revised a few times and replaced by other people's lists and whatever,
+
+0:02:46.220,0:02:51.400
+but it was like, "culturally stable," quote-unquote, words
+
+0:02:51.400,0:02:55.540
+that you could ask speakers of any language to produce,
+
+0:02:55.540,0:03:01.940
+and then you could write down what they say, and compare the words or the sounds
+
+0:03:01.940,0:03:05.900
+across several languages, to see if those languages are related.
+
+0:03:05.900,0:03:09.700
+ELI: So this is like kinship terms and that kind of thing,
+SARAH: Yeah, like kinship—
+
+0:03:09.709,0:03:12.260
+ELI: Like, "what's your name for 'mom' and 'dad' and—" 
+SARAH: Right.
+
+0:03:12.260,0:03:15.720
+SARAH: Basic pronouns, basic animals, basic body parts,
+
+0:03:15.720,0:03:24.720
+things like the sky, the ground, water… things that are not very much culturally dependent.
+
+0:03:24.720,0:03:29.600
+SARAH: So the list has been revised a few times, based on, like,
+
+0:03:29.600,0:03:34.680
+things that they discovered in the process of using it actually *are* kind of culturally dependent,
+
+0:03:34.680,0:03:37.080
+so they either replaced a word or knocked it off.
+
+0:03:37.080,0:03:40.940
+SARAH: And then, like, other people later on wrote better lists that people use now, but
+
+0:03:40.940,0:03:47.100
+this was the first one that was really
+used to do this kind of cross-linguistic historical analysis?
+
+0:03:47.100,0:03:54.280
+SARAH: But I also used it for a project where I was pretending to do linguistic fieldwork,
+
+0:03:54.280,0:04:00.680
+because it was for class, and I was studying Romanian, which is a language we do know about,
+
+0:04:00.680,0:04:06.900
+it has been documented, but I was forbidden from—
+ELI: I thought you were gonna say, "I was studying Romanian, which is a language."
+
+0:04:06.900,0:04:09.020
+[laughter]
+
+0:04:09.020,0:04:12.430
+SARAH: It is, that's true.
+
+0:04:12.430,0:04:17.200
+SARAH: No, I—so I got a friend of mine who speaks Romanian,
+
+0:04:17.200,0:04:21.580
+and I was not allowed to look up anything about Romanian,
+
+0:04:21.580,0:04:25.600
+I just had to ask her to produce these words,
+
+0:04:25.600,0:04:27.260
+SARAH: so I would be like "how do you say 'mom',"
+
+0:04:27.260,0:04:32.220
+and she would say whatever is the Romanian word for "mom," and I went through this list of like 200 words,
+
+0:04:32.220,0:04:38.820
+and as she said them, I wrote down the phonetic transcription of the word,
+
+0:04:38.820,0:04:40.340
+and sometimes asked her,
+
+0:04:40.340,0:04:46.280
+"oh, so," y'know, "'mom' is a word; is… 'pom' also a word?"
+
+0:04:46.280,0:04:52.920
+SARAH: and if she said "yes, that's a different word," or "no, that's not a word," or "oh, that's the same word,"
+
+0:04:52.920,0:05:01.200
+then based on her reaction to my question I could decide whether, like, [m] and [p] were both sounds that existed,
+
+0:05:01.200,0:05:05.770
+or sounds that didn't exist, or the same sound, to a Romanian speaker.
+
+0:05:05.770,0:05:11.280
+SARAH: And so I did this for a phonetics class, and I had to pretend to be like, a linguistic field worker
+
+0:05:11.280,0:05:15.740
+figuring out what the different sounds available in Romanian are.
+
+0:05:15.740,0:05:20.730
+Which was really fun! And I would love to do it again sometime.
+
+0:05:20.730,0:05:28.440
+ELI: Yeah, I agree, I found that—we did a field methods class when I was studying linguistics in college,
+
+0:05:28.440,0:05:33.840
+and that is one of my favorite things that I have done, when I was studying linguistics.
+
+0:05:33.840,0:05:34.660
+SARAH: Mm-hm.
+
+0:05:34.660,0:05:40.540
+ELI: We specifically picked a language that nobody in the class knew and then we broke up, like,
+
+0:05:40.548,0:05:44.440
+different aspects of the grammar, or the morphology, or the phonology,
+
+0:05:44.440,0:05:47.780
+ELI: so—I mean, we had a whole semester, it wasn't intro,
+
+0:05:47.780,0:05:53.320
+and we, like—we constructed a grammar of siSwati.
+
+0:05:53.320,0:05:55.080
+SARAH (hushed): That's so cool.
+ELI: Yeah.
+
+0:05:55.080,0:06:00.750
+ELI: So do you have an example of a word on a Swadesh list that
+
+0:06:00.750,0:06:04.680
+was found to be culturally dependent, and so was removed?
+
+0:06:04.680,0:06:06.830
+SARAH (slowly, thinking): Um… yes.
+
+0:06:06.830,0:06:13.640
+SARAH: Oh, so they originally had the word for "claw," like an animal claw,
+ELI: Mm-hm.
+
+0:06:13.640,0:06:16.260
+SARAH: but it turns out there's several languages
+
+0:06:16.260,0:06:21.060
+where "claws" for animal and "fingernails" for humans are not distinguished?
+
+0:06:21.060,0:06:22.840
+ELI: Oh, interesting.
+SARAH: And so…
+
+0:06:22.840,0:06:26.080
+SARAH: But like, the underlying concept was "fingernail,"
+
+0:06:26.080,0:06:31.920
+and then I guess "claw" is a more specific word in more languages than "fingernail,"
+
+0:06:31.920,0:06:34.320
+SARAH: so they replaced "claw" with "fingernail"
+JENNY: Cool
+
+0:06:34.320,0:06:37.540
+SARAH: so that you'd be getting the more general word in each language
+
+0:06:37.540,0:06:40.720
+SARAH: so that it was easier to see the historical connections.
+
+0:06:40.720,0:06:44.140
+ELI: That's really cool! and it sounds like a useful thing to have,
+
+0:06:44.140,0:06:51.280
+and probably something that linguists are still hammering out how exactly we can best use them, and what words should be on them.
+
+0:06:51.280,0:06:52.940
+SARAH: Mm-hm.
+
+0:06:52.940,0:06:59.860
+ELI: Okay, let's head to the main part of the show, with real language questions from real listeners.
+
+0:06:59.860,0:07:04.690
+ELI: As a reminder, if you want to send us a
+question, you can email it in text to
+
+0:07:04.690,0:07:07.600
+questions@linguisticsafterdark.com
+
+0:07:07.600,0:07:11.900
+Or you can send us an audio recording of you speaking your question aloud.
+
+0:07:11.900,0:07:15.260
+ELI: Especially for those phonology and accent questions,
+
+0:07:15.260,0:07:19.460
+ELI: it's really good to hear the accent that you're trying to talk about,
+
+0:07:19.460,0:07:24.080
+or the words that you're trying to talk about, so definitely email that audio in.
+
+0:07:24.080,0:07:25.520
+JENNY: Okay!
+
+0:07:25.520,0:07:33.460
+JENNY: Bex asks via Slack, "What composes an accent? Popularly it's sound production and word order,
+
+0:07:33.460,0:07:38.020
+but if I recall correctly, word choice is also a factor, so what else?"
+
+0:07:38.020,0:07:44.240
+and galadryels asks via Slack, "Also, little-kid speak: is it its own dialect?"
+
+0:07:44.240,0:07:51.100
+ELI: So we put these two questions together because they are phonetics-y things,
+
+0:07:51.100,0:07:54.100
+ELI: which also means that I'm going to throw this question at Sarah.
+
+0:07:54.100,0:08:00.420
+SARAH: Yeah, so, the first thing I thought about from Bex's question was that, yeah, accent is basically sound production.
+
+0:08:00.420,0:08:06.180
+SARAH: I tend to think of word order and word choice as being dialect.
+
+0:08:06.180,0:08:08.480
+JENNY: Mm-hm.
+ELI: Yeah, I would agree with that.
+
+0:08:08.480,0:08:13.120
+SARAH: So accent is typically, yeah, how you produce the sounds—
+
+0:08:13.120,0:08:20.140
+what vowels you use, what consonants you use, and in what contexts you use them.
+
+0:08:20.140,0:08:23.500
+SARAH: Because—I guess—one of my favorite examples,
+
+0:08:23.500,0:08:29.000
+which I feel like I might have talked about on a previous episode? but I also might not have, I don't know.
+
+0:08:29.000,0:08:36.440
+SARAH: I had two friends growing up that used the sound [eɪ] in words that I didn't,
+
+0:08:36.440,0:08:39.180
+but they used them in two different sets of words.
+
+0:08:39.180,0:08:43.580
+SARAH: So, one of them would eat  scrambled [eɪ]ggs for breakfast,
+
+0:08:43.580,0:08:47.360
+and he had l[eɪ]gs that he walked with,
+
+0:08:47.360,0:08:51.900
+and I was like, "What are you doing, the sound in those words is [ε]!"
+
+0:08:51.900,0:08:53.740
+SARAH: And he was like, "You're wrong."
+
+0:08:53.740,0:08:58.720
+SARAH: And then, I also had a friend who carried her books to school in a b[eɪ]g,
+
+0:08:58.720,0:09:02.080
+and dogs, like, w[eɪ]gged their tails,
+
+0:09:02.080,0:09:04.880
+and I was like, "What are you doing, that sound is [æ]!"
+
+0:09:04.880,0:09:07.820
+SARAH: And she was like, "No, you're wrong."
+JENNY: [laughs]
+SARAH: And so, it's like,
+
+0:09:07.820,0:09:12.440
+SARAH: what sounds you have, but also what contexts you put them in.
+
+0:09:12.440,0:09:15.920
+ELI: Yeah, I mean, I think that there's 
+a point to be made here
+
+0:09:15.920,0:09:19.660
+for people who haven't gone through a phonology class,
+
+0:09:19.660,0:09:24.200
+that sounds are not just the sound itself,
+
+0:09:24.200,0:09:26.880
+like the vowel itself or the consonant itself.
+
+0:09:26.880,0:09:33.520
+ELI: Sounds are a production of the environment, meaning the sounds that are on either side of them,
+
+0:09:33.520,0:09:38.840
+and occasionally, sometimes, supposedly, some sounds that are, like, even a little bit further away.
+
+0:09:38.840,0:09:43.320
+ELI: Or like the—whether that part of the word is stressed or not,
+
+0:09:43.320,0:09:47.810
+that that can affect what sound actually comes out of your mouth,
+
+0:09:47.810,0:09:52.200
+as opposed to what sound is in
+your brain that belongs to that word.
+
+0:09:52.200,0:10:00.800
+ELI: Which also sometimes is why you don't
+hear if somebody else has an accent, if it's slightly different than yours,
+
+0:10:00.800,0:10:05.720
+or if it's close enough, right, if you're not consciously focusing on that.
+
+0:10:05.720,0:10:08.340
+ELI: Or if somebody tells you that *you* have an accent,
+
+0:10:08.340,0:10:12.260
+you're gonna say no, not just because it's the way that you've always spoken,
+
+0:10:12.260,0:10:18.720
+but also because you don't hear the word that comes out of your mouth and throat,
+
+0:10:18.720,0:10:22.620
+ELI: you hear the word as the set of sounds that exists in your head.
+
+0:10:22.620,0:10:23.680
+SARAH: Yeah.
+
+0:10:23.680,0:10:28.300
+ELI: And your accent is kind of like a filter that goes on top of what's in your head,
+
+0:10:28.300,0:10:33.040
+to in between your brain and your throat and mouth.
+
+0:10:33.040,0:10:34.660
+SARAH: Yes.
+
+0:10:34.660,0:10:38.120
+SARAH: One of my other favorite things having to do with that was—
+
+0:10:38.120,0:10:42.180
+SARAH: I think, in the same class where we had the Car Talk assignment?
+
+0:10:42.180,0:10:45.360
+SARAH: Shout-out Professor Barnes, great human being.
+
+0:10:45.360,0:10:54.540
+SARAH: Um, he played us a clip of someone saying the sound—or word, I guess—[blak],
+
+0:10:54.540,0:10:56.940
+and asked us what word it was.
+
+0:10:56.940,0:11:00.400
+SARAH: I'm gonna say it again, and then I want to hear what each of you thinks what word I'm saying.
+
+0:11:00.400,0:11:02.520
+SARAH: And listeners, play along!
+
+0:11:02.520,0:11:04.020
+SARAH: [blak]
+
+0:11:04.020,0:11:05.980
+SARAH: Jenny, what did you hear?
+
+0:11:05.980,0:11:08.770
+JENNY: I definitely heard ⟨black⟩ like the color.
+
+0:11:08.770,0:11:10.700
+SARAH: Okay. Eli, what did you hear?
+
+0:11:10.700,0:11:13.630
+ELI: I also heard ⟨black⟩ as in the color. 
+SARAH: Okay.
+
+0:11:13.630,0:11:19.080
+SARAH: So then, he played us the longer clip with the speaker saying the whole sentence,
+
+0:11:19.080,0:11:22.360
+where the speaker said, "around the [blak]."
+
+0:11:22.360,0:11:24.140
+JENNY: Ah.
+SARAH: What is it?
+
+0:11:24.140,0:11:32.840
+JENNY: So I heard around the ⟨block⟩ that time, with a like fairly strong accent… Wow, yeah, that's really cool.
+
+0:11:32.840,0:11:34.420
+SARAH: Eli, what do you think?
+
+0:11:34.420,0:11:42.830
+ELI: I mean obviously we were primed for it, but yeah, that word is definitely ⟨block⟩ as in a city block.
+SARAH: Yes.
+
+0:11:42.830,0:11:48.080
+SARAH: And I'm particularly interested, Eli,
+does that sound familiar to you, that like accent?
+
+0:11:48.080,0:11:50.270
+ELI: Yeah, I have no problem with that.
+
+0:11:50.270,0:11:53.240
+SARAH: It is the Chicago /ɑ/.
+ELI: Yes.
+
+0:11:53.240,0:11:56.620
+SARAH: Which, obviously you live in Chicago, that should not be surprising.
+
+0:11:56.620,0:12:02.300
+ELI: No, and I don't quite have that. I have final devoicing, but I don't quite have that.
+
+0:12:02.300,0:12:07.320
+SARAH: Um, but it's really interesting, because when you hear the word in isolation,
+
+0:12:07.320,0:12:12.760
+you hear it as, like, whatever it is to you?
+
+0:12:12.760,0:12:16.080
+but as soon as you get it into a context—
+
+0:12:16.080,0:12:21.300
+SARAH: and he probably did a better job giving us an entire sentence, where you also heard more of the speaker's voice,
+
+0:12:21.300,0:12:27.220
+but I don't remember the sentence and I'm not good enough at imitating the accent to do it off the top of my head—
+
+0:12:27.220,0:12:31.260
+SARAH: but as soon as you realize that that's what's happening, like,
+
+0:12:31.260,0:12:34.900
+the entire vowel space in your head just adjusts itself,
+
+0:12:34.900,0:12:41.080
+and you stop noticing or caring that the other person is saying slightly different vowels from what you're saying,
+
+0:12:41.080,0:12:45.920
+because you're like, "Oh, well, they say [æ] for [ɑ] and they say [eə] for [æ],"
+
+0:12:45.920,0:12:50.120
+SARAH: and it just like cycles around, and your brain is totally cool with it.
+
+0:12:50.120,0:12:54.780
+ELI: This is the thing that happened to me when I was a kid and we went on a trip to London
+
+0:12:54.780,0:12:56.200
+SARAH: Mm-hm?
+
+0:12:56.200,0:13:01.600
+ELI: I had the hardest time understanding people, for about the first 12 hours.
+
+0:13:01.600,0:13:06.720
+SARAH: Mm-hm.
+ELI: —and then something happened, and I was totally fine.
+
+0:13:06.720,0:13:13.540
+ELI: and I remember realizing it about a day into the trip and just being like, "Oh, okay!"
+
+0:13:13.540,0:13:19.120
+ELI: I was having to ask people to repeat themselves a lot, and all of a sudden I didn't have to.
+
+0:13:19.120,0:13:21.580
+ELI: Which is really cool! Brains are cool!
+
+0:13:21.580,0:13:24.420
+JENNY: They really are.
+SARAH: Brains are amazing.
+
+0:13:24.420,0:13:28.120
+ELI: But I think that this also—this plugs back into Bex's question,
+
+0:13:28.120,0:13:32.140
+ELI: about word choice
+SARAH: Mm-hm
+ELI: and word order?
+
+0:13:32.140,0:13:36.640
+ELI: Which—I'm interested to know what they're referring to, with "word order."
+
+0:13:36.640,0:13:44.620
+ELI: Word choice comes with dialect things, which often also comes with an accent, but they're two different things,
+
+0:13:44.620,0:13:52.400
+and that word choice is going to be part of the dialect, which you would use with whatever accent you're gonna use.
+
+0:13:52.400,0:13:55.590
+SARAH: Right.
+JENNY: Mm-hm.
+ELI: But sometimes this is where you get, like,
+
+0:13:55.590,0:14:03.060
+"Oh, the lilt" or "the brogue" or that kind
+of thing, where people kind of just lump it all in together.
+
+0:14:03.060,0:14:08.200
+SARAH: Yeah, I think word order—again, I don't know exactly what Bex was intending by that,
+
+0:14:08.200,0:14:14.560
+SARAH: but I—the thing that comes to my mind for it is whether you say, like,
+
+0:14:14.560,0:14:17.580
+"plug in something" or "plug something in",
+
+0:14:17.580,0:14:25.140
+SARAH: or how flexible you can be with raising—Is it called "raising" with parts of the sentence?
+
+0:14:25.140,0:14:28.100
+ELI: Uh...
+SARAH: Topicalization kind of stuff? 
+ELI: Yeah.
+
+0:14:28.100,0:14:33.580
+SARAH: Yeah, so how flexible you can be with raising a later part of the sentence earlier
+
+0:14:33.580,0:14:38.580
+to emphasize things, or whether you can just raise it up and it's not emphatic necessarily.
+
+0:14:38.580,0:14:43.760
+SARAH: So, I can say, like, "The car, I bought."
+
+0:14:43.760,0:14:49.960
+SARAH: And if you just mean that to be "I bought the car," for most people that's weird.
+
+0:14:49.960,0:14:54.500
+SARAH: I can imagine there are some dialects where that's less weird. I don't know.
+
+0:14:54.500,0:15:00.800
+ELI: I mean there's a pretty solid—like if you grew up in a family where
+
+0:15:00.800,0:15:06.980
+your parents or grandparents were Yiddish or German, like, spoke Yiddish or German,
+
+0:15:06.980,0:15:13.640
+ELI: then you will really often get that kind of thing, and sometimes it's emphatic and sometimes it's not.
+
+0:15:13.640,0:15:16.260
+SARAH: Yeah, actually the example I had in mind
+
+0:15:16.260,0:15:21.800
+was an English teacher I had who did, she—her family spoke Yiddish,
+
+0:15:21.800,0:15:26.760
+and she apologized to us on, like, the first or second day of school and said, "Look,
+
+0:15:26.760,0:15:31.020
+I'm gonna say some weird things, like, 'throw me up the stairs the hat,'
+
+0:15:31.020,0:15:34.480
+instead of 'throw the hat up the stairs to me'.
+
+0:15:34.480,0:15:42.380
+Just like, that's just how my parents talk, so it's how I talk, and if I say something that you don't understand, just tell me to re-say it."
+
+0:15:42.380,0:15:45.700
+SARAH: And so I've had that sentence, like, in my brain as an example.
+
+0:15:45.700,0:15:47.960
+ELI: I like that.
+JENNY: That's fun, yeah.
+
+0:15:47.960,0:15:51.760
+ELI: So let's move on to galadryels' part of 
+this question,
+
+0:15:51.760,0:15:57.560
+which is about little-kid speak, and whether that's a dialect or an accent, or what is going on there.
+
+0:15:57.560,0:15:58.800
+SARAH: Mm-hm.
+
+0:15:58.800,0:16:04.500
+SARAH: That's a really good question because it then gets to, like, "Well, what is a dialect?"
+
+0:16:04.500,0:16:08.680
+SARAH: And as we were talking about the whole accent thing and, like Eli was saying,
+
+0:16:08.680,0:16:15.080
+word choice moves into the concept of a
+dialect that accent kind of overlays with,
+
+0:16:15.080,0:16:20.060
+there's also, like, that spectrum of
+dialect to language.
+
+0:16:20.060,0:16:25.440
+SARAH: So there's that famous quip that's like, "A language is just a dialect with an army and a navy,"
+
+0:16:25.440,0:16:29.020
+which I think is cool and, like, definitely true,
+
+0:16:29.020,0:16:33.880
+because we associate languages with geopolitical entities, usually?
+
+0:16:33.880,0:16:39.620
+But like, if you go to Germany and if you go to the Netherlands,
+
+0:16:39.620,0:16:41.820
+you expect to hear German and Dutch,
+
+0:16:41.820,0:16:49.660
+but actually in the region on either side of the political border between Germany and the Netherlands,
+
+0:16:49.660,0:16:58.600
+those speakers of Dutch and those speakers of German—I think, if I recall correctly—are more mutually intelligible to each other,
+
+0:16:58.600,0:17:06.800
+or *are* mutually intelligible to each other, in a way that they are not with other speakers in their own country,
+
+0:17:06.800,0:17:15.260
+or the speakers farther away from each other in Germany and the Netherlands would be.
+
+0:17:15.260,0:17:19.660
+SARAH: And so, if you had just drawn those political borders slightly differently,
+
+0:17:19.660,0:17:22.800
+you could have three different "languages," quote-unquote.
+
+0:17:22.800,0:17:29.620
+SARAH: Or just one language! And you would just be like, "Oh, these are dialects of… Germanodutch.
+
+0:17:29.620,0:17:33.480
+SARAH: Or whatever. Deutschdutch.
+
+0:17:33.480,0:17:35.160
+ELI: Yeah, exactly.
+
+0:17:35.160,0:17:41.260
+ELI: You can see some similar stuff with like the northern Midwest and Canada,
+SARAH: Mm-hm.
+
+0:17:41.260,0:17:46.480
+ELI: Where you've got a lot of similar things
+happening phonologically and, I think,
+
+0:17:46.480,0:17:49.800
+like, morphologically and syntactically,
+
+0:17:49.800,0:17:54.860
+ELI: where American English and Canadian English start to overlap,
+
+0:17:54.860,0:17:59.600
+ELI: but those are, like, two well-established dialects that we talk about.
+
+0:17:59.600,0:18:01.032
+SARAH and JENNY: Mm-hm.
+
+0:18:01.032,0:18:05.280
+JENNY: I was also thinking about—I don't remember which countries it is,
+
+0:18:05.280,0:18:10.940
+but you've got situations in Scandinavia, I think, where
+
+0:18:10.940,0:18:17.400
+you'll have, like, a mutual intelligibility thing, and if they weren't two different countries
+
+0:18:17.400,0:18:25.240
+then they would be considered different
+dialects, because there's so much overlap, and so much, like,
+
+0:18:25.240,0:18:31.280
+so much of the language is mutually intelligible—er, the—of the languages are mutually intelligible.
+
+0:18:31.280,0:18:38.160
+JENNY: Versus, like, Italy, where you have all these different quote-unquote "dialects,"
+
+0:18:38.160,0:18:46.840
+that are so completely mutually unintelligible that if they weren't all in Italy,
+
+0:18:46.840,0:18:52.200
+they would be considered different languages, but they get talked about as being dialects of Italian.
+
+0:18:52.200,0:18:55.740
+SARAH: I was about to say the same thing about China.
+JENNY: Ooohhh, uh-huh.
+
+0:18:55.740,0:19:00.100
+SARAH: 'Cause people always describe Mandarin and Cantonese as being dialects.
+
+0:19:00.100,0:19:06.520
+SARAH: And like, they share a writing system and they share some historical roots,
+
+0:19:06.520,0:19:11.440
+like there's a lot of phrases that you can see how they are similar to each other, like—
+
+0:19:11.440,0:19:16.060
+SARAH: I suck at Cantonese, but nǐ hǎo (你好) in Mandarin
+
+0:19:16.060,0:19:21.460
+and like nei hou (你好)—except with better
+tones—in Cantonese are both "hello,"
+
+0:19:21.460,0:19:25.560
+but then a lot of other phrases aren't even that close to the same,
+
+0:19:25.560,0:19:32.320
+SARAH: let alone all of the other, uh... I'm gonna say *languages* that are spoken in China.
+
+0:19:32.320,0:19:37.700
+SARAH: But people just say, "oh, it's a dialect of Chinese," and I feel like we really should be calling them Chinese languages.
+
+0:19:37.700,0:19:42.880
+ELI: Yeah, Victor Mair from Language Log usually uses the word "topolects"—
+
+0:19:42.880,0:19:45.580
+SARAH: Oooh!
+ELI: —to kind of sidestep the whole
+
+0:19:45.580,0:19:50.500
+ELI: language/dialect thing, I think especially because there's some political considerations there.
+JENNY: Mm-hm.
+
+0:19:50.500,0:19:52.480
+Sarah: Yeah. That's a good word.
+
+0:19:52.480,0:19:55.080
+ELI: That makes it really clear that it's—
+
+0:19:55.080,0:19:58.980
+ELI: that those, like, those languages or those topolects, I guess,
+
+0:19:58.980,0:20:03.760
+are really specifically languages that belong to a specific place.
+
+0:20:03.760,0:20:05.120
+SARAH: Mm-hm.
+
+0:20:05.120,0:20:07.820
+ELI: I think it also sidesteps the idea that
+
+0:20:07.820,0:20:11.820
+there are some languages that are within
+the Chinese borders, that
+
+0:20:11.820,0:20:17.620
+are definitely not Sinitic languages, that kind of get lumped in with Chinese.
+
+0:20:17.620,0:20:20.060
+JENNY: Yeah, that's a good point.
+
+0:20:20.300,0:20:26.360
+ELI: Yeah, so topolect goes into this whole
+thing where you have dialect,
+
+0:20:26.360,0:20:30.700
+there's topolect, there's famililect, which is, like, within your own family,
+
+0:20:30.700,0:20:35.780
+and there's idiolect, which is like, the dialect that is just you! 
+SARAH: Yeah!
+
+0:20:35.780,0:20:38.480
+ELI: You're the only speaker of that dialect!
+
+0:20:38.480,0:20:43.360
+ELI: And then language just gets to be special because it has this
+
+0:20:43.360,0:20:51.480
+political affiliation, which is also why there's a lot of like separatist regions or claims for independence
+
+0:20:51.480,0:20:56.210
+that are based around, "Well, we have our own language." You know, you've got—
+
+0:20:56.210,0:21:02.040
+ELI: in Spain, you've got the Basque region and you've got Catalonia speaking Catalan, right?
+JENNY: Mm-hmm.
+
+0:21:02.040,0:21:08.920
+ELI: Not that Linguistics After Dark takes any particular political stances on the geopolitical stage.
+JENNY: Right.
+
+0:21:08.920,0:21:11.560
+ELI: So what do we think about this little-kid speak thing?
+
+0:21:11.570,0:21:16.940
+ELI: I mean, I think there's a question, is this the language of small children,
+
+0:21:16.940,0:21:21.800
+or is this the language that adults tend to speak to babies?
+
+0:21:21.800,0:21:22.680
+SARAH: True.
+
+0:21:22.680,0:21:28.520
+ELI: I think we should approach this from the idea of what adults say to little kids, because
+
+0:21:28.520,0:21:31.160
+little kids learning to talk is acquisition.
+
+0:21:31.160,0:21:33.500
+ELI: We've been talking about dialect and accent.
+
+0:21:33.500,0:21:38.580
+ELI: If y'all want to learn about acquisition, send us a question about acquisition and we'll talk about that.
+
+0:21:38.580,0:21:41.380
+ELI: But for this, what do we think about baby talk?
+
+0:21:41.380,0:21:47.180
+JENNY: I would have said that's less a
+dialect and more a register.
+
+0:21:47.180,0:21:49.380
+ELI: Oh!
+SARAH: Yeah!
+ELI: I like that.
+
+0:21:49.380,0:21:51.480
+ELI: What's—can you explain what a register is?
+
+0:21:51.480,0:21:57.980
+JENNY: So a register is like the style or mode of speaking.
+
+0:21:57.980,0:22:03.220
+JENNY: Like, one person with one dialect can have multiple registers.
+
+0:22:03.220,0:22:07.680
+JENNY: So I have a register for academic English for when I'm writing an essay,
+
+0:22:07.680,0:22:16.180
+and I have a formal register for, like, talking to a professor but face-to-face or talking to a supervisor at work,
+
+0:22:16.180,0:22:18.380
+where I'm being formal and professional,
+
+0:22:18.380,0:22:23.840
+but I'm not going to be using the same types of sentence constructions and word choices
+
+0:22:23.840,0:22:27.280
+as in, like, an essay or my senior thesis or whatever.
+
+0:22:27.280,0:22:33.380
+JENNY: And then I've got a different register from both of those for, you know, texting my friends,
+
+0:22:33.380,0:22:37.029
+or talking to my friends face-to-face.
+
+0:22:37.029,0:22:42.660
+JENNY: And where the lines between your different registers are drawn is going to depend on
+
+0:22:42.660,0:22:47.100
+the social contexts in which you use them,
+
+0:22:47.100,0:22:53.100
+and so that can be kind of flexible, and vary from person to person.
+
+0:22:53.100,0:22:56.400
+JENNY: But everyone has different registers that they use,
+
+0:22:56.400,0:23:04.120
+and code switches between them, usually without, or often without realizing, that that's what they're doing.
+
+0:23:04.120,0:23:08.000
+SARAH: Mm-hm.
+JENNY: So I think that I would consider baby talk
+
+0:23:08.000,0:23:10.560
+(or parentese, or whatever you
+want to call that,)
+
+0:23:10.560,0:23:15.920
+a register that a lot of people use for talking to little kids.
+
+0:23:15.920,0:23:18.700
+ELI: I dig this explanation.
+SARAH: Definitely.
+
+0:23:18.700,0:23:24.700
+ELI: And I tell you why I dig this explanation, and it's because of how people speak to their pets.
+
+0:23:24.700,0:23:31.340
+SARAH: Mm-hm.
+ELI: So, there are some people who baby talk to their pets, and there are some people who talk to their pets
+
+0:23:31.340,0:23:35.500
+ELI: as though they are fully-formed adults who also inhabit the house.
+
+0:23:35.500,0:23:40.780
+JENNY: Uh-huh.
+ELI: And when I have, like, tried to baby talk to a pet and it's felt weird,
+
+0:23:40.780,0:23:47.860
+it's felt weird in the way that speaking to an adult like talking to a baby,
+
+0:23:47.860,0:23:54.140
+or like speaking formally in an informal situation, would feel weird.
+
+0:23:54.140,0:23:59.800
+ELI: So, it's the exact same feeling for me, and to me that's like,
+
+0:23:59.800,0:24:03.200
+you hit the nail right on the head with this being a register thing,
+
+0:24:03.200,0:24:05.220
+not a dialect or an accent thing.
+
+0:24:05.220,0:24:11.180
+SARAH: Yeah.
+JENNY: Yeah, I hadn't thought about the pets part but I think you're right, and I think that makes a lot of sense.
+
+0:24:11.180,0:24:14.660
+SARAH and ELI: Cool .
+ELI: Are we ready to move on to another question?
+
+0:24:14.660,0:24:16.200
+SARAH: Yeah.
+JENNY: I'm good.
+
+0:24:16.200,0:24:19.500
+SARAH: All right, so our next question is from Georgia, via email,
+
+0:24:19.500,0:24:25.300
+and Georgia asks, "What's the most valuable way you believe that linguistics can improve society?"
+
+0:24:25.300,0:24:28.920
+ELI: Oooh, um, there are so many ways.
+
+0:24:28.920,0:24:34.280
+ELI: I think that we're really starting to see the way that springs to mind for me,
+
+0:24:34.280,0:24:40.340
+which is letting go of peevishness.
+
+0:24:40.340,0:24:44.060
+ELI: We're starting to see this happen a little bit,
+
+0:24:44.060,0:24:48.740
+as people start to understand the relationship between prescriptivism and descriptivism,
+
+0:24:48.740,0:24:49.880
+SARAH: Mm-hm.
+JENNY: Mm-hm.
+
+0:24:49.880,0:24:53.460
+ELI: and this also just calls back to the register thing, because
+
+0:24:53.460,0:24:58.840
+there are places where you're going to want to be a little more conservative about how you speak,
+
+0:24:58.840,0:25:02.620
+and there are places where it's not going to matter so much.
+
+0:25:02.620,0:25:10.100
+ELI: The idea of prescriptivism, or linguistic peevery, is that there *aren't* different registers,
+
+0:25:10.100,0:25:13.620
+and I think people are really starting to realize that, no,
+
+0:25:13.620,0:25:17.620
+this is how people have always varied their speech,
+
+0:25:17.620,0:25:21.980
+ELI: and I think that that will open us to a point where
+
+0:25:21.980,0:25:28.220
+we stop judging people because of the register or dialect that they're using,
+
+0:25:28.220,0:25:33.320
+and understand it as a linguistic function of that person interacting with society
+
+0:25:33.320,0:25:38.820
+ELI: in a way that might have been unexpected to us, but isn't wrong or bad or evil.
+
+0:25:38.820,0:25:40.460
+SARAH: Mm-hm.
+JENNY: Right.
+
+0:25:40.460,0:25:47.420
+ELI: Another outgrowth of that is starting to look at things like comparison between so-called "standard" American English
+
+0:25:47.420,0:25:50.150
+ELI: and African American Vernacular English,
+
+0:25:50.150,0:25:57.740
+SARAH: Mm-hm.
+ELI: where I think the general awareness of African American Vernacular English
+
+0:25:57.740,0:26:05.720
+as a solid alternate dialect of English, and also a disestablishment of so-called "standard" English
+
+0:26:05.720,0:26:08.140
+as having some kind of prestige,
+
+0:26:08.140,0:26:15.320
+would be a really valuable way to start breaking down an unconscious barrier in society.
+
+0:26:15.320,0:26:16.840
+SARAH: Mm-hm, yes.
+
+0:26:16.840,0:26:23.320
+SARAH: That's something I talk about with my students a lot. Not necessarily in that level of formality,
+
+0:26:23.320,0:26:29.320
+but when I talk about writing or I talk about formal usage of language for school purposes,
+
+0:26:29.320,0:26:36.559
+I try to impress on them that when we talk about grammar rules that you're learning in school,
+
+0:26:36.559,0:26:42.540
+it's not about "this is the only way to speak" but "this is a style that you should learn,
+
+0:26:42.540,0:26:47.140
+and that you should be able to use in an academic setting, or a formal setting,
+
+0:26:47.140,0:26:51.480
+because you convey not only the content of your words,
+
+0:26:51.480,0:26:59.440
+but also some emotion and some, like, information about your level of seriousness and whatever,
+
+0:26:59.440,0:27:02.310
+with the way that you get your content across."
+
+0:27:02.310,0:27:11.980
+SARAH: And so definitely black students, and also white students, or second language English users,
+
+0:27:11.980,0:27:20.780
+whatever English you're using in your free time, in your downtime, whatever your casual social register is,
+
+0:27:20.780,0:27:23.920
+it's probably going to be different from most of the other kids in the class.
+
+0:27:23.920,0:27:31.000
+SARAH: Probably in a group of twenty kids, I have like twelve different kinds of downtime social registers.
+
+0:27:31.000,0:27:38.300
+SARAH: What we're aiming for is like a single academic register that everyone can kind of agree on, so to speak,
+
+0:27:38.300,0:27:43.180
+and I think, Eli, you were saying that we run into trouble when people are like,
+
+0:27:43.180,0:27:48.820
+"Well, how come you're not using that very particular 'standard' register all the time?
+
+0:27:48.820,0:27:52.400
+Because I use it all the time, so how come everybody else doesn't use it all the time?"
+
+0:27:52.400,0:27:57.700
+SARAH: And yeah, I think we definitely are seeing that sort of deteriorate.
+
+0:27:57.700,0:28:01.420
+SARAH: Slowly, but we definitely are.
+
+0:28:01.420,0:28:06.780
+ELI: And more linguistic awareness of that, I think, would be a net positive on society.
+
+0:28:06.780,0:28:07.600
+SARAH: Yes.
+
+0:28:07.600,0:28:11.200
+JENNY: I think you could also draw a connection to
+
+0:28:11.200,0:28:15.680
+recognition of language evolution and language change, like the idea that
+
+0:28:15.680,0:28:20.340
+language changes, language always has changed, that's not a bad thing.
+
+0:28:20.340,0:28:23.880
+JENNY: The kids today aren't "ruining language,"
+
+0:28:23.880,0:28:29.480
+any more than they were when people talked about that fifty years ago, or two thousand years ago.
+
+0:28:29.480,0:28:35.100
+JENNY: Language changes, and that's fine.
+
+0:28:35.100,0:28:42.680
+JENNY: And I think that that has—like, people have also been kind of growing more aware of that,
+
+0:28:42.680,0:28:44.540
+JENNY: and talking about that more.
+ELI: mmhmm
+
+0:28:44.540,0:28:51.960
+JENNY: And I think that can go hand-in hand with the "there are different versions of language already right now,
+
+0:28:51.960,0:28:57.240
+and that's also fine and the way language has always been," yeah?
+
+0:28:57.240,0:29:05.240
+SARAH: Yeah. I think it's interesting, too, because a lot of that, like, "there is one right way of talking,"
+
+0:29:05.240,0:29:12.620
+I feel like the recent problem, and—I have absolutely no evidence to back this up,
+
+0:29:12.620,0:29:16.640
+and I'm not looking for any because we don't do research, but…
+
+0:29:16.640,0:29:22.540
+SARAH: I would posit that that has a lot to do with the rise of mass communication,
+
+0:29:22.540,0:29:25.820
+such as radio and television, and now the internet,
+
+0:29:25.820,0:29:32.780
+where people are hearing the standard broadcast accent, the standard broadcast register,
+
+0:29:32.780,0:29:41.180
+and the people for whom that is their, like, native accent, native register of casual speech,
+
+0:29:41.180,0:29:42.900
+SARAH: they're like, "Oh, I'm doing it right,
+
+0:29:42.900,0:29:47.760
+I hear it validated," and even if it's subconscious, they're like, "Oh, this is the way things are."
+
+0:29:47.760,0:29:52.160
+SARAH: And then to hear other people not doing that, they're like,
+
+0:29:52.160,0:29:58.240
+"Why are they not doing that? That's just the way it is!" And they don't realize that not everyone has that.
+
+0:29:58.240,0:30:05.220
+SARAH: Which, I think about that a lot when I think about Great Britain, because every time I hear of a new accent,
+
+0:30:05.220,0:30:11.120
+or a new, like, regionalism, or like, "oh yeah, I can tell you're from this particular area of Great Britain,
+
+0:30:11.120,0:30:13.240
+because of you said this thing or whatever,"
+
+0:30:13.240,0:30:20.680
+it blows my mind, because I think about the same reactions I have to American and Canadian speakers,
+
+0:30:20.680,0:30:26.560
+and how much geographical space we have in North America,
+
+0:30:26.560,0:30:33.320
+and then comparatively how little geographical space there is in Great Britain.
+
+0:30:33.320,0:30:36.680
+SARAH: Like, as a country, it is not a big place.
+
+0:30:36.680,0:30:43.040
+JENNY: [laughs] No, it is not.
+SARAH: And they have so many very distinct accents that are so small and so regional,
+
+0:30:43.040,0:30:50.600
+and like, there's no way that they are sitting there going, "oh, this is the Right Way to speak English."
+
+0:30:50.600,0:30:53.480
+SARAH: I mean, they probably are, because I'm sure there are people like that everywhere,
+
+0:30:53.480,0:31:00.000
+but you can't live in a country that small, and with the travel possibilities that we have now—
+
+0:31:00.000,0:31:03.720
+SARAH: like, you can go to all the cities in England if you want to,
+
+0:31:03.720,0:31:07.020
+and Scotland and Wales and Ireland and like in that area,
+
+0:31:07.020,0:31:09.680
+and hear so many different kinds of English,
+
+0:31:09.680,0:31:13.260
+SARAH: and you might like some of them better, you might, like,
+
+0:31:13.260,0:31:16.720
+dislike a certain group of people who speak a certain variety and therefore
+
+0:31:16.720,0:31:20.800
+be like, "Well the people I hate speak that way, so I hate that way of speaking,"
+
+0:31:20.800,0:31:27.280
+but you can't have that, like, weird underlying thought, that "Oh, there's one way of doing this."
+
+0:31:27.280,0:31:33.260
+SARAH: And I think a lot of the variation in North America,
+
+0:31:33.260,0:31:37.920
+there is still a ton of variation, but I think it's more… gradual?
+
+0:31:37.920,0:31:42.820
+SARAH: Like the difference between different parts of the Midwest,
+
+0:31:42.820,0:31:45.920
+and the different parts of New England, are subtler?
+
+0:31:45.920,0:31:52.740
+SARAH: And so—and even the transition from the Northeast into like the Mid-Atlantic into the Midwest,
+
+0:31:52.740,0:31:56.040
+there are hallmarks of each of those regions,
+
+0:31:56.040,0:32:01.200
+but they're not like a full-on, "Oh my god, I—you're not from here, you're so different,"
+
+0:32:01.200,0:32:03.320
+SARAH: and so... I don't know.
+
+0:32:03.320,0:32:05.600
+SARAH: I don't know where I was going with that, I'm sorry.
+
+0:32:05.600,0:32:10.680
+ELI: Well, I have a place to go with that, which is to talk about Received Pronunciation, or RP—
+
+0:32:10.680,0:32:16.720
+SARAH: Right.
+ELI: —which is the BBC's—or actually *was* the BBC's—standard required accent
+
+0:32:16.720,0:32:21.780
+for all of its radio announcers and television announcers until very recently.
+
+0:32:21.780,0:32:24.140
+ELI: I think in the last ten or fifteen years,
+
+0:32:24.140,0:32:30.940
+the BBC allowed its anchors to not speak in RP, and instead speak in their native accent,
+
+0:32:30.940,0:32:37.800
+and now all of a sudden you hear Scottish accents and Northern accents and Welsh accents
+
+0:32:37.800,0:32:40.480
+all over the BBC, and it's fantastic,
+
+0:32:40.480,0:32:47.320
+but they used to have this standard, required,
+
+0:32:47.320,0:32:53.080
+ELI: one-size-fits-all thing for the entire country, which was then given prestige.
+
+0:32:53.080,0:32:56.520
+SARAH: Right.
+ELI: And people considered that to—
+
+0:32:56.520,0:33:00.340
+ELI: I don't know if people considered it to be the one true way for everyday speech,
+
+0:33:00.340,0:33:06.500
+but it certainly was like a government-endorsed, "here is the accent that we think is right."
+
+0:33:06.500,0:33:13.820
+ELI: I wonder if your thing about regional differences in America being much more gradual,
+
+0:33:13.820,0:33:22.500
+despite the fact that we have much more area to cover, has to do with differing ideas of regional identity?
+
+0:33:22.500,0:33:26.680
+SARAH: Yeah, I feel like our regional identities are much bigger.
+ELI: Yes.
+
+0:33:26.680,0:33:30.780
+SARAH: Like, we don't have a lot of stock in "I'm from this town,"
+
+0:33:30.780,0:33:33.160
+we have a lot of stock in "I'm from this state,"
+
+0:33:33.160,0:33:36.020
+SARAH: or even "I'm from this group of five states."
+
+0:33:36.020,0:33:39.420
+ELI: Yeah, exactly, I think, like—for example, my—
+
+0:33:39.420,0:33:45.760
+ELI: If somebody were to ask me like my core sub-American locative identity I would say,
+
+0:33:45.760,0:33:50.720
+ELI: like, I would first say Midwestern, before I would say Illinois or Chicago.
+
+0:33:50.720,0:33:51.460
+SARAH: Yeah.
+
+0:33:51.460,0:33:53.180
+SARAH: Yeah, and I guess that's what really gets me,
+
+0:33:53.180,0:33:57.540
+because I'm like, "We have these regions that are several states big,"
+
+0:33:57.540,0:34:02.540
+and then I look at the UK and I'm like, "You are *a* state.
+
+0:34:02.540,0:34:07.240
+I mean not really, you're like four states, but you're the size of some American states."
+
+0:34:07.240,0:34:11.060
+SARAH: And so to be like, "Oh, this region is like six of you,"
+
+0:34:11.060,0:34:18.940
+SARAH: but then you have SO many really distinct varieties in that small area, it's just baffling.
+
+0:34:18.940,0:34:26.060
+ELI: Yeah, you get people who are like,
+"Excuse you, I'm from Stratford EAST of Avon, not Stratford WEST of Avon."
+
+0:34:26.060,0:34:27.660
+SARAH: Right.
+[JENNY laughs]
+
+0:34:27.660,0:34:31.220
+JENNY: I will say, coming at this as someone who has spent
+
+0:34:31.220,0:34:35.660
+most of the last decade-and-then-some in California
+
+0:34:35.660,0:34:41.700
+throws things off a little bit, because I think I would say "Southern California" or "San Diego"
+
+0:34:41.700,0:34:45.060
+about as frequently as I would say "I'm from California"?
+
+0:34:45.060,0:34:54.720
+JENNY: Because Southern California and Northern California are very different regions in some ways.
+SARAH: Yeah.
+
+0:34:54.720,0:34:59.580
+JENNY: But at the same time, like, California also definitely has
+
+0:34:59.580,0:35:03.700
+JENNY: an identity unto itself. 
+ELI: I mean, California's huge.
+JENNY: California's really big.
+
+0:35:03.700,0:35:14.140
+JENNY: California's *really* big.
+SARAH: It's really big and it spans some continental, and, like, national United States region breaks,
+
+0:35:14.140,0:35:18.680
+SARAH: in a way that other big states like Alaska and Texas don't.
+JENNY: Yep.
+
+0:35:18.680,0:35:22.480
+SARAH: So like—
+JENNY: Because it's not just big, it's long.
+
+0:35:22.480,0:35:25.260
+ELI: Yeah.
+SARAH: Right, it's long and it's along the coast,
+
+0:35:25.260,0:35:31.340
+SARAH: and so—like, Texas is enormous, but it's surrounded by other southern states only.
+
+0:35:31.340,0:35:37.180
+JENNY: Yep.
+SARAH: Whereas California is surrounded by, like, southwestern states, on one end,
+
+0:35:37.180,0:35:41.760
+SARAH: and the Pacific Northwest on the other, and if you think about those regionally,
+
+0:35:41.760,0:35:50.160
+JENNY: Mm-hm.
+SARAH: I don't—I cannot fathom a cultural or regional similarity between, like, Oregon and Arizona.
+
+0:35:50.160,0:35:57.200
+JENNY: So yeah, so that throws off the "I would say region first", because I think I would say
+
+0:35:57.200,0:36:03.000
+California sometimes and Southern California other times, depending on the context
+
+0:36:03.000,0:36:07.640
+JENNY: in which I'm being asked to explain where I'm from? but—
+
+0:36:07.640,0:36:11.160
+SARAH: Well in some ways, Southern California *is* the region level for you.
+
+0:36:11.160,0:36:19.140
+JENNY: Yeah. But regardless, the point is that like, the idea of having that many different regional identities
+
+0:36:19.140,0:36:28.060
+in one tiny, tiny geographical area is kind of all the more mind-boggling, because it's like,
+
+0:36:28.060,0:36:38.640
+JENNY: California is weird in terms of size and identity in like the exact opposite way, somehow.
+SARAH: Yeah.
+
+0:36:38.640,0:36:45.240
+ELI: Switching gears a little bit, I also want to answer this question in a different way, which is that I think
+
+0:36:45.240,0:36:54.380
+contact with linguistics in general makes one more likely to be a polyglot, or learn a second language
+
+0:36:54.380,0:36:58.640
+SARAH: Mm-hm.
+ELI: And I think America is a really interesting place
+
+0:36:58.640,0:37:02.660
+because many people here do speak more than one language fluently,
+
+0:37:02.660,0:37:07.060
+but the majority of Americans speak only one language fluently,
+
+0:37:07.060,0:37:12.280
+ELI: and that is not true basically anywhere else in the world.
+
+0:37:12.280,0:37:16.340
+SARAH: Mm-hm.
+ELI: Everywhere else in the world, people are polyglots by default,
+
+0:37:16.340,0:37:21.860
+and not even necessarily just because oh, they have to learn English in school for business,
+
+0:37:21.860,0:37:26.820
+but because they're living in a place where they do actually have to use
+
+0:37:26.820,0:37:31.300
+both or all three of the languages that they know on a daily basis.
+
+0:37:31.300,0:37:34.820
+SARAH: Yeah.
+ELI: And I think that knowing more than one language
+
+0:37:34.820,0:37:42.400
+expands your capacity to imagine different cultures, but I think it also probably promotes a little bit of wanderlust
+
+0:37:42.400,0:37:47.500
+ELI: to go learn about the people who speak that language, if it's not one that you're using every day.
+
+0:37:47.500,0:37:52.060
+SARAH: Yeah.
+JENNY: That makes sense.
+SARAH: It also, like—
+
+0:37:52.060,0:38:00.340
+SARAH: Even studying languages that you don't use on a daily basis or that you are unlikely to go visit,
+
+0:38:00.340,0:38:07.120
+for whatever reason—whether you are like me and studying historical languages that are not actively used anymore,
+
+0:38:07.120,0:38:11.600
+or you're studying a language from somewhere so far away that you don't have the funds
+
+0:38:11.600,0:38:14.340
+SARAH: or don't foresee ever having the funds to get there—
+
+0:38:14.340,0:38:23.420
+SARAH: I just think that studying a language, learning new words,  learning new ways that concepts can be delineated—
+
+0:38:23.420,0:38:27.720
+like the thing with the Swadesh list about, like, what words are culturally dependent?
+
+0:38:27.720,0:38:32.540
+SARAH: Why do we say claw and fingernail and then some people just use fingernail?
+
+0:38:32.560,0:38:38.700
+SARAH: Or, you know, where do we draw the lines between different types of family members or different colors?
+
+0:38:38.700,0:38:43.140
+SARAH: It just—it makes you think about the world, and makes you think about how brains work.
+
+0:38:43.140,0:38:50.160
+SARAH: And like, learning other languages has improved my English, I think,
+
+0:38:50.160,0:38:54.240
+because I've been exposed to different sentence patterns
+
+0:38:54.240,0:38:58.820
+and different, like, ways of emphasizing or caring about things
+
+0:38:58.820,0:39:01.980
+SARAH: in terms of how you express yourself,
+
+0:39:01.980,0:39:09.100
+and it kind of gives me more options. Like obviously not every sentence pattern from Chinese
+
+0:39:09.100,0:39:13.740
+is a valid sentence pattern in English—and there I go saying "Chinese";
+
+0:39:13.740,0:39:15.800
+I should say "Mandarin" 'cause that's what I know—
+
+0:39:15.800,0:39:20.560
+SARAH: but like, it makes you think and gives you a little bit of flexibility.
+
+0:39:20.560,0:39:28.920
+ELI: I think an interesting outgrowth of this is that different languages have different obligatory parts to them,
+
+0:39:28.920,0:39:35.740
+and a big example of this is evidentials,  which I won't go super deep into, but basically, in some languages,
+
+0:39:35.740,0:39:42.620
+you can't just assert a fact, you have to also state implicitly in the way that you're asserting that fact
+
+0:39:42.620,0:39:48.080
+how you know that fact, whether you saw it or heard it from somebody, or it's common knowledge,
+
+0:39:48.080,0:39:52.600
+ELI: or you don't know it but you think that it's true, or something like that.
+
+0:39:52.600,0:40:00.140
+ELI: And some languages have no way for you to just assert a fact without having the evidential on it,
+
+0:40:00.140,0:40:04.880
+SARAH: Mm-hm.
+ELI: but in English, for example, and and many other common languages,
+
+0:40:04.880,0:40:11.160
+you don't have to obligatorily say how you know something. But you can!
+
+0:40:11.160,0:40:17.500
+ELI: There's nothing in English that stops you from saying, you know, "The sky is blue and that's common knowledge,"
+
+0:40:17.500,0:40:26.740
+ELI: right—
+SARAH: Right.
+ELI: —or "Oh, my friend has an appointment this afternoon, I saw it in her agenda" or whatever.
+
+0:40:26.740,0:40:32.980
+ELI: And so that's a different, you know—It's not just word order for sentence  pattern and that kind of thing,
+
+0:40:32.980,0:40:38.500
+it's also these kinds of obligatory things or different ways that tenses are broken up,
+
+0:40:38.500,0:40:41.700
+different ways of thinking about patterns in time,
+
+0:40:41.700,0:40:44.720
+and then you also mentioned kinship stuff, right,
+
+0:40:44.720,0:40:52.430
+where it's like, "Oh, are the uncles that are my mom's brothers different than the uncles that are my dad's brothers?"
+
+0:40:52.430,0:41:00.640
+Or like, "Are all of the people who are, you know, not directly in my immediate family
+
+0:41:00.640,0:41:05.460
+but at my generation, do I just have one name for them?" right,
+
+0:41:05.460,0:41:11.620
+ELI: which, there are some languages that do that. English doesn't. We have several different kinds of cousins for that.
+
+0:41:11.620,0:41:15.660
+SARAH: Yes, if we bother.
+JENNY: Mm-hm.
+ELI: If we bother, right.
+
+0:41:15.660,0:41:22.220
+ELI: So I—yeah, I think that it's a really great point, that it's not just
+
+0:41:22.220,0:41:26.900
+directly related to the language that you might be learning, but just the idea that
+
+0:41:26.900,0:41:33.180
+so many people tie ability to think and ability to express with the way that language happens,
+
+0:41:33.180,0:41:39.040
+ELI: that having your eyes opened to other options probably correlates—we don't do research—
+
+0:41:39.040,0:41:43.980
+ELI: it probably correlates with being able to more quickly understand
+
+0:41:43.980,0:41:48.420
+ELI: that somebody that you're talking with may not have that same frame of reference.
+SARAH: Mm-hm.
+
+0:41:48.420,0:41:56.700
+JENNY: Right.
+SARAH: So you two both definitely said what I think of maybe the top two most valuable ways,
+
+0:41:56.700,0:42:04.329
+but a third valuable thing that I thought about when Eli said "general contact with linguistics" is
+
+0:42:04.329,0:42:15.360
+realizing how influential language is and the study of language in virtually every other domain.
+
+0:42:15.360,0:42:20.700
+ELI: Oh, yeah.
+JENNY: Yeah.
+SARAH: There is a fantastic infographic—
+
+0:42:20.700,0:42:24.540
+I'm sure there's many of them; I will find one of them and put it in the show notes—
+
+0:42:24.540,0:42:27.600
+ELI: I know exactly the infographic that you're thinking of, though.
+
+0:42:27.600,0:42:31.640
+SARAH: Yeah. Yeah, it's like a giant circle, and some versions of it
+
+0:42:31.640,0:42:36.560
+is like, a circle in the middle and then a bunch of circles overlapping it like a giant Venn diagram,
+
+0:42:36.560,0:42:42.660
+and then some of them it's just a circle in the middle with like an outer circle and pie slices,
+
+0:42:42.660,0:42:45.060
+but it's like, okay here's linguistics in the middle,
+
+0:42:45.060,0:42:51.880
+and then on the outside there's like biology, chemistry, physics, mathematics,
+
+0:42:51.880,0:43:00.800
+sociology, psychology, economics, blah blah blah blah blah, like, so many different domains of knowledge and work and stuff,
+
+0:43:00.800,0:43:08.640
+and then between those two rings there's "how does linguistics help the study of that thing."
+
+0:43:08.640,0:43:15.020
+SARAH: And I challenge you all to think of a domain—go to the show notes, look at the one I put there,
+
+0:43:15.020,0:43:18.280
+think of something that's NOT on the outside of this diagram,
+
+0:43:18.280,0:43:24.760
+and if you can't—or if you ask us and we can't—come up with a way that linguistics is involved with,
+
+0:43:24.760,0:43:27.600
+or could help, the study of that thing…
+
+0:43:27.600,0:43:32.460
+[pause] I will be absolutely amazed. Like—
+
+0:43:32.460,0:43:36.980
+ELI: I think—linguistics is such a young discipline, at least modern linguistics,
+SARAH: Yes.
+
+0:43:36.980,0:43:43.580
+ELI: Right, like linguistics goes back literally thousands of years, but linguistics as an academic discipline
+
+0:43:43.580,0:43:51.480
+is so young that I think A) it has all of these really great overlaps, but B) they're not recognized yet,
+
+0:43:51.480,0:43:55.160
+and they're not recognized that way in larger society, either.
+
+0:43:55.160,0:44:04.760
+ELI: Like every time that a podcast or radio programmer or a TV show needs to know something about language, and they go and talk to a literature professor—
+
+0:44:04.760,0:44:12.340
+JENNY: Uh-huh!
+ELI: —or like a journalist or a psychology professor who isn't doing linguistic psychology,
+
+0:44:12.340,0:44:18.440
+you know, it's like, I'm not sure that they know that linguistics exists and that there are people who specialize in these.
+
+0:44:18.440,0:44:27.100
+ELI: Which is not to say that journalists and literature professors and psychologists don't know about language—they do! Because there's such big overlap,
+
+0:44:27.100,0:44:35.760
+but also there is an entire discipline that is all about language, and you could go just to the source, but I think people don't know that yet.
+
+0:44:35.760,0:44:43.680
+SARAH: Right, not to mention every linguist's least favorite question: "Oh, you're a linguist? How many languages do you speak?"
+
+0:44:43.680,0:44:48.900
+SARAH: Because yeah, a lot of us speak a lot of languages, but that's not actually what we're doing with our time.
+
+0:44:48.900,0:44:56.520
+ELI: Exactly.
+SARAH: A lot of us speak a lot of languages because in order to learn *about* languages, you have to know what they are.
+
+0:44:56.520,0:45:00.160
+JENNY: [laughs]
+ELI: Well, and all three hosts of this podcast,
+
+0:45:00.160,0:45:07.500
+we are all linguists and none of us is in a higher education academic setting.
+
+0:45:07.500,0:45:15.160
+ELI: None of us are doing professional linguistics, but I think all of us use linguistics in the things that we do.
+
+0:45:15.160,0:45:16.660
+SARAH: Yes.
+JENNY: Mm-hm.
+
+0:45:16.660,0:45:23.580
+SARAH: so that's my thing. I think linguistics as a field can improve society just by existing
+
+0:45:23.580,0:45:30.520
+and by contributing in all of those overlapping ways, and I think that society recognizing that
+
+0:45:30.520,0:45:36.680
+would double that impact, because they would be able to go intentionally reach out
+
+0:45:36.680,0:45:42.600
+in those ways that they maybe don't realize they can now, and get the support that they're looking for!
+
+0:45:42.620,0:45:44.440
+JENNY: Yeah, that's a really good point.
+
+0:45:44.440,0:45:51.520
+ELI: Okay, so that was a lot of serious discussion. Now let's move on to a little bit more of a silly question.
+
+0:45:51.520,0:45:56.500
+Masha asks via Twitter: "What's your favorite ridiculous etymology?
+
+0:45:56.500,0:46:03.240
+What's the etymology that when you tell people, they respond with 'fuck you, that's not where that word comes from!'?"
+
+0:46:03.240,0:46:14.220
+SARAH: Um, okay, so I have several. I'm pretty sure I'm known in my friend group for not having a swear jar but having the unsolicited etymology jar.
+
+0:46:14.220,0:46:16.540
+ELI: Oh, I'm so sorry for your wallet.
+
+0:46:16.540,0:46:21.300
+SARAH: I know, it's pretty rough, but uh. It's cool.
+
+0:46:21.300,0:46:27.060
+SARAH: Anyway, so there's the fact that "canary" is derived from the word for dog,
+
+0:46:27.060,0:46:30.600
+"easel" is derived from the word for donkey,
+
+0:46:30.600,0:46:34.000
+and "lettuce" is derived from the word for milk.
+
+0:46:34.000,0:46:39.460
+ELI: [laughs] Okay?
+SARAH: So there's that! But my favorite one,
+
+0:46:39.460,0:46:45.460
+and the one with the best story attached, is that the word "money"—as in the stuff that you pay
+
+0:46:45.460,0:46:53.240
+in order to receive goods and services—comes from the verb "to warn," as in to, like, "admonish," which also comes from that word.
+
+0:46:53.240,0:46:58.120
+ELI and JENNY: Oooh...
+SARAH: And I was explaining this to some students,
+
+0:46:58.120,0:47:04.660
+and they were like, "Oh, is it because you warn someone with money?"
+
+0:47:04.660,0:47:10.560
+or like, "something something bank loans and paying back things?"
+
+0:47:10.560,0:47:15.260
+SARAH: and I was like, "Wow, you guys are really creative! and no. It is none of those things."
+
+0:47:15.260,0:47:20.000
+ELI: [laughs]
+SARAH: [laughs] They were really impressive guesses! They just, none of them were right.
+
+0:47:20.000,0:47:24.140
+SARAH: Um, no, so what happened was, the ancient Romans,
+
+0:47:24.140,0:47:28.960
+in, like—oh, this is embarrassing, that I don't know the year,
+
+0:47:28.960,0:47:32.840
+but I'll put it in the show notes—it was like… something BC.
+
+0:47:32.840,0:47:36.260
+SARAH: I want to say 356. We'll find out how close I was.
+
+0:47:36.260,0:47:44.940
+SARAH: Anyway, in something BC that might have been 356, the Romans were having a battle-slash-war
+
+0:47:44.940,0:47:55.060
+with a tribe of Gauls—so, people from modern-day France—and they went and, like, hid or kind of like took cover,
+
+0:47:55.060,0:48:03.580
+in this temple in Rome, because the Gauls had come to, like, attack the city and so the Roman fighters were hiding out in this temple.
+
+0:48:03.580,0:48:14.740
+SARAH: And they assumed (stupidly) that the Gauls were going to kind of adhere to the ancient kind of rules of war, which were,
+
+0:48:14.740,0:48:22.140
+you fight during the day and at night everybody goes to sleep and then gets up to stab each other in the morning.
+
+0:48:22.140,0:48:27.100
+SARAH: And so the Romans are in this temple—it was a temple to Juno,
+
+0:48:27.100,0:48:37.120
+and she was the, like, queen of the Olympian gods, Hera, called Juno in Latin, and so it was a temple to her—
+
+0:48:37.120,0:48:41.900
+and they're hiding out in there. They have some scouts who are supposed to be keeping watch overnight while everyone else is sleeping,
+
+0:48:41.900,0:48:46.640
+and I don't know if the scouts fell asleep, or were distracted, or like what happened,
+
+0:48:46.640,0:48:51.980
+but they didn't notice the Gauls climbing up the hill toward the temple in the middle of the night.
+
+0:48:51.980,0:48:58.100
+SARAH: But the ones who did notice that happening were the geese who lived on that hill,
+
+0:48:58.100,0:49:06.040
+SARAH: and if you know one thing about geese—
+ELI: [laughs]
+SARAH: —it's that they are mean, and they are loud.
+
+0:49:06.040,0:49:12.920
+SARAH: And so these geese notice that there are some strange humans climbing their hill in the dark,
+
+0:49:12.920,0:49:15.700
+and the geese are not pleased with this,
+
+0:49:15.700,0:49:19.500
+so they go and attack the Gauls, very loudly,
+
+0:49:19.500,0:49:25.840
+SARAH: and the Gauls, I'm sure, loudly go, "What the fuck, *geese*!!", as you do.
+ELI: [laughs]
+
+0:49:25.840,0:49:31.560
+And the Romans wake up because they're like, "What the fuck, *geese*!!", and—
+ELI: As you do.
+SARAH: As you do.
+
+0:49:31.560,0:49:36.800
+SARAH: And they look out and they see the geese attacking the Gauls and they're like, "Oh crap, Gauls."
+
+0:49:36.800,0:49:41.940
+SARAH: So they, you know, get up, grab their stuff, go in the middle of the night, manage to defend themselves,
+
+0:49:41.940,0:49:45.260
+drive the Gauls off, however this battle and war wind up.
+
+0:49:45.260,0:49:49.420
+JENNY: All while presumably avoiding the geese?
+SARAH: Presumably avoiding the geese, yes.
+
+0:49:49.420,0:49:53.200
+SARAH: And so the battle winds up, the war winds up,
+
+0:49:53.200,0:50:01.680
+and the Romans say, "Juno, thank you! You have saved our butts, we are going to rename this temple—"
+
+0:50:01.680,0:50:08.400
+SARAH: or not *rename* it, but a lot of the temples were, like, the temple of God Name the Somebody.
+
+0:50:08.400,0:50:11.960
+SARAH: They had all these epithets with them, so there were temples to different aspects of the gods.
+
+0:50:11.960,0:50:14.800
+SARAH: So this became the temple to Juno Moneta:
+
+0:50:14.800,0:50:21.680
+Juno the Warner, Juno who gave us this warning about the Gauls, via her now sacred geese.
+
+0:50:21.680,0:50:28.000
+ELI: Okay, that all makes sense. Where does the currency bit come in?
+SARAH: Yup. So over time,
+
+0:50:28.000,0:50:37.060
+a lot of the temples in the city of Rome also began to serve other, like, governmental administrative purposes.
+
+0:50:37.060,0:50:44.760
+The temple of Saturn was like the Treasury, the temple of Castor and Pollux held all of the census records, if I recall correctly,
+
+0:50:44.760,0:50:50.360
+and the temple of Juno Moneta became the mint, where they actually produced coins.
+
+0:50:50.360,0:50:57.060
+ELI: Oh!
+SARAH: And so, I don't know exactly how it happened, but at some point "Moneta" turned into "money,"
+
+0:50:57.060,0:50:58.900
+SARAH: and so that's where we got that from.
+
+0:50:58.900,0:51:04.000
+JENNY: Huh!
+ELI: I mean, I bet it's through "mint," because that sort of—I've always wondered
+
+0:51:04.000,0:51:08.720
+about where the word "mint", as in a thing that prints money, comes from.
+
+0:51:08.720,0:51:12.140
+ELI: Pretty clearly comes directly from Moneta.
+
+0:51:12.140,0:51:16.040
+SARAH: Hmm, I never thought about that!
+ELI: And so probably "money" comes in through "mint."
+
+0:51:16.040,0:51:19.580
+SARAH: Yeah, I'll have to look that one up. Check the show notes, friends!
+
+0:51:19.580,0:51:29.180
+ELI: I wonder—this is totally unsubstantiated—but I wonder if "mint" was reanalyzed as some sort of nominal past thing,
+
+0:51:29.180,0:51:37.160
+ELI: where you had, like, money… mint… I'm just trying to figure out how that "t" was dropped.
+SARAH: Oh, yeah, like "moneyed", "minted", yeah.
+
+0:51:37.160,0:51:41.000
+ELI: Yeah, that's probably entirely false.
+SARAH: Cool idea, though!
+
+0:51:41.000,0:51:50.400
+ELI: Okay, that is super cool. Now there is no epic war story to go with my favorite fuck-you etymology.
+
+0:51:50.400,0:52:03.240
+ELI: I, I do—there are some false friends that I like, so like the fact that "island" and "isle" come from two different things?
+SARAH: Oh!
+
+0:52:03.240,0:52:08.320
+JENNY: Huh!
+ELI: So that's another one where ⟨island⟩ just comes from a Germanic ⟨iland⟩,
+
+0:52:08.320,0:52:12.040
+and the ⟨s⟩ was put in there because people liked Latin.
+
+0:52:12.040,0:52:19.100
+SARAH: [laughs] Okay!
+ELI: And ⟨isle⟩ actually comes from ⟨isla⟩.
+SARAH: And then ⟨insula⟩. Yeah, okay.
+ELI: Right.
+
+0:52:19.100,0:52:24.700
+ELI: There's also ⟨OK⟩, which is the only acronym etymology that's actually correct.
+
+0:52:24.700,0:52:32.880
+SARAH AND JENNY: [laugh]
+SARAH: Or you might say "oll korrect"? ELI: Yes, exactly.
+JENNY: [laughs]
+
+0:52:32.880,0:52:43.180
+ELI: But the one that I want to talk about is actually the word ⟨lox⟩. So lox, which, at least in American English, means smoked salmon.
+
+0:52:43.180,0:52:51.980
+ELI: So you take salmon and you cure it and then you cold smoke it and then you slice it up and then you put it on a bagel that has a lot of cream cheese on it.
+
+0:52:51.980,0:53:02.780
+ELI: That's lox.
+SARAH: And it's spelled L-O-X, right?
+ELI: It's spelled L-O-X in English. In a lot of other languages it's spelled L-A-X.
+SARAH: Okay.
+
+0:53:02.780,0:53:10.560
+ELI: But I like lox's etymology because "lox," the word, has not changed.
+
+0:53:10.560,0:53:19.720
+ELI: It has not changed for as far back as we can trace it, using the comparative method and other types of historical linguistic analysis.
+
+0:53:19.720,0:53:26.500
+ELI: If you go all the way back as far as you can, you still get this word "lax,"
+
+0:53:26.500,0:53:32.160
+which might mean salmon specifically but also might mean fish kind of in general,
+
+0:53:32.160,0:53:34.540
+ELI: or like a fish that we eat.
+SARAH: Cool.
+
+0:53:34.540,0:53:41.780
+ELI: But that's my favorite etymology, not because it's, like, unexpected where it comes from, but it's kind of unexpected where it went.
+
+0:53:41.780,0:53:44.670
+SARAH and JENNY: Yeah.
+SARAH: What language did it originate in?
+
+0:53:44.670,0:53:48.020
+ELI: I'm pretty sure it's proto-Germanic.
+SARAH: That's so cool.
+
+0:53:48.020,0:53:51.540
+ELI: Also, lox is delicious.
+SARAH: True facts.
+JENNY: Fair.
+
+0:53:51.540,0:53:56.820
+ELI: So it deserves to have not changed.
+SARAH: [laughs]
+ELI: The collective wisdom of humanity
+
+0:53:56.820,0:54:02.569
+deems that this fish was so delicious we should not have changed the word for it.
+
+0:54:02.569,0:54:12.120
+ELI: I also think that in some Scandinavian languages, "lox" just means salmon, it doesn't specifically mean smoked salmon, or like cured and smoked salmon.
+
+0:54:12.120,0:54:21.080
+SARAH: mm-hmm
+ELI: I think that it's just what you call lox or what you call salmon. But it shows up in things like gravlax and that kind of thing as well.
+
+0:54:21.080,0:54:23.820
+ELI: Jenny, do you have a favorite etymology?
+
+0:54:23.820,0:54:30.420
+JENNY: My favorite is contextual. My favorite is whichever one I'm getting to explain to one of my siblings.
+SARAH: [laughs] Good answer.
+
+0:54:30.420,0:54:34.339
+JENNY: So, on every podcast we have a puzzler.
+
+0:54:34.339,0:54:41.840
+JENNY: Last time our puzzler was "what's an English word spelled with three double letters in a row?"
+
+0:54:41.840,0:54:48.260
+JENNY: The answer is "bookkeeper"—double-O, double-K, double-E,
+
+0:54:48.260,0:54:52.140
+or "woolen—" 'double-U', double-O, double-L.
+
+0:54:52.140,0:54:55.840
+JENNY: If that was your answer, either of them, good job!
+
+0:54:55.840,0:55:00.280
+JENNY: So for a new puzzler, what do we have this time?
+ELI: We have another word puzzle.
+
+0:55:00.280,0:55:09.560
+ELI: It's short and sweet, just like last episode's. I'm gonna spell three words and your task is to figure out what they have in common.
+
+0:55:09.560,0:55:21.060
+ELI: The three words are J-O-B, P-O-L-I-S-H, and H-E-R-B.
+
+0:55:21.060,0:55:27.240
+ELI: Now there's a reason that I'm spelling them. It has to do with what they have in common. That's the only hint you're gonna get.
+
+0:55:27.240,0:55:35.300
+ELI: I'm sure it's pretty easy to look this one up on the internet, but again that's cheating, and if you cheat you should feel bad about yourself.
+[outro music begins]
+
+0:55:35.300,0:55:37.940
+JENNY: That’s it for this episode! Thanks for listening.
+
+0:55:37.940,0:55:41.820
+ELI: Linguistics After Dark is produced by Emfozzing Enterprises.
+
+0:55:41.820,0:55:49.380
+ELI: Audio editing is done by me, question wrangling and transcriptions are done by Jenny, and show notes are done by Sarah.
+
+0:55:49.380,0:55:52.580
+ELI: Our music is “Covert Affair” by Kevin MacLeod.
+
+0:55:52.580,0:56:00.940
+SARAH: Our show is entirely listener-supported. You can help us by visiting patreon.com/emfozzing, E-M-F-O-Z-Z-I-N-G,
+
+0:56:00.940,0:56:04.540
+and by telling your friends about us. Ratings on iTunes help as well.
+
+0:56:04.540,0:56:11.460
+JENNY: Today we want to say thanks to these awesome patrons: Bryton, Inga, Geoff, Dre, Bex, and Mitch.
+
+0:56:11.480,0:56:18.960
+ELI: Find all our episodes and show notes online at LinguisticsAfterDark.com or on all your favorite podcast directories.
+
+0:56:18.960,0:56:25.660
+SARAH: And remember that the show notes actually do have the answers. And some research in them.
+
+0:56:25.660,0:56:27.520
+SARAH: I'm gonna go do a lot of research right now.
+
+0:56:27.520,0:56:34.620
+SARAH: And send us your questions! Text—or audio, if you have a sound question—to questions@linguisticsafterdark.com.
+
+0:56:34.620,0:56:43.200
+SARAH: Or tweet us @LXADpodcast. And you can also follow us on facebook and instagram, also @LXAD podcast.
+
+0:56:43.200,0:56:50.000
+JENNY: And until next time… if you weren’t consciously aware of your tongue in your mouth, now you are.
+
+0:56:56.180,0:56:59.420
+[beep]
+SARAH: [hums melody]
+SARAH: that's not our music, but whatever.
+
+0:56:59.420,0:57:04.600
+[beep]
+ELI: which is really cool, brains are cool!
+JENNY: they really are!
+SARAH: brains are amazing.
+
+0:57:04.600,0:57:11.700
+[beep]
+SARAH: yeah… i'm just actually cheating a little bit and looking at a map of germany. ELI: ah, how dare you, that's research.
+
+0:57:11.700,0:57:17.640
+SARAH: i know, but it's not research about language, it's research about how i should know geography and i don't.
+JENNY: oh, mood
+
+0:57:17.640,0:57:19.900
+[beep]
+SARAH: it's the milky vegetable!
+
