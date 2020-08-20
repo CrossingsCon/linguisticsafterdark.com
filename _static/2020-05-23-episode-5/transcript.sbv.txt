@@ -1,0 +1,927 @@
+[Music]
+
+SARAH: Hello, and welcome to Linguistics After Dark! I'm Sarah.
+
+ELI: And I'm Eli. If you've got a question about language, and you want experts to answer it without having done any research whatsoever, we're your podcast.
+
+SARAH: Settle in, grab a snack or a drink, and enjoy!
+
+ELI: So how are you, Sarah?
+
+SARAH: I'm… pretty good! It's been warm, it's been sunny… It's made living in my house with the windows open and doing nothing all day a lot more fun!
+
+ELI: Nice.
+
+SARAH: I'm not doing nothing all day—I'm teaching students remotely, which is—
+
+ELI: That's a lot of not-nothing.
+
+SARAH: Well, but it's like all the boring parts of teaching where I'm just, like, grading papers and sending emails and interacting with people very little.
+
+ELI: Ah, that sucks. So you're like not actually talking to your students a lot?
+
+SARAH: I mean, like, I hold class for each of my classes once a week, and I have office hours, but most of them don't show up because they don't *need* to. Like, we can't require them to so—
+
+ELI: Yeah, that's fair.
+
+SARAH: —they just do their assignments and move on with their lives. And that's fine, but I do not recommend this as a life goal of teaching.
+
+ELI: I thought you were gonna say "as a long term education strategy."
+
+SARAH: That would be a much better way to phrase that, yeah.
+
+[ELI laughs]
+
+SARAH: How are you?
+
+ELI: I'm doing okay. I think I have really sunk into the quarantine life, and you know, I feel I feel a lot less stressed, a lot more happy. I really have a lot of enjoyment of life, you know, with this lack of stress.
+
+SARAH: That's good!
+
+ELI: A lot of "schwa de vivre," one might say?
+
+[SARAH laughs]
+
+JENNY: [groaning] Oh my godddd!
+
+SARAH: Beautiful, beautiful. "Schwa de vivre," I love it!
+
+ELI: Speaking of which, shall we learn a language thing?
+
+SARAH: We *should* learn a language thing! Today's language thing of today is the International Phonetic Alphabet, which we probably should have talked about sooner, honestly? We've been using it in the show notes and the transcripts and even referring to it out loud and not really said anything about it, so time to fix that!
+SARAH: As you might expect from the name "International Phonetic Alphabet," it is an alphabet for spelling things…internationally—
+
+[ELI laughs, SARAH joins in laughing]
+
+SARAH: —usually referred to by its shorthand, "IPA," also known as probably what Eli is drinking right now.
+
+ELI: Well, not yet. Hold on one sec.
+
+[sound of beer can popping open]
+
+[SARAH and JENNY laugh]
+
+SARAH: Okay so you do have to be careful if you are looking up things about the International Phonetic Alphabet, because if you just search "IPA" you're absolutely gonna get more things about beer than about linguistics. BUT—
+
+ELI: And yes, the obvious pun has been done. There are a number of IPA IPAs out there.
+
+SARAH: God. Anyway, so the IPA of the linguistic variety is a system for writing down the sounds of a language, and you can use it more narrowly or more broadly; you can be super nitty-gritty and detail-oriented with it, or you can be more general and just kind of approximate the sounds, depending on what your purposes are.
+SARAH: The earliest known predecessor of the IPA alphabet was developed in 1888, I think?—
+
+ELI: Seems like a reasonable time for people to start doing that.
+
+SARAH: Yeah. —in France.
+
+ELI: Of course.
+
+SARAH: It was to help language learners in Europe, so people who were studying English, French, and German—presumably primarily in the UK, France, and Germany and surrounding countries—learn to pronounce each other's languages, and so they wanted to settle on a consistent system of spelling that didn't rely on knowing one of the languages ahead of time. Or like, English and French have lots of silent letters that don't do anything.
+
+ELI: That's really cool because, like, in English and German classes, at least foreign language classes in the US, there's no pronunciation or anything, they're basically just like, "Here are some words in French. You've kind of seen French; go for it and will tell you when you're wrong!"
+
+SARAH: Yeah, I actually—I remember when I—so I took a Chinese class, a Mandarin course for one summer because some people at MIT were doing a study of how adults learn languages, and so if you had never learned an Asian language they would pay you money to go learn Chinese.
+
+ELI: Oh it's the dream!
+
+SARAH: I was like, "Wait, you're gonna give *me* money instead of me paying *you* money? Yes, this sounds like a great summer job!" So I did that and it was in my third year of linguistics, I think, at that point, and so I actually had a much easier time picking up some of the sounds than some of my classmates, because a) our professor *did* give us direct instruction on how to pronounce things, but b) because I had studied phonetics already, I understood her instructions much better than a lot of the other people.
+
+ELI: Oh, yeah. Yeah yeah yeah.
+
+SARAH: Because she would be like, "say 'eee' [i] but then close your mouth," and I would be like, "Oh, it's [y] like the rounded front thing that's like 'eee' but not," blah blah blah.
+SARAH: (Um, apologies in advance to whichever one of us tries to transcribe that part later.)
+
+[JENNY and ELI laugh]
+
+SARAH: Anyway, so it is interesting—a lot of, like, American language education now is like "pronounce this" or like "listen to the teacher say it and you repeat it back" and you just have to figure it out by listening and no one's gonna tell you how to do it or like see it spelled out phonetically.
+SARAH: But yeah, so it's cool that's like where this came from. But it has evolved quite a lot since 1888 or whenever that was and it now has a lot of characters. I don't actually know the total number, and I'm not researching it right now, but there's like… [pause] nah, I'm not even going to try. It's a lot.
+
+ELI: Yeah, it's a bunch because you have to have one character basically for each place of articulation and each kind of sound, and then one character for each of the vowels that we have decided exists, and then, like, you have all the clicks, and then that's not even—you know, diacritics and tones and stuff.
+
+SARAH: Yeah, there's a *lot* of characters. Most of them are letters that you've seen before, either Latin alphabet letters or Greek alphabet letters that have just been given a designated specific sound, or they are Latin or Greek letters or old English letters that have been modified slightly in some way. And this is for two reasons: one reason is it's easier for people to learn to write by hand characters that they are already familiar with, and just to assign a new meeting to a familiar character, and also because in 1888 and the early 1900s, right, we didn't have computers and we didn't have laser printers and we didn't have other things that make it easy to type up and print on paper a wide variety of novel symbols. And so in using a printing press or a typewriter or anything like that, it was much easier to take an existing stamp, basically—the typewriter key or the printing press block, I forget what those things are called—but to just take one and turn it upside down and suddenly you have a new letter, potentially.
+
+ELI: Yeah, so there's a lot of characters that are—like upside-down—upside-down "r" [ɹ] for example is the symbol that is actually the English "r," because right-side up "r" [r] is trill, right? I think it's the Spanish "rolled-r."
+
+SARAH: Yeah. And schwa, as in "schwa de vivre" is just an upside-down "e."
+
+ELI: Although, these days it's not actually, because if you just take an "e" and you turn it upside-down, it like looks weird. And so it's actually—the bowl is shortened and the little curvy bit that's usually at the bottom and is then on the top is actually like taller than it would normally be.
+
+SARAH: Oh, interesting!
+
+ELI: And I think they've done that with a bunch of the other the other symbols.
+
+SARAH: Okay!
+SARAH: It is really interesting because as we've moved from typewriters and printing presses to computers and laser printers, it has opened up the opportunity for the IPA, just like every other writing system in the world, to expand its font inventory, if you will. And so one of the updates actually that was made in 2018—so the most recent version of the IPA—was to develop a piece of software and some specific fonts for incorporating IPA with the computer system LaTeX for writing out technical diagrams of stuff.
+
+ELI: Oh, that's cool!
+
+SARAH: Yeah, and so there are different fonts that you already have on your computer might be more or less friendly toward the IPA: they might have all the different glyphs or they might not. And there are from the International Phonetic Association (which is *also* the IPA), the developers of the International Phonetic Alphabet (just to be really confusing)—
+
+ELI: Yeah, I bet they're real proud of that.
+
+SARAH: Oh my god…
+
+ELI: It's just the kind of thing that some nerds would do.
+
+SARAH: It really is. They have put out a number of proprietary fonts—which I think are free, like I don't think you have to pay for them—but they have developed some fonts that they're like, "You should install these and use them if you write in IPA a lot, because we guarantee that they have all the characters you need, legibly."
+
+ELI: That's really nice, because for a long time you either had to, like, hope? or use a font that wasn't one that you really wanted to, or use one of the Summer Institute of Linguistics fonts, which is not a road that we're gonna go down in this podcast.
+
+SARAH: Yeah, at CrossingsCon last summer, I remember we had our first Linguistics After Dark… panel, I guess we called it it?—
+
+ELI: Yeah, it was a panel.
+
+SARAH: Yeah. 
+SARAH: —where we hung around after dark (that's where the name of our show comes from, by the way). Well, we hung around at the end of the night one night and answered questions from the audience, and previously in the day I had given a presentation—like a planned presentation with slides and everything—and had it was all about the IPA and all about sounds of languages, and I remember in, like, the week leading up to that, I wrote the entire slideshow and went through, like, six different fonts and, like, polled people and I went and downloaded fonts because I was like, "I'm trying to write, like, all these different things," and the fonts that you think are legible when you're writing in English, you start to look at them in other—like the phonetic ways, and you're like, "Ooh, not good."
+
+ELI: Well, it's also really tough if you're giving a presentation, you know, you want to make sure that it's super legible to the people who are all in the back.
+
+SARAH: Right, and especially if you're, like, trying to teach them because they haven't seen this before. It's not like I was presenting to like the IPA, if you will, but I was trying to, like, introduce this idea to a bunch of people who had never seen it before, so I wanted it to be like super readable.
+SARAH: Anyway! So there's a ton of symbols, and they all have names. The ones that are just, like, the normal letters of an existing alphabet are called by those names, so you have Double-yew <w> and you have Cue <q> and you have Cee <c> and you have Epsilon <ε>. They're all lowercase. There are some that look to be uppercase, but they're like a small-caps version. (So like usually on your word processor you can go be like "caps lock but small".) And that is a method of consistency and also it doubles technically the number—well not quite doubles—but vastly increases the number of potential characters you could have, because like lowercase Gee <g> and uppercase Gee <G> look different, but then you're not confusing yourself by going, "Oh, is this the name of a person? Is this at the beginning of a sentence? Is it uppercase for a reason or not?" So consistently they're always lowercase or small caps as a different sound.
+
+ELI: Yeah, and some of those come from, like, when you were working in the typewriter days—
+
+SARAH: Yep.
+
+ELI: —like, being able to use a capital I <I> versus a small I <i> or like a capital Cue <Q> versus a small Cue <q> to represent two different sounds, that just—
+
+SARAH: It stuck.
+
+ELI: —it stuck, yeah. But now they're but now they're tiny versions of the capital versions of things.
+
+SARAH: Yes, because like we said, we've improved the aesthetics of this whole set-up, but kind of stuck with the original principles of it.
+SARAH: But then there's also some other fun characters that you didn't know have names, but they do. So for instance, if you've ever seen that AE symbol <æ> that I just drew in the air, even though no one can see me—
+
+ELI: Excellent podcasting!
+
+[JENNY laughs]
+
+SARAH: Oh, it's so good! The AE symbol like in the Encyclopædia Britannica in the really fancy spelling of it, or if you've read HIS DARK MATERIALS like we talked about last time, the dæmon is always spelled with that AE. That's called an Ash, and conveniently the name "Ash" contains the sound which it stands for, which is [æ].
+
+ELI: And that was a letter that was used in English for a while and was called Ash, so it's not a special name for that character, it's just that character being used.
+
+SARAH: Right, and the thing is that we don't use it in English anymore, so unlike Ay <a> and Eee <e> and Ess <s> and Aitch <h> and all those other letter names, we just don't typically know it.
+SARAH: Another fun one is—obviously we talked about Schwa <ə>, which is the upside-down <e>, and it represents the reduced, almost deleted vowel (but not quite deleted), um, usually heard at the start and the end of <America>. We often smush down that sound into a really small vowel, and that vowel is Schwa. In English it is always unstressed, which is why our unstressed life is the "schwa de vivre."
+
+[ELI laughs]
+
+SARAH: We also have the symbol that represents the "shhh" [ʃ] sound, which we usually spell <sh> in English, but we spell it lots of ways. The phonetic spelling of it is like an Ess <s> but really long. I always think of it as, like, the integral sign <∫> from calculus? …which only helps if you've studied calculus.
+
+ELI: But it's also—I think, like, it's also derived from the sort of non-final Ess <ſ> that you sometimes see represented as Eff <f> when people are doing, like, fake historical documents and stuff.
+
+SARAH: Ohhhhh, right, right. Right, so the Ess that used to be used that looks like an Eff with no cross on it, and then they just put the loop again at the bottom. That makes so much more sense.
+SARAH: Occasionally when I go looking for characters on my computer—and we're gonna talk about keyboards in a minute—but um like I found out that in Unicode there is a Schwa character [ə] and there's also a small-letter upside-down Eee <e> character <ǝ>, and I'm like, "There's got to be some reason that those both exist, but I don't know what it is."
+
+ELI: Yeah, especially in the early days unicode doing equivalent characters, sometimes it just decided that two things were the same and they really weren't, and sometimes it decided that two things weren't the same and they really could have been. It's really tough when you have, like, representatives of two different language communities, like, drastically arguing that these two symbols that are basically the same to anybody who isn't one of those speakers are totally not the same and both deserve different unicode points.
+ELI: So there's like a whole rabbit hole to go down about, like, combining diacritics and are they the same as the Latin-1 already-combined characters and all of the—
+
+SARAH: Right.
+
+ELI: We should just, like—let's pull back out and talk about Esh and Ezh, etc.
+SARAH: Yeah. My point mostly was that that makes sense because I was always like, "Huh, I wonder why Esh <ʃ> and integral symbol <∫> aren't just the same?" because I was using one for the other, but if one of them actually came out of the letter S and one of them came out of math, then that totally makes sense.
+ELI: Yeah, and I think they look different if you are doing like a serifed version, like there's there's actually some differences between them.
+
+SARAH: Fair enough.
+SARAH: Yeah, so then a couple other fun names: Ezh <ʒ>, as Eli just mentioned, is kind of like a three <3> or like a cursive Zee but without the full loop on the tail, and similar to Esh <ʃ> it represents the sound "zhh" [ʒ], like in the middle of <treasure>.
+
+ELI: I love Ezh. Ezh might be my favorite IPA symbol.
+
+SARAH: Mm, that's fair. There's the one that alternately goes by Eng or Engma <ŋ>. It represents the En-Gee <ng> sound at the end of English words.
+
+ELI: It is, in fact, in <English>.
+
+SARAH: It *is* in English! And it's delightful because it is the letter En <n> with a lowercase Gee <g> tail on the right side, so it is just <ng> smooshed [clapping sound] into one letter <ŋ>.
+
+ELI: It's like the elephant of <n>s.
+
+SARAH: And then finally, one that we just learned recently: Like Ash <æ>, there is the letters Oh and Eee smushed together <œ>, and that is still in common usage in French, like in the words for "sister" or "heart," <sœur> and <cœur>. Sometimes people just spell it Oh-Eee <oe>, but technically you're supposed to use this combined letter which is called Ethel.
+
+ELI: Yes, which I did not know *at all.* I have never heard "Ethel" for this Oh-Eee ligature.
+
+SARAH: I'm sorry, "Ethel" is, like, an old person. It's not a letter. I don't know what is up with that.
+
+[ELI, JENNY, and SARAH all laugh]
+
+ELI: But it it comes from the name of the rune that this letter replaced, basically.
+
+SARAH: Interesting!
+
+ELI: So the the rune was called Ethel and it had that same sound, and when when they moved to the Latin alphabet they used this Oh-Eee ligature, which still shows up in a few English words if you are British, and you—
+
+SARAH: Oh, sure.
+
+ELI: Yeah, just like the Ash shows up in, like, <encyclopædia> and that kind of thing.
+
+SARAH: Yeah. Yes. [pause] I assume "Oedipus" is spelled with an Ethel <Œdipus>.
+
+ELI: Ah yes, Oedipus and Ethel.
+
+[JENNY and SARAH laugh]
+
+ELI: There's your Greek tragedy right there.
+
+SARAH: Oh boy. Ooookay, we're gonna skip that one.
+SARAH: A couple other things about the IPA: Before we had access to computers for convenient and quick transcription of people talking, all transcription obviously was done by hand, and so for a while there was a cursive version of the IPA in use.
+
+ELI: This is really cool. I kind of want to learn cursive IPA just to, like, know it?
+
+SARAH: Yeah… But also I looked at a chart about that one time and it was like the cursive version of some English letters corresponds to different letters in the IPA. Like a cursive Arr <r> in IPA—You can use a cursive Arr for a real Arr only if the language you're working in doesn't have this other sound that's also represented by a cursive Arr, and I was like—
+
+ELI: Well, but that makes sense!
+
+SARAH: I mean, it does, but I was just like, "This is—I already can't keep them straight! I don't want to do that."
+
+ELI: [laughs] I mean, what what's gonna happen? Is the IPA gonna send its linguists with swords—
+
+[SARAH and JENNY laugh]
+
+ELI: —to tell you that you're using cursive IPA wrong? Like…
+
+SARAH: No, I'm just gonna confuse myself.
+
+ELI: I guess that's true. I mean, but that does bring up a point where, like, if you are only working in a specific language and that language has a bunch of sounds that are specifically—like, they are a specific sound but there's sort of a much more common letter that is like that: Like for example, the English <r> is this upside-down <r> [ɹ], but—I don't know about you—I have a lot of trouble writing an upside-down <r>, at least quickly.
+
+SARAH: Yeah.
+
+ELI: So a lot of people who transcribe English will use the right-side up <r>, and it's just kind of known that because English doesn't have a [r] [rolled-r sound] in it, that when you see right-side up <r> and it's English, like, it actually just means English [ɹ].
+
+SARAH: True. Although it means it's North American English.
+
+ELI: Yeah, I guess that's true.
+
+SARAH: Because I think Scottish does have [r] [rolled-r sound].
+
+ELI: But like, there are—the thing is, like, there is standard IPA but there's also a lot of these kind of real-world conventions that get used depending on the contextual…
+
+SARAH: That's true. Yeah, and it's interesting because an alphabet is not a language. An alphabet is only a method of recording information, it is not the information itself.
+
+ELI: Mm-hmm.
+
+SARAH: And so, like, on the one hand *that*, on the other hand there's like these regional kind of, like, accepted norms of how we use it, to facilitate—or to kind of balance facility and ease with accuracy, much like we talked about last time in terms of the way that we balance ambiguity and precision in our words and languages, because trying to do all of one or all of the other is too difficult.
+
+ELI: So if I wanted to learn IPA, what's the best way to go do that?
+
+SARAH: The best way to do that would be to start with the sounds that are in your native language. Unfortunately for probably most of our listeners that's going to be North American English, and North American English has a *lot* of sounds in it compared to other languages of the world. So on the one hand that's a big chunk of characters to start with, on the other hand, once you're familiar with those you have far fewer to contend with that are not familiar to you. So pros and cons.
+SARAH: You can find IPA charts pretty much everywhere on the Internet. Again, you have to search for "International Phonetic Alphabet," though, or you're gonna find stuff about beer. They're actually really cleanly laid out. The one on Wikipedia is surprisingly useful.
+
+ELI: Yeah, really solid, actually.
+
+SARAH: The Wikipedia charts of the IPA are clickable, and there's several other ones that are like this too, but you can 
+actually click on the letter and hear the sound that it makes, 
+which is really helpful. They have specific ones for specific languages so you can go to, like, the IPA of English chart and click on those.
+
+ELI: Those are especially super useful for vowels.
+
+SARAH: Oh my god, yes. Vowels are the hardest ones, as always, and I would say the best way to practice is just like find some introductory phonetics problem sets. They exist on the internet. They will just give you a list of words and be like, "Transcribe these," and then they'll give you the correct transcriptions. And especially with vowels, there's plenty of room for argument there, like do you say [mæɹi] or [meəɹi] or [mεɹi], but like, within reason you can get an answer key kind of thing.
+
+ELI: Yeah, I think one of the things to remember is like the person who did the transcription may have a different dialect 
+or a different accent than you, and also don't forget to say the word out loud and actually listen to the sounds that are coming out of your mouth, rather than just thinking about it or thinking that you already know how to say a word. Because every intro linguist goes through this stage where—You have to sort of get into this, like, no-mind state where you are 
+listening to the things that come out of your mouth rather than the way that you think you say the word, and you *will* discover that there is something that you thought you said one way that you say a different way. You may also run into the fact that the person who wrote your phonetics assignment is British—
+
+SARAH: Yes.
+
+ELI: —and that always screws me up.
+
+SARAH: Yeah. The other thing I would say is just, don't be too hard on yourself. There are so many different accents, and there are so many different levels of transcription that you could want to use, and I alluded to this earlier, but you can transcribe super narrowly and include, like, how voiced something is, not just "is it voiced or not" but *how voiced* is it, and how harshly articulated is it, and is there, like, a pause in the middle, or did you elongate a sound or not elongate a sound, or like, all these different tiny little things. But unless you're actually trying to compare the elongated sound to a shorter version of that same sound, it's not usually helpful to notate that, so like using a right-side up <r> instead of an upside-down one because you don't need the right-side up one, you don't always have to include all those other little details unless you really need them. So start out broadly, and if you want to practice going in it more narrowly, you can, but you don't need to dive into the deep end like that right off the bat.
+
+ELI: And I would recommend starting out doing it handwritten.
+
+SARAH: Yes!
+
+ELI: Don't, like—You can find all of these symbols in whatever way you access all your Unicode stuff on your computer. If you are on Android there is an IPA keyboard that's built into Gboard, and if you are on Apple you are SOL. SARAH: Come on, Apple. Yeah, so you *can* type them, but don't. Yet. Practice by writing it by hand, especially to get yourself used to writing those—like, the Ash and the Ethel shapes, the Ezh, the Greek letters if you are not familiar with Greek letters.
+ELI: Basically you don't want to be learning how to get those symbols on to a page on your computer at the same time that you're trying to build up your memory about which of those symbols is which sound.
+
+SARAH: Yeah. I've seen different people who write the IPA—Like just like will have quirks of our native language handwriting, we all have quirks of our IPA handwriting as well. As long as what you produce is legible and I can tell what letter you're writing, and it means the same thing to me as it means to you, etc., you're fine! But figure out how to write those letters for yourself and practice that way before you start typing. When you do get to typing—
+
+ELI: You have an iPhone, right?
+
+SARAH: I do have an iPhone. So I the characters that I use frequently, I have set up autocorrects. So if I want to type the Ezh character <ʒ>, I type out Eee-Zee-Aitch "ezh" and then it autocorrects, and then I have to backspace the space that was in front of it to get it to join up with the word. And I did that by looking up the Ezh character copying and pasting it into the shortcut and creating that shortcut. Which is still less work than copying and pasting it every time. I also cheat with some letters, because I have a Greek keyboard installed on my phone, because I work with Greek—
+
+ELI: Because you're a nerd.
+
+SARAH: Yes. But I just use the Greek Epsilon <ε> and the Greek Alpha <α> instead of looking up the IPA Epsilon <ɛ> and the IPA Script Ay <ɑ> because I can pretty much reliably count that those will come through looking the way I want them to look, even though they're not the official characters.
+
+ELI: I learned this the other day, by the way, which is that the Epsilon on the IPA chart is in Unicode not as "Epsilon" but as "Open E"??
+
+SARAH: Right, it's like—yeah, "Open" or like "Curly Small Letter E" or something stupid.
+
+ELI: So weird. Even the IPA says it's an Epsilon. Like, it's *supposed* to be an Epsilon.
+
+SARAH: Right, I—Unicode is a fancy, crazy place to be.
+
+ELI: Yes. Yes, it really is.
+
+SARAH: But the other thing that I really want to put out there and give a shout out is this website called "typeit.org." This website that I think started out as a way of typing IPA has now expanded—it has keyboards for a ton of different languages; it has a math keyboard, if you find yourself needing to type, like, formulas and fancy math stuff and you don't have LaTeX or you hate fighting with Microsoft Word's idea of how to type math. It's really, really fabulous. And so it has a text editor in this webpage, and if you press "ctrl+e" you get Epsilon, and if you—Or no, if you press "ctrl+e" I think you get Schwa, and if you press "ctrl+e+e" you get Epsilon, etc.
+
+ELI: Oh, that's cool!
+
+SARAH: So all these—Like, you basically use "ctrl" and then you tap the character that looks the most like the character you're going for a certain number of times, kind of like the old style of texting to get the letters you want. It has a visual display on the page, so that you don't have to memorize all those key combos; you can also just click the letters if you would rather do that. And he has also developed a downloadable version of this keyboard… for Windows. So if you are—
+
+ELI: [laughs] I can hear the disappointment in your voice.
+
+SARAH: If you are an Apple user you are still SOL.
+
+ELI: Apple, get on it. Come on.
+
+SARAH: For real. Like, I would pay you money to do this. I already pay you a stupid amount of money, just give me this. But for real, especially if you are in linguistics right now, or if you're studying phonetics, check out typeit.org. We'll put a link to that in the show notes, too. And if you find it useful, he also has a Patreon, and it takes a lot of time and effort to maintain servers for this and he does it for free. Send him a couple bucks. (This is just me personally being like, "I love this, and I can only afford to give him so many dollars a month.")
+
+ELI: Sarah, thank you for telling us all about IPA. I am enjoying my IPA, and I enjoyed that segment about IPA.
+
+SARAH: Awesome! I wonder how the IPA feels about this IPA.
+
+ELI: I don't know! It's tasty, though.
+
+SARAH: That's good!
+
+ELI: And I don't usually like IPAs, honestly. That's why I'm a syntax guy.
+
+[SARAH and JENNY laugh; SARAH claps]
+
+SARAH: All right, well, before we get on to our real language questions from real listeners, do we want to make a couple corrections from last week?
+
+ELI: Yeah, so this is what happens once we have actually gone and done some of the research for things that are big enough to bring them up during the show and not just put them in the show notes.
+
+SARAH: So, the first thing is I was describing how the people from Minnesota say that Oh in the name of their state, and I said that it had to do with Canadian raising. And then as I was doing the transcription and captioning, I was trying to spell that sound out in the IPA, and I realized that that is 100% *not* what was happening with that sound. [laughs]
+SARAH: I haven't been able to actually find a good description of it yet, but I'm pretty sure (and maybe I'll be correcting this again next time, who knows), I'm pretty sure that actually what's happening is the "Minnesota Oh" sound is not being raised but instead of being the diphthong [ou] it is just the monophthong or the single sound [o] but, like, lengthened [oː], so Minnes[oː]ta instead of -s[ou]ta the way that we would usually say.
+
+ELI: Ohh, that's weird.
+
+SARAH: Yeah, relatedly—
+
+ELI: You don't see that a lot in English.
+
+SARAH: You don't. The other place that it's really common is in the south for the sound [ai] like the thing you see with or like the pronoun, where they will also drop the [i] from the end of it, so you'll get "I said" [aː sεd] or "I think" [aː θɪŋk], and you'll just get the [a] song.
+
+ELI: Oh yeah, definitely.
+
+SARAH: There's two other things I wanted to say about those vowels. I was listening to another podcast that I just found called En Clair, which is about, like, forensic linguistics which is really cool—
+
+ELI: Oh, I have this podcast on my feed and I haven't listened to any of the episodes yet, but it looked really cool.
+
+SARAH: It's super cool. It's very scripted and it's very dramatic, and she has this awesome background music that plays through most of it. It's like listening to a prime-time crime drama, but podcast—
+
+ELI: —but linguistics.
+
+SARAH: —and linguistics.
+
+ELI: Ahhh that's great.
+
+SARAH: But she was talking about this one particular suspect in a crime and how they were analyzing the way that the suspect was talking, and how that suspect was monophthongizing (turning into a one-vowel sound) something that was typically a diphthong—so basically the same thing that Minnesota does—and I really liked her description of what a diphthong is. She called it a vowel that's like a banana, it's like bendy, because you go from [a…i] or [a…u] and you have those two different sounds—
+
+ELI: Oh, yeah!
+
+SARAH: —as opposed to a monophthong that is just a straight one-sound.
+
+ELI: Oh, yeah, okay I can see that!
+
+SARAH: Yeah, and I also thought as I heard her talking, at some point I had like changed the way I pronounce those words and I say "mono[f]thong" and "di[f]thong" with a ⟨ph⟩ so [f] in the middle, but I know a lot of people say "mono[p]thong" and "di[p]thong" and I was like, "Ha, I wonder why!" Like I feel like that's actually an overcorrection kind of thing? Because in Greek the ⟨ph⟩ would be a [pʰ] and the ⟨th⟩ would be a [tʰ], and then we, like, switch them in English.
+
+ELI: So, but presumably it would have been spelled with a with a Phi [fai] or a Phi [fi], right?
+
+SARAH: Right, but the Phi is just a really aspirated [pʰ] as opposed to a [p] sound—
+
+ELI: Ohh!
+
+SARAH: —or at least historically it was. I think maybe in modern Greek it is now like a [f]? And that's how it's become in English.
+
+ELI: Today I learned!
+
+SARAH: Yeah, and so I guess in like—So like ⟨phthong⟩ in ancient Greek would be more like [pʰtʰ]ong, which even people who study ancient Greek don't actually pronounce things that way, because as English speakers it's really hard for us. Anyway!
+
+ELI: So don't feel bad if you're saying "mono[pt]ong," "di[pt]ong".
+
+SARAH: Yes, "mono[pt]ong," "di[fθ]ong," whatever combination of those sounds you want. I think you're—I think you're gonna be fine.
+
+ELI: So the other thing that we need to correct the record on—and I feel horribly about this, but—I went back to the quote book that my friends and I kept from college and double-checked my source, and the quote about "if you sell enough fish together eventually you shack up and have a kid" was actually from Tom Pernell, who was my sociolinguistics professor, which makes a lot more sense than my morphology professor.
+
+[SARAH and JENNY laugh]
+
+ELI: Rand said a lot of funny things, but that is not one of the funny things that he said.
+
+SARAH: We'll have to get a quote from him some other time.
+
+ELI: Yes. There are a bunch.
+
+SARAH: All right.
+
+ELI: Okay, so on to real language questions submitted by real listeners! If you want to send us a question, you can email it in text to questions@linguisticsafterdark.com, or you can send us an audio recording of you speaking your question aloud and we'll play it on the show. Audio is especially handy for phonology and accent questions and will also mean that you get to put off learning the IPA for another…I don't know, week or so.
+
+SARAH: [laughs] At least until you want to read our answer.
+
+SARAH: So our first question comes from my dad, actually—Jim—and he texted—
+
+ELI: Hi Jim!
+
+SARAH: Hey Dad! He texted me at some point in the past couple months and he said, "Computer languages: Are they languages (in a linguistic sense)? They have rules, they have syntax, they even have dialects. They can express certain complex ideas better than English can, but they can't (easily) express arbitrary ideas." What do you think?
+
+ELI: I have a lot of feelings about this.
+
+SARAH: Mmm do tell!
+
+ELI: So, so the answer up front is "no." They're not. But there has—There's, like, a big history of people making computer languages and trying to claim that they are like human languages or that they take certain aspects of the vocabulary that we use to talk about human languages and talk about computer languages that way. And I have always found this to be kind of a really bad mapping from one to the other. I think computer languages only get called "languages" because that's a word that we often use for a system of things that's written down.
+
+SARAH: Mmmmhm.
+
+ELI: So people, you know, will use that instead of "orthography" or other more technical terms, right. One of the computer languages that really took this to kind of an absurd degree was Perl, which is spelled P-E-R-L, and is a language that was invented by a guy named Larry Wall who had a lot of real conceptual ideas that he wanted to put into his language. And a lot of other people have worked on Perl, and so on and so forth, but he, especially in the early days of Perl, really pushed this idea of, like, "variables were nouns" and "functions were verbs," and you, like, "did verbs to nouns," which is, like, a really simplistic way of understanding the interplay between all of the different parts of speech, and so on and so forth.
+ELI: And there have been other folks who have tried to come at it from that point of view, and obviously, like, I am a linguist by education, I am a computer programmer by trade, so like, I have way more knowledge in both of these spheres than really is advisable for most people who are encountering this topic—
+
+[SARAH laughs]
+
+ELI: Like, I know—It's the curse of knowledge, right? I know too much about both of these things, so of course I'm gonna be like, "No, they don't map together." I think if it's a metaphor that works for you, like, great! But just kind of be aware that, like, usually it's informed by an incomplete understanding of how human language works.
+ELI: In this question, Jim, you said they can't express arbitrary ideas but they can express certain complex ideas better than English. So the complex idea thing is no different than, like, mathematical notation—and actually maybe "notation" is a better way of talking about computer languages—but the idea of this "expressing arbitrary ideas"—There is a notion in linguistics that this kind of productiveness or arbitrariness or in some case, like, ability to be structurally recursive is the thing that really defines what is a human language versus, like, an animal communication pattern or like a non-language, like a pidgin, right, which we talked about last episode.
+ELI: Pidgins aren't languages. They don't have internal structure, they don't have wugability, and a lot of times they don't have, like, recursion in their structures. Languages do have all of these things, and they do have productivity. I mean, obviously that's like—It's highly theoretical about "what is human language at its base, and like, what makes it language versus what makes other things not language," but there's not, like, a sliding scale that goes from human language to computer language. Like they're—they're just two totally different concepts.
+
+SARAH: It is interesting, though, like where they overlap, because your description of the whole "verbs happen to nouns, nouns are variables, verbs are functions" thing reminds me a lot of how my semantics professor taught us to think about things in some ways and I know that—
+
+ELI: Oh yeah, absolutely.
+
+SARAH: You know, and I saw a tweet the other day that was like, "the core component of linguistics is learning that everything you learned last semester is actually wrong."
+
+[ELI laughs]
+
+SARAH: because either you were taught a deliberately watered-down and simplified version first so that now we can tell you it is wrong and why, or we just made a great discovery twenty minutes ago and here's this new thing.
+
+ELI: Yeah, or the person who taught you last semester was teaching you from a different school or theory of linguistics.
+
+SARAH: Right, so one of those things. And so it's entirely possible that that method of approaching semantics is either out of date or out of fashion or just oversimplified, but…
+
+ELI: I mean, I think it's kind of an interesting middle ground, because semantics has hooked really hard into the, like, mathematical logic and set theory and those kinds of tools to explain the kinds of things that it needs to explain, but it also is using them in a different way than math and logic use them, because language isn't logic. It's got a whole bunch of, you know, fuzziness and ambiguity and stuff in it. So, there is a sort of a path that goes from there to that semantic conception through logic and then over to—Like, computer languages are obviously—they're a descendant of that kind of logic, but I think that you have to take a lot of steps to go there, and it's one of those metaphors that, like, works on the surface as long as you don't actually poke it too hard in either direction.
+
+SARAH: Yeah, it almost feels to me right now actually like the computer languages have a lot of the things that human languages have in terms of syntax and rules and vocabulary and even semantics; they don't have the pragmatics at all, and like, that's where it really falls apart, because the first thing we learned in that semantics class where we were using all of this mathematical, logical notation was that there is a huge limit to what semantics can do.
+
+ELI: Yeah.
+
+SARAH: Because like, the first example was, you say to your roommate, "Are you going to get the dry-cleaning tomorrow morning?" and you respond, "Well the garbage is being picked up at 7am."
+
+ELI: And so we run into our friend Greiss again—
+
+SARAH: Yes!
+
+ELI: —where the actual meaning in the words themselves are not sufficient for you to understand the actual meaning of of the utterance.
+
+SARAH: Right and so humans can handle that because humans understand things like background knowledge and contextual information and relevance, and the computer says, "Human, can you pick up dry-cleaning?" and you say, "Computer, the garbage is being picked up." The computer's like—
+
+ELI: It views those as two different things.
+
+SARAH: Right, like, "What? That didn't help!"
+
+ELI: And we're not even—Like, we're not talking about artificial intelligence or, you know, sort of natural-language processing or that kind of thing—
+
+SARAH: Right.
+
+ELI: —which is, again, that's—
+
+SARAH: —a whole other thing.
+
+ELI: That's a whole different discussion. It's even a different discipline. I mean, I think that some of this stuff just comes from the idea that once you call the way that you instruct a computer a "language," you're going to pick up the words that are used to describe parts of languages to describe—
+
+SARAH: Yeah!
+
+ELI: And I think there's also—there's probably some feedback, right, like a lot of the linguists that are working on this stuff in the 70s… There's a big overlap between linguists and nerds.
+
+SARAH: [laughs] Yes.
+
+ELI: So I think, like, straight-up, are they languages in a linguistic sense? Absolutely not. Is there a mapping between certain concepts? Yes. Is it a useful mapping? I don't know. If it helps you, then like, great, but I actually have always found that it is one of the less useful mappings or metaphors to help me understand what is actually happening in a programming language.
+ELI: Cool! That was a great question, by the way. It's one that I think linguists get asked a lot or variations on that question. Props for asking that question. Props to your dad for asking that question, and let's move on to a question two!
+
+SARAH: Yes!
+
+ELI: Clair asks via email, "I was wondering if you could explain what causes a compound word like 'bluebird' (a bird that is blue) to become bahuvrihi like 'Blackbeard' (not a beard that is black, but someone who has a black beard)?"
+
+SARAH: So I've never seen the word "bahuvrihi" before, so can you confirm my suspicion here: that means when the word itself, like, the meaning is not the same as the noun that it's actually referring to?
+
+ELI: Yeah, it's a—it's a kind of compound word. So there's, like, a whole segment of linguistics that has a bunch of terminology that comes from Sanskrit, and bahuvrihi is one of them, and as you've said, it's a compound where neither of the words that makes up the compound actually is the thing that is referred to by the compound as a whole.
+
+SARAH: Okay, because—
+
+ELI: It's called exo-…something.
+
+SARAH: Sure, yeah.
+
+ELI: I forget. It's like exo-…
+
+SARAH: -referential, or something?
+
+ELI: Yeah, or exo-head, whatever.
+
+SARAH: Sure, that sounds vaguely familiar. But okay, because "Blackbeard" is not black or a beard, it's just a person who has a black thing that is a beard.
+
+ELI: Yeah, I mean the closest sort of—If you wanted a, like, a morphological minimal pair, you might think of something like "blackberry" versus "Blackbeard."
+
+SARAH: Right, okay, because the blackberry is black and a berry—
+
+ELI: And a berry.
+
+SARAH: But Blackbeard is not a beard.
+
+ELI: Yes.
+
+SARAH: Cool, okay! Yeah, so what *causes* a compound word to become a bahuvrihi… I don't think it necessarily *becomes* one, I think it just either is or isn't.
+
+ELI: Yeah, I think this is a—It's a classification rather than a process, right?
+
+SARAH: I think so. And I would say it has to do with… There's probably two main aspects: One is "what counts as a compound and what counts as a word?" So we're back to this again.
+
+ELI: We'll put some psychedelic music behind this segment.
+
+SARAH: Oh my god, right? So actually the book that I talked about last episode, NATIVE LISTENING: There were two things from the limited amount of that book that I've read so far that have really stuck with me, and one of them was the thing about stress patterns that I talked about last time, and the other one was the difficulty that the researchers had in conducting some of this research, because they wanted to compare cross-linguistically how often a certain thing happened in the language, which basically means looking through a dictionary—or like, "how many words in the language did X?" but—
+
+ELI: Ahhh, but again—
+
+SARAH and ELI: —what is a word?
+
+SARAH: And so they actually ended up with a ton more data about Dutch than English, because Dutch doesn't put spaces or hyphens between compound words, ever. They just compound them.
+
+ELI: Yeah, and English does that a lot.
+
+SARAH: Yeah, and English does that all the time. And so when you look in a dictionary, for instance, "White House" is always spelled with a space, and so if you are just looking at a word list you're gonna get "white" and you're gonna get "house," but you're not actually gonna get the phrase "White House."
+
+[Transcript note: We are using "¯" to mean high phrasal stress, "_" for low phrasal stress, and "=" for neutral phrasal stress. There is no standard convention for this notation, but that's what we're using here.]
+
+SARAH: And one of the things about compounds is where the stress falls in them, and that can tell you about the compound word. So when you say "the ¯White _House" and you put the emphasis on the word "white," English speakers recognize that as meaning the specific building in Washington, D.C. where the U.S. president lives, as opposed to "the =white =house," where the emphasis is on "house" or there's, like, an equal emphasis, could just be any old dwelling that is white, anywhere. Likewise the "¯green _house" <greenhouse> versus the "=green =house" <green house>, being either a place where you raise plants or, like, a dwelling that is green.
+SARAH: And so Dutch runs all these things together with no spaces, really frequently, and so they have, like, a much longer "word" list, whereas English has a shorter "word" list, but like, almost like infinitely combinable into whatever kind of compounds you want, you just—They don't visually appear to be compounds.
+
+ELI: And orthographically you get an interesting process in English where when a compound becomes more well-known, it will close up. So it will start with a space and then it will close up, usually with a hyphen, and then with no space whatsoever.
+
+SARAH: Yeah.
+
+ELI: So there's a bunch of really good examples of these. ⟨tomorrow⟩ is a great example, or ⟨today⟩, where it would have been ⟨to morrow⟩, and then a lot of times, especially in sort of, you know, Regency-era novels and stuff, you see ⟨to-morrow⟩, and now it's ⟨tomorrow⟩.
+
+SARAH: Yep.
+
+ELI: Or ⟨website⟩ is one that started with capital-W "Web" space "site" ⟨Web site⟩, and then was really briefly ⟨web-site⟩ and then became ⟨website⟩, just as one word and a lowercase W.
+SARAH: Yeah.
+ELI: A while ago! And then, I think, I don't know, two or three years ago the AP style guide made news by *finally* admitting that that is how you spell "website." Welcome to the 21st century.
+
+SARAH: I know. I'm still waiting for people to decide that ⟨internet⟩ is not capitalized. I don't know.
+
+ELI: Well, I mean. Ugh, the—Ehhhh we're not going to go down this rabbit hole.
+
+SARAH: Yeah, okay. That's another question.
+
+ELI: Okay, maybe we should talk about compounds.
+
+SARAH: Yeah, let's actually answer Clair's question.
+SARAH: So I think so there's the two issues, right, so "is the thing technically a compound? Like, how have we spelled it, what what is our definition of a compound?" That's like a whole other thing that I don't actually know how to answer. But what causes something to be a—oh, I feel like the term for this is, like, a transparent compound like "blue bird" versus a bahuvrihi or more opaque compound like "black bird"—"Blackbeard," rather—has to do with how it gets used.
+SARAH: So the similar one to "Blackbeard" that leapt to my mind, actually, is "grilled cheese."
+
+ELI: Ohh, yeah, because a "grilled cheese" is neither grilled nor cheese.
+
+SARAH: Well, depending on your definition of "grilled" it might be grilled, but it is definitely not straight-up cheese. And so for—I don't know, do we have any international listeners? One day we will. For the international listeners in the future, a grilled cheese, if you're unaware, is the North American or U.S. phrase, I don't know, for a cheese sandwich that has been toasted or grilled or…
+
+ELI: Griddled, really.
+
+SARAH: —griddled! *Heated up* so that the bread is crispy and the cheese is not. It's gooey on the inside, toasty on the outside. But the main—
+
+ELI: Do they—? Wait, are grilled cheeses just a North American thing?
+
+SARAH: Well, no! In the rest of the world it's called a "cheese toastie."
+
+ELI: Oh, yeah, okay. I guess I've heard that.
+
+SARAH: This is one of my favorite parts of, like, existing on the internet is watching one of those international, like, "we call the same thing two different names and suddenly we've realized what we're talking about" or "we call two different things the same name and suddenly we've realized—" Like all those people who were like, "What do you mean, American kids just *make* lemonade?" Because in Europe lemonade is like Sprite, and they thought kids just had stands on the side of the road where they were making soda out of nothing and, like, selling it to garbage collectors, and they were like, "What's even happening??"
+SARAH: So to go back to the thing about grilled cheese: There was all of this discussion that I saw on Tumblr or on Twitter somewhere several years ago, now, where this European person finally figured out that when Americans said "grilled cheese," they didn't mean "take a slice of cheese and grill it on your barbecue in the backyard." Because they were just like, "I don't understand how that would even work!It's gonna melt, right? Like how do you eat that afterward?"
+SARAH: Because what has happened is that the phrase "grilled cheese sandwich"—which also, I saw this question pop up quite recently, which is probably why this came to mind: Is the "grilled" discussing the cheese or the sandwich? In my mind it's describing the sandwich, so it is a "grilled (cheese sandwich)"—
+
+ELI: Yeah.
+
+SARAH: —and the problem is that we've dropped off the actual referent word from that phrase, so we're left with "grilled cheese," which is, in this way, like a bahuvrihi or this, like, opaque kind of compound, as opposed to a "cheese sandwich," which, even if you spelled it with no space in the middle, would be a very, very transparent compound. And I feel like "Blackbeard" is a similar thing, where you were like, "Oh, that's the black-bearded person!" And then, because we are—not lazy, but efficient with our use of words, you don't need to say "person" because there's no other kind of thing that has a beard, at least in that context. So you're just like, "Oh, Blackb—" or because you want to, like, talk *to* them, and you're like, "Hey, I don't know your name!" you know, I can go, "Hey black-bearded person!"
+
+ELI: So while that makes a lot of sense, and actually I really kind of dig the derivational treadmill concept that you're talking about, which is a real thing, in this case, and I think for a lot of these compounds—like "pickpocket" where it's not metonymical; it's, you know, like a role—
+
+SARAH: Mmm, yeah.
+
+ELI: —you know, verb plus noun? You're not gonna—You don't get that derivation.
+
+SARAH: Yeah.
+
+ELI: It just kind of, like—It is what it is. And again, I think, like, Clair is talking about some kind of conversion process, and I don't think that there *is* a conversion process. I think that there really just is "this is one of the ways that we can form compounds in English."
+
+SARAH: Yeah.
+
+ELI: And it is a productive way that we can form compounds in English because we do have this ability to pull in an estimation of, like, "what is the context for this thing?" right? "Blackbeard" is obviously a name, so you're gonna think about, like, "Oh, okay, I guess that's why they call him Blackbeard!" You know what I mean?
+
+SARAH: Right, yeah. That makes sense. It is interesting, because like I was saying earlier, we think about Dutch and German and Turkish and Japanese I think as languages that are very "agglutinative" in the—in the fancy terminology, like, they literally just stick things together, like glue things together, and you can end up with these very long compound words. And English is like that, but not as much. It's still in the middle though because on the other end of things you have things like Spanish and French where you can't compound words very easily at all like last episode we talked about "le fin de la semaine" or like "fin de semana" for weekend where you have to say "end of the week" because those languages don't allow you to just smush two nouns together the way English does and get weekend.
+
+ELI: Yeah, and in particular I think that that specific linguistic taxonomy or typology—the agglutinative/isolating/polysynthetic/etc.—is mostly about where do you put the spaces—
+
+SARAH: Right.
+
+ELI: —a lot more than it is, like—I mean, there is some useful linguistic stuff to be gotten from it, but it really is kind of a little bit more of like "Where does this language's speakers put the spaces? Where do they think that one word ends and another word begins?"
+
+SARAH: Right, and so it's a little bit orthographical that way, but it also isn't. Because it's not like you can say "fin de semana" with or without spaces in the middle. Er, it's not like—Because you can't say "semana fin," like, that's just not a thing. Whereas in English you can choose to say "end of the week" or you can say "weekend." And those actually happen to have different meanings.
+
+ELI: Oh yeah, there's definitely linguistic stuff that you can pull from it, yeah.
+
+SARAH: Right, so the the orthographic convention is what makes it hard to do the, like, English-to-Dutch comparison, because orthographically we have these really different conventions where I think linguistically we actually are much more similar in terms of the types of words we can compound in English and in Dutch. It's just harder to tell because English spells them weirdly.
+
+ELI: I think it also talks about where each language's speakers would say that their words begin and end.
+
+SARAH: Right.
+
+ELI: And that, I think, is connected with the idea of why we keep saying that words are fake.
+
+SARAH: Yes.
+
+ELI: Because that's an important thing, but when you're talking cross-linguistically, it's actually a difference that we really don't care about.
+SARAH: Right, because when you're looking at the idea of, like, "Blackbeard" or "blue bird" or "greenhouse" or "pickpocket," it doesn't matter where you—or if you—put a space. Or "website," right.
+
+ELI: Yeah, exactly.
+
+SARAH: Because those are singular concepts whether or not they're spelled with two visually distinct sets of letters or not. And so even though English is less compounding and less agglutinative than German or Dutch, both in its spelling and in its syntax, it is still quite agglutinative in terms of phrases, and so we can get these recursive, repeating noun phrases and, like, compounds of adjectives and stuff. ELI: Clair, I hope that that is some nice elucidation for you on bahuvrihis and other compounds work.
+
+ELI: Shall we move on to question three?
+
+SARAH: Let's do that. So, question three: Bex asks via email, "If you could snap your fingers and know a new language what would it be? Like taking a point in D&D linguistics, you just know the language as if you were a native speaker: no rules, no restrictions, unless you want to divide into more categories and stuff for a longer answer."
+
+ELI: So I feel like a) we should get Jenny in on this question and b) I think we get like one naturally existing human language and one non-naturally existing language like an alien language or a conlang or something like that.
+
+SARAH: Okay.
+
+ELI: Jenny, do you have any answers to mind?
+
+JENNY: Sindarin.
+
+ELI: Alright, why Sindarin and not Quenya for example?
+
+JENNY: I think a lot of Sindarin words sound nicer than Quenya words, honestly?
+
+ELI: Ooh Lord of the Rings hot take!
+
+JENNY: [laughs] Like, Quenya's really pretty, don't get me wrong. I know a bunch of words in Quenya, too, and a lot of them are very, very lovely, but I really like—Okay, so I guess that's the other thing, is like, I like tracing the sound changes when you Sindarinize words. Like I think that's just really fun, is like tracing how you get from someone's original Quenya name or the original Quenya name of a place to the Sindarin version of that name. I think that's just really fun and interesting to watch happen. Or to figure out how work, you see if you can like go backwards: What would be Quenya version of this name that only exists in Sindarin be?
+
+ELI: I love that!
+
+SARAH: Okay, wait, quick clarification for the not Lord-of-the-Rings linguistic folks aka me.
+
+[JENNY laughs]
+
+SARAH: So is—
+
+JENNY: Elvish.
+
+SARAH: No, I know they're both Elvish, but is Quenya just the older Elvish?
+
+JENNY: Not exactly. They're both derived from an older language that doesn't really have a name? I mean, like, you can—
+
+SARAH: Old Elvish.
+JENNY: Yeah, effectively. Which you have a bunch of elves in what will eventually be called Middle Earth. Some of them pick up and leave to go live on the other side of an ocean, but some of them stay. So you have this one language that then diverges, and the elves who stay, their language is now Sindarin by the time some of the other elves come back.
+
+SARAH: Gotcha.
+
+JENNY: But the elves who come back now speak a different language with this common ancestor, and the language from the elves on the other side of the ocean is now Quenya. 
+
+SARAH: Okay, cool.
+
+ELI: Yeah, the actual depth of Tolkien's philology for his world is—I don't think that there actually has been any other writer who has really—who has really gone to those lengths. There is a reason for all the sound changes, and there's, like, an in-universe reason for languages to go by the wayside and all of that stuff.
+
+SARAH: That's *so* cool.
+
+JENNY: Yes! And you have things where, like, characters will be named and, like, it'll be compounds of two different languages where someone was deliberately like, "You get part of a name from my family's language and a part of a name from your other parent's heritage language," and now these little bits—that's the only remaining amount of that heritage language we have, because otherwise the speakers all died or started using other languages. And it's so fun because there's just so much depth and richness to it because the Lord of the Rings—the entire world started as, like, "Well, you can't have languages without people to speak them! Language is inextricably intertwined with culture; language *is* culture; cultures have languages; you gotta have people to speak your languages!" And so he had to come up with people and culture for the languages he wanted to create, and that's what eventually got mixed in with the kids bedtime stories he was telling to become the Legendarium.
+
+ELI: Yeah, Lord of the Rings is just it is the backstory of the languages that he really wanted to be making.
+
+JENNY: It is!
+
+SARAH: It's—I—Yeah, I don't obviously know as much about the actual languages as Jenny does, but oh my gosh, I just—The whole concept of it is so cool to me, and it kills me when I read other fantasy stories—
+
+[JENNY laughs]
+
+SARAH: Not that other fantasy stories don't have well thought out language! But not all of them do, and sometimes—
+
+JENNY: And nobody does it like Tolkien.
+
+SARAH: Well, nobody does it like Tolkien, and sometimes they don't even try, and I'm like, "Look, I know you're not a linguist, but also. Just—"
+
+ELI: "You could. You could try."
+
+SARAH: "—you could just hand me your draft and I would just fix it for you. You won't even pay me, just let me make it not hurt my head."
+
+[JENNY laughs]
+
+SARAH: Okay, Jenny, do you have a real-world language?
+
+JENNY: I mean, in that case I'd probably have to go with, like, one of the languages I have actually tried studying and not gotten super far in, or one of the languages that I have been like, "I would like to study this eventually someday" and not gotten around to. But in that case, there's like three different answers off the top of my head.
+
+ELI: Real quick, 1, 2, 3: What are they?
+
+JENNY: Spanish, Japanese, Gaelic.
+
+ELI: Cool, done.
+
+SARAH: Okay, I'm stuck, but I'm gonna go with Zulu—
+
+ELI: Ooh!
+
+SARAH: —because I've been fascinated by it for several years since I read about it in a book in high school, mostly because of the way that it handles noun classes. Er, gender-but-not-gender—I think we talked about that previously. And unlike a lot of other languages that I'm interested in, I don't think I'm gonna have a good opportunity to study it anytime soon. So if someone wanted to give me a finger-snap now-you-can-understand-it, that would be cool.
+
+ELI: Oh yeah, definitely.
+
+SARAH: In terms of fictional languages, I mean, the Lord of the Rings Elven languages are a really good choice. I think for the sake of variety… Maybe, I don't know, one of the languages from the Tamara Pierce books! I don't know which one in particular, but especially her Circle of Magic books, the languages are much less obviously based on real-world languages than in the Tortall books, but they have really interesting patterns in them. Like, I think she put effort and thought into the parts of the languages that we see, so I would love to know more about those.
+
+ELI: That's cool. I haven't read those books, but the idea that there is thought behind the languages that go into them, maybe I'll move them up on my TBR.
+
+SARAH: Yeah!
+
+ELI: For me… Again, I mean, if you ask any linguist this question, you are gonna get a lot of hemming and hawing because we all just want to know all of the languages.
+
+JENNY: I mean, yeah.
+
+ELI: But I think… Hmm, I was originally gonna say French, just because it's a language that I just can't like get the hang of and I think would be super useful, but actually I think I'm gonna say ASL.
+
+SARAH: Mmm!
+
+ELI: There's a lot of cool stuff that is in ASL that isn't in a lot of languages but specifically is not in English, which it is sort of most often put up against even though they are not languages that derive from a common source. Plus it just would be 
+really nice to you know have a different modality to communicate in. Sign languages are awesome, and I feel like there is not a lot of research that's been done in them. Definitely not as much as has been done in spoken languages.
+
+SARAH: Mhmm.
+
+ELI: And I just I would love to learn ASL.
+
+SARAH: Yeah, it's been in the news a lot lately because of, like, pandemic and quarantine and all these news conferences with politicians that are helpfully—
+
+ELI: Oh, yeah!
+
+SARAH: —being interpreted into ASL and other international sign languages depending on where the broadcast is, obviously, and then there's this really frustrating, like, response from a lot of the audience where they're just like, "Oh, this is so entertaining or so interesting" or like, "Why is that interpreter not as fun to watch as this other interpreter?" or just, like, mimicking the sign language all the time without actually understanding that it is a language.
+
+ELI: Oh, yeah. I mean, the terp is not there for your entertainment. The terp is there because people need to know what's being said.
+
+SARAH: Yeah, it is—And it is—You're right also about like the different modalities. Like, I mean, it's really awesome to be able to talk to d/Deaf people and people who sign for whatever reason, and it's also just really helpful, like, when you're far away from someone.
+
+ELI: Yeah, actually.
+
+SARAH: Or like, I used to work in a computer lab and the office where the teachers sit? It's kind of like the—What do you call the thing on a spaceship? Command center? Whatever.
+
+ELI: Like the bridge?
+
+SARAH: Yeah.
+
+ELI: The bridge of a space ship.
+
+SARAH: Yeah, it's like—Yeah, so the the office where the teachers sit is like the bridge of like a starship or like the command center kind of thing, and then there's a glass window and then there's the computer lab where the kids sit. And there would very often be one teacher up in the office and one teacher out in the lab helping kids, but you wouldn't necessarily know who needed what because it was all being facilitated through the teacher's screen. And so you'd be, like, motioning through the window or, like, trying to read each other's lips because the soundproofing is actually really good. And I finally got sick of it, and because all the computers are labeled, like A3  and B4, I just put up signs in the office and in the lab that were, like, the whole alphabet and the numbers 1-10, and I was like, "Spell me the name of the computer you want me to go fix!" because that's so much faster.
+
+ELI: Yeah, that's really great.
+
+SARAH: It didn't really stick because I didn't work there long enough for people to learn it, but the concept is really helpful.
+
+ELI: No, but like, I feel like just as a lot of people kind of know a little bit of Spanish—
+
+SARAH: Yeah.
+
+ELI: —like, people should learn a little bit of ASL because it's useful.
+
+SARAH: Mhmm!
+
+ELI: It's useful in the U.S. to know and to kind of have at your disposal.
+
+SARAH: Yes, absolutely.
+
+JENNY: I will also contribute to this. My family's always done a little bit of baby sign—
+
+ELI: Oh, yeah!
+
+JENNY: —which turned out to be super helpful when we realized one of our kids was actually deaf. We were like, "Well cool, glad we've already got several years of, like, low-level knowledge and resources ready to amp up!"
+
+SARAH: Yeah.
+
+ELI: Okay, I haven't talked about my fictional language.
+
+SARAH: That's true.
+
+ELI: I think—I think I'm gonna cheat and just say the Speech. The Speech is a language from Diane Duane's Young Wizards series. If you like sci-fi and fantasy, you should go read Diane Duane's Young Wizards series. It's one of the reasons that the three of us all know each other; it's one of the reasons that this podcast exists! But the Speech is the language of magic or wizardry in that universe. There's a lot of really interesting linguistic and also pseudolinguistic stuff that goes on in the description of the Speech. And it is also—it also functions as a language that is for things that is not wizardry, like a normal communication modality.
+
+SARAH: Yeah.
+
+ELI: Which is an interesting take.
+
+JENNY: I mean, isn't it indirectly why this podcast exists more directly than just "it's why we're friends"? Linguistics After Dark, the CrossingsCon panel, came out of the panels—
+
+ELI: Oh, yes.
+
+JENNY: —that Sarah was doing on the linguistics of the Speech.
+
+SARAH: That's true.
+
+[JENNY laughs]
+
+SARAH: The first year that we did the convention about Young Wizards, which is called CrossingsCon, which you should all come to. See us live! The first year we did that, someone said, "Hey it would be really cool if we had a presentation about the Speech and how it works as a real language." Because unlike Sindarin and Quenya, it's not super, super fleshed out. And that's on purpose, and that's an artistic choice that works really well in the story, but instead we have all these little nuggets about the language; we don't have a ton of, like, actual content of the language. And so I did a presentation about, like, what we do know about it and what it might be like. And then I just kept doing other linguistics presentations sort of related to the books and mostly not.
+
+[JENNY laughs]
+
+SARAH: And then we did this thing! So yeah, go read those books! Find out why we exist! Like, "we" the podcast, not "we" humanity, but.
+
+[JENNY laughs]
+
+SARAH: That's a good answer, Eli.
+
+ELI: Yeah, I'm kind of surprised that the two of you left me that answer.
+
+JENNY: I mean, I realized I could have said that like halfway through Sarah's answer, and I was like, "Oh, that would also have been good and made sense."
+
+SARAH: No, Sindarin is right for you.
+
+JENNY: [laughs] Its really is.
+
+SARAH: I also thought about the Speech, but for the aforementioned artistic reasons that Diane hasn't fleshed it out, I also was like, "Mmm, maybe it's fun to just let it be a mystery."
+
+ELI: Hey Sarah, can you remind us about last time's puzzler?
+
+SARAH: I sure can. Last time's puzzler was from Bill Denlinger via Car Talk, April 2003. We'll put a link in the show notes maybe.
+SARAH: The puzzler went like this: Bill Denlinger apparently has a cousin named Bruno who had a bird feeder. And the bird feeder was like a shallow box, kind of like a cigar box or like a shallow shoebox kind of shape, and he would just put feed in it, no lid or anything. And he watched through the window, day after day, as the birds were taking their food, and he noticed that on some days they would fly in from the north, and some days they would fly in from the south, and some days they would fly in from either direction. And it's not that the birds were tagged—he had no way of actually identifying which birds were which, but he was pretty sure they were just the same group of birds making different decisions on different days about which direction to approach the feeder from. And he thought that was pretty weird, but then one day he was outside refilling the feeder and he had an aha moment and figured out what was causing them to behave in this way. So what did Bruno figure out?
+
+SARAH: And Eli, you said you figured this out pretty quickly: What do you think it was?
+
+ELI: So the clue for me was the fact that he was outside when he had his revelation. And I was thinking about what would he know by being outside that he wouldn't know sitting in his armchair watching the birds? And my thought was that he figured out the wind blows in a bunch of different directions, and so the birds were probably coming in along the wind current.
+
+SARAH: Very good.
+
+ELI: Yay! I got it!
+
+SARAH: You did! So if you also got it, listeners, good job! We're proud of you! And if you didn't, now you know. Hopefully you will have better luck with this week's—this month—this episode's puzzler.Time is fake. Eli, what is this next puzzler?
+
+ELI: So this is a pretty classic puzzler, but I really like it. So this is one of those scenarios where you're, like, trapped on an island and there's an evil overlord who's gonna kill you if you don't do the weird and wacky puzzle things that he says.
+
+[SARAH laughs]
+
+ELI: So he has put you in this area where there is a room. You can't see into the room, but you know that inside the room are three incandescent light bulbs, each in their own socket. And outside the room where you are are three switches, and each switch controls a single light bulb. You can toggle the switches as many times as you like in whatever order you want for as long as you like, and then you get to look inside the room once. And once you're done looking inside the room, you have to tell your evil overlord which switch controls which light bulb or else he will stab you and you will die.
+
+[SARAH and JENNY laugh]
+
+ELI: So how do you do it? How do you figure out which switch controls which light bulb?
+
+SARAH: I'm assuming torturing the evil overlord until he gives you the answer is not what you were looking for?
+
+ELI: No, and in fact we could even say that it's a double-blind torture exercise, so even the evil overlord doesn't know which switch controls which light bulb.
+
+SARAH: Oh!
+
+ELI: They're gonna verify it experimentally afterwards and see if you were right.
+
+SARAH: Yikes!
+
+ELI: Good luck! I do know that this puzzle is out there, so if you can't wait for next episode, you can absolutely google it, but then, as we have said before, that's cheating. So give it a thought, think about the scenario, and we'll give you the answer next episode.
+
+[MUSIC]
+
+ELI: That's it for this episode. Thanks for listening!
+
+SARAH: Linguistics After Dark is produced by Emfozzing Enterprises. Audio editing is done by Eli, question wrangling is done by Jenny, show notes are done by me, and transcriptions are a team effort. Our music is "Covert Affair" by Kevin MacLeod.
+
+ELI: Our show is entirely listener-supported. You can help us by visiting patreon.com/emfozzing E-M-F-O-Zed-Zed-I-N-G (this one's for the Commonwealth listeners) and by telling your friends about us. Ratings on iTunes and other podcast services help as well.
+
+SARAH: Every episode we thank our patrons and reviewers. Today we want to say thanks to these awesome patrons: Mitch, Bex, Dre, Geoff, Inga, Dash, Rachel, and Bryton. And thanks to Shriannan and Actual Real Nadine for shouting us out on Instagram! Thank you!
+
+ELI: Find all our episodes and show notes online at LinguisticsAfterDark.com or on all your favorite podcast directories. And send those questions—text or audio or IPA—to questions@linguisticsafterdark.com. Or tweet them to us @LXADpodcast. You can also follow us on facebook and instagram @LXADpodcast.
+
+SARAH: And until next time… if you weren’t consciously aware of your tongue in your mouth, now you are.
+
+[beep]
+
+ELI: Okay that's fair and I am totally wrong.
+
+[beep]
+
+SARAH: Pause really quick, because [sound of straw slurping]
+
+[beep]
+
+JENNY: Eli, I'd like to introduce you to the concept of cats?
+
+[beep]
+
+ELI: Oh wait, did you want to do—
+
+SARAH: No, that's fine.
+
+ELI: —"tri[pt]ongs"?
+
+SARAH: No, I don't care about them.
+
+[beep]
+
+ELI: "Cruise on down the information superhighway!"
+
+JENNY: Did people actually say that one unironically, ever?
+
+[beep]
+
+SARAH: If you are an Apple loser, you are still—nope.
+
+[beep]
+
+ELI: If you want schwa de vivre merch let us know.
+
+SARAH: Yeahhhh!
+
+ELI: We'll make it happen.
+
+[beep]
+
+SARAH: Quick shout out to all of our listeners for indulging our many tangents.
+
+ELI: I mean I figure if they're still listening then they know what we're about.
+
+SARAH: That's true, like, thanks for being here. We appreciate you.
+
+
+
+48:20ish
+[Transcript note: We are using "¯" to mean high phrasal stress, "_" for low phrasal stress, and "=" for neutral phrasal stress. There is no standard convention for this notation, but that's what we're using here.] 
