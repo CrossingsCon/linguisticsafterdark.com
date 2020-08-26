@@ -27,7 +27,7 @@ $article-link-color: scale-color($link-color, $lightness: -20%);
 $article-divider: 1px solid $black;
 
 $neon-white: $white;
-@mixin neon($color) {
+@mixin neon-border($color) {
   border: 2px solid $neon-white;
   border-radius: 1rem;
   box-shadow: 0 0 0.5em $color,
@@ -46,3 +46,7 @@ $neon-white: $white;
     color: inherit;
   }
 };
+
+@mixin neon-svg($color) {
+  filter: drop-shadow(0 0 0.5em $color);
+}
