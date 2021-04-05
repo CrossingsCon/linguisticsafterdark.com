@@ -1,0 +1,20 @@
+{% capture title %}
+<a href="{{ include.url }}">{{ include.title }}</a>
+{% endcapture %}
+
+{% capture content %}
+<div class="post-content">
+  {{ include.content }}
+</div>
+{% endcapture %}
+
+{% capture footer %}
+<a href="{{ include.url  }}">Read more ☞</a>
+{% endcapture %}
+
+{% include article.html
+  class="post"
+  title=title
+  content=content
+  footer=footer
+%}

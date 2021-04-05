@@ -2,6 +2,19 @@
 layout: page
 ---
 
+{% capture news-content %}
+<p>We're doing a live show as part of <a href="https://lingcom.org/lingfest">LingFest</a>!</p>
+<p><a href="https://www.youtube.com/channel/UCnoP8blIhErEbqme5fPFtwA">Join us on YouTube</a> at 3pm EDT/12pm PDT on April 24 for a couple hours of chaotic language fun, and this time we'll be taking your questions LIVE!</p>
+<p>Hit the Read More link below or <a href="/lingfest">click here</a> for more details.</p>
+{% endcapture %}
+
+<div>
+  {% include news.html
+     title="Linguistics After Dark: Live @ LingFest!"
+     url="/lingfest"
+     content=news-content
+  %}
+</div>
 {% for post in site.posts %}
 <div>
   {% include post.html post=post excerpt=true %}
