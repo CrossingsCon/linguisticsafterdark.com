@@ -2,7 +2,7 @@
 layout: post
 title: "LxAD LIVE @ CrossingsCon 2022"
 tags: [episode, live episode]
-embed: 
+embed: Bonus-Episode-Live--CrossingsCon-2022-e27t680
 transcript: true
 ---
 
