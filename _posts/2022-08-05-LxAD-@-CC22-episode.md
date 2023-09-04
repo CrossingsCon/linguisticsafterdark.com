@@ -6,7 +6,9 @@ embed: Bonus-Episode-Live--CrossingsCon-2022-e27t680
 transcript: true
 ---
 
-Wherein we #GiveLinguistsSwords. (Please note that this recording cut out a lot of background noise and claps/cheers, so if there is a weird volume jump up or down, that might be why.) [Rich text transcript](https://docs.google.com/document/d/e/2PACX-1vRbxMmZMmtgn9s_Qr-XRzUB9unNJJmDPvK1y1OIyim7L3KMZAH0A9k9kWNXzELAS0_f8aRskf54HR9p/pub) (Link at the top is plain text without italics to mark the naming of words, especially foreign ones.)
+Wherein we #GiveLinguistsSwords. (Please note that this recording cut out a lot of background noise and claps/cheers, so if there is a weird volume jump up or down, that might be why.) 
+
+[Rich text transcript](https://docs.google.com/document/d/e/2PACX-1vRbxMmZMmtgn9s_Qr-XRzUB9unNJJmDPvK1y1OIyim7L3KMZAH0A9k9kWNXzELAS0_f8aRskf54HR9p/pub) (Link at the top is plain text without italics to mark the naming of words, especially foreign ones.)
 <!--more-->
 
 ## Jump right to:
