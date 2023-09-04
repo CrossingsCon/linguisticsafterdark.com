@@ -1,0 +1,2313 @@
+2022-08-05 Live @ CrossingsCon
+
+SARAH (voiceover): Hi friends! Welcome back to Linguistics After Dark! This is Sarah with a few announcements before we get this show going. It's been a hot minute since we've released any episodes, and we are so excited to be b  ack. This episode is from our live show at CrossingsCon 2022, and we have a couple live shows from 2021 that we realized have not been released outside of YouTube yet, and two more episodes we recorded... a while ago... that are finally being edited, so there is more new content coming your way soon! Thank you so much for your patience and your continued love and enthusiasm even during our very long and unplanned hiatus, and special shout-out to our new audio- and caption-editor, Luca, and the CrossingsCon video editor, Bex! We would not be able to get this show back in the air without them!
+
+Now, some notes about this episode in particular: Since we were recording live AND in person for the first time, we had a couple audio glitches. Namely, the mic did not pick up most of the intro, and our software was just a tad too good at cutting out sudden loud sounds. So, sometimes when there was a lot of laughter or clapping, the actual dialogue also disappeared. If we could catch or recreate it, it will be included in the YouTube captions and the published transcript, but we did not re-record any of it. We did our best to provide audio descriptions of visual elements while we were talking, and Luca did a great job adding even more of those to the captions and transcript as well.
+
+At the end of this episode, some members of the CrossingsCon staff provided an amazing surprise with help from Producer Jenny—thank you so much to Bex, Anuj, and Pej! I have done my best to record a separate audio-description/re-dubbing of that, which I hope does some justice to the astonishment and delight they gave us. If you have the ability to watch the last segment of this on YouTube, I strongly encourage you to do so.
+
+So, without further ado, if you’ve got a question about language and you want experts to answer it without having done any research whatsoever...
+
+SARAH (live): …we’re your podcast. 
+
+ELI: So settle in, grab a snack or a drink, and enjoy!
+
+ELI: So right about now is when we'd have some little host banter and we'd say, “What are you drinking?” Sarah, what are you drinking?
+
+SARAH: Fire wi— Nope. Fire cider.
+
+ELI: Here you—
+
+SARAH: Which I still don't know what—
+
+ELI: Here you go.
+
+SARAH: —that actually is. Thank you, sir. But I do recommend it if you find it in the liquor store downstairs.
+
+ELI: Yes. Highly recommended.
+
+SARAH: And yeah, very tasty. What are you drinking?
+
+ELI: What a coincidence, I'm drinking the exact same thing.
+
+SARAH: Amazing.
+
+ELI: Oh! It's so nice to be in the same place.
+
+SARAH: It is very nice to be in the same place.
+
+ELI: And with a live audience. [AUDIENCE applauds] So right about now is when we would do the language thing of the day. We're not going to do a language thing of the day today because Sarah gave a whole language panel of the day earlier today.
+
+SARAH: I sure did.
+
+ELI: Apparently today's language thing of the day is abjads versus abugidas.
+
+SARAH: Yes.
+
+ELI: Which, actually, I think we might have already done that at some point.
+
+SARAH: Probably. I will say the language thing of the day is the concept of history. [laughs]
+
+ELI: As we've all learned, time is a betrayal. Instead, we're going to get straight into the questions. I know that you all may have a bunch of questions. Here is basically how this is going to work. We're going to drink, hopefully we're going to get drunk, and along the way we're going to answer your questions probably in a longer way than we would on the normal podcast. We have still done no research whatsoever, and if we cannot answer a question that you give to us, we will drink the rest of whatever is in our cups.
+
+SARAH: Also, just for, I don't know, sanity a little bit, producer Jenny is going to manage the questions. If you think of additional questions during the course of this discussion, feel free to come grab a paper and a pen and write them down, partly so that she can actually keep track of what we're supposed to be talking about, and also because whatever we don't get to tonight will go on the list for eventually a future podcast episode someday. Time, betrayal, etc.
+
+ELI: Yeah. We'll get back to it. We just have to, like, edit the podcast. There are two in the can.
+
+SARAH: At least.
+
+ELI: It's just been… It’s been a year, y'all. All right, by the way, quick hand for producer Jenny. 
+
+[AUDIENCE applauds]
+
+SARAH: Yes.
+
+ELI: All right.
+
+SARAH: All right.
+
+ELI: Yeah, lay it on us.
+
+JENNY: All right, so question number one is addressed specifically to Eli.
+
+ELI: Oh, boy.
+
+JENNY: “We all know that words are fake.”
+
+ELI: Correct.
+
+JENNY: “Is syntax also fake?”
+
+ELI: Mm-mm. Syntax is the shiz. No, syntax is… Actually, no, that's wrong. Syntax is totally fake. Noam Chomsky made it up while he was drunk once in 1955 and no one has looked back. 
+
+[AUDIENCE laughs]
+
+SARAH: Okay. So someone actually brought this question up to me earlier, and I said, “First of all, save that because Eli will have a better answer,” and that was a better answer.
+
+ELI: Did I… Okay, cool.
+
+SARAH: I was going to say, my much less funny answer was, I started to say, “Yes,” and then I was like, “Well, I think syntax is real, but the words we use to name the categories in syntax are not very real,” but that just gets back to “words are fake.”
+
+ELI: Yeah, I… Look. Okay. Well, I'm not drunk enough yet to talk about surface structure and deep structure, but here we go. 
+
+ELI: So, there is a concept that happens in a lot of linguistics that is called surface structure and deep structure, and basically it is the idea that what actually like is produced and comes out of people's mouths and hands and brain is different from what is living inside your brain, and then you like have a have a deep structure and then it undergoes some kind of set of modifications and then gets output into the world.
+
+ELI: And then there is a weird thing called like covert structure and covert movement, which has to do with the fact that there is a hypothesis that all of the transformations that happen from your deep structure to your surface structure, that they are all the same in every language and that the only difference is where in the process it gets cut off. And so then the idea is that when the person hears it, they apply all the other rules or in reverse or something. Linguists getting high? This is the only—
+
+SARAH: Yeah.
+
+ELI: I think this is the only explanation. So here's my thing about syntax and whether syntax is real. There is definitely some rule-defined behavior that utterances follow, and, like, we can clearly say there are some things that are grammatical, there are some things that are not grammatical, and that's like quite clear. Right? So syntax is real in that case.
+
+SARAH: Yes.
+
+ELI: But also it's like really fuzzy around the edges, and so is syntax as a distinct entity real? I don't know. Like, is it out there… Like are numbers real?
+
+SARAH: [laughs] I think there was like—
+
+AUDIENCE: [inaudible]
+
+SARAH: I was going to say there's like a lot of—
+
+ELI: Yeah.
+
+SARAH: —papers that have been written about the reality of numbers or lack thereof.
+
+ELI: Yeah. Yeah. So… sure? [laughs]
+
+SARAH: I just want to explain that I laughed because I misheard you, and you said “surface structure,” and I heard “service structure.”
+
+ELI: Oh, yeah, surface. Like there’s deep, and then there’s surface.
+
+SARAH: Yes, and I was like “deep” and “service,” and then I was like, “I don't know where that's going, but I'm also not drunk enough for that conversation.”
+
+ELI: Unless it's… What's the pointing finger thing?
+
+SARAH: Deixis.
+
+ELI: No, the exclusionary…
+
+SARAH: Oh, oh, I never got that far. I literally don't know what the pointing finger is.
+
+ELI: Yeah, so there's a… Optimality Theory. Optimality Theory is totally fake.
+
+SARAH: Yeah, actually, that's true. Okay.
+
+ELI: Yeah, yeah, so syntax, probably real. Syntax as described by Optimality Theory, bullshit.
+
+SARAH: Follow-up question, are adjectives and adverbs the same thing?
+
+ELI: Yes.
+
+SARAH: All right.
+
+ELI: I don't know what more you want. That's clearly true.
+
+SARAH: They’re the ad[mumbles]
+
+ELI: The A. A.
+
+SARAH: Yeah. Okay. Cool.
+
+ELI: Yeah, we’re like… So I'm a syntactician, a morphosyntactician, because I… Anyway. And we don't believe in parts of speech. We believe in like things that are like parts of speech, but we've reduced them to a single letter so that we want to say “noun,” but then we want to say all of the stuff that is like a noun that acts like a noun but that your English teacher doesn't think is a noun, and so we just call it N instead.
+
+SARAH: Yes.
+
+AUDIENCE 1: Can I— quick follow-up question. Why not just teach the English teachers that all of those things are nouns?
+
+SARAH: Have you ever met an English teacher? [laughs] Because they think they know everything, and if you fight them, they will kick you out of class. In fact… No, she didn't actually kick me out, but one of my English teachers was very, very, very big on prepositional phrases, and she had given us an example and said, “Oh, those cookies are yours for the taking,” and I said, “Isn't ‘for the taking’ a prepositional phrase?” And she said, “No, it's an idiom.”
+
+AUDIENCE 1: What?
+
+SARAH: And I was like, “Yes?”
+
+AUDIENCE 1: “You’re an idiom.”
+
+SARAH: [laughs] “You’re an idiom,” thank you. She was like, “No, that's just like a common phrase that people say.” I'm like, “Yes.”
+
+ELI: Yes, a phrase headed by a preposition.
+
+SARAH: A prepositional one, in fact. And she was like, “No,” and just erased it from the board, and that was the end of that conversation. So that has killed my confidence in English teachers listening to me.
+
+ELI: Yeah, what's next?
+
+JENNY: Next up…
+
+ELI: We're…
+
+JENNY: I think we covered this one already. “What's your favorite word and why?”
+
+ELI: We have covered this one. Listen to the podcast, people.
+
+SARAH: Now, see, that's a fair answer, but also, bold of you to think that I remember what we talked about on our podcast. Also bold of you—
+
+ELI: Yeah, that’s fair.
+
+SARAH: —to think that I still have the same favorite word.
+
+ELI: We— By the way, we're out of fire cider. We've moved on to the mead, just for anybody keeping score.
+
+AUDIENCE 1: Are we going to like stack the bottles in the middle, you know, the empties?
+
+SARAH: Yeah. [laughs]
+
+ELI: [places bottle on table] There you go. One.
+
+SARAH: Do I have a favorite word? Actually, all right. I have a follow-up on the parts of speech and a favorite word in the same answer. My favorite word is a conjunction in Latin, [laughs] because I'm a parody of myself.
+
+ELI: Oh, we're playing— Okay, cool, got it, yep.
+
+SARAH: Do whatever you want. I don't… English is hard. There's too many words.
+
+ELI: There's so many words.
+
+SARAH: How do I pick a favorite? Anyway, it's a very short word. It’s U-T “ut,” and it is my favorite because it is extremely useful, and every time you try to translate it in English you need like five words to connect the two halves of the sentence, and I'm like, “No, ut.” Like, “I went to the liquor store ut buy some mead.” They're like, “So that I could?” And I'm like, “No. Ut.”
+
+ELI: Is that also what they originally used instead of do on the solfege scale?
+
+SARAH: Did they?
+
+ELI: Yeah, I think it used to be ut.
+
+SARAH: Did not know that.
+
+ELI: Or it might have been ut on the low end and do on the high end or something like that.
+
+AUDIENCE (DANNY?): Yeah, do on the high end.
+
+SARAH: Interesting. But also, parts of speech that don't exist in English class but are very useful in syntax: determiner.
+
+ELI: Oh, yeah.
+
+SARAH: And I realized I-don't-know-how-many years into having studied Latin that we were taught as students like, “Oh, there's no word for ‘the.’ There's no word for ‘a.’ There's no articles.” I was like, “All right, sure.”
+
+ELI: Determiners are like articles, but better.
+
+SARAH: Well, yes, so that's what I was getting to.
+
+ELI: Yeah.
+
+SARAH: But then there was also like, well, sometime… They'll be like, “All right, translate the sentence like ‘I gave my dog a cookie,’” and I'm like, “I don't know how to say ‘my.’ Why are you giving me this prompt before you've taught me how to say ‘my’?” And they're like, “Oh, actually, you don't even need to say that in Latin, either. You can, but you don't have to. It's like optional.” And I realized that it's not optional; it's that English uses these possessive adjectives in ways that most other languages just say “the,” and in English it would be weird if I said I gave the dog a cookie when my dog was the only one in the room because you're like, “Well, what dog?”
+
+SARAH: And in other languages if you specified when your dog was the only one in the room, that, “Well, I gave my dog a cookie,” they'd be like, “Yeah, obviously, as opposed to what other dog?” And so I was like, “Oh, it's not that they don't have articles. They don't have determiners, because they don't have ‘a’ and ‘the,’ but they also don't use ‘my’ and ‘your,’ and those words, in the ways that we would use it when most people would say ‘the.’” And I had, like, this great revelation.
+
+SARAH: And then my husband, who is also a Latin teacher, we were doing some nerdy Latin thing. I don't even remember what it was, but it was like, “Oh, we should all say our favorite part of speech.” And I was like, “Determiner.” And he was like, “What is that?” And I explained it, and that is now his favorite part of speech, and I consider this a great victory in my life. All right, what's your favorite word?
+
+ELI: Oh, I thought you were going to ask for my favorite part of speech.
+
+SARAH: Or that.
+
+ELI: It's probably a QP, QP, quantifier phrase.
+
+AUDIENCE 1: Like the Japanese mayo? [kewpie]
+
+ELI: Oh, I love the Japanese mayo, yeah. No, my favorite, I think my favorite word is “susurration.”
+
+SARAH: Oh, that's a good one. 
+
+[AUDIENCE makes “ooh” sounds] 
+
+ELI: Yeah. Yeah, kind of like that. [points at audience]
+
+JENNY: I’m so amused, because I’m pretty sure that is almost exactly what you said last time.
+
+ELI: Yeah, it is.
+
+JENNY: I think it might have been “susurrus.”
+
+ELI: Yeah, it probably was, because it's Tiffany Aching's favorite word.
+
+SARAH: All right. Then my second, my favorite English word is now “tintinnabulation.”
+
+ELI: All right.
+
+AUDIENCE (DANNY?): ding ding ding ding
+
+SARAH: Yes, thank you.
+
+AUDIENCE 1: Because it's Tintin's favorite word.
+
+SARAH: No. [laughs]
+
+ELI: [in a superhero voiceover voice] “He is Susurration. She is Tintinnabulation. Together, they fight crime.”
+
+SARAH: And make really obnoxious noises while they're at it? Yeah.
+
+AUDIENCE 3: Thank you for getting that poem stuck in my head.
+
+SARAH: You're welcome.
+
+AUDIENCE 2: [inaudible]
+
+SARAH: Yes, exactly. Exactly. [inaudible] tintinnabulation.
+
+ELI: All right, Jenny, save us.
+
+JENNY: Okay, so during that I was handed, “What's your least favorite words, and why?”
+
+ELI: I can tell you my least favorite word, actually.
+
+SARAH: Okay, go.
+
+ELI: My least favorite word is “copacetic,” and it…
+
+[audio cuts out]
+
+[AUDIENCE laughs]
+
+ELI: Because it is a… It's… What?
+
+SARAH: Someone just said something and I missed it.
+
+AUDIENCE 1: No, I said, “Just chill out, dude.”
+
+SARAH: Oh, okay. Just checking.
+
+ELI: I mean, see, that's fine. I just feel like it's a word being used, like an overly complicated word that people use just to use an overly complicated word. And I realize the irony in me saying that, but I don't know, usually when I'm using a complicated word I'm striving for precision, and I don't know, there's something about… I'm allowed to have a pet peeve.
+
+SARAH: Yes. Yes, you are.
+
+ELI: And “copacetic,” for whatever reason, just always rubs me the wrong way.
+
+SARAH: I don't know that I have… I'm sure I have a pet peeve like that. I can't think of it right now, but what I'm going to go with as the most annoying word is—or just a word that I occasionally get mad about—is “concur,” because I only heard it used for quite some time in a context that made no… gave no evidence whatsoever whether it meant to agree or disagree. It was just “I concur with X opinion” and I'm like, “That's nice. I also blank-verb about that opinion. Would you like to specify about that?” And because it had “con-” in it, I was like, “Oh, it means ‘disagree,’” and I went for however long with no one actually making clear that that's not what it meant.
+
+ELI: No.
+
+SARAH: And I'm still mad about it.
+
+ELI: Yeah. I also have a least favorite Japanese word.
+
+SARAH: Go.
+
+ELI: My least favorite Japanese word is 便利 [benri], which means “convenient” or “easy” or something like that. And it's actually, it's a really great word. Like, it's commonly used. You'll learn it probably in first-year Japanese. But I just find it incredibly difficult to say.
+
+AUDIENCE: Benri?
+
+ELI: Benri, so… Be-n-ri.
+
+SARAH: Benri. Oh, the N-R is bad.
+
+ELI: The N-R is hard, yeah.
+
+SARAH: That’s really bad. I don’t like that.
+
+ELI: Well, but it's…
+
+SARAH: It’s like “Henry” but with “b”
+
+ELI: Well, but Japanese doesn’t have [ɹ]. Japanese has a flap that is [ɾ]. [bɛnɾi]. Yeah, it’s tough.
+
+SARAH: Okay. 
+
+AUDIENCE 1: It almost sounds French.
+
+ELI: It does, yeah, and it's common enough that like you can't be like, “Oh, I'll never need to whatever, it’s a weird word.”
+
+SARAH: “I'll just find a synonym for ‘easy’ that sounds normal in conversation all the time.”
+
+ELI: But it doesn't. It's got a nuance where there are no easy synonyms to it.
+
+SARAH: Right.
+
+ELI: Yeah.
+
+AUDIENCE 3: Naturally.
+
+ELI: Huh?
+
+AUDIENCE 3: Naturally, because it would be far too simple otherwise.
+
+ELI: Yes, exactly.
+
+SARAH: All right.
+
+JENNY: Next up we have, “What do you think of words that are just combinations of other words, and do you have a favorite combination word?”
+
+AUDIENCE: Portmanteau.
+
+SARAH: Word… Okay. Oh, actually, I have the best combination word, and I will take no arguments about this. So, you are probably familiar with the German word Schadenfreude. This is an excellent word. However, it has a limited scope. [ELI laughs] There is a Latin writer whose name is anglicized as Lucretius, and he wrote a book that for some reason my ninth grade Latin teacher had us read, about… It's literally called On the Nature of Things, and I can't imagine that actually went over with the ninth graders anywhere near as well as he thought it did. 
+
+AUDIENCE 2: De rerum natura.
+
+SARAH: Yes, De rerum natura, and I cannot tell you a single thing about the book itself, but for this joke that has now arisen out of having read it one time, and that is at some point in the book, he talks about the feeling of standing on the shore during a storm and seeing someone else's boat out at sea and not rejoicing that they are in trouble (that would be the schadenfreude), but rejoicing that you yourself are not. 
+
+SARAH: And I was like, “That is actually a very useful idea that we don't have a word for,” and my friends and I just looked at each other and went, “Lucreschadenfreude.” [laughs]. And… so that is my favorite combination word. I did not remember having told that story to one of my students this year until I was at your house [points to ELI] like three weeks ago and got a text from this kid at 1:00 AM that said, “Hey, magistra, what's that word you told us about one time that means ‘standing on the shore blah blah blah’?”
+
+SARAH: And so the next morning I sent back like three very long text messages being like, “Okay, well, this is how you pronounce the German word, and this is how you pronounce the guy's name. This is why the joke means what it means.” She was like, “Thanks!” And then I, like, sent this to a bunch of my friends and I was like, “My student is better than everyone else,” [coughs] excuse me, and then got into an argument about whether you say [ˈʃa.dənˌfɹoɪd] or [ˈʃa.dənˌfɹoɪd.ə], and so I sent back, “Also, you can pronounce it the other way.” She goes, “Good. My dad speaks German, and he would get really mad at me if I said it wrong.”
+
+ELI: Correct.
+
+SARAH: I was like, “I'm sure your dad has a lot of opinions about this made-up word that I made up. That's fine.” [laughs] Anyway, that's my favorite combo word.
+
+ELI: Is there a difference between a portmanteau and a blend?
+
+SARAH: Possibly how fancy you feel like sounding and whether you're going to be annoying about it.
+
+ELI: Yeah, I guess that's true.
+
+SARAH: I literally have no idea.
+
+AUDIENCE (SKYLAR): I know I learned the difference but I have absolutely no idea.
+
+ELI: Yeah, I wonder… I think probably a blend is a supercategory. I think a—
+
+SARAH: Yeah, that makes sense.
+
+ELI: —portmanteau’s probably a—
+
+SARAH: More specific.
+
+ELI: —phonetic overlap, and a blend is probably several things, you know, like “chocoholic” or something like that being a… “Chocoholic” is a really interesting word, actually, because you get the -holic suffix which means, I guess, somebody who's like addicted to or very interested in cannot stop consuming or participating in a thing. It comes from “alcoholic,” right? Except that it breaks the word in a place that “alcoholic” isn't. Right? So you have “alcohol,” “alcoholic,” so that's the thing, and if you think about “alcohol,” it's originally from Arabic, I'm assuming because it begins with al-, and that's a pretty good thing, and so you get al-cohol, right? But nope-
+
+SARAH: Al-cohol-ic, and you’re like, “Oh, yes.”
+
+ELI: We have decided -holic, just going to…
+
+SARAH: “I’m addicted to chocohol.”
+
+ELI: Yeah, exactly. Addicted, right, exactly. I think my favorite innovative non-English blend, since you've—
+
+SARAH: Sure.
+
+ELI: —brought us into German portmanteau is a word that my friends and I came up with when we were studying Japanese in high school. So the word in Japanese for “okay,” basically, is 大丈夫 [daijobu]. It's got a lot of uses because it's a really common sort of conversational thing, and the negative verb ending is -ない [-nai], and so of course, you know, let's say, “Are you okay?” So naijobu, “not okay.”
+
+SARAH: Nice.
+
+ELI: Yeah.
+
+SARAH: Cool.
+
+JENNY: Wow.
+
+AUDIENCE: [inaudible]
+
+SARAH: Okay.
+
+ELI: We had a special delivery question, apparently.
+
+AUDIENCE 1: Arrived by courier.
+
+SARAH: Okay.
+
+JENNY: I’m going to hand this to you because I think you need the visual.
+
+SARAH: Uh-oh. 
+
+[JENNY hands SARAH a paper card]
+
+[ELI and SARAH look at card] 
+
+ELI: This is great audio right here.
+
+SARAH: This is really good audio. Also, you're fired already. I know, I know. “Portmanteaux”—E-A-U-X—“are sweeter. Blends are wine.”
+
+ELI: I don't get it.
+
+SARAH: I think it's just a joke about names of alcohol.
+
+ELI: Ah.
+
+SARAH: I don't… Oh, port is sweeter wine. No. No!
+
+ELI: You, how are you doing on your cider?
+
+SARAH: I added a little mead to it, I'm good.
+
+ELI: Okay, cool.
+
+SARAH: I do not want any port, thank you. I hate port. [laughs] Thank you though. All right, what's up?
+
+JENNY: Next up, “how has profanity evolved with language?”
+
+ELI: Oh. This is a really cool question, and it's especially cool question because we're in Quebec.
+
+SARAH: That is true. So the short answer is—
+
+ELI: You're confused, but you'll be enlightened later.
+
+SARAH: The short answer is “extensively,” but actually, profanity is one of the really interesting things because every culture and every language has at least one set of profanity, and on the whole planet, as far as I'm aware, there are five kinds of profanity. Can I name them? I don't know. Let's find out. Actually, can you name them?
+
+ELI: I cannot, and this is interesting, because… What was I listening to the other day? I was listening to something, linguistics podcast, the other day that actually claimed that there are languages that have things that do the role of profanity but are not profanity.
+
+SARAH: Fascinating.
+
+ELI: Yeah.
+
+SARAH: Okay. Let's try that again. Every culture has ways to be rude to people and be emphatic about things, and many of them are profane. I'm not going to digress about the word “profanity.” Types of profanity include nasty things to say about bodily functions, nasty things to say about sex specifically, nasty things to say about religion, nasty things to say about your family or someone else's family, and the other one.
+
+AUDIENCE: Animal?
+
+SARAH: Maybe.
+
+AUDIENCE: Death?
+
+SARAH: Oh, death might be…
+
+ELI: Yeah.
+
+SARAH: Yeah. I also might have miscounted, but both body parts and animals tend to be subsets of the bodily functions and/or sex categories.
+
+AUDIENCE 2: And family, some of it.
+
+SARAH: Yes. I'm not sure I would call that a body part, but [laughs] yes.
+
+AUDIENCE 3: Are you including something like “May locusts devour your crop?”
+
+ELI: No, that’s like a curse.
+
+SARAH: That is a curse…
+
+AUDIENCE: [inaudible]
+
+ELI: So profanity is like a… It's either like a thing that you shout out when something surprising or painful or something like that happens, or it's a phrase or a word that you use that adds no meaning to the sentence but emphasizes the sentence.
+
+AUDIENCE 3: So someone who doesn't swear would still be using profanity in the grammatical sense.
+
+ELI: Usually, people who “don't swear” [does air quotes] use minced oaths. Right? So they use words that are…
+
+AUDIENCE 3: “Darn it.”
+
+ELI: Yeah. I mean, “darn” is “damn.” It just is. Right? “Frick” is “fuck.” That's…
+
+SARAH: Yes, but also that is… Profanity is not just grammatical. Profanity is like “damn” and “fuck” because the minced oaths do the emphasis, they do the empty meaning, but they are not profane because to be profane is to be taboo in some way.
+
+ELI: Yes.
+
+SARAH: And I am now going to go on my digression about the word “profanity.” Because pro fanum is literally something in front of, and in this case outside of, the temple, and so to be profane is something that you can't say in polite company or shouldn't say in church, so to speak.
+
+ELI: But grammatically speaking, a minced oath is…
+
+SARAH: Oh, yes, it is, but it has a much different sociolinguistic landing. Like…
+
+ELI: Yeah.
+
+SARAH: If a two-year-old says, “Oh, darn it,” I'm going to be like, “Yeah, cool. Also, how did you learn to talk?” maybe. [laughs] Maybe a five-year-old, right?
+
+ELI: They don't have the power of the actual profanity.
+
+SARAH: Yeah.
+
+ELI: Right?
+
+SARAH: But… So then, but there's this overlap between like a “curse” or “swearing” where you're like, you know, “May God smite you”…
+
+ELI: “Damn you.”
+
+SARAH: It's not like rude. Or, like, it is, but it's not like you can't say that in polite company in the way that like “damn you to hell” is a little bit more aggressive. 
+
+ELI: “Bless your heart.” [laughs]
+
+SARAH: Yes. But it is interesting, because even though almost every culture that has profanity has these same four or five categories of things, different ones get different levels of rudeness. And so like in English, or at least in the Englishes that I encounter frequently…
+
+ELI: “Englishes I have known and loved.”
+
+SARAH: And hated. You know, “damn” is like so close to not even being profane that like… Yeah, it's religious, but like, whatever. “Hell”: religious but whatever.
+
+ELI: Right.
+
+SARAH: Whereas “fuck” is like…
+
+ELI: And “shit” and…
+
+SARAH: And “shit” is like getting there. “Fuck” is like absolutely you can't say that. Anything else to do with sex, those words are going to cause a fight if you don't know the person you're saying them to, whereas like in many parts of the French-speaking world merde or “shit” is like whatever. That's fine. That's like “damn” for us, but if you translate it literally, you're like, “Oh wait, they said ‘shit,’” and you're like, “Well, no,” but like…
+
+ELI: You got to take it down a notch.
+
+SARAH: And in a lot of the Spanish-speaking world, the word for “whore” is that level of like “whatever,” and if you just casually say that in English, you're going to get in trouble. And so it's like you can't just take the literal meanings, because it doesn't go one-to-one.
+
+ELI: There's no universal hierarchy of those four-plus categories.
+
+SARAH: Not at all. But then you bring up Quebec.
+
+ELI: I do.
+
+SARAH: And Quebecois swearing is like my favorite thing. [laughs]
+
+AUDIENCE: It’s so cool!
+
+SARAH: It's so weird and very cool, but like okay, so here's the list of things that will potentially… A list of things—this is not exhaustive. But a list of—
+
+ELI: Try them at a local bar tomorrow night. [laughs]
+
+SARAH: Yes. At your own risk. Also figure out how to say this in French, because I'm not going to, but here's the English list equivalents of some words that will get you in trouble. Chalice.
+
+ELI: Chalice.
+
+SARAH: Communion bread.
+
+AUDIENCE 2: Ostie.
+
+SARAH: Tabernacle.
+
+AUDIENCE 2: Tabarnak!
+
+SARAH: Yep. Oh, man, I could do a whole run of them, but now I have to remember.
+
+ELI: Yeah, but like, you get the point. It’s like “stuff found in a church.”
+
+SARAH: It's like every single word you could find in a… Every single noun, noun phrase, found in a Catholic church, if you say it angrily enough in this province, it is a swear word. The minute you leave this province—
+
+ELI: People are like, “What is happening?”
+
+SARAH:  —you are just listing items in a church. Why are you doing this? Yeah. Oh, wait, what's the one that I have… Câlisse de criss de tabarnak de merde is… Yeah, exactly. “Chalice of Christ of the tabernacle of shit” is like an actual thing I've heard someone say in extreme anger.
+
+AUDIENCE 3: Did that person then get thrown out of the bar?
+
+SARAH: It was in a one-on-one conversation, and I did not throw them out, so no.
+
+AUDIENCE 1: That just proves you’re not Quebecois.
+
+SARAH: That is 100% true.
+
+ELI: Yeah. [points to an audience member]
+
+AUDIENCE: [inaudible] but one of the least offensive swear words in the English language means  “condemn to eternal torment.” [inaudible]
+
+SARAH: Yes.
+
+ELI: Yeah.
+
+SARAH: Yeah, “Eternal torment is fine, but if you say anything about my mother, I will send you to that eternal torment.” Thank you. [laughs]
+
+ELI: Yeah, so I mean, like language, especially when you get into language that's being used not to convey its literal meaning but to convey a feeling or to convey a social arrangement or status or jockeying or something like that, you start to get into stuff that doesn't make sense on the surface of it, and you just kind of have to ride the wave.
+
+SARAH: Yes.
+
+ELI: Right? Like things evolve in a certain way, and that's just how they are. Right? You can't… This is sort of like the sociolinguistics version of the etymological fallacy.
+
+SARAH: Yes.
+
+ELI: Right? Where it's like, trying to read meaning into that is just not going to get you anywhere.  Things are where they are, and you just kind of have to accept it.
+
+SARAH: Yes, and kind of a corollary to all of this is that a lot of the profanity and a lot of the, like, commonly accepted emphatic words or emotional words like that do actually make zero sense if you stop to actually, like, hear what you just said, but we don't. And it's fine. And sometimes it's very funny. Like one of my particular favorites is the, in certain dialects where you just append the word “ass” to anything to emphasize, as an intensifier. So—
+
+ELI: “That’s a big-ass truck.”
+
+SARAH: Literally the words I was about to say. But then a lot of my friends will intentionally reanalyze that and say, “A big ass-truck? What's an ass-truck?” And then—
+
+ELI: Well, you could say like, “Come on, Sarah, take a fucking break.”
+
+SARAH: Right.
+
+ELI: Right? And then it’s like, I’m not telling you to go…
+
+SARAH: Right, or I’ll be like, “And he’s fucking a lunatic,” and they’re like, “That's not very nice to say about his partner,” and I'm like, “That is not what I said, but thank you.”
+
+ELI: The words are not there for semantic content.
+
+SARAH: Right, and so-
+
+ELI: The words are there for pragmatic content.
+
+SARAH: Yes, but if you can stop and take the semantic, take a moment and look at them semantically, you can get some good comedy out of it.
+
+ELI: Yep.
+
+SARAH: And it is almost more offensive, or at least you can convey your anger even more sometimes if you step away from the profanity and into the semantically meaningful words, whereas instead of saying, you know, “Damn you to hell,” which is just a thing people say when they're angry, but if you say like, “I hope you step on nothing but Legos for the rest of the day…”
+
+AUDIENCE 1: My God.
+
+SARAH: Right?
+
+ELI: “Hope all your teeth fall out except for one.”
+
+SARAH: Yeah, like, those kind of things are not profane, but arguably much worse to say to someone, and that's like I think something people miss sometimes when they're like, “Oh, people want me to stop swearing and be, you know, appropriate in front of the children,” and I'm like, “Okay, I can still be very rude in front of the children. Please talk to me.” [laughs]
+
+ELI: That’s a… [points]
+
+SARAH: Yes, go ahead.
+
+JENNY: “What rules exist for onomatopoeia, and how do they differ across languages?”
+
+ELI: That's a good question. Oh, is that the question that you had yesterday where you were like…
+
+SARAH: Three hours ago.
+
+AUDIENCE 1: This is the question of mine that we didn't get to in 2019.
+
+ELI: Ah.
+
+SARAH: And then he asked it again three hours ago.
+
+ELI: What are the rules for onomatopoeia and how do they differ across languages? I…
+
+SARAH: I don't know what rules there are.
+
+ELI: Yeah, I think we got to drink our drinks.
+
+SARAH: Probably.
+
+ELI: Because basically, there aren't. There's a lot of reduplication in onomatopoeia—
+
+SARAH: That is true.
+
+ELI: —I will say. Japanese takes this to like a very large extent, but I think there are a lot of… You know, you can say “moo,” but you can also say “moo moo,” right? Like that sort of “oink oink.”
+
+SARAH: Oink oink, cheep cheep, bow-wow.
+
+ELI:  Yeah, that's like a thing that happens. I think you often have things that are not really like phonotactic… Like they're phonotactically valid, but they're clearly not words. Right?
+
+SARAH: Yes, and I just remembered… I don't think we answered this specific question, but during one of last year's live shows, we did talk about vowel patterns in onomatopoeia. Here I am going back to the thing…
+
+ELI: I don’t remember that at all, so…
+
+SARAH: …where I say, “Bold of anyone to assume I remember things we've talked about.” This one I remember because we talked about how at least in English, there's actually a very strong pattern of high vowel before low vowel, and front before back, so you get “tic-tac-toe” and like “tick-tock” and…
+
+ELI: “Seesaw,” maybe.
+
+SARAH: “Seesaw,” yeah, things like that. And I certainly haven't done any sort of cross-linguistic analysis to know if that rule holds up or if there are similar ones, but…
+
+ELI: Yeah.
+
+SARAH: I have a pretty strong instinct that even with a completely made-up set of onomatopoetic sounds, if I told you that a thing went “knock-knick,” you'd be like, “It does what now?”
+
+ELI: I think that's pretty good, actually, yeah.
+
+AUDIENCE 1: I think when I asked the question, I was thinking more about… Like for anyone who's read Calvin and Hobbes, when Calvin, you know, makes a raspberry noise, what Bill Watterson actually writes is something like ⟨plblttlbpltbt⟩.
+
+SARAH: Yeah.
+
+AUDIENCE 1: Which is not a word…
+
+SARAH: Yep.
+
+AUDIENCE 1: …but any English speaker, at least, would know [coughs], excuse me, that that makes a sound [makes a raspberry noise].
+
+ELI: I mean, maybe…
+
+AUDIENCE: But would a Japanese person know [unclear]
+
+ELI: Actually, I can tell you, no, they wouldn't. There's a different word in Japanese for it, but also, I don't know that… I think that that is a convention. Right? I do not think that that is, if I were to grab a random English speaker off the street, I'd be like, “Here is a raspberry noise. Please spell it…”
+
+SARAH: I think also with Calvin and Hobbes, it helps because it's a comic, and so you can see Calvin going [makes raspberry noise] and then you look at the letters and you're like, “Oh, sure, I see how that got there.”
+
+ELI: Yeah, but I think that what that is, is that's like, that's a fact that English teachers have prevented you from learning the International Phonetic Alphabet [unclear]. Bill Watterson can't just write “bilabial trill.”
+
+SARAH: I also do think, though, that you're right about it being like being a convention is a big part of it, because I remember actually, Riker, you said something earlier about like, “Oh, how come you say…” Like, “Why do frogs say ‘croak’ or ‘ribbit’ in English but ケロケロ[kerokero] or βρεκεκεκ [brekekekek],” or whatever, and—
+
+AUDIENCE 2: or just speak to the frog.
+
+SARAH: And part of it may be like a local or a species thing, but also, if you actually listen to a frog, they make all of those sounds. And the fact that I say that frogs say “ribbit” is because either an adult or a little See n' Say toy when I was two told me that frogs say “ribbit,” and so I agreed and said, “Sure.”
+
+ELI: I mean, has anybody listened to a pig and had it come out with a noise that actually sounds like “oink”? [laughs]
+
+AUDIENCE 1: So is that to say that onomatopoeia is cultural rather than linguistic?
+
+ELI: Yeah.
+
+SARAH: Yes.
+
+ELI: And, you know, I have nothing to support this, but I would not be surprised if, for languages that have particularly sort of far-flung speaker spheres, so like in the francophone world or the hispanophone world or whatever, that you find different onomatopoeia in different places. You know, and I think part of it is some of it is convention because kind of if you go up to any, at least any American English speaker, you're like, “What noise does a pig make?” People will go, “Oink.” Right? I mean, you may get some people who snort and that kind of thing. If you ask what sound a cow makes, people will say “moo” unless they grew up in a dairy farm. But if you ask what sound like like a, I don't know, like something makes a [unspellable hissing clicking noise].
+
+SARAH: What does the fox say? [audience laughter]
+
+ELI: What does the fox say? If you ask like, “What sound does like a thing make when it hits the floor?” Right? You're going to get, “Bam, bang.” Right? “Wham.” Right? There's a whole lot of actual answers to that.
+
+SARAH: Yes. I think animal words are much more codified and word-like than truer onomatopoeia. Also, I think it's one thing to say, “Oh, what does a pig say?” or “What noise does a pig make?” whereas if we said, “Listen to this animal noise, possibly not an animal that you know, but just here's an audio. Now spell that…”
+
+ELI: You get something totally different.
+
+SARAH: …I don't think you're going to get like consistent spellings of [makes snorting sound].
+
+ELI: O-I-N-K.
+
+SARAH: Forget that. But like, “Here's the sound of a dog barking. Spell that,” if someone writes ⟨bark⟩, I'm going to say, “No,” and if they write ⟨bow wow⟩,” I'll be like, “Sure, but now here's my little chihuahua. Spell that, and if you write that as ⟨bow wow⟩, we're going to have a fight.” Sorry, I'm extremely aggressive today. I think it's because I haven't slept. [laughs] I don't think drinking more is going to help that problem.
+
+ELI: No, but it is going to make the podcast better.
+
+SARAH: That's fair.
+
+ELI: All right.
+
+SARAH: Next.
+
+JENNY: “In your earlier linguistics panel, Sarah, you said something about softening sounds. What makes them softer?” And then there's like a diagram of Grimm's law and pointing out like /b/ turns to /p/, /p/ turns to /f/.
+
+SARAH: Yeah.
+
+JENNY: And /d/ turns to /t/ turns to T-H [/θ/], and the ones on the right all sound less soft to the question asker.
+
+SARAH: I was so hoping—
+
+ELI: Lenition.
+
+SARAH: —no one was going to ask this question.
+
+ELI: Just blame it on the Germans.
+
+SARAH: Well, right. Okay so we say “softer,” and I say that literally, because that is the technical term of art for a harder and a softer sound, and I cannot tell you what that means. There are a lot of weird phonetics things I can tell you why they are called that, and “hard” and “soft” I actually don't know because… I mean, it has to do, I think, technically, with—and again, this is a literal technical term— the amount of noise created by the sound. So [b] has your voice going and is a very hard stop. It is literally a stop in the flow of air. [p] is a stop in the flow of air but without your voice. [p] goes to [f]. [f] is not a full stop. It's just a slide across your lips.
+
+ELI: That's like, that's softer.
+
+SARAH: Sure, and then [f] goes to [h].
+
+ELI: Which is also, like, softer.
+
+SARAH: Which is softer because it's not on your lips anymore; it's just in the back of your throat. So there is a logic to it, but also in the grand scheme of “is [f] actually that much softer or harder than [h],” no, they're both extremely quiet sounds, shut up.
+
+ELI: Yeah, so the technical term for this is “lenition” (that's for getting softer), and then “fortition” is for getting harder.
+
+SARAH: I forgot “fortition.” I was going to say “fortification,” which is a different word. [laughs]
+
+ELI: And I guess that that means like “weaker” and “stronger.”
+
+SARAH: Yeah.
+
+ELI: Yeah, so sometimes you hear “weaker” and “stronger.” A lot of times you hear “softer” and “harder.” If you… We're not going to pull it up because we don't do any research—it's not how we roll—but you can go and you can see a diagram of sort of all of the kind of usual suspect consonants and arranged in a graph where, harder ones at the top and softer ones at the bottom.
+
+SARAH: Yes, and it's…
+
+ELI: Language sort of flows downward.
+
+SARAH: Yes.
+
+ELI: Historically.
+
+SARAH: And consonants are typically just in general are more… are less nebulous, I will say, than vowels. Vowels are, as we all know, fake. No, sorry, they're the same vowel. Words are fake; all vowels are the same vowel.
+
+ELI: Are the same, yeah.
+
+SARAH: That is true.
+
+ELI: But like, vowels drift— 
+
+SARAH: Yes, so—
+
+ELI: —during language change, like—
+
+SARAH: Well, during language change, and just as you say them. Like when you say a vowel, it is somewhere in your mouth and depending on your accent or how tired you are, it might be in a different place than it was three minutes ago. The letter [f] is always going to be between your teeth and your lip. Like, no matter how tired you are, that is where [f] is.
+
+ELI: Yeah, consonants… This is the thing: consonants are distinct.
+
+SARAH: They're much more distinct. However-
+
+ELI: And then the joke is all vowels are the same vowel because there is a smooth gradient [SARAH says a continuum of vowels] between all of them.
+
+SARAH: Speak whale. Make vowel noises.
+
+ELI: Yeah.
+
+SARAH: But in the sense of like the series of lenition and fortition, I feel like that's one place where the consonants start to break down or have a little bit more subjectivity. Not a lot, but just a tiny bit.
+
+ELI: Yeah, you can— If you sort of look at an IPA chart, and if you— This is really good with the fricatives. If you look at an IPA chart and you kind of just like work your way from left to right, that's the closest thing you'll really get to a continuum of—
+
+SARAH: Yes, that’s true.
+
+ELI: There's that little like thing that's divided in three where it's like “alveolar ridge,” “post-alveolar ridge,” “really post-alveolar,” whatever it says and you're like, “Okay, cool, this is you kind of being like, ‘Ehhh, the tongue can be anywhere in these three places, it’s kind of fine.’”
+
+SARAH: And the fricatives are the only ones where that actually is a difference, because like if you say… So a fricative is the sounds like [f] and [s] and [h] where it's not a hard stop, it's a [ʃ] ongoing sound like friction. You get a fricative.
+
+ELI: You get [f] to [s] to [unclear] to [ʂ].
+
+SARAH: And so-
+
+ELI: You can just drag your tongue across the top of your mouth.
+
+SARAH: With the stop, with [t] and [d], you can say a [t] with your tongue between your teeth or behind your teeth or way behind your teeth and it's still basically [t], but if you say [θ] or [z] or [ʃ], those are definitely not the same sound. So yeah, that's a good…
+
+ELI: Why are we talking about this? Fortition and lenition.
+
+SARAH: Yeah. Anyway.
+
+ELI: Just blame the Germans.
+
+SARAH: That's a good… It's a good option.
+
+JENNY: I was handed this one with the comment “You know who this is from.”
+
+SARAH: Uh-oh.
+
+JENNY: “Do vowels drift like a sunbather on a lazy river or like a drunk pirate captain in the doldrums?”
+
+SARAH: Yes. [laughs]
+
+ELI: “Do vowels drift like a lazy sunbather or like a drunk pirate captain on the doldrums.” I love this question.
+
+SARAH: This is a great question. I still stand by my answer, though.
+
+ELI: Yes? I…
+
+SARAH: Or no.
+
+ELI: Like a lazy sunbather, I think.
+
+SARAH: Yes, I think I agree with that. I also just reject this as the only two options for how vowels can be.
+
+ELI: Yeah, I… Sometimes vowels like march themselves to a different place. You know?
+
+SARAH: What was the… Someone had a really good… I think at some point, either on this podcast or just in a conversation, someone brought up the idea that podcasts actually drift like a trombone slide. That sounds like a podcast thing that we did one time.
+
+ELI: Vowels drift like a trombone slide?
+
+SARAH: Yeah, you go [iɨʉɯ] [says the vowels continuously while making a trombone slide gesture].
+
+ELI: You said podcasts drift like a trombone slide. [laughs]
+
+SARAH: I’m not even drunk yet, but sure. Vowels drift like a trombone slide, thank you.
+
+AUDIENCE 2: [inaudible] spit valve.
+
+SARAH: Yes. Yes.
+
+ELI: The spit valve is the approximant. That's how that works. You know, here's… Look, vowels can be whatever you want them to be, right?
+
+SARAH: Yeah.
+
+ELI: Like, go…
+
+SARAH: Try hard and believe in yourself.
+
+ELI: Yeah. “eeples and baneenees”
+
+AUDIENCE: [inaudible]
+
+SARAH: Yeah.
+
+ELI: Yeah. All right, give us another one.
+
+JENNY: “We know you love puns. What puns work well or best with other languages?”
+
+ELI: This is like— This is an interesting thing to talk about, because not all kinds of humor work in every language, and there are, and it's like highly cultural and it's highly linguistic. Right? And this is like— If you have a language where the forms of words are incredibly regular—
+
+SARAH: Yep.
+
+ELI: —then puns are kind of tough because everything rhymes already.
+
+SARAH: Yeah.
+
+ELI: Right? And so you're like not clever for having picked a word that like has another thing. But if you have a lot, if you have a language where there are a lot of words that sound the same or sound the same except for a stress pattern or something like that—you know, Japanese is one of these, Mandarin is one of these…
+
+SARAH: Yeah. English.
+
+ELI: …that kind of thing—then instead of puns kind of being like, you know, this thing that people kind of groan at and so on, they become literary.
+
+SARAH: Yeah.
+
+ELI: Right?
+
+SARAH: This actually came up, the video I referenced earlier about the history of writing from NativLang (and by “earlier,” podcast listeners, I mean in the presentation I gave that will be on the internet someday)… 
+
+ELI: It's as strong of a guarantee as we're willing to give. [laughs]
+
+SARAH: I personally will put my slide deck on the internet someday.
+
+ELI: Yes.
+
+SARAH: I can't guarantee anything else. Hieroglyphs started out as that ideographic, logographic thing, and then they turned into this, “Okay, the main sound of the word becomes the sound of that character,” and then somehow that eventually changes into an abjad or alphabet or whatever. However, people have this assumption that… Oh, maybe this was a different NativLang video. Anyway, people have this assumption that hieroglyphs then stayed that way in a pyramid, and they are “the Ancient Egyptian thing that stopped.” 
+
+SARAH: And they are ancient and they have stopped, but not as early as you think they did, and that actually for quite a long time before the Coptic alphabet was invented, they continued being the major form of writing in Egypt, full of puns, full of rebuses—not for humor, but just because the word for “mouth” and the word for something else, I forget what, sound alike. And so if I draw the mouth hieroglyph or I draw the eagle hieroglyph and both of those words are the same sound, the already native speaker of that language gets the joke in exactly the same way that we always get it if you see a person's eye in a weird message and you're like, “Oh, that's a pronoun.” 
+
+SARAH: And so… But it wasn't just like the eye and the pronoun. It was like tons of these words and tons of these letters, and then some of them, the eagle and the mouth, would both get reduced down to the same sound because it was still the same major sound, and then those would just be used as letters for each other in spelled-out phonetic words.
+
+ELI: It's like hieroglyphic Cockney rhyming slang.
+
+SARAH: Exactly, and everyone… And frankly, Cockney rhyming slang is a very good comp, because that's the kind of thing that as a non-native user of Cockney rhyming slang, I'm like, “How in God's name did you get from this concept to… Yes, they rhyme, but who would go, ‘My first thought for…’”
+
+ELI: Apples and pears.
+
+AUDIENCE: Stairs!
+
+SARAH: Yes. A lot of things rhyme with “stairs.” Why was I supposed to know that apples and pears was the thing? Like… But people who grow up speaking that are just like, “Yeah. Obviously that's what it is.” And I don't remember where I was going with this, but I think it's very interesting.
+
+ELI: Yeah.
+
+SARAH: Oh, puns. What puns work well in other languages.
+
+ELI: So I think this is actually a really great opportunity to talk about translators.
+
+SARAH: Yes.
+
+ELI: So, translation is really tough, and whenever you do a translation or whenever somebody does a translation, you have to pick what kind of translation you're doing, because you're never going to be able to render something in 100% fidelity. Right? You can try really hard, you are going to incur some kind of loss in the translation, and so you have to decide what you're going to lose. 
+
+ELI: There are a number of authors, for example, that provide translator notes when they have a particular pun or they're setting something up, or there's a reason that they named a character something, or named an entity something or something like that, so that the translator can participate in that pun. And sometimes it's just not possible. Right? 
+
+ELI: And sometimes you don't want that. Sometimes you're doing, “I want the exact meanings of the words as closely as possible.” Sometimes you're going to step back and say, “I want to give people the feeling of this thing as much as possible,” and at that point, you might change names entirely. You might totally localize something. You know, that kind of thing.
+
+SARAH: So I have two thoughts on this. One is—
+
+ELI: Only two. I'm kind of surprised.
+
+SARAH: I mean, I have a lot more. Two that I feel like sharing. One of the really interesting ways to look at, or one of the really interesting sort of case studies of this type of translation is poetry, and in particular given my line of work, I think a lot about epic poetry and about Homer and the Aeneid and frankly Beowulf, which is not a classic in the same sense but falls in the same genre here. 
+
+SARAH: And I think a lot about translations because when I taught AP Latin, the students are responsible for reading the entire Aeneid in English and then selections of it in Latin in class, so I have to pick a translation to have them read. They're not responsible for a particular translator, but if I want them to actually get something out of it, I'm going to say, “Hey, I recommend Fagles,” or Emily Wilson just came out with a new one—and by “just” I mean several years ago, but I haven't read it yet.
+
+AUDIENCE 3: “Tell me about a complicated man.”
+
+SARAH: Yes. But one of the cool things that I don't remember if Emily Wilson did, but somebody did, in one of those recently, was, because Latin poetry is… Latin is one of those languages with these very regular word endings, and so rhyming (a) doesn't matter; it is unimpressive, and, (b) frankly is grammatically impossible a lot of the time. So instead, the poetry is all about the rhythm. And rhyming is a cool thing that happens occasionally, but like mostly is not worth commenting on. 
+
+SARAH: Alliteration is a little bit more interesting, but really the rhythm and the particular word order in ways that don't have to do with rhyming is the thing that's really cool. If you translate a poem like that very literally to get every single ounce of meaning out of those words, it will not be poetic in English, and sometimes I do want to recommend a translation like that, because people want a really literal translation, they want to understand what's going on, or they want the really nitty-gritty plot details, and they're like, “I just want it, but written in English so I know what it says.” 
+
+SARAH: But there's also been some really cool translations where they have taken the dactylic hexameter of the Latin and Greek, which is this very complicated rhythmic pattern, and have tossed that and not even gone to like iambic pentameter or other famous English rhythms, but they've gone to the Beowulf style, the English epic of the half lines with the alliteration. 
+
+SARAH: And to put that much effort into completely transforming the poetic structure, keeping the story but getting this whole new natively English poetic structure that is famous for being the epic poem structure, and taking that and being like, “This is the feel of an epic that a Greek or a Roman would have felt hearing Homer recited,” is like, that's a huge amount of effort. That is a huge amount of work, and so much respect.
+
+ELI: How many people here have read Beowulf? [several AUDIENCE members and SARAH raise their hands] All right, that's a pretty good amount. How many people here have read Beowulf in a translation that includes the original Old English? It's like actually the same people, so well done.
+
+AUDIENCE 2: [inaudible] Beowulf.
+
+ELI: Yeah, so this is… And that is the thing that Heaney tried to do, Seamus Heaney tried to do, in his translation was, as you mentioned, the Old English epic style is a break halfway through the line, and rather than doing very strict meter like Latin went for, English went for alliteration.
+
+ELI: Because English also has this thing where—Old English, rather, has this thing where all the word endings are the same and so rhyming like ain't no shit. Right? You're just going to do it naturally, and so if you want it to be poetic and special, you have to do something. Latin went meter. Old English went alliteration.
+
+SARAH: Yes. Then my second thought on the translation topic is a story about our dearly beloved Terry Pratchett, and— who is well known for his puns.
+
+ELI: Yes.
+
+SARAH: His extensive, innumerable puns in all of his very, very excellent writing. And the story goes that, I believe it was a French translator kept calling him and saying, “I need you to explain this. I need you to… What was the point of this joke? How does this work?” Just kept asking him, and Terry Pratchett lost his shit. He was like, “Will you stop calling me? It is your job to translate the book. I already wrote the book. I did my part. Shut up and translate the book.” And the guy just kept calling and he was like, “This is what I meant by my joke,” or whatever. I might be doing Terry a disservice here, but he got very annoyed with his translator. 
+
+SARAH: And then at Worldcon one year, the translator was there just as an attendee, and they're in the autograph line, and one of the other attendees finds out that the translator is there and says, “I'm sorry, can you also sign—” and drags the guy up and sits him here and says, “Can you also sign my book?” And suddenly every French-speaking Terry Pratchett fan at this whole convention is like, “Mr. Pratchett, please sign my book. Mr. Translator, please sign my book.” And Terry's like, “What?” And then he starts to understand because this guy did such an incredible job at translating every single pun. 
+
+SARAH: I can't remember what they came up with for the French localization of Moist von Lipwig, but it was absolutely as horrendous and ear-splitting in French as it is in English. And just the fact alone that he did that, I'm considering a win, but he did that for every joke, and everyone is so obsessed with it. And Terry just stops and looks and goes, “Oh, no one else ever called me to bother me about my books not because they were good at their jobs, but because they aren't as good as you are.”
+
+ELI: Yeah.
+
+SARAH: And he was like, “I will stop refusing your calls.” [laughs] And I'm just like, that is like the correct respect that we owe to the translators—
+
+ELI: Yeah.
+
+SARAH: —because that is a thankless job a lot of the time and just absolutely mind-boggling to me.
+
+ELI: There's at least one author that I know who has a private forum for their translators—
+
+SARAH: God bless.
+
+ELI: —so that their translators can ask questions and the other translators can see the answers to them so that they can make those translations.
+
+SARAH: That's so good.
+
+ELI: Yeah. All right.
+
+SARAH: Universe, take notes.
+
+ELI: What's up next?
+
+JENNY: First, a quick question from me. Have either of you read the new translation of Beowulf by Maria Dahvana Headley?
+
+ELI: Not yet, but, oh, so good.
+
+JENNY: I’m going to make you both—
+
+ELI: I've read excerpts.
+
+JENNY: —read it.
+
+SARAH: Great!
+
+ELI: I have read excerpts. It's wonderful. So⁠—
+
+JENNY: The entire thing is exactly as good as all of the excerpts are.
+
+ELI: Yeah.
+
+JENNY: It is like that all the way through. It's amazing.
+
+ELI: So for those who don't know, Maria Dahvana Headley has done a translation of Beowulf. She's also done a couple of other translations and it is… Her intent is to make it a translation from, I think it was published in 2021, right? From 2021. So even Heaney's translation sounded like it was from 1915 or something, even though it was published in like the ‘90s.
+
+SARAH: Yeah.
+
+ELI: You know, tried to do this thing where you would still find it to be epic. The Headley translation, I think, translates hwæt… We're not going to go into translation of hwæt.
+
+SARAH: No.
+
+ELI: That's a whole, we'll be here for hours, and we have other questions, but translates hwæt as “bro.”
+
+SARAH: Yes! [fist pumps] Which is up there with “complicated” for Odysseus as insightful and just perfect.
+
+ELI: Yeah. Because “bro” is the new “so.”
+
+SARAH: Yeah, “bro.” 
+
+ELI: And “so” is the new hwæt.
+
+SARAH: hwæt! [laughs]  And that is the title of this episode.
+
+ELI: All right, hit us.
+
+JENNY: Next question, passed to me a few minutes ago when we were talking about softening sound, fricatives and so on. “Are ‘fricatives’ just the minced form of ‘fuckatives’?” [laughs]
+
+ELI: No. Next question.
+
+JENNY: Next question. “For newbies, what is the Linguistics After Dark backstory? Who are you? What are we doing here? What gives you the right to [inaudible] Are the linguistics police going to show up?”
+
+ELI: Okay. So first of all, nothing gives us the right. [laughs]
+
+SARAH: Second of all, the linguistics police live in France, and—
+
+ELI: They have swords.
+
+SARAH: They have swords, and they will not be here.
+
+AUDIENCE 2: [inaudible] la langue française.
+
+SARAH: So the backstory is that I have given too many of these presentations at CrossingsCon, and I have a lot of ideas and not enough time to talk about them. And at some point in early 2019, before the 2019 convention, Eli said, “Hey, wouldn't it be fun if we got drunk and talked about linguistics at a convention?” And I was like, “Yes.”
+
+ELI: Yeah. Well, so, also, you doing a linguistics panel or a—
+
+SARAH: Yes.
+
+ELI: —linguistics presentation invites questions about language that are just about like all kinds of things in language.
+
+SARAH: Yeah.
+
+ELI: Language is an extremely broad topic, and people really like to talk about it.
+
+SARAH: Yeah.
+
+ELI: Especially attendees to this convention. And so you would give a presentation about like comparative-historical linguistics, and somebody would hit you with like a syntax question.
+
+SARAH: Right. And I would be like—
+
+ELI: Right, that is like, it’s not—
+
+SARAH: —“That is just not the topic that I'm discussing today.”
+
+ELI: Yeah, and so we created Linguistics After Dark (a) as a way to, like—
+
+SARAH: Handle.
+
+ELI: —handle all of that stuff.
+
+SARAH: [as if to an audience member] “Thank you, hold that question. Come see us in two hours.”
+
+ELI: Yeah. And (b) as an excuse to get drunk after the official programming was over.
+
+SARAH: Yes.
+
+ELI: Because the first year, it wasn't even on the schedule.
+
+SARAH: Correct. We just did this.
+
+ELI: Yeah, we just did this.
+
+SARAH: But Jenny came with such a stack of questions that we hadn't even gotten to.
+
+ELI: Well, and somebody came up to us and said, “You should start a Patreon and a podcast,” and we were like…
+
+SARAH: And I was like—
+
+ELI: …“Ah, fuck, I think we might have to.”
+
+SARAH: —“Yes, hold that thought. Come back to us in two hours.” [laughs] I was like…
+
+SARAH: And we had been thinking about doing a Patreon too, but at that point it was like, “Okay, here's a Patreon for our next convention in two years, and in the meantime you get…”
+
+ELI: “Updates?”
+
+SARAH: Nothing? And we're like, “But if we did a podcast…” 
+
+ELI: Then that would make sense.
+
+SARAH: And we did. And it's been great.
+
+ELI: Yeah. So for reference, we both have degrees in linguistics. Sarah has a little more claim to being an ongoing language person—
+
+SARAH: [doubtful noises] sure.
+
+ELI: —because she teaches Latin as an actual job. I don't… I sometimes use linguistics in my job, which is being an engineering manager, but I mostly do it in a real oblique way, and my direct reports tend to be real confused when we do it. We could go… I had three straight one-on-ones and I used three different Jewish theology topics in each of them, so really just having a well-rounded background.
+
+SARAH: And they say that a humanities degree is useless.
+
+ELI: I know, right? Really putting the A in STEAM, you know?
+
+SARAH: I know.
+
+AUDIENCE 3: Could we have Religiosity After Dark?
+
+ELI: We can have a Judaism After Dark. That’s…
+
+SARAH: Someone else will have to come be on that.
+
+ELI: Yeah, I guess. I'm still going to have a wug in the logo though. No, so that's the background is, we were basically like, “Look, there's not enough time in this schedule for us to talk about linguistics,” and— Your spouse is probably not tired of you talking about linguistics, but mine would like me to go away and talk about it somewhere else. So that’s… 
+
+SARAH: My spouse puts up with it in very limited quantities until he has a specific question, and then he's like, “Hey, resident linguist,” and then I talk too much, and he's like, “Okay, yeah, you answered my question six minutes ago.”
+
+ELI: But anyway, all of you seem very interested in it, so we turned it into a podcast.
+
+SARAH: Yes.
+
+ELI: I think that that covers why are we here, how did it happen, and why do we have the right?
+
+SARAH: Yes.
+
+ELI: Did we miss anything?
+
+JENNY: “Are the linguistics police coming?”
+
+SARAH: Oh, no, they're stuck in France.
+
+ELI: The linguistics police. I, the—
+
+SARAH: Oh, actually, let me rephrase that. They are either in France—And for anyone who doesn't get that joke, there is literally l'Académie française in France who thinks they are the linguistics police of the French language, and everyone else would like them to go fuck themselves with their fancy swords. They do literally have actual swords—
+
+ELI: They literally get to design their own swords, and they get called the Immortals, and if that's not the most French thing—
+
+AUDIENCE 3: Like Napoleon’s guard?
+
+SARAH: Yes.
+
+ELI: Yes. I think it might be a Napoleon thing too, actually.
+
+SARAH: It might be. Anyway, I want their swords. I want nothing else to do with them. But…
+
+ELI: We really should do swords.
+
+SARAH: We really should get swords.
+
+ELI: We’ve been threatening to do it for a while.
+
+SARAH: Peter Morwood is like vaguely friends with us.
+
+ELI: Yeah, we should ask him.
+
+SARAH: And by us, I mean, the concept of our convention, why don't we have swords yet? Anyway, but the other version of linguistics police would be whoever the hell is on academic Twitter these days, and they are stuck on academic Twitter, so they're also not coming.
+
+ELI: I think Gretchen McCulloch might be the linguistics police.
+
+SARAH: And she's an extremely laissez-faire police officer. [laughs]
+
+ELI: There's no regulation. Linguistics has been deregulated.
+
+AUDIENCE: But not [inaudible]
+
+AUDIENCE 3: And Sanskrit.
+
+SARAH: Gretchen McCulloch lives here. I'm pretty sure it is deregulated.
+
+ELI: What? Not Sanskrit?
+
+AUDIENCE: Perhaps I'm… I’m not nearly as well trained as either of you, but I was under the impression that one of the reasons Sanskrit was incredibly useful as a language for someone who wanted to focus on deeply old-school Indian religious texts like the original form of the Bhagavad Gita, but it hasn't changed because it was so [inaudible].
+
+SARAH: Yeah, so in that case, yes, regulated, regular… Yes. Okay.
+
+ELI: Yeah.
+
+SARAH: But still, anyone is allowed to study it and no one cares.
+
+ELI: Also, all language changes.
+
+SARAH: It does. But there is a point at which it stops changing if it has, then… Well…
+
+ELI: Because it's dead.
+
+SARAH: Because it's dead or is just Italian, but… [laughs] Sorry. All right. I'm going to make another quick sidebar only because that sounded very similar to a conversation I had with a student. To be clear, this was a conversation I had with an 11th grader days before we shut down for COVID in 2020, and I was explaining why you can't use Google Translate, which, first of all, you should not… OK, no. You should use Google Translate…
+
+ELI: Use Google Translate if you are a tourist.
+
+SARAH: If you are a tourist, with a grain of salt, and it is particularly useful if you are going between two languages that are in high-volume use on the Internet, because the way that Google Translate works is by comparing multiple Internet pages and cross-referencing the material on them, which means that things like English and Spanish have a great deal of Internet content from which Google can learn. And as I said to my student, the Romans' presence on the Internet was remarkably small. [laughs]
+
+ELI: There's exactly one Twitter account that tweets in Latin, and it’s the Pope.
+
+SARAH: The Pope. [laughs] Actually, that's not true. There is also the Lego… Lego lexicon… Whatever. There's a Latin Lego account. But that's the two. The two.
+
+ELI: That is the nerdiest fuckin’ thing I've ever heard of, and I have heard of many nerdy fuckin’ things.
+
+SARAH: I don't run it.
+
+ELI: That's exactly what somebody who ran that account might say.
+
+SARAH: I can’t run our social media. Why would I run a Latin Lego account? Anyway, so I said to this kid, you know—and I'm obviously joking, right?—I'm like, “The Romans didn't spend a lot of time on the Internet,” and he said, “Did they not have computers?”
+
+[AUDIENCE laughs]
+
+SARAH: Oh, no, no, no, no, I'm sorry. That's not what he said. He said, “Were they Amish?”
+
+[AUDIENCE laughs]
+
+ELI: That's not even… There’s not…
+
+SARAH: And I said—
+
+ELI: It doesn’t…
+
+SARAH: —they were—Or no, he said, “Are they Amish?” And I said, “They're *dead*.” And he said, “So *more* than Amish.” 
+
+ELI: What? I… What?
+
+SARAH: So I just turn and look at him, and I’m like, “Okay, so you just… I just need you to understand…”
+
+ELI: We need to take several steps back here.
+
+SARAH: I was like… God, what was his name? Tim. Not actually his name, just the random name he told me that he went by, so I don't feel bad about saying that. I've had also multiple students who I've said, “What name do you prefer to go by?” (because lots of them have a name on the register that is not what they go by), and I've had multiple students just tell me a made-up name on day one, and then I find out in June that I am the only person on the planet who calls them that name.
+
+ELI: You know…
+
+SARAH: So that's a fun joke to play on your boss the next time you start a new job.
+
+ELI: I think it's good that you take them at their word.
+
+SARAH: I think so too.
+
+ELI: Yeah.
+
+SARAH: And then everyone else is astounded that I did that. And I'm like, “If I spent every moment of my life assuming that people were lying to me about their names, I would never do anything.” Like, I don't know…
+
+ELI: But like maybe… This is great. Like maybe you're the teacher that like they're trying out a new name on or something, you know?
+
+SARAH: That's what I like to think, and they still are astounded. And I'm like, “Guys, I just have better things to do with my time than second-guess everyone's names. I really, really have other things to do.”
+
+ELI: [in a deadpan voice] “Congratulations. You trolled me. Good job.”
+
+SARAH: Right? I don't care. Anyway, so this kid Tim, I'm like, “Dude, I just need you to understand that you have now created a continuum that goes from alive, to Amish—
+
+ELI: to Roman.
+
+SARAH: —to dead.” So “dead” being more than “Amish.” And I’m like, “So…”
+
+ELI: Like… Okay.
+
+SARAH: “Like where, what do you…”
+
+ELI: We don’t have time to unpack all of that.
+
+[audio cuts out]
+
+SARAH: So just, so yeah, don't use Google Translate for Latin. The Romans are more than Amish; they are dead. They did not have an internet connection, and therefore, the amount of Latin that Google can learn from is very small. That is the lesson that I give you today.
+
+ELI: Yeah. All right.
+
+SARAH: Next question.
+
+ELI: What's next?
+
+JENNY: Next question. “Sometimes if you guess a word in another language, you end up saying something really wrong. Are there any particular examples you enjoy?”
+
+ELI: Oh, I mean, okay, so I've got two and it's Spanish. One of them is the one that everybody knows.
+
+SARAH: Yes.
+
+ELI: Right? Does anybody—
+
+JENNY: I’m guessing it’s the one written on the question card.
+
+ELI: Yeah, does any— Who speaks Spanish here? [AUDIENCE members raise their hands] We got like a fair number of people. Okay. What is the… What's the example I'm about to say?
+
+AUDIENCE: Embarazada.
+
+ELI: Yeah, exactly. So embarazada means “pregnant.” It does not mean “embarrassed.” This is a thing that a lot of English speakers, it's a problem a lot of English speakers have made. The one that actually happened to my Spanish teacher—and I remember this because we were talking about… So in English, if you want to say like, “My temperature is high,” you say, “I'm hot,” or, “I'm warm.” In Spanish, you use tener if you say it.
+
+SARAH: “I have heat.”
+
+ELI: Tengo calor, “I have heat,” right? Tengo frío, “I'm cold.” Tengo hambre, “I have hunger, I am hungry.”
+
+SARAH: Yeah. Yeah.
+
+ELI: “I am hungry.” Right? She was playing tennis with a male friend of hers, and she had been playing tennis and they were active and she was sweating, and she went up to him and she forgot and she said, Estoy calor [he meant caliente], which does mean “I'm hot,” but it really means “I'm hot for you.” And so that's a mistake not to make, that if you say that you really want to mean it. You know?
+
+SARAH: So I actually have a distressingly on-topic follow-up to that.
+
+ELI: Which Latin student is this one about?
+
+SARAH: None of them. None of them.
+
+ELI: Good.
+
+SARAH: This is at least a third-hand story, but it is too funny not to repeat. So with all of the necessary caveats that maybe this is true, but I don't actually care. And again, this is going to be really excellent audio content because it's a sign language joke, but it's fine. 
+
+SARAH: So in American Sign Language, there is a not 100% consistent, but a somewhat consistent pattern that you can make a similar sign with your index fingers [holds up index fingers] to mean the literal physical version of a thing, or with your middle fingers [holds up hands palms out with middle fingers bent slightly forward] to mean the emotional version of a thing.
+
+[ELI jerks both hands upward with index fingers pointing up] 
+
+SARAH: For the audio, Eli just put his pointer fingers up and pointed them at the audience as if it were a middle finger, but it wasn't. So, this story came from someone who was a volunteer camp counselor at a Deaf camp. And it was a relatively, it was old school, it was a relatively conservative camp, it was like all the boys and girls did things separately, etc. And one day, some of the girls snuck out of wherever they were supposed to be and went to go watch the boys while they were swimming, because nothing could be more exciting than watching high school boys smack each other with pool noodles or something.
+
+[AUDIENCE laughs]
+
+SARAH: Who knows. And so this poor counselor—who is not a native signer, she like is a good signer, but not a native signer, and therefore missed what she was about to say—she walks, she finds the girls and she says, she's like, “Oh, no, no, you got to come… The boys are shy.”
+
+SARAH: [signing along COME COME, BOY-BOY SHY]
+
+SARAH: But she misses on “shy” and instead of saying [turns face down and to the side and with hand rotating on outside cheek] like “private,” “shy,” whatever, she says they're “blushy” [repeated hand movement on outside cheek, less rotation, no turning of the face]—they're “whores.”
+
+[AUDIENCE laughs]
+
+SARAH: [signing BOY-BOY WHORE] “The boys are shy.” And the kids look at her like, “They're what now?” 
+
+SARAH: “They're shy, come on, you know, [signing HUNGER (by mistake)] it's hot, right? [signing YOU-pl THIRST-middle-finger] Aren't you thirsty? Let's go get a drink. [signing BOY WHORE] The boys are shy.” And these poor kids are just…
+
+ELI: For those of you at home, Sarah has signed “thirsty” with her middle finger…
+
+SARAH: Indeed.
+
+ELI: …creating an emotional resonance to the word.
+
+SARAH: Yes! So she says, “It's so hot out here. Aren't you horny? The boys are sluts.” There are these poor middle school, high school students are just looking at her like, “You said what? You said, don't watch them in the swimming pool? Because I'm horny?” And bless every single one, none of the children said a thing. They just looked at her and went, [tilts head in disbelief] “Uh-huh?” And somehow, at some point, someone informed her what she had said and she was like, “Thirsty. Pointer finger. That's a good word to know.” That's one of my favorite stories.
+
+ELI: I don't think we can top that. We need another question.
+
+SARAH: [inaudible]
+
+ELI: Yeah. There's nothing else to say, really. All right. Like, yeah.
+
+JENNY: “I've heard that the Odyssey’s description of the sea implies that Ancient Greek did not have the word for blue. It was wine dark. Does that mean that it didn't have the word ‘blue’?”
+
+SARAH: It does not mean that. What it means is that different languages—
+
+[ELI takes SARAH’s cup to pour a drink] 
+
+SARAH: (thank you)
+
+SARAH: —and different cultures, prioritize different aspects of color in different ways. And English—and a lot of modern languages, but certainly not all of them—prioritize the hue of the color. And so—
+
+ELI: The hue of a color is like where it is along the rainbow.
+
+SARAH: Yes. And so this baby blue postcard, and Lauren's cobalt blue T-shirt, and the vaguely teal-ish sweater sitting on that chair are blue. And that's fine. In other languages, this baby-blue postcard and this white sheet of paper would be the same color. And the purple, very rich royal purple carpet and the royal blue T-shirt would be the same color because they are the same darkness, rather than the same point on the rainbow. 
+
+SARAH: And Ancient Greek is one of the darkness-focused languages. So when they say “the wine-dark sea,” it's not that— I mean, that is also a very English way of saying it. What they would say is like “the wine-,” “the winey,” “the wine-ish,” “the of-dark-red-alcohol” sea, right? But if you just say that in English, it sounds like it's made of blood, and that's creepy.
+
+ELI: “Ah, the winey sea.”
+
+SARAH: [laughs] Right! Or it sounds like it's extremely emotional, which is a different word. and so we say “wine-dark.” 
+
+[ELI signs “thirsty” with a middle finger]
+
+SARAH: [laughs] Eli making “thirsty.”
+
+ELI: With a middle finger.
+
+SARAH: With a middle finger. I mean, did you hear—And so, yes, we say “wine-dark” because that's the best way of getting both the meaning and the actual useful effect of the word in that translation into English. It's not as though they would look at the sky and go, “Oh yes, the wine-colored sky.” I mean, if they did, that would be very stormy indeed. But yeah, we prioritize color words differently.
+
+ELI: Yeah.
+
+SARAH: And I will say my go-to facts and the follow-up of that are that Russian also focuses on the rainbow on the hue the way that English does, but it divides blue into light and dark blue in a very distinct and arbitrary way where we're like, “Oh, yes, all of these things are blue,” and they're like, “No, this one is this word and this one is that word, and how dare you think that this postcard and that T-shirt are the same thing? Shut up.” 
+
+SARAH: On the flip side, traditionally, until Crayola, Japanese considered green and blue to just be the same color. The phrase “Eat your greens” in Japanese is blue. The traffic light is blue, because those phrases were in the language before the distinction between those colors existed. But then Crayola happened. 
+
+SARAH: Literally, Crayola happened. They sold those eight packs of crayons where green and blue were different crayons, and suddenly Japan was like, “Shit, we have to name them different things. Okay,” and so they were like, “Well, you know, the word that's like teal or whatever,” they were like, “All right, this is green and this is blue,” but blue is the older and like more traditional word, and so vegetables and traffic lights are still blue.
+
+ELI: And you also often can get a little bit of a sort of an old-school or literary sense by using “blue” for something that is that blue-or-green.
+
+SARAH: Yes. Which I feel like also in English, we get a little bit if you distinguish like purple or violet from blue or not.
+
+ELI: Yeah, you can get that. You know, there's also, there's stuff like, you know, pink is light red.
+
+SARAH: Yeah.
+
+ELI: Brown is dark orange. Right? But in English, you know, we really have brown and orange are—
+
+SARAH: Are normal colors.
+
+ELI: —different colors, right? Pink and red are different colors. And so you can split up the color space in a whole bunch of different ways. There's a thing you can go out there and you can see that most languages, their base words for color, that there is a bit of an overall pattern that seems to happen where you often get red as the first distinct—
+
+SARAH: Like white, black, red.
+
+ELI: Red, and then I think you get yellow or blue or something like—
+
+SARAH: Yellow or blue. Then the other one.
+
+ELI: And then the other one.
+
+SARAH: Then green. And then it's a free for all.
+
+ELI: Yeah. And, that is a, it's a pretty reliable pattern, but I think the thing you should be cautious about is that people then try to read into that pattern and start to read like values into that pattern. And like, don't do that. It's just language. Language is arbitrary. Like, don't stress about it. Don't worry about it.
+
+SARAH: Also, like if you've ever looked at the fricking wall of paint strips at Lowe's, like sure, we have eight Crayola color names. There are way more than eight colors on that paint wall. We can see all of them. We know they all exist. We just haven't named every one of them except for that poor schmuck at Lowe's who had to be like, “This one is daffodil, and this one is baby daffodil.”
+
+ELI: I think it's pretty standard across a whole bunch of color models, but maybe this is me coming from a tech background, but it's pretty standard across a whole bunch of color models to have three axes, and the axes are not always the same.
+
+SARAH: Yeah.
+
+ELI: But, you know, hue is not the only axis along which you can index color.
+
+SARAH: Yeah.
+
+ELI: You can index it along saturation. You can index it along lightness. You can split up that color space in a lot of ways.
+
+SARAH: Yup.
+
+ELI: Tips for your next conlang: split up the color space in like a weird way.
+
+SARAH: Yeah.
+
+ELI: Yeah. Yeah.
+
+SARAH: I had one other weird… Oh, actually two other weird color facts. One is that the word… Oh, shit, I'm going to get this backwards. Not doing the research, look it up yourself. It's either that the word “yellow” comes from the PIE root for “blue” or vice versa, but of all the colors you would be like, “Oh yes, those two used to be the same color, and now we've differentiated them,” I have never once been like, “Yes, yellow and blue, those are the same color in my head,” but to someone they were, and that's a fun fact. And the other one—
+
+ELI: I didn’t know that.
+
+SARAH: —is that the color orange… Well, so this actually came up, last night I think I was talking to you and Megan and a couple other people about how the Greek word for the fruit orange is πορτοκάλι [portokáli] [mispronounced, oops], which just means “the thing from Portugal.” 
+
+SARAH: And I was like, “That's cool, because, so this fruit is so freaking weird that pretty much every language, the name for it is ‘the thing that X,’” either “the thing that is that color” or “the thing that is from the place that we don't live.” And everyone in the world was just like, “Yeah, you know, that weird piece of citrus fruit.”
+
+ELI: That reminds me of turkeys.
+
+SARAH: Yes.
+
+ELI: Yeah. 
+
+SARAH: And Megan said, “Well, so what's the color for orange in Greek?” And I was like, “I don't know. The only things I know about Greek colors are the wine-dark sea, and that stopped being relevant 2000 years ago, so please don't ask me about the Greek words for color.” 
+
+SARAH: But also fun fact, the word “mandarin” (in terms of “mandarin oranges”) comes from the particular group of Chinese people for whom the Mandarin language is named, who were monks who wore orange habits, and so the mandarin orange as a fruit is the thing that is the color of the Mandarin people. And so a mandarin orange is the thing that is that color that is that color. And every person in the world is like, “It's the thing that's that color from the place,” and we have nothing more to say about this word, this item. And I just deeply enjoy that.
+
+ELI: That makes me think about cappuccinos.
+
+SARAH: What?
+
+ELI: It makes me think about cappuccinos.
+
+SARAH: Yes, please say more.
+
+ELI: So if you think about coffee drinks, espresso drinks in particular, right? The caffe latte, a lot of people just say latte, but it's caffe latte. It's a coffee with milk.
+
+SARAH: Yep.
+
+ELI: Right. Cafe, coffee, latte, milk. You know, you can start, a macchiato is a, is a shots marked. “Macchiato” is “marked,” right? “Doppio” is “double,” all of this stuff. And then you get to cappuccino, and it's not “caffe cappuccino.” It's just “cappuccino.” And you're like, “What the fuck is this?”
+
+SARAH: Wait, is this related to monkeys?
+
+ELI: No, it's related to monks. [laughs] Should have stopped one syllable earlier.
+
+SARAH: Capuchins, but keep going.
+
+ELI: So the Capuchin monks have a habit that is the color of Capuchin monkeys, and the—
+
+SARAH: Ohhhh, okay, I was close!
+
+ELI: —cappuccino, which predates espresso—so now we make it with espresso, but it predates espresso—it was made with coffee with milk added—
+
+SARAH: —Until it was that color.
+
+ELI: —until it was the color of the robes of the Capuchin monks. That is a cappuccino.
+
+SARAH: That's brilliant.
+
+ELI: Yep.
+
+SARAH: I think we should make all of our drinks as a society from now on the color of a certain person's shirt.
+
+ELI: Give me a caffe Jesuit.
+
+SARAH: I don't know what color Jesuits wear, but if it's not a shade of brown, I'm really concerned. Yes, Lauren.
+
+LAUREN (AUDIENCE): What about turkeys?
+
+ELI: Oh, right. So turkeys are those birds from Turkey, which they're not. And I think French, it's dinde, right?
+
+SARAH: Yeah.
+
+ELI: Because it's those birds from India or the Indies. I mean, they are… They're not from India. They are from, I guess, technically the Indies in the colonial “we just called everywhere that isn't Europe ‘the Indies’ way.”
+
+SARAH: I didn't actually know that about the French etymology. That makes a lot of sense.
+
+ELI: Yeah. Turkeys are native to North America, and central America also, I think.
+
+SARAH: Yep.
+
+ELI: But they are named for being a bird from somewhere else. So it's the same thing as the orange where they're like, “You know, that fruit from Portugal.” Yeah. There's this… This is way off-topic now, and after I say this, please get us another question so that we can…
+
+ELI: But the phrase “It's all Greek to me,” you know, meaning “I don't understand it,” you can get a whole bunch of languages, they have very similar phrases, or they say, “It's all some other language to me,” and you can assemble them into a giant directed graph with what language points to what, right? So English would point to Greek because we say, “It's all Greek to me.” I think Greek says, “It's all Egyptian to me,” and you can follow it down and eventually it ends in…
+
+SARAH: Two languages, right?
+
+ELI: Well, it ends in Chinese, and the Chinese says, “It's all heavenly script, and we can't read heavenly script, so we don’t know what it says.”
+
+SARAH: That's true. Oh, that's right. That's right.
+
+ELI: There's a couple of cycles in there also, I think.
+
+SARAH: Yes. There's definitely one where it's like someone says, “It's all Elvish,” and the Elves say it's all Dwarvish, and the Dwarves say it's all Elvish, except like actual languages that I don't know.
+
+ELI: Jenny, save us. From our…
+
+JENNY: [inaudible]?
+
+SARAH: No.
+
+ELI: No, from ourselves.
+
+SARAH: What is your question?
+
+ELI: Save us from ourselves.
+
+JENNY: The funny thing is, you've already kind of answered the next question: 
+[ELI holds up a hand for high five, then taps SARAH to get her attention. SARAH turns around and gives high five]
+JENNY: “If mandarins, the fruit, are named after the orange scarves worn by the scholars, what's the origin of ‘orange’? Do they call them Portugals in Greece? And is the color orange called Portugal in Greek?” So my next question was actually going to be setting this one up: “Can you go over the etymology of Mandarin? Why is it called that?” So…
+
+SARAH: Yes. Did, yeah. Great. Thank you. Check, check, check. Is that in Greek? I don't know. Where does the word “orange” come from?
+
+ELI: I think it's the House of Orange, isn't it? [SARAH hums “I ’unno”] It’s the House of Orange, which is a Dutch royal house.
+
+SARAH: But also, is it cognate to anaranjado?
+
+ELI: I think it all goes back to the house, or possibly they saw that they were the same word and just decided…
+
+SARAH: Oh, that's true. Also, that is like the color of the Netherlands.
+
+ELI: Right. So…
+
+SARAH: It’s a horrible color.
+
+ELI: The House of Orange, William Orange is a famous Dutch monarch, and their arms and stuff are all orange, which is like brown.
+
+SARAH: And by “orange,” I don't mean like the crayon color. I mean like the ugliest traffic cone and like “see me in the middle of the night glow in the dark” orange you've ever encountered. That is the color of their national soccer team, and you will be blind once you watch the game.
+
+ELI: But you will see them coming.
+
+SARAH: You will see them coming.
+
+ELI: And so people were just like, “Right, that color.”
+
+SARAH: “That color.” Yeah, and that sounds about right. Yeah. Also, side note about the word “orange.”
+
+ELI: Do you mean “norange”?
+
+SARAH: I do not mean “norange.” I mean ['ɑɹˌɪndʒ]. I grew up in Ohio in the U.S. My accent/vowel acquisition has stolen things from a lot of places. But I have never once in my life, except on extreme purpose, said [ˈɑɹˌɪndʒ], which is how my husband pronounces that word all the time.
+
+ELI: [ˈɑɹɪndʒ].
+
+SARAH (agreeing): [ˈɑɹɪndʒ].
+
+ELI (objecting): [ˈoɹɪndʒ].
+
+SARAH: And it occurred to me when I was 30 years old, that the joke “Knock knock, who's there?” “Banana. Orange-a glad I didn't say ‘banana’?” makes infinitely more sense if you say [ˈɑɹˌɪndʒ] instead of “[ˈoɹndʒ]-a glad I didn't say banana,” which I was like, “That's the world's worst pun. What dad joke knock knock nonsense is this?” And then three decades into my life, I was like, “Oh… Wait, other people say that word in a way that makes the joke funny.”
+
+ELI: It's just like me understanding that E-R is British for “uh.”
+
+SARAH: Yeah.
+
+ELI: So a lot of British accents are non… For people who did not quite get that, a lot of British accents are non-rhotic, which means that they don't pronounce Rs, and so if you have a word like “uh,” a filler word, you might spell it ⟨er⟩ or ⟨errrr⟩, and then if you pronounce that in a non-rhotic accent, you get “uhhh.”
+
+SARAH: Yep.
+
+ELI: I thought people actually said /ə˞::/.
+
+SARAH: But here’s the thing. I do say that, because I’ll say—
+
+ELI: And people now do say that because that’s how it’s been written.
+
+SARAH: Well, but I’ve said that even before seeing it written. I was like, “Oh, that must be the sound that they're making,” because I'll say, “I mean, this /ə˞::/,” because I'll like say “or,” but I'll pause and I'll end up on /ə˞/, and I'm like, “That must be what they're always saying in Harry Potter. I wonder why they always pause on that one….” No, that's just how we spell that in British.
+
+ELI: Yeah. That connects to the earlier onomatopoeic question, actually—
+
+SARAH: Yes, exactly.
+
+ELI: —where if you ask somebody to write down how to spell a thing—
+
+SARAH: How to spell a thing. Yeah. Wait, hold on, something else about…
+
+ELI: Oranges? Mandarins? 
+
+SARAH: …either oranges or…
+
+ELI: Monkeys?
+
+SARAH: Oh, oh, words that you thought sounded alike, whatever. In my original dialect where I grew up, the word… Well, I'll say this: I drive past churches sometimes that are called “All Souls’ Parish,” [laughs with audience] and where I grew up, “parish” like a church and “perish” like dying sound exactly alike. And I, every time I drove past a church like that, I was like, “Man, that's grim.”
+
+[AUDIENCE laughs]
+
+SARAH: But also a lot of people who go to churches by that name are in places where those don't rhyme, and so it's not horrible, but I just spent several decades of my life being like, “Why do people keep allowing that to happen? No one should name their church ‘Everyone dies.’ Like we do, but we don't have to say it.” Anyway.
+
+ELI: Yeah.
+
+SARAH: Next.
+
+JENNY: “What part of language do you think is the most useless?”
+
+ELI: Oh. Semantics. No, you said language, not linguistics. [leans into the microphone] Sorry, semanticists.
+
+SARAH: The thing is that I like that presumably I'm supposed to be offended and be like, “None of them are useless,” but really my answer is, “We have to pick one?”
+
+[AUDIENCE laughs]
+
+ELI: And this is a great time to talk about redundancy—
+
+SARAH: Yes!
+
+ELI: —which you touched on a little bit in your panel earlier when you were talking about what's the balance between putting the onus on the speaker to do all of the work and putting the onus on the listener to do all of the work. I mean, you use “speaker” and “listener,” even though signed languages are a thing.
+
+SARAH: And writing is a thing. We know. Just work with us here.
+
+ELI: Right. But, you know, you see this over and over where somebody has a conlang and they're like, “I'm going to do it. I'm going to iron all of the redundancies out of language. I'm going to make everything logical, and I'm going to classify it and so on,” and it's just like, no, you're not, because that's not how this works. So there's a lot of redundancy in language. 
+
+ELI: There's agreement, right? So where you have like a noun and then all of the adjectives will agree with it. That happens a lot in Romance languages where you have like a verb that indicates that, that redundantly indicate like what person the subject is and the object is and that kind of thing. And the thing about this is that that redundant information means that you can reconstruct what you heard or confirm what you heard from imperfect listening or imperfect perception. Right? 
+
+ELI: And so that isn't, “Oh no, why is this extra thing here? It must be like a weird leftover whatever.” What it is is, it's an error correction feature. It's a safety feature. You know, it's a “shouting across a crowded room” or an “I can only see your lips” or…
+
+SARAH: It is a feature that is there for…
+
+ELI: The fact that we use it to communicate with each other.
+
+SARAH: Well, right. For the fact that we communicate, and also the thing I said earlier about how, like, writing systems were invented to be useful to people who already speak those languages. The redundancy is in there for a very similar reason. It is not to make your life hell as a second-language learner. It is there because people who are actively using the language at any level of proficiency are going to make mistakes, and having redundancy allows you to capture those and correct for them.
+
+ELI: Yeah, I mean
+
+SARAH: So if I say like, “I goes to the store,” you're like, “Oh. Well, either someone else goes or I go. Something got wrong there. I'm going to keep listening and figure out where the error was,” or, “Goes to the store. I didn't hear who it was, but I can already infer it's a third person. Probably.”
+
+ELI: And so that's why languages like pro-drop or copula-drop often have other kinds of redundancy built into them, you know, and you have… The idea where you can narrow down what's going on in a sentence, you know, like, I will bet that you can predict what word is going to end this… [gestures for Sarah to answer]
+
+SARAH: Phrase.
+
+ELI: There you go. So, you know, I think that there's… I forgot what the original question was, but…
+
+SARAH: What’s useless? None of it.
+
+ELI: What’s useless.  I, you know, yeah. None of it? I don't know. There's some stuff in there that's like…
+
+SARAH: Actually—
+
+ELI: Fuck approximants.
+
+SARAH: Ah, approximants are fun. What I will say is…
+
+ELI: I don't know. I chose something random.
+
+SARAH: I know. I know. No, no, no. What I will say is, actually—
+
+ELI: Sorry, W.
+
+SARAH: Sounds above or below… I forget. It's been a long time since I did pure phonetics, but specific sounds above or below a certain frequency are generally just cut out of most audio recordings, and they're why people's voices on the phone sound like crap, but the fact that we can still understand each other when we talk on the phone or through a poor audio recording tells me that whatever those sounds are outside the recordable frequencies are the most useless. We don't need them. That's my answer.
+
+ELI: Yeah, I… Hmm. this is like a really interesting question, you know, because I think linguists fight so hard to remove value judgments about language and about parts of language, because there's so much stigma about what correct language feels like and what, you know, is expected out of your sort of standard dialect and that kind of thing. 
+
+ELI: And all linguists have like pet peeves and things that they like, and that kind of thing, but I think we really try very hard to remove value judgment about what's like useful and useless and, you know, people railing against “irregardless” and that kind of thing. What is the most useless part of language? English teachers. [laughs] Yeah. Final answer.
+
+SARAH: All right. Next.
+
+JENNY: “If you can mince oaths, can you dice them?”
+
+SARAH: Sure.
+
+ELI: No?
+
+SARAH: High-five. [Sarah and Eli high-five]
+
+AUDIENCE 1: Wait a minute. One of you has to finish your cup. I don't know which one it is.
+
+SARAH: No, we were able to answer. We didn't agree, but that's different.
+
+ELI: Yeah. It doesn't mean anything. Yeah.
+
+JENNY: “What question have you been waiting to answer that hasn't been asked yet?”
+
+SARAH: That's a great question. A+ to whoever put that in.
+
+ELI: I know the answer. Let's talk about why English spelling is wonderful.
+
+SARAH: [fist-pumps] Yes!
+
+ELI: I will fight anybody about this. I will fight you verbally and I will fight you physically.
+
+SARAH: [signing SAME in ASL] Yes. Where is the nearest Arby’s?
+
+ELI: Yes, I will, and I have, and I will.
+
+SARAH: Okay. So here's the thing. I think Bex mentioned earlier that Turkish recently—
+
+[ELI refills both their cups]
+
+SARAH: (Thank you.)
+
+ELI: (Yeah.)
+
+SARAH: —and by “recently,” I mean in the past [checks watch] lifetime.
+
+ELI: We’re now out of mead.
+
+SARAH: Why did I just look at my— Wow, all right, go us.
+
+ELI: Yeah, why did you look at your watch?
+
+SARAH: I was making a joke, but also I realized that my watch doesn't measure lifetimes. [laughs] It's fine. Anyway…
+
+ELI: She’s got a watch with a minute hand, an hour hand and an eon hand?
+
+SARAH: My digital watch with the three hands.
+
+ELI: [amused agreement sound]
+
+SARAH: Okay. So relatively recently in the grand scheme of language, Turkish was like, “Spelling is hell. Let's just turn it all upside down and start over,” and they completely switched their alphabet and moved to a completely phonetic spelling system, which is very cool, is very—
+
+ELI: Yeah. Go, Turkey.
+
+SARAH: —systematic. The amount of time and effort it must have taken them—and granted, they are a much smaller country with a much more narrowly-based speaker community than English, which, good fucking luck—but still, that is no small task, and they achieved it pretty much flawlessly. And the other famous example of this would be Chinese, which very, very did not achieve their spelling reform. I mean, they did, but not seamlessly and not without a lot of wars that are still happening.
+
+ELI: And also it was bad.
+
+SARAH: And also it was bad, but that's also a… That’s next year's “get me drunk and ask me that question.” I do legit need to do some research about that. Also, it wasn't totally bad, but it was poorly executed. It was not a bad idea. It was badly executed.
+
+ELI: It was fine.
+
+SARAH: I'm not saying it was a good idea. I'm saying it wasn't a terrible idea, but they pulled it off terribly in such a way that now everyone hates it, even if they didn't hate it originally. Anyway, English. So Turkish, great. Good job. Proud of you. The thing about Turkish compared to English is that it does not rifle through other people's pockets for spare vocabulary.
+
+ELI: Or occasionally get conquered.
+
+SARAH: Or occasionally get conquered or do some conquering or just, like, take over the world. They really just have lived in their little spot in the middle of Europe-Asia-Turkey, and been very happy there and have a very nice language with the occasional loanword that they spell phonetically, and it's fine. English…
+
+ELI: Is fucked.
+
+SARAH: Correct. And so on the one hand, it sucks to learn to read, especially if you are learning to read it at the same time you are learning the vocabulary, as opposed to being a five-year-old who knows almost every word in the language but hasn't figured out what the squiggles on the page mean yet. 
+
+SARAH: But again, our writing system and our spelling system at this point exist for the knowledgeable user of English, not for the poor soul who has to learn it as a second language out of a textbook. And I do have infinite sympathy for those people.
+
+ELI: But here is the fundamental assumption that is incorrect.
+
+SARAH: Yes.
+
+ELI: That writing systems exist to tell you how to pronounce the words.
+
+SARAH: Correct.
+
+ELI: That is not a correct assumption. It is sometimes a useful guideline. It is sometimes a thing that is true of some orthographies, but it is not always true. And in English, we present it as though it is true—English teachers—and it is not. English spelling is etymological.
+
+SARAH: And with that, therefore—
+
+ELI: …Kind of sort of mostly.
+
+SARAH: Kind of sort of mostly. But so here's the cool thing, right? It's not purely phonetic. But if I give you the word ⟨electric⟩ /əˈlɛk.tɹɪk/, and then I put three more letters on the end, now it says ⟨electricity⟩ /ˌə.lɛkˈtɹɪ.sɪ.ti/. And now that C has changed its sound into another sound that we've all agreed that C is allowed to make. But at this point, I'm pretty sure that we've agreed that C is allowed to make at least four sounds, if not like six. 
+
+SARAH: How are you supposed to know which one? Well, you don't, except that you already know the words “electric” and “electricity,” and so now you can apply that knowledge to the words on the page and be like, “Oh, that's that one. Got it.” But if I spell those words in a phonetic script, you are much less likely to realize that “electricity” is the noun of “electric.” 
+
+SARAH: You have to— Then you are back to hacer in Spanish (again, podcast listeners, “back” meaning “a thing I said three hours ago”). Hacer in Spanish is faire in French, which I would not know by looking at them or by hearing them because they have changed. And so if I spell them now the way that they're pronounced with an H and an F and with the C in the middle or not in the middle, I'm like, how am I supposed to know that those are the same word?
+
+ELI: Well, and you might say, “Oh, it's easy. There's a suffix that makes a thing a noun. It's I-T-Y.” But it is not actually just that suffix. That suffix creates a sound change in the environment that it's in.
+
+SARAH: Right. And sometimes we— And there's other systematic sound changes like that that we have that like… Like, all right. So what's a person who works with electricity?
+
+ELI: An electrician /ˌə.lɛkˈtɹɪ.ʃən/.
+
+SARAH: Yeah. Oh, look, that C just made another frickin’ sound. But it—
+
+ELI: But it's still the same C.
+
+SARAH: But it's still the same C because it's still the end of the word ⟨electric⟩, and we've added I-A-N and now it's a /ʃ/, but we don't care because that's a fine thing.
+
+ELI: But I-A-N and -A-N are “really common person who does this thing” suffixes.
+
+SARAH: Yep.
+
+ELI: Right?
+
+SARAH: And sometimes they change the pronunciation and sometimes they don't.
+
+ELI: Sometimes they don’t.
+
+SARAH: And it sucks when you're just learning the new vocabulary or like, “I've only seen this word written down, and I don't know how it sounds,” and we all have had that experience. But it means that, oh, I don't know how it sounds, but just by looking at it, I can figure out what it's doing in this book, and I don't have to be like, “Hmm, well, it says ⟨adela⟩, but I don't know what that means,” because I didn't realize that ⟨adela⟩ and ⟨adele⟩ are related or whatever. I just read a thing off a sheet of paper up here. I don't know what that means.
+
+ELI: So there’s…
+
+AUDIENCE: That’s my friend’s name.
+
+SARAH: Cool. I just made your friend into a random word.
+
+ELI: There's a couple of other things here. So there was a moment in time where English spelling was entirely phonetic, I would say pre-1600s or so, which—we'll get into this in a moment, so printing press and so on; we'll get into that in a second—but all of that was totally phonetic. And that is hell to read. Right?
+
+SARAH: (a) that's hell to read, (b), here's the thing about Chinese, right? Chinese has phonetic components, which are only kind of helpful because they're phonetic based on certain people's dialects, which means if you speak a different one, then it's no longer phonetic. But that was the problem with English. And the fact is that Chinese has those phonetic components built in, but it's not purely that. 
+
+SARAH: So even if you speak a different dialect, maybe the phonetic guide is no longer helpful to you, but you can still look at the word and be like, “That's a pronoun. It means ‘this person.’” I don't know if it's [我] wǒ or tak or whatever the word is for “I,” but it means “the speaker.” “That word means ‘river.’ I don't know how I pronounce ‘river,’ but I know the concept of a river and I know what it looks like on the page, and now I can write a letter from me to you. We might pronounce everything on that page completely differently, but we can communicate.” 
+
+SARAH: On the flip side, if you were writing everything purely phonetically, even if you speak a much closer thing, like—Mandarin and Cantonese are not even mutually intelligible all the time—but like, theoretically, someone living in the north of England and someone living in the south of England should be able to talk to each other. But if they spell things purely phonetically, those vowels [gestures hands widely apart] are all over the place. And like—
+
+ELI: So this is—
+
+SARAH: —that’s not going to happen.
+
+ELI: So this is exactly the problem that William Caxton, is it Caxton?
+
+SARAH: I dunno.
+
+ELI: So William Caxton is the guy who brought the printing press to England. It might be Caslon? I think it's Caxton. This is, by the way, where I put in a plug for the History of English Podcast. 
+
+[SARAH snaps fingers in agreement]
+
+ELI: The History of English Podcast is fantastic. It goes through the history of English in basically hour-long episodes. Also wonderful to fall asleep to. And he dives into this much, much deeper than we're about to and in a much more sober way, but William Caxton is the guy who brought the printing press to England, and he basically had to decide, “Which dialect am I going to use to print things down onto a book,” because there are a lot of dialectical differences, and they're not phonetically compatible. 
+
+ELI: So when he decides, he decides on the northern dialects, and so that is why we have ⟨egg⟩ instead of ⟨eyren⟩ and a bunch of other things in English that are northern dialect rather than southern dialect, even though London is in the south, right? And so the influence of the printing press on the books create the standard dialect of England— English English, right? 
+
+ELI: He also does this at a—unwisely, though probably not on purpose, he does this in the middle of the Great Vowel Shift and with a bunch of other things that are going on, right? So he does this in the middle of ⟨ȝ⟩ yogh going away and ⟨þ⟩ thorn going away and a bunch of other letters that are like really useful for English but we don't have any more. 
+
+ELI: And that's where the -ough stuff happens, because ⟨-ough⟩ is a way of writing ⟨-oȝ⟩, basically, and that has a lot of pronunciations in a bunch of different regions in England and can do everything from [f] to [x] to [h] to [g] and so on and so forth.
+
+SARAH: And that's the other thing then is, so he standardizes some of the spellings just arbitrarily, but the pronunciations then get standardized separately. Because people are like, “Here's the standard spelling, but I say [plaʊ], and you say [plʌf], and that's fine, but then who teaches the next kindergarten? Because if I teach it, the kids are all gonna read it as [plaʊ], and if you teach it, they're gonna say [plʌx].” And eventually someone wins, but after we've already decided that we spell it P-L-O-U-G-H, And so— And then we re-spell it P-L-O-W later because we get sick of it. But, you know.
+
+ELI: But that's actually really rare.
+
+SARAH: Yeah.
+
+ELI: Right?
+
+SARAH: That is a very specific example, whereas instead, we're like, “Oh, yes, ⟨cough⟩ and ⟨laugh⟩ and ⟨through⟩,” because the person who convinced everyone how to spell and say ⟨through⟩ had a different dialect than the person who taught us how to say ⟨cough⟩.
+
+ELI: But what we can say is, those used to be spelled with the same letter, and those used to be pronounced in the same way.
+
+SARAH: And even more importantly, I can tell you just based on the spelling of a word where it probably came from in the world, when it probably entered our language, and what it is or is likely not related to. So…
+
+ELI: Well, so English is one of the very few languages that has spelling bees. People go, “Oh, yeah, of course, only English could have spelling bees because only English spelling is really weird.” But you get a word in a spelling bee and you ask, “What's the origin? Use it in a sentence. Give me a definition,” and then a lot of people are able, from “What's the origin of that word?” to spell the word.
+
+SARAH: Even if you've never heard of it before, because it's not about, “Oh, this is what it sounds like” because…
+
+ELI: “Oh, it's Greek, that [k] sound is probably C-H.”
+
+SARAH: Right. Because even before Turkey standardized their spelling, they had a lot of different things, but almost all the words came either directly out of Turkish or out of Arabic. (Also, I'm saying that completely out of my ass, so someone fact-check me at some point.) But still, it was a much more limited scope than where English pulls words from. And so you're like, “Okay, it may not be exactly phonetic, but I know the Arabic spelling system, and I know the Turkish spelling system, and so I have a 50/50 shot on how to spell this particular sound.” And if you're down to 50/50, like sure, condense it down to 1, who cares? We have a million options, and they are actually informative.
+
+ELI: You've got Latin, you've got French, you've got German, you've got Dutch, you've got like native Anglo words, and then you have later borrowing, so it's pretty easy to tell when something comes from Japanese, because the plural is going to be the same as the singular, right? And you've got stuff from from all over the place. You've got a lot of borrowings from Hawaiian. You've got that kind of thing. And you can tell because we've preserved how they're spelled, and we've preserved what they sound like.
+
+SARAH: Yes. And for, actually for that exact reason, the plural of “moose” is “moose” because it is a Native American word.
+
+ELI: It’s an Algonquian word.
+
+SARAH: *That's* the word I was looking for earlier! Proto-Algonquian—
+
+ELI: Yeah, I thought of it, but I didn't want to interrupt your flow.
+
+SARAH: —is the Proto-North American language. I appreciate that.
+
+ELI: I got you.
+
+SARAH: But… And I don't even know if it is “moose” specifically, but like, this is one of those great things where like, every language from a people that natively encounters moose agrees on that one word.
+
+ELI: [muːz].
+
+SARAH: Nothing else might be the same, but they're like, “You know that really enormous, dangerous piece of shit that comes to our camp sometimes? That one. We can talk about that one. We can't talk about anything else, but we know that word,” and the plural of it is “moose” not because that is actually the plural in any of the Algonquian languages (because I think they all pluralize it differently) but because when we borrowed it into English, we were like, “Yeah, moose, that one big annoying piece of shit that comes into our camp and causes problems, that one. Okay, we'll take that word.”
+
+SARAH: “Goose” is not a Native American word. Geese are European animals. We pluralize them as “geese” because that is the English plural pattern. “Moose” happens to rhyme. That is entirely coincidental, and we pluralize it differently because it is literally from a different continent. And that's fine. That's cool. “Goose,” and, uh… what's the other one? Not “sheep,” because “sheep” is the same thing.
+
+ELI: “Mouse.”
+
+SARAH: “Mouse.”
+
+ELI: “Mouse” and “mice.”
+
+SARAH: “Teeth.” “Tooth,” actually, is what I was thinking— “Goose,” “geese,” “tooth,” “teeth.” That is the pattern you're looking for. It's just weird because teeth aren't animals. 
+
+ELI: Wise words. All right. We're going to talk about the 18th century and then move on to the next things.
+
+SARAH: Yeah, yeah. Go.
+
+ELI: So in the 18th century, it was really fashionable to write usage manuals, which is where a lot of the bullshit usage rules come from. “Zombie rules” is what Geoffrey Pullum likes to call them, and I agree, but there was also a fad among dictionary makers (I can’t believe I just said that) to try to make the spellings of words more etymological, except that they were wrong. So the two poster child words for this are “debt” and “island.”
+
+ELI: And you will see this if you look at other Germanic languages, that [dεt] comes to English sort of free and clear with no B in it, but of course, people were obsessed with Latin, which is the story of European history. We are not European History After Dark, we're Linguistics After Dark, so we're not going to talk about that.
+
+JENNY: But there's nothing wrong with split infinitives!
+
+SARAH: [laughs] Correct.
+
+ELI: There’s nothing wrong with split infinitives, and also, we don't have time to talk about the Romans.
+
+SARAH: We don't have time to unpack all of that.
+
+ELI: Basically. European history for the last 2000 years, we don't have time to unpack all of that. But they basically were like, “Oh, yeah, [dεt], that comes from ⟨debitum⟩. Let's stick a B in there,” except that they were wrong, because [dεt] comes free and clear from German. And ⟨island⟩, they were like, “Oh, yeah, that comes from ⟨isla⟩ and ⟨insula⟩ and all of that. Let's stick an S in there,” and they were wrong. It comes free and clear from German as ⟨iland⟩, I-L-A-N-D, and ⟨det⟩ as D-E-T, so—
+
+SARAH: And they are probably cognate way up the list.
+
+ELI: I mean, they are definitely cognate.
+
+SARAH: But again, this is…
+
+ELI: But they’re cognate, not borrowed.
+
+SARAH: Cognate, not borrowing. And so you're just like, “Oh, yeah, we're just going to put this fucking annoying silent consonant in there just to look fancy.”
+
+ELI: So you get ⟨debt⟩ with a B and you get the impression— Because English spelling is etymological, an English speaker will look at ⟨debt⟩, understand that the B is silent or nearly so, and go, “I understand that this is a Latin word.” They will be wrong in that particular context, but that is a way where you can look at spelling and say this is not about pronunciation; this is about understanding where this word came from—so much so that when 18th-century lexicographers fucked with it, it fucked with our understanding of the etymology of those words.
+
+SARAH: Yes.
+
+ELI: Anyway, English spelling is not broken. It's actually wonderful, and I will fight you behind an Arby's about it.
+
+SARAH: Yes. Correct.
+
+ELI: Next.
+
+JENNY: A couple more questions, and then we're done for the night because they need to kick us out so they can, like, clean up the room.
+
+ELI: Ah, okay.
+
+SARAH: That's true. It is 11:15.
+
+JENNY: “Sarah, please try to pronounce the three hardest sounds in the IPA for you while Eli grades you on your accuracy.”
+
+[SARAH, JENNY, and AUDIENCE laugh]
+
+SARAH: Okay, whoever I gave the A+ to earlier, you still win the night, but this is definitely second place.
+
+JENNY: Specifically, I was given this… It was one of the first questions I was handed, and there's a specific note saying, “Let them get way drunker first.”
+
+[SARAH, ELI, and AUDIENCE laugh]
+
+ELI: We are, by the way, out of mead.
+
+SARAH: Yes.
+
+ELI: So we're now two bottles in.
+
+SARAH: All right.
+
+AUDIENCE: There’s a third bottle down—
+
+ELI: Oh, don't worry.
+
+SARAH: There's four.
+
+ELI: Oh, wait, there's some mead left in my cup. Hold on. [drains cup]
+
+SARAH: All right. Yep. Hold up. Here we go. [drains cup] So.
+
+ELI: So. Here's the earth.
+
+SARAH: [laughs] Now, the problem with this is that you have gotten me very drunk and without a resource to *remember* the IPA.
+
+[AUDIENCE laughs]
+
+ELI: Yeah, we don't do research. We're not breaking that rule for this question.
+
+SARAH: No way. So here's the thing is, what are the hardest sounds for me to say are the ones that I can't come up with off the top of my head. I will say that there is surely some fricative back here somewhere that's like [pronounces very back fricative, like she’s choking] that I'm saying wrong because I don't even know how to say it.
+
+ELI: 3 out of 10.
+
+SARAH: Thanks. Let's see. What else is there?
+
+ELI: You could do like a…
+
+JENNY: How about the egressives?
+
+ELI: Yeah, I was going to say.
+
+SARAH: Oh, no! I don't… I also don't know. I don't even know what those are, let alone how to say them.
+
+ELI: Or a click. You could do a click.
+
+SARAH: Okay, and do a bilabial click? That’s very easy. [ʘ].
+
+ELI: Okay. That's like a solid 8 out of 10. I think that deserve a [golf claps]. 
+
+SARAH: Now, the question is, can I do that in a word? No. [ʘa]. [ʘa]. Actually, here's a fun one that I have tried recently to do and cannot do, but a bunch of the West African languages I was saying earlier, they've made a bunch of writing systems for those languages because existing ones are useless, and that is because languages in that region to a distressing—not distressing, but a much higher degree than anywhere else in the world… A tiny bit, please. I don't remember if I like that.
+
+[ELI pours SARAH a drink]
+
+ELI: She's talking about sake, not West African languages.
+
+SARAH: Yes. I don't remember if I like sake. I love West African languages to the extent that I know them, which is very minimal. A bunch of them have co-articulated sounds, which I hate the concept of. It's very cool! I just am not that coordinated. But just understand that there are people in the world to whom it is as natural as saying [a], that they can say a B and a G at the same time. Just try that for a second.
+
+AUDIENCE: Uh-uh. [laughs]
+
+SARAH: Thank you. Smart man. [ɡ͡baa], [ɡ͡b]. [hums “I don’t know”] But literally, it will be written ⟨bg⟩ with a ligature over it, meaning “pronounce these simultaneously. You say the G back here and the B on your lips, and you just do that at the same time in front of a vowel.”
+
+ELI: There is no physiological region… Physiolosic… Bleh.
+
+SARAH: There's no reason why you cannot do that, except that I became an adult before I learned how, and now my brain is like, “Fuck that shit.” If you get an infant, they'll hear it. They'll be like, “Sure, that's a sound,” and they'll watch you move your lips, and they'll be like, “I can also move my lips like that,” and then by age five, they'll be like, doing it.
+
+ELI: No prob.
+
+SARAH: And you'll be like, “Cool.” (By watching *my* lips, what I mean is watching someone else who already speaks this language because I can't do it.) Yeah, the ingressives are—
+
+ELI: Is there—
+
+SARAH: —the ones you say [loudly inhales] like inhale while you say them, and I literally don't know how.
+
+ELI: I've got a question for you. Is there a vowel that you have trouble saying? Because we said all vowels are the same, and so on, and so forth.
+
+SARAH: And they are, but also they're not.
+
+ELI: But there is a good variation in terms of rounded, and not rounded, and high, that kind of thing, so is there…
+
+SARAH: Yeah, let’s see.
+
+ELI: …a vowel that you have trouble saying? Because it took me a while to figure out [ɯ] which is the unrounded version of [u], which is what is often used in Japanese.
+
+SARAH: Ah, yes. Okay.
+
+ELI: [ɯ].
+
+SARAH: So I am not good at that one. I am better at the rounded [i], which you get in French, like [ty].
+
+ELI: [y], [y], [y].
+
+SARAH: So if you say [i], or like “cheese,” but then you close your mouth like you're, or rather, if you put your mouth like you're going to say—
+
+ELI: “oh”
+
+SARAH: —“choose,” but then you make the [i] sound instead, you say, [tʃy], that is a very common sound in French. And I can do it in a vacuum, but I am extremely bad at producing and also at hearing it in a word, which is normally fine. Because if you're like, “Oh, tu [ty] versus vous [vu],” it doesn't actually matter because tu and vous, like, they're like, “You have a shitty accent, but it's fine.”
+
+SARAH: Here's the problem—and I have gotten this from actual French speakers (and by actual French speakers, I mean a native English speaker who has lived in France for many, many years, and this is his biggest pet peeve. Hi, Adam, if you're listening!) —The words for “above” and “below” are, and I don't even know if I'm going to get these in the right order, but one of them is dessus [desy] and one of them is dessous [desu]. And he has…
+
+ELI: Why y'all hating on English when French is like this?
+
+SARAH: Oh, I know. And so he said when he moved to France, if I'm recalling this correctly, he would be like, you know, “Où est le blah, blah, blah,” Like, “I'm making dinner. Where do you keep your spices?” And they will say, “Oh, au dessus.” And he's like, “Uh-huh.” And he will just literally instantly turn around and rephrase and say, “Is it up or down?” Because “above” and “below,” he's like, “I cannot say them distinctly, and I cannot hear them distinctly.
+
+SARAH: Every other word, we have redundancy, we have context, we have ways for me to figure out what the fuck you are saying, and if you just say ‘It is direction, the other item,’ I'm like, yep, it's either above or below, but that was really unhelpful. Please try again.”
+
+ELI: I'm sorry, French, you have a whole college of 40 people—none of whom are linguists, by the way. They're like, I don't know, historians, novelists, some kind of bullshit—you have a whole college of 40 people who have swords and are supposed to protect the language and you let this shit happen?
+
+SARAH: Right? And they’re like…
+
+ELI: Fuck off!
+
+SARAH: But, we know, “it's for the *competent* users of the language. We already *know* what those things are. Fuck the people who are trying to learn our language, [getting louder] but also fuck anyone who doesn't learn our language!”
+
+ELI: This podcast hates French.
+
+SARAH: This podcast hates les immortels.
+
+ELI: This podcast hates French French.
+
+SARAH: I don't even hate French French. I just hate l'Académie.
+
+ELI: Oh, yeah. Okay. Sorry. We'll cut this bit out. This podcast is anti-l'Académie.
+
+SARAH: Correct.
+
+ELI: Yes.
+
+SARAH: And we will die on that hill.
+
+ELI: Give us the swords.
+
+SARAH: Give us the… Correct, give me the swords. Also, I do like sake.
+
+ELI: hashtag Give Linguists Swords.
+
+SARAH: Start it trending, let’s go. Okay.
+
+JENNY: So on that note…
+
+VOICEOVER: From her seat in the front row, Jenny turns toward the entrance, 
+behind the film camera. Bex, Anuj, and Pej walk down the aisle from 
+behind the camera and surround the table where Eli and Sarah are sitting.
+
+SARAH: Uh-oh.
+
+ELI: Uh-oh. You're looking towards the entrance like someone's going to…
+
+SARAH: Oh, no, what has Bex done?
+
+ELI: …walk in and give us some swords. Oh, my God. What? Oh, my God.
+
+VOICEOVER: Eli and Sarah now each have a sword and pull them 
+from their sheaths. Jenny gets up and joins them behind the table, 
+having also been handed a sword.
+
+SARAH: Dear podcast listeners, we have been given three swords.
+
+ELI: We’ve been given swords? Oh, my gosh.
+
+SARAH: What the fuck? Why do we have swords?
+
+JENNY: They did not tell me [unclear]
+
+ELI: They're actual swords! [laughs] Why did you wait until we were drunk to give us these?
+
+SARAH: In fairness, they are very blunt.
+
+ELI: Wow.
+
+BEX: Jenny, Jenny, we had two channels.
+
+[SARAH laughs excitedly]
+
+ELI: Thank you?! This is awesome.
+
+JENNY: I have been in the planning channel for this since the last convention.
+
+SARAH: Oh, my God!
+
+JENNY: And I didn’t know about this [unclear]
+
+PEJ: Please allow the explanation.
+
+SARAH: Okay, go.
+
+BEX: So, Sarah…
+
+ELI: I’m going to put this away before I hurt myself.
+
+SARAH: Wait. Come to a microphone.
+
+VOICEOVER: Bex comes to a microphone and begins to speak.
+
+BEX: So, Sarah, your sword is a Roman gladius. It represents control over ancient languages. You've been granted control over all ancient languages. [AUDIENCE laughs] Eli, your sword is from some anime, we couldn’t find a real katana.
+
+ELI: Yeah, that tracks. That tracks.
+
+Bex: It represents control over all modern languages. And Jenny, straight from the throne of Manwë, that is the sword of Samwise Gamgee. [JENNY flaps hands excitedly, SARAH and ELI clap]
+
+VOICEOVER: Sarah and Jenny laugh, cover their faces, 
+and clap their hands with excitement. As Bex steps aside, 
+Pej warns that Jenny's sword is actually sharp.
+
+[audio cuts out]
+
+PEJ: [unclear] it represents…
+
+BEX: Oh, yes. It represents control over all conlangs. Together, you three control all of language. And the French l’Academie, they lose.
+
+SARAH: Oh, my God.
+
+ELI: Fuck, yeah!
+
+SARAH: Oh, we have to have a photo with our swords, apparently. Oh, my God.
+
+[AUDIENCE applauds]
+
+PEJ (to Jenny): Be careful, yours is the sharpest one. It did not come with a scabbard. It does have hanging…
+
+AUDIENCE: How did you know they were going to bring up swords?
+
+ELI: That's pretty predictable. If you’ve listened to the podcast, it comes up like once.
+
+JENNY: All right. 
+
+BEX: We’ve been planning this since the last con.
+
+JENNY: Okay. 
+
+KAYLA (with a camera): All right. Ready?
+
+AUDIENCE: That’s amazing.
+
+KAYLA: Ready? Jenny? All right. One, two, three.
+
+VOICEOVER: Kayla walks up from the back with a photo camera
+ and takes a picture of the three linguists with their swords.
+Eli gives Pej and Bex hugs.
+
+
+SARAH: Oh, my fucking God.
+
+ELI: This is fucking amazing, you guys. Thank you.
+
+SARAH: Thank you so much. I think you have to check your bag on your way home. [laughs] [inaudible] Jesus. [inaudible].
+
+BEX: We looked it up. The TSA says as long as you don’t put it in your carry on, it's fine. But maybe mention your local police department [inaudible] We didn’t check.
+
+SARAH: Whoever asked us earlier whether the linguistics police were on their way…
+
+ELI: We are the linguistics police now.
+
+SARAH: [hands ELI her sword] feel this!
+
+ELI: Oh, my God.
+
+SARAH: I have to, like, do exercises to lift the thing.
+
+ELI: Well, you know, that's a lot of ancient languages.
+
+SARAH: I know.
+
+ELI: All the proto-languages are in this.
+
+SARAH: Oh, no. You guys are the fucking best.
+
+ELI: You're amazing.
+
+SARAH: Holy shit.
+
+ANUJ: This was all Bex's idea and then it got shipped to my house as the only Canadian.
+
+SARAH: Of course it was.
+
+JENNY: I was going to say.
+
+ELI: All right.
+
+SARAH: Oh, my God. All right. Well…
+
+ELI: We have to end the podcast, yeah.
+
+SARAH: I was going to say, that’s it. That's the episode. We had an outro. Hold up.
+
+PEJ: You have the authority now.
+
+SARAH: We do have the authority. Who gave us the right? Well, Bex gave us swords, and that is all their fault.
+
+ELI: Yeah, that's all we care about.
+
+BEX: [inaudible]
+
+SARAH: So that's it for this episode.
+
+ELI: Thanks for coming, everybody.
+
+SARAH: Thanks for coming.
+
+ELI: Linguistics After Dark is produced by Emfozzing Enterprises. Audio editing is done by me, at least theoretically. Question wrangling is done expertly by Jenny. Please give her a hand. [applause] Show notes are done by Sarah, and transcriptions are a team effort. Our music is “Covert Affair” by Kevin MacLeod.
+
+[OUTRO music starts]
+
+SARAH: Our listener— Our— Ooh, boy. Our show is entirely listener-supported, especially our live listeners and our— 
+
+ELI: Whoo!
+
+SARAH: —con attendees. Thank you so much. You can continue to help us by visiting patreon.com/emfozzing or buying merch out in the hallway, but tomorrow. patreon.com/emfozzing, E-M-F-O-Z-Z-I-N-G. Tell your friends about us. Rate us on iTunes, etc. And just thanks to all of you and all of our awesome patrons. This was great.
+
+ELI: Yeah, so every episode, we thank patrons and reviewers, but today, we just want to say thank you to all of you. Thank you to all of our awesome patrons. Thank you to all of our awesome reviewers. Thank you to all of the attendees at CrossingsCon. We love you. Thank you very much.
+
+SARAH: Yes. Old episodes, eventually our new episodes when we edit them, and show notes and everything are at linguisticsafterdark.com, on all your favorite podcast directories, and send us our questions either in person to Jenny in the next 24 hours or text or audio to questions@linguisticsafterdark.com. Tweet us @LxADpodcast, Facebook, Instagram, etc. @LxADpodcast.
+
+ELI: And until next time, if you weren't consciously aware of your tongue in your mouth, now you are.
+
+SARAH: Now you are. [laughs]
+
+ELI: Thank you, everybody.
+
+SARAH: Thank you and goodnight!
+
+
+ELI (voiceover): Hey, everybody, Eli here. LxAD and our sister organization CrossingsCon are looking for more people to join our teams in roles like event planning, graphic design, social media and marketing. To find out more, go to linguisticsafterdark.com/volunteer.
+
+[beep]
+
+ELI: Why did they decide to get us *drunk* and give us swords? 
+
+[beep]
+
+ELI: Bex, you are mad. You are absolutely mad lad.
+
+SARAH: Correct.
+
+[beep]
+
+SARAH: We did, but we did not know that it involved weapons.
+
+[beep]
+
+SARAH: I do have a trident, but it's made of pool noodles and duct tape. 
+
+[beep]
+
+ELI: Oh, good, it’s blunt. It’s very blunt.
+
+[beep]
+
+SARAH: Oh, my God. Wait, Eli, Eli, Eli, they made us a logo. They made *you* a logo.
+
+ELI: [laughs]
+
+[beep]
+
+SARAH (in duplicate voiceover): Hi friends, and welcome back to Linguistics After Dark!
