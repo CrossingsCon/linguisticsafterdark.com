@@ -4,6 +4,7 @@ title: "LxAD LIVE @ CrossingsCon 2021"
 tags: [episode, live episode]
 embed: Bonus-Episode-LxAD-LIVE--CrossingsCon-2021-e27qbk7
 transcript: false
+excerpt_separator: <!--more-->
 ---
 
 Wherein we finally talk about acquisition. (And *finally* post this one on our website…)

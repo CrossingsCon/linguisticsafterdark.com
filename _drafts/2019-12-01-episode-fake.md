@@ -2,6 +2,7 @@
 layout: post
 title: "Episode FAKE: God Bakes, Man Kills"
 tags: [episode, fake episode]
+excerpt_separator: <!--more-->
 ---
 
 Our dry run episode, answering fake language questions from fake listeners! How would the X-Men fare in GBBO?
