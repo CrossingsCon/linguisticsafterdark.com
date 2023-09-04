@@ -4,11 +4,14 @@ title: "LxAD LIVE @ CrossingsCon 2022"
 tags: [episode, live episode]
 embed: Bonus-Episode-Live--CrossingsCon-2022-e27t680
 transcript: true
+excerpt_separator: <!--more-->
 ---
 
-Wherein we #GiveLinguistsSwords. (Please note that this recording cut out a lot of background noise and claps/cheers, so if there is a weird volume jump up or down, that might be why.) 
+Wherein we #GiveLinguistsSwords.
 
-[Rich text transcript](https://docs.google.com/document/d/e/2PACX-1vRbxMmZMmtgn9s_Qr-XRzUB9unNJJmDPvK1y1OIyim7L3KMZAH0A9k9kWNXzELAS0_f8aRskf54HR9p/pub) (Link at the top is plain text without italics to mark the naming of words, especially foreign ones.)
+Two notes about this episode:
+- This recording cut out a lot of background noise and claps/cheers, so if there is a weird volume jump up or down, it's us doing our best to keep the audio listenable.
+- We also have a [rich text transcript](https://docs.google.com/document/d/e/2PACX-1vRbxMmZMmtgn9s_Qr-XRzUB9unNJJmDPvK1y1OIyim7L3KMZAH0A9k9kWNXzELAS0_f8aRskf54HR9p/pub), since there are a lot of  non-English words and word mentions in this episode, and our normal plaintext transcript can't do italics.
 <!--more-->
 
 ## Jump right to:
