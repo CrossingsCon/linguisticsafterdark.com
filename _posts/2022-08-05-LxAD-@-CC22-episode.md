@@ -59,6 +59,7 @@ Wherein we #GiveLinguistsSwords. (Please note that this recording cut out a lot 
 - [History of English podcast](https://historyofenglishpodcast.com/)
 - The development of of the word “moose” is [even weirder than we knew](https://web.archive.org/web/20190507034618/https://elodieunderglass.tumblr.com/post/150304184188/i-feel-like-people-need-to-know-the-great-moose)
 - Geoffrey Pullum actually borrowed the phrase [“zombie rules”](https://languagelog.ldc.upenn.edu/nll/?p=536) from [Arnold Zwicky](http://itre.cis.upenn.edu/~myl/languagelog/archives/002189.html)
+- [It’s all Greek to me](https://en.wikipedia.org/wiki/Greek_to_me)
 
 ## Ask us questions:
 Send your questions (text or voice memo) to questions@linguisticsafterdark.com, or find us as @lxadpodcast on Twitter, Instagram, & Facebook.
