@@ -16,7 +16,7 @@ Transcript coming soon!
 {% capture intro %}
 <div class="post-metadata">{{ include.post.date | date: "%B %e, %Y" }} • {{ transcript }}<!-- • Filed under: {{ tagscommas }}--></div>
 <div class="podcast-player">
-  <iframe src="https://anchor.fm/lxadpodcast/embed/episodes/{{ include.post.embed }}" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+  <iframe src="https://anchor.fm/lxadpodcast/embed/episodes/{{ include.post.embed }}" width="100%" frameborder="0" scrolling="no"></iframe>
 </div>
 <div class="podcast-links">Or listen and subscribe:
   {% for player in site.data.players %}

@@ -5,13 +5,6 @@ rss:
   icon-black: rss-BLACK.svg
   icon-white: rss-WHITE.svg
 
-anchor:
-  name: Anchor
-  link: https://anchor.fm/lxadpodcast
-  icon: Anchor_Logo-LOGO-BLACK.svg
-  icon-black: Anchor_Logo-LOGO-BLACK.svg
-  icon-white: Anchor_Logo-LOGO-WHITE.svg
-
 pocket-casts:
   name: Pocket Casts
   link: https://pca.st/qz1zrisl
@@ -53,3 +46,23 @@ radio-public:
   icon: radiopublic-flag-red.svg
   icon-black: radiopublic-flag-KO.svg
   icon-white: radiopublic-flag-white.svg
+
+castbox:
+  name: Castbox
+  link: https://castbox.fm/channel/Linguistics-After-Dark-id2527789?country=us
+  icon: castboxfm-icon.svg
+
+iheart:
+  name: iHeart
+  link: https://www.iheart.com/podcast/269-linguistics-after-dark-134462725/
+  icon: iheartradio_new.svg
+
+youtube:
+  name: YouTube
+  link: https://www.youtube.com/playlist?list=PLpaLiAk-qGczHFRNTPYNZA5-Ws4CKO8ds
+  icon: youtube.svg
+
+amazon:
+  name: Amazon Music
+  link: https://music.amazon.com/podcasts/436ae6df-8afb-414f-98fe-1bb714a2fe61/linguistics-after-dark
+  icon: Amazon_Music_logo.svg
