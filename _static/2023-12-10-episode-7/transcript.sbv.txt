@@ -1,0 +1,745 @@
+﻿[Intro music: “Covert Affair” by Kevin MacLeod.]
+
+
+SARAH: Hello, and welcome to Linguistics After Dark. I'm Sarah.
+
+
+ELI: And I'm Eli. If you've got a question about language and you want experts to answer it without having done any research whatsoever, we're your podcast.
+
+
+SARAH: Settle in, grab a snack or a drink, and enjoy. Welcome back.
+
+
+ELI: Yeah, it's good to be back. Hey, you know what a really cool thing is that happened?
+
+
+SARAH: What?
+
+
+ELI: We got a confirmation that we actually have international listeners.
+
+
+SARAH: That is a really cool thing that happened. We have at least one listener in the Dominican Republic by the name of Carlos. Thank you for reaching out and telling us that you enjoy our show so much. That was really fun. Anybody else, feel free to hit us up on Instagram, Twitter, wherever. Yeah.
+
+
+ELI: We also have a letter from a listener talking about one of our questions from episode five. Sarah, do you want to get into the mailbag?
+
+
+SARAH: Yeah, let's do that. So this email is from Gavrilo Stanojević. If I didn't quite get that right, feel free to send us your name in IPA, and hopefully I can do better. Anybody else, feel free also to send us mail or comments and sign your name in IPA so we can read it out correctly on air. So, Gavrilo sent us a note about our discussion on bahuvrihi compounds and compounding in general, and the letter goes like this.
+
+
+SARAH: “I was listening to your latest episode and your remark about agglutination being primarily about leaving out spaces in compounds struck me as odd. As a native speaker of a fusional/inflected language (Serbian, or Serbian-Croatian, BCMS, whatever you want to call it), the example I usually latch on to whenever I have to explain the difference between them and agglutinative languages is to contrast our grammatical cases with the agglutinative case system, such as that of Hungarian or Turkish.”
+
+
+SARAH: And then we get some examples, which I'll quote in a minute. And then the letter wraps up: “Of course, this kind of typology is a bit of a spectrum, and languages can even shift over time, like English slid from inflected towards analytic, so your point about Dutch and German still stands.”
+
+
+SARAH: And as we were reading over this email, the thing that really leapt into our minds was that this idea, the kind of linguistic typology, as Gavrilo says, is a spectrum and also is kind of confusingly labeled. So we wanted to try to clear up some of what we were unclear about in the past episode and maybe offer some extra insights here.
+
+
+ELI: Yeah, so this is like a linguistic 101 thing, right? Like you'll learn this in intro to linguistics that there are four kinds of “languages,” quote unquote, and that they exist on a spectrum that mainly has to do with sort of how much different morphemes, like, smush together and how much information each morpheme can carry. And on the one hand, you've got isolating languages, which are languages like Mandarin, for example, where morphemes all sort of stand on their own, and there's not a lot of putting morphemes together.
+
+
+ELI: And then that goes through agglutinative and fusional, and then polysynthetic is on the other end of the spectrum, which a lot of Native American languages are polysynthetic, where you get sort of submorpheme bits that carry different pieces of information, or you'll have different morphemes that, you know, indicate the same case, but a different number or a different person and don't sort of appear to be phonetically related to each other. Would you say that's a fair characterization of that spectrum?
+
+
+SARAH: Yeah, I think that makes sense. So I think where we kind of ran into trouble with this last time is, we are coming from the perspective of English, which is not as isolating or analytic as Mandarin, but is much…
+
+
+ELI: I mean, it's still pretty far to that side of the spectrum.
+
+
+SARAH: Yeah, it is still pretty far to that side of the spectrum. And so it's kind of in the middle between like, that analytic or isolating and the fusional, which is what Gavrilo is saying about Serbian. So the example that we're given in Serbian, you have a word “ženama,” which means “to the women,” and the root of the word is “žen-”, and then “-ama” is the suffix, and that suffix contains the information that the word is feminine, the word is plural, and it is dative, so it's being… something's being given to the women. And all of that information is in the single suffix.
+
+
+SARAH: Whereas if you wanted to give something to the men or to just one woman, or, like, the women are doing something that the subject of the sentence, it would have a completely different and unrelated suffix for each of those situations. So English has the type of suffixes that Serbian does in terms of each suffix stands on its own, but we just don't have very many of them. And so technically, it is this sort of fusional suffix-type language, but there's so few of them, and they do so little, we rely a lot on prepositions and helping verbs. You know, “I will do something.” We don't have a suffix that means “in the future.”
+
+
+ELI: And when you say it stands on its own, what you mean is that the suffix that English decides to use does have that sort of multi… Like, it has information of several different kinds built into it.
+
+
+SARAH: Yes. So when we say, like, “The dog walks slowly,” the S on “walks” tells us that it's present tense, and that there's only one dog.
+
+
+ELI: And that it's third person.
+
+
+SARAH: Right, and that it's third person. However, that's the only place in all of English verbs that we have a suffix that actually gives all of that information. Our other main verb suffix is -ed, or whatever that past tense suffix is for a given verb, and that tells us past tense, but it doesn't actually tell us anything about singular or plural or person because all of our verbal persons use the same past tense suffix. So this is what I mean when I say that, technically, we are in the same family as Serbian in terms of being a fusional language with our suffixes and our morphemes like that, but we have so few of them that, in most cases, we are much more like Chinese in this, like, isolating way. And so coming at the idea of agglutination from the side of the isolating language, it is somewhat — especially compared to English — about leaving those spaces in or out of the spelling.
+
+
+SARAH: However, there is also the issue of when we talk about agglutination, compared to those really information-heavy morphemes, like -ama in Serbian, where, for instance, Turkish doesn't have one suffix that means “to someone, someone is feminine, someone is plural.” Instead, we have an example that Gavrilo produced for us here, we have the word for “girl,” which is “kız”. And if you want to say, like, “away from the girl,” I think would use the ablative. So you would add the suffix “-dan”. So you have “kızdan.” If you wanted to say there are several girls and they're the subject, they would be “kızlar”. And if you want to say “away from several girls,” you would add the “-dan” and the “-lar,” and so you would get the word “kızlardan.” And all of the different plurals have “-lar,” and both the singular and the plural ablatives have “-dan.” And so you start adding those up instead of “-ama” versus whatever the other morphemes would be in Serbian, which I don't speak.
+
+
+ELI: I do think that there is also another distinction being made here, which is that the examples that Gavrilo gives us are all like inflection. So they're all about adding information about case and number and gender, that kind of thing, to these words. But when we were talking about leaving out spaces, we were more talking about like noun-noun compounds.
+
+
+SARAH: Yes. And that's the other thing is that the terminology that we've decided as a linguistic community to use to classify these languages is not super clear. Isolating, analytic, I don't know, kind of… I feel like “isolating” makes sense. “Analytic” does not make a lot of sense to me. “Synthetic” makes sense in terms of a kind of umbrella term for agglutinative, fusional, and polysynthetic, as in places where a morpheme has synthesized information, has, like, added information to the main word. But fusion of what? Agglutination of what? Like, we can use it to mean individual morphemes or words, and those have really different meanings.
+
+
+ELI: Yeah. So I think like this is one of those concepts that it comes from the really early days of linguistics, and it gets taught in intro. And the thing is, is that it is purely a descriptive framework. It doesn't predict anything. I don't think there's a lot that's here that is kind of like universal, you know, saying like, “Oh, if a fusional language from this part of the world, and then you have a fusional language from this other part of the world, like, then you will absolutely see these two different things.” It's sort of like a very broad-stroke kind of framework. And I think one of the things that you were getting at is like, when you get right down to it, it's like not actually useful for anything other than like a really top-level description of a language.
+
+
+SARAH: Also, I think it's misleading to say that any language is definitely 100% one of these things.
+
+
+ELI: Yeah, it's a bit of a spectrum, as Gavrilo mentions.
+
+
+SARAH: Right. What has kind of just occurred to me is that we kept using German as our go-to example of agglutination on Episode Five, and it is agglutinative in terms of noun-noun-noun compounds, or even throw some verbs in there. But in terms of compound words and phrases, it gets very agglutinative. However, I am fairly certain — and I didn't research this, so feel free to write us in and…
+
+
+ELI: I mean, that's the show.
+
+
+SARAH: We don't do research. But feel free to write us in and correct me if I'm wrong, but I'm fairly certain that in terms of case morphology on nouns, as in the examples that Gavrilo provided, German is actually much more fusional and much more similar to Serbian, and so it can be fusional in its morphology and agglutinative in its syntax, almost, and if we are unclear about which one we're talking about, it's definitely easy to get confused.
+
+
+ELI: So yeah, I mean, this was a really good thing to point out, and I think it lets us go back to that compounding and inflectional discussion with a little bit more specificity.
+
+
+SARAH: Yeah.
+
+
+ELI: But I think it also is like, Linguistics After Dark is not a replacement for a four-year course in linguistics.
+
+
+SARAH: Also that, yes.
+
+
+ELI: Anyway, that was fun. And thank you for writing in, Gavrilo. I think you are keeping us on our toes and making us think about making sure that the metaphors that we are giving are good metaphors.
+
+
+SARAH: Yeah. And we love hearing from you guys and knowing what you think and knowing that there are people listening. So that was a really exciting message to get. Eli, do you want to take us into the language thing of the day?
+
+
+ELI: I would love to teach you all the language thing of the day. Today's language thing is the comparative method, and the comparative method is very cool. It's one of those things that you didn't know that it had a name, but it does. And it is a central tool that historical linguists use to determine which languages are related to each other and figure out when language change happened and to reconstruct what proto-languages sounded like. So it's very cool.
+
+
+ELI: It's also like, you can do the comparative method at home, especially if you know a couple of different languages that are related to each other. And the comparative method was… I mean, it wasn't invented by some person. They didn’t, like… There's not one person who wrote a treatise on it, but sort of the first person to systematically, and at least within the, you know, European publishing world science establishment thing, to write it down and discover that, “Hey, there are… Like, we can take languages that we don't know are related and see if they are and see what their background is,” was a guy named Sir William Jones, who was living in India in the late 1700s. And there's a quote from him about Sanskrit and Greek and Latin being related that I just have to read, because it's so “British person living in India in the late 1700s.” Are you ready for this?
+
+
+SARAH: Hit us.
+
+
+ELI: “The Sanskrit language, whatever be its antiquity, is of a wonderful structure; more perfect than the Greek, more copious than the Latin and more exquisitely refined than either: yet bearing to both of them a stronger affinity, both in the roots of verbs and the forms of grammar, than could possibly have been produced by accident; so strong indeed, that no philologer could examine them all three without believing them to have sprung from some common source which perhaps no longer exists; there is a similar reason, though not quite so forcible, for supposing that both the Gothic and the Celtic, though blended with a different idiom, had the same origin with the Sanskrit; and the old Persian might be added to the same family.”
+
+
+ELI: So basically he's saying like, “Hey, I know Greek, I know Latin, and I have studied Sanskrit, and there's a lot of similarities. Probably they came from the same language, and maybe Old German did, and the Celtic languages, and also the Iranian languages.”
+
+
+SARAH: At which point you've covered a pretty good chunk of Europe and half of Asia.
+
+
+ELI: Yeah.
+
+
+SARAH: Well, not half, I don't know how fractions work.
+
+
+ELI: One might in fact say that you have covered, like, most of Europe and all the way over to India, and you might call that language Proto-Indo-European.
+
+
+SARAH: Mmm, PIE.
+
+
+ELI: Yes, delicious PIE. Mathematicians, get after us. So basically, he was the first person to really document that you can see similarities between words along all of these languages. And now Proto-Indo-European is like… It's not attested, so we have never found writing or anything else of the actual language, but we can reconstruct what we think it was like based on looking at all of its descendant languages, and we do that using the comparative method.
+
+
+ELI: So the comparative method works… It's like easiest to show with sound changes, but it can also be used for like morphology and syntax and that kind of thing, but we're going to talk about it with sound, because this is a podcast, and we're an audio-only medium. So the first thing that you do is, you, like, take two or more languages that you think are going to be related to each other, and you look at a bunch of items that you think are cognate from them.
+
+
+ELI: And a Swadesh list — which Sarah presented as a language thing of the day a while ago, invented by Morris Swadesh — is a really great place to start for looking for those vocabulary items, because things like kinship terms and numbers are very durable, and they, like, don't change very often. And then you line them up according to, like, their features and how similar they are, and you sort of play with them. And you like look, and you think about it, and you like, I don't know, maybe go, like have a drink and sleep on it, and then eventually, you may discover that there's a systematic difference that happens from one language to another, right? And it might only happen in a certain phonetic environment or that kind of thing.
+
+
+ELI: But like, you'll say, like, “Oh, like, I'm looking here, and like, in one language, all of the vowels are high, but in this other language, all of the vowels are low, and it looks like every time that there's a front high vowel in this first language, there's a front low vowel in the second language.” And so then you, like, figure out what the change is and you test it on other data.
+
+
+ELI: And then like, this is also a really great place to bring in other languages that you think are in the same family, because they either will have broken off after the change, in which case they'll have the change as well, or they'll have broken off before the change, in which case they will preserve the old form. And then you can, like, take that and have some background knowledge about what kinds of sound changes are more common, and then you can take that and based on what kinds of sound changes or syntax changes are more common than not, you theorize what the original language actually did. Right? So if you have those high vowels and those low vowels, you can kind of try to figure out whether the original language had high vowels and the low vowel ones are the ones that changed or the other way around.
+
+
+ELI: There's also like some stuff… So if you have really strong evidence that like, /p/ and /t/ are in the old language, then if you have to choose between /k/ and /g/, you're probably going to choose /k/ because it would be weird for a language to have /p/ and /t/, which are unvoiced, and then suddenly have a voiced stop just kind of hanging out. It's not unheard of. But like, again, this is guessing with evidence is what this is. Oh, and the last step is to publish your paper, basically. Sarah, I am going to ask you to name an example of the comparative method.
+
+
+SARAH: I know there are other ones, but like the only one anybody ever cares about seems to be Grimm's Law.
+
+
+ELI: Yeah, I know. I tried really hard to find good word lists for other sound changes, and just Grimm's Law is the one… It's the only one that anyone cares about. And of course, Grimm's Law, as everyone knows, is named for its discoverer: Rasmus Rask.
+
+
+SARAH: Totally. Did he also write the fairy tales?
+
+
+ELI: No, I don't think that he did. No, so Grimm, of Grimm's Law, is Jakob Grimm, who was one of the Grimm brothers who did the fairy tales. But he expanded on the work of a guy named Rasmus Rask, and so sometimes Grimm's Law is known as Rask's Rule, which is way better.
+
+
+SARAH: It is.
+
+
+ELI: So Grimm's Law actually is three related sound changes, and it has to do with a split that happened in the languages that are descended from Proto-Indo-European. And Proto-Indo-European is not sort of the only proto-language. There's a whole bunch of them, but we're going to talk about Proto-Indo-European because data is not good for a lot of these other proto-languages because they require more study, and… That's a different podcast.
+
+
+ELI: So if you look at the split, this is actually a place where the Germanic languages — Proto-Germanic, and then all of its descendants, German, English, Dutch, a bunch of the Nordic languages — split off from the rest of the Indo-European pack. And so this is a sound change that happened in all those Germanic languages. And we can see it in English and in German. And we can see the thing that didn't happen in Latin and Greek and Sanskrit and a bunch of other Indo-European languages.
+
+
+ELI: We're going to mostly use Latin on the one side and then English on the other because we want you all to be listening and participate in this, but it's pretty easy to find other examples in other languages. So… Of course, Sarah, can you give me the world's most common example of Grimm's Law?
+
+
+SARAH: So in Latin, we have “pater,” P-A-T-E-R, and then in Old German, we get “vater,” and then in English, we get “father.”
+
+
+ELI: Yay!
+
+
+SARAH: Hence everybody's favorite Star Wars character, Darth Vader, the Dark Father. Sneaky, sneaky dad character dressed all in black.
+
+
+ELI: Yeah, sorry if we just spoiled Star Wars for you. But that's what you get for studying linguistics.
+
+
+SARAH: [laughs]
+
+
+ELI: So that's the example that everybody trots out. But Grimm's Law is more than just /p/ to /f/, although there's a bunch of examples, right? So you have, like, “pes,” which means “foot” in Latin, and /p/ to /f/, “pes” to “foot”. You get “piscis,” which is Latin for “fish,” and “fish,” so… so on and so forth. One that I was surprised by is “pelt” and “felt,” which is about as straightforward for that sound change as you can get. And then also, like I said, numbers are really durable. So for this change, it's not Latin, it's Greek, but “penta,” and then you also have words that are similar to “penta” in other Indo-European languages. But in German, you get “fünf,” and in English, you get “five.” And you can actually see with “penta” and “fünf” that you have, this, like, /p/ to /f/, and then a vowel, and then an /n/, and so the shape of the word is similar. And “pater” and “vater” has that too.
+
+
+SARAH: And then when you go from “fünf” to “five,” you sort of take the voicing of the /n/ and the /f/ at the end of “fünf” and smush them together and get a /v/ sound for “five.”
+
+
+ELI: Yep. So if you were doing the comparative method on German to English, that's one of the things that you would look at. So we don't just have /p/ to /f/, we have two other sound changes in this part of Grimm's Law. One of them is /t/ to /θ/. And again, with numbers, you can see that with like “tree” or “trace” or “trio,” which goes to “three.” And then apparently German had another sound change where /θ/ turned into /d/. So you have “three” and then “drei” for German. And then in basically every Romance language, the word for “you” is “tu.” And in English, not anymore, but it was “thou.” So “tu” to “thou,” /t/ to /θ/, you also get some cool ones like “alter” becoming “other,” and again, you can see that shape of the word stays the same. And “trans” and “through” are also, you get that /tr/ to /θr/, /t/ to /θ/.
+
+
+SARAH: I don't think I ever realized that “trans” and “through” were cognate at all. That's really cool.
+
+
+ELI: Yeah. And if you sort of go back to an older English, then you get like [θrʊx] right? So you have “trans” and “through,” which, like, all of those correspond, it's just like a thousand years or a couple thousand years of sound change. And then one of the other ones in this series—so we talked before about voiceless stops, /p/ /t/ /k/. So /p/ goes to /f/, /t/ goes to /θ/, and the accompanying sound change for /k/ is /h/. So that is where “hound” comes from, in Latin, the word for “dog” is?
+
+
+SARAH: “Canem.” 
+
+
+ELI: Right. So “canem” to “hound.” You can see that there is that /k/-vowel-/n/ and that turns into /h/-vowel-/n/.
+
+
+SARAH: And that one is also really interesting because you can see in different, like, Indo-European languages in general, and also specifically in the development of Latin into the modern Romance languages, “canem” is the accusative form, so, in the example from the email earlier, we were talking about the different cases that nouns can have. And so that /m/ is one of those informational morphemes, but in the development of the later Romance languages, a lot of them became more analytic, more isolating, and less fusional. And so they rely more, like English does, on prepositions instead of morphemes like that, and some of the Romance languages developed their vocabulary out of this accusative form with the /m/ in it, and some of them developed their vocabulary out of the nominative or the subject form that would have a different ending, and so that is another reason why you might see words that don't appear to be super cognate, and then when you do this comparative thing, you can notice that, like, a lot of the Spanish words kept the /m/ version. So like the word for “who” in Spanish is “quien” and has that /n/ still on the end. Whereas in French, you have “qui,” just Q-U-I, because they took the nominative form and Spanish took the accusative form.
+
+
+ELI: Yeah. So that's one of the reasons why it is important and also really fun to develop this kind of sense about word shapes, where you're not always going to get a one-to-one correspondence, but you can sort of start to overlay these words on top of each other. One of the ones that I really like that is in this /k/-to-/h/ thing is the word “quay” [ki], which is in English, Q-U-A-Y, but that's borrowed from French, descended from Latin. And that is cognate with the word “wharf,” which in an older version of English would have been [hwɑɹf]. And so you get that “q” from “quay” going into “h” for “wharf."
+
+
+SARAH: That's bizarre.
+
+
+ELI: I know, but it's cool.
+
+
+SARAH: It's so cool. Language is just bizarre and cool all the time, but what the heck, man.
+
+
+ELI: And then there's one last one in this which I want to point out, because again, one of the things that you might have noticed through these words is that these are words that have once again come into English through Latin or French and usually are more technical or sort of, mm, less vulgar, right, or less everyday, and that the Germanic ones are sort of more everyday, or simpler, or that kind of thing, which, like, that's a whole other thing and we're not going to talk about that here, but I never ever thought to compare the words “cannabis” and “hemp.” And what you see there is you see “q” from “cannabis” turn into “h” from “hemp.” You see “n” from “cannabis” turn into “n,” so the “n” turns into an “m,” which is not part of this law but is like a really common sound change. And then you see the “b” turn into a “p,” which we'll talk about in a second. So it's three sound changes, but you can look at it and you can say, oh, “cannabis” and “hemp” actually do have this overlay on each other.
+
+
+SARAH: That's super cool.
+
+
+ELI: You were talking earlier about “quien” and “qui,” and so we've looked at the stops /p/ /t/ /k/, but Proto-Indo-European also had another stop, which is a palatalized “q,” and so something like “quod” in Latin turned into “hwæt” in English. They both mean “what,” and that's—you get that /kwa/ to /hwa/.
+
+
+SARAH: I—you mentioned previously this is an audio medium, so no one can see the face I'm making right now, but my hands are, like, on the sides of my head, like, holy cow. I'm kind of angry I never realized that before.
+
+
+ELI: I'm, like, so glad that we're getting something new and exciting out of Grimm’s Law, because it literally is, like, you learned it in the first two weeks of historical linguistics, and then you're like, “Ugh, okay, could we do something more interesting?” Because everyone goes to it, but, like, I'm glad, because I'm glad to, like, find some real cool depth in here.
+
+
+SARAH: Yeah, this is awesome.
+
+
+ELI: Summing up a little bit, this is one of the three sound changes. I want to give our listeners another set of words and see if they can sort of see what's happening with that set of words. It's the second of three sound changes in Grimm’s Law. Sarah, because you are the Latin side of this podcast, do you want to do the Latin, and then I'll do the Germanic side?
+
+
+SARAH: Sounds great. So we had “cannabis."
+
+
+ELI: Which goes to “hemp."
+
+
+SARAH: “Labia.”
+
+
+ELI: Which goes to “lip."
+
+
+SARAH: “Lambere,” which means “to lick."
+
+
+ELI: And that's cognate with “lap."
+
+
+SARAH: And then the next set we have “duo.”
+
+
+ELI: Which is cognate with “two,” or in German, “zwei.”
+
+
+SARAH: “Decem.”
+
+
+ELI: Which is cognate with “ten” or “zehn.”
+
+
+SARAH: “Dens.”
+
+
+ELI: Which is cognate with “tooth.” And one thing that I'll say about this is for “duo,” you'll see the “u” in “duo” and the “w” in “two.” And like, that's an interesting thing to look at, but also the change from “t” to “z” happened later in German, so you would have originally had something like “twi” or “ten."
+
+
+SARAH: Cool. And then our last one, we have “genu,” which is the root of the English word “genuflect."
+
+
+ELI: Yeah, which is cognate with “knee,” which has a silent “k,” which used to not be silent and was [kni].
+
+
+SARAH: And then “granum.”
+
+
+ELI: Which is cognate with “corn,” which is an old English word for “grain."
+
+
+SARAH: Fun fact: in Latin textbooks still, a lot of the ones that originated in Europe will define all kinds of words that just mean “grain” as “corn.” And there's still a lot of confusion, even in basically modern English, over older English phrases where “corn” refers to any kind of grain, whereas in America, “corn” is very specifically this type of American maize food.
+
+
+ELI: Yeah, I guess that's a very America-centric thing to have that note that it used to mean “grain,” because there are places on the British Isles where it does still mean just sort of any kind of cereal or grain.
+
+
+SARAH: Yeah. All right, so we have the cannabis/hemp, “labia”/lip, “lambere”/lap. So obviously you can go look up what happens with these words. Look for Grimm’s Law, spelled like the fairytale people. Or just think about it. See if you can figure it out. And feel free to send us a message if you figure it out or if you have a question. We would love to hear your thoughts.
+
+
+ELI: Yeah, I mean, one of the things that we've sort of discussed is seeing if there's a way that we could, like, do an audio worksheet? I think this is probably as close as we're gonna get.
+
+
+SARAH: Yeah.
+
+
+ELI: All right, shall we move on to some real language questions submitted by real listeners? Let's do it. Cool. If you want to send us a question, email it in text to questions@linguisticsafterdark.com, or send us an audio recording of you speaking your question aloud, which is especially handy for phonology and accent questions, and also will be very interesting if you try to pronounce Proto-Indo-European. 
+
+
+SARAH: Yes. All right, so our friend Gavrilo from earlier also included a question in the email that we got, and the question goes, “John McWhorter has been under fire for a lot of things he's said, some of which haven't got a lot to do with linguistics. But how do you feel about his analysis of English as a Creole or a once Creole?"
+
+
+ELI: You know, John McWhorter is an interesting figure in linguistics. And I kind of think that he is the Neil deGrasse Tyson of linguistics. Like, John McWhorter is undoubtedly a linguist who knows what he's talking about, right? He's not someone coming in from another discipline, he's not somebody who sort of has crackpot theories, or thinks that, like, English is descended from Hebrew or something like that. Like, he is a linguist who is totally within the mainstream. But I think he also has this, like, quality where he is using his platform to comment on a lot of things that are outside of his specific area of knowledge.
+
+
+SARAH: I will admit, I personally try to stay out of the “which linguist are we canceling today” discourse, because I don't have the energy for it a lot of the time.
+
+
+ELI: I mean, it's just, it's always Chomsky, right?
+
+
+SARAH: It's always Chomsky, except when it isn't, and then it's, why is this person worse than Chomsky? No one's worse than Chomsky. And it's just the whole thing.
+
+
+ELI: Yeah, that's fair. I will admit that I haven't dug deeply into his analysis of English as a Creole. But it sounds like it's a hot take that's meant to make people kind of realize that Creoles are not like second class languages, basically. 
+
+
+SARAH: Yeah.
+
+
+ELI: I don't think that I agree with it, personally, like I don't—I can see where the analysis comes from, but I think that it's sort of, if English is going to be a Creole, then we have to slightly redefine what Creoles are.
+
+
+SARAH: Yeah.
+
+
+ELI: Because—so, basically, a Creole is what happens when you have a pidgin, which is P-I-D-G-I-N, it's trading language, that is not actually a language, it's like a set of lexical items that two different groups of people use to communicate. But when those people have kids, and those kids grow up in the environment speaking the pidgin, their linguistic apparatus fills in all the gaps and they become a speaking community with an actual structured language, and that type of language is called a Creole. And that is why I don't think that English is a true Creole, is because it did not evolve out of pidgin. I have not read any scholarship that indicates that English evolved out of a pidgin.
+
+
+SARAH: Yeah. On the other hand—I like your interpretation of it as a hot take, explaining why Creoles are, in their own right, valid languages—but on the other hand, like, English as it is spoken now—well, heck, English as it was spoken 200 years ago, developed even long before that, out of the English that was spoken on the British Isles and the French that was spoken by the Norman invaders. And that's not a trading language, per se, that's not—we don't have evidence of that pidgin, but we do have this way in which English was just changed in a way that it's never gone back from that contact with French. In a way that, you know, I'm sure the French and the English people near each other had a trading relationship and had ways of communicating. But once the Norman invasion happened, English evolved in a completely new way. And that still has effects on the English that we speak now, let alone all of the other words and bits of syntax that English tends to pick up.
+
+
+ELI: I do wonder if McWhorter's analysis does anything with languages like Yiddish or Ladino? Because one of the things I was thinking about while answering this question is the way that English is, is kind of unusual. It's actually, it's very unusual in the world where you have sort of a fully fledged language that then, Conquering Force came in with a totally different language, and the language was not, like—usually when that happens, the existing language almost always, like, it gets stamped out, or it gets repressed, or that kind of thing. You don't very often get this, like, fusion of the two languages and you don't—and even when that happens, usually what you get is you get the conquering language incorporates some stuff from the existing language, rather than the other way around.
+
+
+ELI: At this point, by the way, I want to give a huge plug to the History of English podcast, which is A) great to fall asleep to, but B) is a hundred and some odd episodes deep into going step-by-step along the evolution of English, starting from Old English and Proto-Germanic and even Proto-Indo-European, talking about all of the political forces that shape why English was the language that came out on top after the Norman invasion.
+
+
+ELI: So anyway, I just, like, English's situation is really… weird? And the closest thing that I can think of is a language like Yiddish or Ladino, where you have two languages that are not really related to each other. I mean, English and French are related, but they're distant cousins, basically. You know, with Yiddish, you have German and Hebrew, which are not related, fusing into a different language, and I don't think that I would call Yiddish a Creole, and I don't think that I would call Ladino a Creole, unless, again, you expand the definition of Creole to not have to have come from a pidgin, and instead talking more about being a language that evolves out of the interface of two different languages. 
+
+
+SARAH: Yeah. Ladino is Hebrew and Spanish? 
+
+
+ELI: Yes. There's a number of languages around the Mediterranean that are traditionally spoken in Jewish communities that are Hebrew along with whatever language is sort of commonly spoken in that area. 
+
+
+SARAH: That makes sense. Yeah. That is, yeah, that's a really interesting question. And I guess the real question is like... 
+
+
+ELI: What's a Creole?
+
+
+SARAH: Yeah, what's a Creole? What's a pidgin? Like, does it count if, as a kid, I grow up in a place where I'm hearing both Hebrew and German being spoken, and my parents understand and maybe even speak both of those languages separately, but me and all of my friends start mixing them together, and then that evolves, even if it's not a complete trading language situation. 
+
+
+ELI: Yeah, like, I guess you get questions like Spanglish and Singlish. Like, are those Creoles?
+
+
+SARAH: Yeah. Or are they pidgins? Or are they their own thing? And if so, we should give that category a name.
+
+
+ELI: So I guess my final answer to this is like, it's a hot take, but it's not a hot take without merit. And actually, there might be some use out of expanding the definition of Creole, or making Creole have a couple of subcategories to include some of these languages that are fusions of two different, for all intents and purposes, unrelated languages. 
+
+
+SARAH: Yeah, I would agree with that. 
+
+
+ELI: Cool. Koby Kaplan asks via email, “Are Old English and Modern English the same language?” Oh, spicy. “I've heard mixed answers from historians and literature people, but I have never asked any linguists.” And once again, historians and literature people. We are haunted by the shadow of l'Académie Française.
+
+
+SARAH: [laughs] Well, thanks for letting us be the linguist that you asked. That's cool.
+
+
+ELI: Yay. And thanks for asking a linguist. 
+
+
+SARAH: Also true. Okay. Yes, but also no. Which really doesn't help.
+
+
+ELI: You heard it here first, folks.
+
+
+SARAH: That really doesn’t help with your “mixed answers” problem. But—I mean, they are the same language in that there is a direct evolution that we can trace. And in the sense that, like, there's also a direct evolution that we can trace from Latin to French or Provençal or Spanish or Romanian or any of the other modern Romance languages. But at the same time, like, Latin has given us 10 or 15 modern Romance languages. I made that number up. Somebody go look up the real number, but it's more than five. Whereas English, Old English has given us Modern English.
+
+
+ELI: K, Sarah, let me ask you a question.
+
+
+SARAH: Yeah.
+
+
+ELI: Have you ever read Beowulf in the original Anglo-Saxon?
+
+
+SARAH: Ah, no. 
+
+
+ELI: Have you read Chaucer in the original Middle English? Or like Sir Orfeo or one of those?
+
+
+SARAH: I have not. I haven't tried.
+
+
+JENNY: Does it count if I had like a line-by-line, here is the Anglo-Saxon, here is the English, here is the Chaucer, here is the modern English comparisons as I went? Because I have actually done both of those things.
+
+
+ELI: Yeah, so have I. The point that I'm getting at is that if you look at a language like Icelandic, you have the sagas, which were written about 1000, well, closer to 800 years ago. We are not a saga podcast. Saga Thing is a great saga podcast. If you want to learn about the sagas, go listen to Saga Thing. Apparently, this is the podcast recommendation episode. 
+
+
+JENNY: I mean, hasn't every other episode been the Lingthusiasm recommendation episode? I feel like it's okay to switch it up.
+
+
+ELI: I guess that's true. But my point is that we're not going to wade into the saga dating controversy here. It's somewhere between 600 to 1000 years ago.
+
+
+SARAH: Yeah.
+
+
+ELI: And Icelanders can, at least to my understanding, read the sagas. With some difficulty, but it seems like they have about the same difficulty reading the sagas from about 800 plus or minus, like 100 years ago, that we sort of have reading Shakespeare and Marlowe, which is 500 years, 400 years ago, actually. 
+
+
+SARAH: Yeah, you make a good point. And actually, as I was saying all of that, I admit, I had the counterexample in my head of Greek, which is... 
+
+
+ELI: That's very characteristic of you. 
+
+
+SARAH: Very characteristic of me. And so one Latin teacher that I know—(who may or may not listen to this podcast, and if you recognize who I’m talking about, hi, thanks for listening!)—but he is Greek. He's a first or maybe second generation Greek American, speaks modern Greek completely fluently. And the differences that I've heard from him and from other people between ancient and modern Greek are not as dramatic, I think, as the differences between Old English and modern English, but they're certainly substantial. And one of my favorite examples, and I admit, I got this one from a professor, not from my friend, but the verb at the root of “monogamy,” which in ancient Greek meant “to get married,” hence “monogamy” being married to one person, that verb in modern Greek means “to have a one night stand.”
+
+
+[Eli laughs]
+
+
+SARAH: Which is my favorite example of language evolution and why you can't be like, “but this word meant this thing so many hundred years ago!” Like, it did, and then people started using it differently. And yeah, so yeah, I don't know.
+
+
+ELI: Yeah, I mean, again, this comes down to the question of what does it mean to be the same language? Like, modern English is indisputably derived from Old English. Like, yes, there is a big influx of French and Latin vocabulary, and that influx also did a lot to knock off a lot of the deep inflection system that Old English had that there's basically none of left in modern English. But there is a direct through line from Old English to modern English. And so historically, they absolutely are the same language. However, 
+
+
+SARAH: The mutual intelligibility there is next to none.
+
+
+ELI: And in like record time, too. Like one of the reasons that I brought up Icelandic, and I think that you brought up Greek, is that the speed at which Old English changed and became Middle English and Modern English is much faster than we see in other languages. And so the reason that I asked about Beowulf is I have tried to read Beowulf in the Old English, in the Anglo-Saxon, and it's a lot of fun, but I can't do it. I can read Sir Orfeo, but I have to think really hard about it. And I have to like, make assumptions about what certain endings mean. And that kind of thing. It's not, it's sort of like a post hoc understanding rather than like a reading and understanding the same way that I would read a normal book.
+
+
+SARAH: Yeah. On the other hand, I feel like we have to acknowledge that mutual intelligibility is not the only thing that defines whether two things are the same language or not. Yes, absolutely. And we talked maybe back on the first or second episode about the border between Germany and the Netherlands, and how certain dialects of what we would call German and Dutch are actually more similar to each other than they are to their main languages. And at that point, what's calling them either German or Dutch is the political geography.
+
+
+ELI: Yep. A language is a dialect with an army and a navy. Exactly.
+
+
+JENNY: And it kind of goes back to what we've also said before about languages in a monolith, right? There isn't some single version of a language carved in a rock somewhere that is the platonic ideal of this relationship. It is a construct that a lot of people have collaboratively created, and it's always in flux. So what you're defining as “a language” is something that's like, this language right now is a snapshot of this ever-evolving thing anyway. So—which is why you get into these debates about, well, is this a language or a dialect, and go with the political geographical borders, is because it's all kind of a social construct anyway, where we're drawing the line about what this language is.
+
+
+ELI: We kind of have this same thing about where we have said that the concept of a word is very important to everyone but linguists, and it's just not useful to linguists. And the concept of a language is very important in a lot of different spheres, but when it comes to linguistics, weirdly, that concept is so leaky that it is almost not useful when you are trying to do some sort of typological or categorization.
+
+
+SARAH: Yeah. So, Koby, I hope that you are happy that now you have asked a linguist and still gotten a mixed answer.
+
+
+JENNY: We're very helpful.
+
+
+SARAH: It is interesting, just the idea of the geopolitical line versus the temporal line.
+
+
+ELI: Oh, yeah.
+
+
+SARAH: It's the same thing. And again, part of the reason why I say, you know, Latin and Spanish are definitely different languages is because geopolitically, over time, Latin has turned into 10 or 15 or however many modern languages, whereas English and Greek have, over a quite long period of time, turned into English and Greek. And yet, you could still draw lines somewhere and say, okay, yeah, these are related, but they are separate languages rather than being temporal dialects, if you will.
+
+
+ELI: Yeah. And that's sort of like when you have Bosnian and Serbian and such, which are mutually intelligible and from a linguistic point of view, so similar that the only reason to call them different languages is geopolitical.
+
+
+SARAH: Yep.
+
+
+ELI: If you try to do the temporal thing with that, right, then you're going to get a straight line back and you're not going to get a good, you're not going to get a good point linguistically when you can separate them into Bosnian and Serbian. You're going to get a geopolitical point when that's going to happen. So I guess if you wanted to say that Old English and Modern English were not the same language, then you could point to the Norman invasion, but you could also probably point to like the War of the Roses or, like, conquering Scotland or a whole bunch of other places where geopolitically, English was irrevocably changed.
+
+
+JENNY: I mean, Noah Webster's dictionary, isn't he, didn't he specifically decide to drop the U's from a lot of words so that America wouldn't spell them like Britain did anymore?
+
+
+ELI: Oh, yeah. So are American English and British English the same language?
+
+
+SARAH: It depends who you ask and what your goals are, basically.
+
+
+ELI: And you have asked some linguists and your goal was to get clarity. So we hope that we have given that to you.
+
+
+SARAH: We also got an email from Bex who asks, “Is there any part of language that isn’t just teenage slang or business jargon that’s been dumped in the gem tumbler of language and (onomatopoeia)ed for a few millennia?” 
+
+
+ELI: Oh, I love this question.
+
+
+SARAH: I also really enjoy the use of onomatopoeia in parentheses as a “I don't know what sound a gem tumbler makes, but that must be what happened to them.”
+
+
+ELI: I also like really love the image of a gem tumbler as sort of the concrete version of the lenition chart of sounds that sort of soften over time, you know, “oh, those stops are pretty, they're pretty plosive. Like, let's just belt-sand the edges off of those and make them some fricatives.”
+
+
+SARAH: I'm also just now imagining because of the size you would need like a cement mixer, like a truck with a rolling cement thing and then just like little Arial-font words tumbling into it and like rolling around for a while and being poured out the back.
+
+
+ELI: Truly time is the cement mixer of all language. Man, I don't know how to answer this question. Like, I guess today's theme, we thought that today's theme was going to be language evolution, but actually, I guess today's theme is it depends on what you mean. Although there is something substantive that I want to say about this, which is that Bex talks about teenage slang, and actually, at least in the modern era, I don't know how far back the data goes, but we know that most linguistic innovation actually comes from middle-aged women.
+
+
+JENNY: Oh my god, really? 
+
+
+ELI: Yeah, I think this is a Bill Labov slash Bill Labov [pronounced differently] finding.
+
+
+SARAH: Hey, Bill, send us your name in IPA. 
+
+
+ELI: Yeah, man, we should get Bill on the show, have him answer this question.
+
+
+JENNY: Okay, but you still need to elaborate right now because I've never heard that before. And I'm fascinated.
+
+
+ELI: I am going to have to go dig this up so it can go in the show notes. But I remember learning, because I remember being surprised by it, because I always would have assumed that it would have been a younger group of people. I remember learning that what we have seen is that linguistic innovation, maybe it does not come from, but it gets sort of popularized by middle-aged women. And I think part of that is social connections, and part of that is kind of unknown. And yeah, I'm gonna have to—great, I'm gonna have to go look this up. Look, we don't do research before we do this show. Like, that's just how it works.
+
+
+JENNY: No, but I've heard the “linguistic innovation is driven by like teenage girls” from two different language professors. So I didn't know that was a thing there was research for me to do on it anyway. And I'm fascinated.
+
+
+ELI: Yeah, I mean, there is also documented evidence for teenage girls being linguistic innovators and having stuff that sticks and so on. I don't want to disregard that research, because I have also heard that.
+
+
+JENNY: But that's also, I think, more widely known, or I've seen more non-linguistic people talking about it in recent years. Yeah, I mean, of course, because it's a pushback against the idea that teenage girls don't know how to speak and they're lazy and yada, yada, yada, which of course is not true.
+
+
+SARAH: The other interesting thing on that topic, though, is that I would be curious to compare those data sets. When we say that middle-aged women have the highest rate of linguistic innovation, or whatever it was, what does that mean, necessarily? Because the thing about teenagers is that I believe there's also evidence that in your teenage years is the point at which your accent and idiolect and things tend to either change from where you grew up, or basically just solidify. Because as a young child, even though you might play with and interact with other kids, still the majority of your social input is being filtered through your parents, or directed by the adults in your life in some way, and you might be spending more time with your family or your extended family and having a more isolated linguistic experience.
+
+
+SARAH: And then the older you get, especially once you reach middle school, high school age, you're interacting with more of your peers, you're spending less time with your parents and your family, and there's also that whole identity crisis that starts at that point where you're like, “who am I as a person?” And consciously or not, a lot of that has to do with “how do I speak? How do I sound? What kind of slang do I use? Do I use slang?” And so, although obviously the critical period for acquiring sounds and all that is when you're less than a year old, and you're always going to have some level of accent from where you grew up and the dialect that you first spoke and all of that, a lot of the words and a lot of the speech patterns that persist into adulthood, I think, start solidifying in teenagerdom. And so there is also a level of innovation there where we see with kids inventing new words and new slang and we do know all about that. But I'm also curious when we say if we are looking at this middle-aged adult woman innovation, in what ways is that similar or different to the personal innovation of a teenager?
+
+
+JENNY: Well, and is it that, like, you said it might be that they popularize these things; are they popularizing the linguistic innovations that they were actually innovating as teenage girls?
+
+
+ELI: Yeah, as I recall, it's much more on the popularization side than on the actual innovation side. But my recollection is that the innovations that they popularize are current rather than sort of brought up with them.
+
+
+JENNY: Okay, that was kind of my question. So that's really interesting.
+
+
+ELI: Yeah, I don't know. I do want to go back to this question a little bit. And obviously, this is like a little bit of bait to be like, is there any part of language that isn't just teenage slang or business jargon, right, to take sort of two of the most derided parts of language? And I think in particular, Bex is getting at vocabulary innovation here. I kind of want to defend business jargon for just a second, which is like, some of it is not comfortable for me. I work at an office and I work with a whole lot of different kinds of people and I encounter business jargon a lot. And some of it, you know, gets a bad rap for being overused.
+
+
+ELI: Some of it gets a bad rap for having another word that could have been used when instead you're like going to derive—you're going to nominalize a verb, or verb a noun. And there are parts of business jargon that personally just to me are not great, but it's linguistic innovation to fill a gap for a really specific need. And I think the fact that it is jargon is really important. It's intended for use in a really specific circumstance and it gets the meaning across in a way that would require a lot of circumlocution. And instead you get people who are in that community know exactly what is being said.
+
+
+JENNY: Right. Jargon isn't inherently a bad or silly category. It is words that fulfill a specific purpose for a specific group of people.
+
+
+ELI: And I think that what happens is that sometimes when people are writing for a wider audience, they forget that they're using that jargon in a community that is not familiar with it or doesn't know it. And obviously it's like very easy to make fun of business people because, I mean, like punching up is great, everyone should do that. But like there is nothing inherently evil about—or even sort of different about the kinds of linguistic innovation that's happening with business jargon. It's all sociological, which like, great, go for it, but don't put a moral value on the words. Take your moral value and put it on the situation.
+
+
+SARAH: Right. And I mean, that's really the way in which like slang and jargon are really the same thing.
+
+
+ELI: Exactly the same. Yeah.
+
+
+SARAH: Yeah. The issue is never, in my opinion, with those words themselves. But when they get, like you said, applied out of context, they either sound ridiculous or they are confusing because some words have a very specific technical meaning and either no meaning or a different meaning in the common vernacular. And if you expect the specific meaning and get a different one to your reader because you forgot that you weren't in that domain anymore. That's when you have that communicative breakdown and also start getting people laughing at you because, oh, you're a business person who's so holed up in the business world, you forgot how real people talk. And like, yeah, great. It's, you know, punch up and also laughing at people's linguistic, especially vocabulary errors, is a really rich source of comedy. And I don't think anyone begrudges anyone that, but also recognize that it happens with all sorts of other situations as well. And it's not just business jargon. 
+
+
+ELI: So if you're going to assign a moral value and make a moral judgment on somebody for the words that they use, take a step back and take a look at the actual social situation and don't use the words as a proxy for the social situation.
+
+
+SARAH: Yeah. And on the flip side, if someone comes up with the wrong word and it ends up being really funny, you know, assuming they're not completely mortified and you're just like adding insult to injury by laughing at it, go ahead and laugh. I mean, I learned the word chastise in eighth grade because my English teacher asked me if I knew what it meant. It came up in a reading and I said, “yeah, it's when a boat turns over,” and she lost it. And I was like, what? And she goes, “No, no, honey, that's ‘capsize.’ ‘Chastise’ is like scolding someone.” And I was like, oh, and I have never forgotten now either of those words because she was like, “I'm sorry that I started laughing, but also you just provided me this image of someone like someone's parent being like, ‘No shoes in the house! [Tips boat over]’, which is such a great image.” And I started laughing, too, because like, yeah, I didn't realize that that's what that word was, but it was a funny situation.
+
+
+ELI: “If you don't stop this, I will turn this boat around. So help me.”
+
+
+SARAH: “Mom, mom, we're in the car.”
+
+
+ELI: I mean, this is also, like, that's where a lot of inside jokes come from, right? It's like, somebody has used a word in a weird way and it just kind of sticks as an inside joke.
+
+
+SARAH: And eventually that's how words acquire new meanings, is people said something weird and it stuck. So in that way, I think Bex is right.
+
+
+ELI: Yeah, I think I was just about to go back and be like, surprisingly, I think the answer to this question is no, there isn't any part of—I mean, let's like take a moment and like, is there any part of language like, okay—
+
+
+SARAH: Prepositions.
+
+
+ELI: —what are you defining as language? What are you defining as—like, semantics is probably not teenage slang and business jargon. But like we're talking about words and meanings and morphology and syntax, then like, I mean, if you extend to business jargon to mean like people trying to trade or like get their fields sown on time, and that kind of thing. Like, I think Bex is right.
+
+
+SARAH: Yeah. I mean, the other thing that you talk about in linguistics sometimes is the idea of, like, closed or open classes of vocabulary. A really good example of a closed class would be prepositions. I don't know how many there are in English, like 30, 50. But compared to the number of nouns and verbs that are possible, it's a tiny number. And I don't—
+
+
+ELI: You think there are 50 prepositions in English?
+
+
+SARAH: Again, define word, because like—
+
+
+ELI: Oh, gosh, yeah.
+
+
+SARAH: —“on top of,” blah, blah, blah. But anyway, whatever, I'm putting my money on about 50, if not fewer. And until recently, it was definitely taught that pronouns were a closed class. And I think you will understand—or I think it would make sense why people struggle so much, even the ones who conceptually understand and support the neo-pronouns that some people use, the reason they are hard for us to learn to use is because pronouns in general are a closed class. They are not a class of words that supports new innovation and coining of new words. So I can be like, “this is a wug, this is a schmertz, this is a flipdejuda.” And you can be like, “yes, that is a flipdejuda,” because you can put, you can—nouns are open. You can make up any number of nouns or verbs or adjectives that you want. And we struggle—
+
+
+ELI: Yeah, but you can't be like, “framp is a wug.”
+
+
+SARAH: Right.
+
+
+ELI: And you're like, “what is framp?” And you're like, oh, “framp is a pronoun that means a thing that's far away.”
+
+
+SARAH: Right. And so it's yeah, so it's interesting that like, those parts are probably the least slangy and least gem-tumbled of all of the parts of a language, because they don't get innovated and they don't change. Like, I bet if you went back to Beowulf, there's a lot that has changed in English since then. But I'm guessing the words for in and on and over and under are pretty darn similar—maybe not the same, we've had a lot of sound changes—but I bet you could get some of that overlap that Eli was talking about earlier much more easily than you could get with the other parts of vocabulary,
+
+
+ELI: I mean, a lot of those members of closed classes go back like thousands of years, like you can reconstruct Proto-Indo-European for prepositions and for pronouns that is pretty recognizable. We actually had one of those examples further up, right, with “tu” and “thou.”
+
+
+SARAH: And “what.”
+
+
+ELI: Yeah. And in English, the only reason that you wouldn't be able to, because I do think that with Old English in particular, you might have a little bit of trouble with that. But part of that is lexical substitution. It's not because language evolution got in the way. You take any language other than English, I think your point, which is a point that stands very well, will stand even better in a different language. But outside of that, yeah, I mean, like, just because there is a gap in meaning in a language doesn't mean that a word will come along to fill it. And a specific gap in meaning in a language is not necessarily indicative of the speakers of that language having the ability to, like, make a distinction about that. But if it becomes important, then words will be created for it. Like, that's why you have lots of words for, like, all of the different parts of weaving or all of the different, like, you know, all of the different kinds of plants and herbs that are important to eat or not eat. And, like, every, you know, size of hammer in a blacksmith shop is going to have, like, a different name. Right. So congrats, Bex. Your shitpost got turned into an actual good question.
+
+
+SARAH: Yeah. All right. Eli, would you like to give us our puzzler recap from last time?
+
+
+ELI: Yeah. So last time our puzzler was about you being at the hardware store and you have a new mailbox and you want to put your address on it and you want to spell it out with letters because you are a classy mofo. And so you're buying letters to spell out 12, which is your address, T-W-E-L-V-E. But there's no price marked on the shelf. And so you grab the letters and you go up to the cash register and you're just like, yeah, it'll be whatever it'll be. The first person in front of you buys O-N-E and it costs $2. The second person in front of you buys T-W-O and it costs $3. And the third person buys E-L-E-V-E-N and it costs $5. And then you see a sign that says exact change only. So now you have to figure out how much is your 12, T-W-E-L-V-E, going to cost you. And I really like this because it depends on an anagram that I really love, where 2 plus 11 is an anagram of 1 plus 12. 
+
+
+SARAH: That's amazing. 
+
+
+ELI: It's cool because they're both 13. So knowing what 2 and 11 cost and then knowing what 1 costs, I guess, assuming that it's, you know, priced per letter, the cost of 2 and 11, that's 3 plus 8, or 3 plus 5. The cost of 2 and 11, that's 3 plus 5, so $8. And then you subtract the cost for 1, which is $2, and you get $6. So 12 will cost you $6. 
+
+
+SARAH: All right. 
+
+
+ELI: Yeah. If that was your answer, good job. Well done. You know your anagrams. And now we have a new puzzler. Sarah, what is our new puzzler for this episode?
+
+
+SARAH: So this puzzle comes from an old show, possibly Car Talk, possibly Wait, Wait, Don't Tell Me, possibly some other radio show that I listened to once. I don't remember. It was a while ago. But it stuck in my head, and something reminded me of it a couple days before we recorded this episode. So I wanted to share it with you guys. It's kind of along the same lines as the 1 and 12 and 2 and 11 anagram puzzle that we just did. You're going to take the name of an old technology used for communicating with someone far away from you, remove one letter, and get an anagram of a new type of technology used to communicate with people far away from you. By new, I mean since 2000. And by old, I mean a lot older than that.
+
+
+ELI: So like, fax machine?
+
+
+SARAH: At least. Let's go with probably 1900. I'll look the date up later.
+
+
+ELI: Oh, that's later than I was thinking. I'm like, what is “smoke signals” anagram to? I get like “signal fire,” that's got a lot of good letters in it. You know, it's the fax machine of Gondor. “My lord, the modem has fired up. Quick, rally the troops!”
+
+
+SARAH: Oh boy.
+
+
+ELI: Anyway, that's it for this episode. Thanks for listening.
+
+
+SARAH: Linguistics After Dark is produced by Emfozzing Enterprises. Audio editing is done by Eli, question wrangling is done by Jenny, show notes are done by Sarah, and transcriptions are a team effort. Our music is Covert Affair by Kevin MacLeod.
+
+
+ELI: Our show is entirely listener-supported. You can help us by visiting patreon.com/emfozzing. E-M-F-O-Z-Z-I-N-G. That one's for our American listeners. And by telling your friends about us. Ratings on iTunes and other podcast services help as well.
+
+
+SARAH: Also, for those of you listening on YouTube, we just put up, well, a while ago by the time this comes out, a new channel. So check us out there, too.
+
+
+ELI: Yeah, there's a video on there with a link to the new channel.
+
+
+SARAH: Every episode, we thank patrons and reviewers. Today we want to say thanks to these awesome patrons: Mitch, Bex, Dre, Beth, and Jeff. Thank you so much.
+
+
+ELI: Find all our episodes and show notes online at linguisticsafterdark.com or on all your favorite podcast directories. And send those questions, text or audio, to questions@linguisticsafterdark.com. Or tweet them to us @LXADpodcast. And you can follow us on Facebook and Instagram, also @LXADpodcast.
+
+
+SARAH: And until next time, if you weren't consciously aware of your tongue in your mouth, now you are.
+
+
+[beep]
+
+
+ELI: Don't take our advice as linguistic law if you're going to go into the court of linguistics.
+
+
+[beep]
+
+
+SARAH: I really don't want to say the word “irrevocably” because it just makes me think about Twilight.
+
+
+ELI: Okay, I'm glad to not get that reference.
+
+
+[beep]
+
+
+SARAH: Like, a weird Velcro thing.
+
+
+[beep]
+
+
+ELI: I am a businessman. I am businessman.
