@@ -1,0 +1,698 @@
+[Music]
+
+ELI: Hi and welcome to Linguistics After Dark! I'm Eli. 
+
+SARAH: And I'm Sarah. If you've got a question about language and you want experts to answer it without having done any research whatsoever, we’re your podcast. 
+
+ELI: Settle in, grab a snack and a drink, and enjoy! 
+
+SARAH: All right, so, what are today's snacks and drinks? 
+
+ELI: Um, no snacks, cuz that sounds bad on mic, but I have some cold brew with a little bit of cream in it. In deference to the conceit of the show, though, I'm drinking it out of a stein. 
+
+SARAH: Ah, that's legit. I’m drinking actually the same thing I was drinking on on the last episode, which I forgot to mention, which is Thai iced tea. And for the first time in the past five years since I moved away from, like, the urban area near Boston, I have finally found a Asian grocery store that is actually practical to go to on a semi-frequent basis, which is really exciting! So I was there a couple months ago and found, like, pre-flavored Thai tea leaves and you just brew it up, and then you put sweetened condensed milk in it, and it's so much better than when I tried to make it from scratch. 
+
+ELI: Oh, yeah, I'm really jealous because I have tried to make Thai tea at home a couple of times or Thai iced coffee, really, and it never quite turns out as well as, you know, you get it from restaurants. 
+
+SARAH: Yeah, this is not quite as good still but pretty good. 
+
+ELI: You're going to have to send me what the package looks like. 
+
+SARAH: I will do that! We can put that up in the show notes for anybody who cares. 
+
+ELI: Definitely. Speaking of the show notes, just to note that we are trying to get ahead a couple episodes and build up a buffer, so we're not going to have any notes from last episode in this episode, and in future episodes our “notes from last episode” will probably be from several episodes ago.
+
+SARAH: Let's move straight on to our Thing of the Day. And our language thing today is filler words! Um—
+
+ELI: Good example!
+
+SARAH: [laughs] Yeah, uh, so, filler words are sounds that you make to fill in your train of thought as you're speaking, and we don't usually consider them “words” because they don't have an inherent meaning. But actually they do? So one of the things we do if we are stuck on what we're trying to say, or if we haven't actually planned out what we're trying to say and need to, like, stop and think for a second, we'll say things like “um” or “uh” or “er,” and those are sounds that communicate to the person you're talking to that you haven't just stopped talking, but that you are thinking and processing information. And it can mean—er, it can communicate things like “please don't interrupt me” and it can communicate things like “I'm not quite sure, give me a second to figure this out,” and it can communicate things like “oh gosh, you've really surprised me, uhhhhhh, ehhhh?”
+
+ELI: Yeah, one of the things that you said earlier was they don't have a meaning, and they don't have a meaning in like a *traditional* sense, but they definitely have discourse function.
+
+SARAH: Absolutely, so that's why we call them filler *words*, because they do actually communicate information, and they're part of your sentence, and they matter, but you can never look them up in a dictionary, necessarily. Or you're not going to get a really good definition if you do, because their meaning depends entirely on the context.
+
+ELI: Also they don't have a standardized spelling, which reminds me of a thing about filler words that blew my mind—I think it was only about three or four years ago when I realized this, which is that E-R and U-H are the same word.
+
+SARAH: Oh, because in Britain you don't pronounce the R so just [ə].
+
+ELI: Yeah, if you have a non-rhotic dialect then ⟨er⟩ is how you spell ⟨uh⟩.
+
+SARAH: that's so interesting, because—so I had that same realization but I had it about ⟨erm⟩ E-R-M versus ⟨um⟩—
+
+ELI: Oh, yeah.
+
+SARAH: —because I do say [əɹ]. 
+
+ELI: so I think people have seen ⟨er⟩ written out E-R and then, if you have a rhotic dialect, picked that up as a new filler word. and I don't think it happens along people's lifetimes. I think that happened at some point in the past.
+
+SARAH: so like, as a society, Americans or other rhotic dialects saw the spelling of [ə] and then started using it? And then taught it to their kids. interesting.
+
+ELI: Yeah. I sort of think—Yeah, that's my, that's my theory.
+
+SARAH: I also feel like—so when I'm writing and I'm trying to spell out the filler words because I'm trying to write some kind of realistic dialogue, I tend to use E-R as, like, like an alternate spelling almost of ⟨or⟩. Like, I started to say something, “er, wait, no, a different thing.”
+
+ELI: yeah, I think I also feel that distinction between ⟨uh⟩ and ⟨er⟩ where ⟨er⟩ is like confusion but ⟨uh⟩ is like dumbfoundedness.
+
+SARAH: yeah. So my other fun fact about filler words are that they differ across languages. so not every language in the world says “uh” or “um” or “er.” Those are specifically English filler words. So when—like, at my school we actually teach kids of modern languages to use the filler words of the language they're studying because A) it makes you sound more fluent and B) it actually helps you stay in that language as you're talking.
+
+SARAH: So if you're pausing to think if you're speaking in Spanish and you are talking and then you, uh, “emm, yo voy a, emm, empezar…” blah blah blah… by saying [εm] instead of [ʌm] it helps you think in Spanish. Which—I don't actually know how they've studied or proven that, but that's what the teachers say, and it definitely makes you sound better to a Spanish speaker that's listening to you.
+
+ELI: oh, when you say “that's what the teachers say” is that like it's an acknowledged, backed-up part of the curriculum? 
+
+SARAH: yes.
+
+ELI: because I always sort of thought it was like it's just how you feel, that like, if you stay in that language both with filler words and also with backchannel then it helps you stay in that brain space. But I always thought that my foreign language teachers were just kind of, like, they felt that way. I didn't know that there was actual curriculum behind it.
+
+SARAH: well, that's what I'm saying. I don't *know* know, either, but that's what the teachers at my school tell their students, so I assume there's some sort of validity to it, whether it's just anecdotal, like that they feel that way so they're telling their kids that as well like you've said. 
+
+ELI: feels like it might be an immersion effect, almost?
+
+SARAH: yeah, I was actually talking to another language teacher friend of mine recently, who said that one of his students once commented that if someone in class asked him in French, like, you know, “qu'est-ce que c'est…” blah blah blah, whether he responded in English or French to the question, the kids could tell whether he was thinking in English or French whether it was the same language that he then spoke in or not, because he would either say [øː] ⟨euhhh⟩ or [ʌː] ⟨uhhh⟩.
+
+ELI: oh that's cool!
+
+SARAH: he was like, “wait, really? I didn't even know I did that!” and they were like, “yeah, you were thinking about that in French, but you just answered in English.”
+
+ELI: well and so, this is another thing, is that filler words are basically unconscious, right, and so that might be part of the effect, too, is that it helps you pull your foreign language skills down to the unconscious level as opposed to having your consciousness interrupt them.
+
+SARAH: and that's another reason why, contrary to what some people will say about public speaking—obviously the more polished and the more prepared you are to speak, the less you need to pause for those filler words. but unless you're reading a script, you're going to have those filler words in there, and that's often, I think, *why* we can tell when someone is reading something scripted.
+
+ELI: oh, absolutely.
+
+SARAH: because there's no filler words. it's very, very literary feeling. and if you're speaking off the cuff, even about something you know very well and are very passionate about, you're going to pause from time to time. you're going to have to rephrase a sentence that you started weirdly. and by inserting those filler words you are keeping your brain going, and it's literally like the buffering symbol on a video.
+
+ELI: I like that analogy. it's the little spinner for your brain.
+
+SARAH: right! or like the hourglass or the the spinning beach ball thing on a computer mouse.
+
+ELI: do you want to know the world's worst fact about those?
+
+SARAH: what?
+
+ELI: so they sort of—one version of them originated in the Netscape Navigator browser, which had a little thing when the web page was loading, this little animation with, like, a comet and a big N, and they called it the throbber.
+
+SARAH: I was happier before you told me that.
+
+ELI: you're welcome.
+
+SARAH: thanks... anyway!
+
+[SARAH and ELI laugh]
+
+SARAH: but so like the little buffering thing: by allowing your brain and mouth to make that buffering sound, you actually end up speaking more fluidly. whereas if you actually stop speaking and allow silence, it sounds really awkward, you lose your train of thought faster, and you're not giving any of that, like, discourse-level information, like kind of meta-conversation information to the people you're talking to. because then they don't know if you've just stopped talking because you're thinking, or because you've suddenly had a stroke, or like, who knows?
+
+ELI: yeah, they don't know if you're willing to give up the floor, or if you're done, or in a public speaking scenario whether that is a point where people should applaud.
+
+SARAH: right!
+
+ELI: should we do a short little go-around with different filler words from different languages that we all know?
+
+SARAH: yep, so the one that I know in Spanish—and there's probably more than one, but the one I know—is [εm] which I think is usually spelled just E-M or with a lot of Ms, and then in French it's usually spelled E-U-H and it's like [ø] (or [makes other rounded vowel sounds]). I don't—my, my reading French is much better than my speaking.
+
+ELI: sounds French to me, though. so English obviously has uh [ʌː] and um [ʌm] and er [əɹ] to a certain extent, and then Japanese has ⟨えっとー⟩ etto ['e.toː] and ⟨あの⟩ ano ['a.no] which we did get taught in class.
+
+SARAH: also the other fun one is when I was studying sign language in college—and I forget if I told this story an episode ago or not, but—one of my teachers one day was giving a lecture, talking, and then kind of lost his train of thought, made like a thinking gesture—what we would consider a filler word—and then stopped his whole train of thought and went around the room and made us all say what our filler words were, because he suddenly realized that that's a really cool thing and we should talk about it.
+
+SARAH: and so he was like, “what hand motion do *you* make when you're trying to think?” and so we all went around and did, and it's usually some variant on, like, wiggling your fingers or wiggling your hand. and it's also important in ASL to shift your gaze (so, your eyes) away from the person you're talking to, which is part of indicating “I'm thinking, I'm holding the floor, don't start talking.”
+
+ELI: oh, that's cool, because you can't see if the other person starts talking 
+
+SARAH: right, if they do start talking, you're not watching them, so you won't understand, so that's like a way of not letting them interrupt you. 
+
+SARAH: and then I think maybe a semester later I was working with one of my classmates in another class who happened to be deaf, and we were doing homework together, and it *wasn't* a math class, but she just kept saying the word “twenty-five,” and I was like, “what? twenty-five *what*? like, what are you talking about?” until I realized one of the ways you can say “twenty-five” is just by wiggling your middle finger down towards your palm, and that was her thinking gesture as well.
+
+ELI: oh, interesting! I like that.
+
+SARAH: so like, it obviously only means twenty-five in the context of, like, 25 ____ and then there's a noun, but I had never seen someone use that as a filler word, and so I was like, “why do you just keep saying that? like, what's going on?” [laughs] anyway, it's cool. I would love to learn more about filler words in other languages. 
+
+ELI: hey listeners who know languages that we don't! send us your filler words! tell us what they are, and do they differ? like we were talking about ⟨er⟩ being like correction and [a]⟨uh[b]⟩ being like confusion, do you have similar instincts for your languages?[c]
+
+ELI: I love discourse-function words!
+
+SARAH: yeahhhh!! so, shall we move on to some questions from our listeners?
+
+ELI: yeah, let's do it!
+
+SARAH: okay, so these following questions came from our actual, real listeners! thank you guys so much! if you want to send us a question, you can email it in text to questions@linguisticsafterdark.com or you can send us an audio recording of you speaking your question aloud, which is super handy for phonology and accent questions.
+
+SARAH: so our first question this episode is from galadryels on Slack, and they said, “how did we get nicknames that don't seem to make sense? like how the heck did Peggy come out of Margaret and things like that?”
+
+ELI: I love this. I love these nicknames that are kind of way far removed. before we answer this I just want to plug real quick the History of English podcast, which has two episodes on the evolution of names in English: one episode is on first names, and one episode is on last names. and it is just a really fantastic podcast both to listen to and learn things, and also to fall asleep to if you are having trouble falling asleep.
+
+SARAH: that is always my trouble with that type of podcast, where I'm like, “this is really interesting *and* your voice is so soothing...”
+
+ELI: yeah, I have had to divide the episodes of that podcast into episodes that I would not mind missing the rest of, and episodes that I want to actually listen to.
+
+SARAH: that's legit.
+
+ELI: so this is actually—it's a really cool question. you get these things like Margaret versus Peggy and like Ted versus Ed, you know Ed for Theodore and that kind of thing. or Ned, actually. Ned for Edward is one. dick for Richard is another one. and you also get Jack for John.
+
+SARAH: Mmhmm! like, I have a friend—or a family friend, I guess—named Lucy, which is not short for Lucille, it's just Lucy.
+
+ELI: yeah, I actually got this all the time when I was growing up, and people would say, “oh, Eli, is that short for Elijah or Eliahu or—?”
+
+SARAH: oh, I didn't even think about that. 
+
+ELI: yeah, and I think since then the popularity of the name Eli has gone up a little bit, and also we've had—I was going to say we've had some high-profile Eli’s, but I think Eli Manning is probably the only one that there's been. you got Eli Whitney, which, no thanks. Eli Gale, which, eh okay. and then, like, Eli Manning. there's not a lot. 
+
+SARAH: I had totally forgotten about Eli Manning. because I remember you one time saying that people would often pronounce your name wrong, and I was like, “it's three letters and phonetic!”
+
+ELI: well, it's three letters, but two of those three letters are usually not pronounced that way.
+
+SARAH: I mean, that's true. so I can understand how you get to [ˈε.li] but also to me, Eli [ˈi.laɪ] is a super normal name, so it would never occur to me to mispronounce it. but that's… you know.
+
+ELI: um, so the the way that these nicknames, these specific—the Peg-for-Margaret and Ned-for-Edward came about is that there was—first you would do shortening so Margaret would become Meg, right, or Edward becomes Ed. and then there was like a period of time where it was considered very funny because the internet hadn't been invented yet, so people had to do lots of things for fun—[SARAH laughs] —uh, it was considered fun to rhyme people's names. so you got from Margaret to Meg to Peg, and then to Peggy.
+
+SARAH: it's also just interesting, like, which ways we choose to shorten things, and I would be so interested to, first of all, go listen to that podcast that you mentioned, but also really see kind of like a corpus study of names and their nickname forms in English, because some languages—like I'm going to touch on Russian in a minute, but—some languages have a really standardized pattern for nicknames. and English… does, but also. like…
+
+ELI: [laughs] English *does* have a standard way of doing something, but also.” 
+
+SARAH: you switch to an [ε] to get Meg but you also have Marge. and then do you have James you go to Jim, which is like, all right you lost the S and you switched the vowel. and then John goes to Jack because… we said so! like, that's not even shorter! that's just like “I want to call you a different name” 
+
+ELI: yeah, although with Margaret you have to remember it was probably M[aː]garet [non-rhotic] and so that that goes to [maːg] and Meg pretty quickly.
+
+SARAH: that's true. but it's just very interesting. and so then yeah you have like these steps and once a name has been decided—like, as soon as Peg or Peggy became an “approved” name then it was like “well, I like the sound of that, so call me that” or like, you know, “I know that this is one of the possible options for someone whose given name is Margaret, so even though it's bizarre that Peggy means Margaret, I've decided that's what I want to be called.”
+
+ELI: one of my favorite things about nicknames are names that have nicknames that went in two totally different directions. 
+
+SARAH: mhmm.
+
+ELI: so my favorite example of this is Christopher where—so I have a very good friend whose name is Topher [ˈtou.fəɹ]. and his full name is Christopher, but that is not a thing that is inside my brain, because to me, Christopher you get Chris, is the nickname. and it's such a specific choice to have your name be Topher. I think part of it might also be that the stress pattern is a little bit different.
+
+SARAH: yeah.
+
+ELI: but it's like, oh, you had a—somewhere along the line you had somebody who was like, “nah, ‘Chris’ is too mainstream, I'm gonna be Topher.”
+
+SARAH: the other one that really gets me—and I think there's a few like this, but—names like Alfred. because “Al” is a totally cromulent, easily accepted, common name for people, and so is Fred. and so even though typically we think Fred is short for Frederick, there's no reason that Fred can't be short for Alfred.
+
+ELI: yeah, and “Fred” actually has a bunch of—you get—“Winnifred,” too, can be Fred. 
+
+SARAH: that reminds me of my other favorite thing about nicknames recently. you mentioned that people made up rhyming nicknames before the internet existed and they needed some entertainment, but on the internet recently—and by recently I mean, like, the past couple years—there's been a joke/meme/running gag/whatever of taking a nickname that works for one name and then finding a rhyming nickname and back-forming a stupid full name. so if Nate is short for Nathan, Kate is obviously short for Kathan [ˈkei.θən] [ELI laughs] or Kathaniel [kəˈθæn.jəɫ], because I forgot Nathan is already a nickname, technically. 
+
+ELI: yes!
+
+SARAH: or if John is short for Jonathan, then Don is clearly short for Donathan. and you can just find lists and lists of these, and they're hilarious.
+
+JENNY: I've also seen—you were talking about Ted and Ned as short for Edward or whatever—I've also seen both Tedward and Nedward.
+
+ELI: oh yeah, definitely.
+
+SARAH: Neodore
+
+[ELI and JENNY laugh]
+
+ELI: and Ted is interesting because it's short for Theodore also, yeah. so you, you also, you kind of get this conversion of nicknames, sometimes, where one nickname is the—can be multiple longer names.
+
+SARAH: so Russian names, where you have your given name and your, like, patronymic middle name, and using just the given name or using them both are two different levels of familiarity and formality, but then there's also—anyone who's actually close to you would not use either of those, and would use a nickname or a diminutive of your given name. 
+
+SARAH: and there's so many different ways of making those diminutives, but unlike in English (as far as I understand, and I'm not researching this, so someone feel free to tweet at us or whatever) there's set patterns of how you do it, and you can just pick for any given name which pattern sounds best. but then you do end up with that convergence, where one of the common ways to make a diminutive name is to put [ʃə] or [ʃa] on the end of it.
+
+SARAH: and so you get like Sasha from Alexander or Alexandra, and you get Masha from Maria or Mary or any other name that starts with Ma, and so it's very easy to take a given name and predict what their diminutive is going to be, but if you have only ever heard someone's diminutive name, going backward is much less predictable, in some situations.
+
+ELI: this happens across all of the Slavic languages, because I know a bunch of Polish people, who also have this thing where you have your your given name and a family name and then you have the diminutive, which is what people who are actually familiar with you call you, right, and you use them both in different—
+
+ELI: this also kind of reminds me of nickname formation in Japanese, where when you are close to somebody you can start to abbreviate their name, and you get like all kinds of different patterns. it's probably related to the stress pattern and so on, but you have some interesting nickname formation rules there,
+
+SARAH: I saw a really interesting Twitter thread on how Chinese nicknames work as well, which I definitely can't replicate off top of my head, but—
+
+ELI: we'll dig it up and put it in the show notes.
+
+SARAH: yeah but basically a lot of it has to do with just how many syllables were in your name to start with and what sounds are in them and like here's a bunch of approved ways—“approved” quote unquote —ways of making a nickname, and you pick which one sounds good with your name, but then some of them sound good and some of them don't, and like it's all very very subjective.
+
+ELI: there is a vlogbrothers video a while back, and we'll link to it in the show notes. so the vlogbrothers are brothers Green: one of them is named John and one of them is named Hank. and there is a path from John, which is a very old name, to Hank where Hank comes from other names in one way, but also in another way can be traced back through a number of steps to originally being the word John.
+
+SARAH: that's absurd.
+
+ELI: so the two of them have the same name.
+
+SARAH: so did their parents do that on purpose?
+
+ELI: no, I am pretty sure that they did not. 
+
+SARAH: okay, because that would be actually really impressive on the parents behalf.
+
+ELI: it is 100% a thing that Sonia and I would do, though.
+
+SARAH: oh yeah, oh yeah.
+
+ELI: or that I might do and not tell her. 
+
+[SARAH laughs]
+
+ELI: because what are children if not longitudinal linguistic studies?
+
+SARAH: yeah, you got to name your study! 
+
+ELI: all right, that's a lot of good stuff on nicknames. I—this question was great. thank you for sending this question in.
+
+SARAH: yeah!
+
+ELI: shall we move on?
+
+SARAH: please! what is our next question? 
+
+ELI: so our next question comes from Mitch, and he asks via email, “why do singers accents almost always become less intense in their singing voices as opposed to their speaking voices?” this is a thing that I have noticed, so.
+
+SARAH: yeah, I've also noticed this. in fact one of my favorite bands growing up was from Australia, and I could sing along to almost all of their lyrics absolutely fine, and then I would hear them speak words, and I'd be like, “wait, what?” like I couldn't replicate those sounds if I tried. but yeah, their like singing was so much more… I don't know, neutral?
+
+ELI: yeah, I have also had this experience of—you know, to a certain extent The Beatles, as they got further along in their catalog, you can like really hear a very Liverpool accent in some of their earliest hits, and as they keep going I feel like the accent kind of mellows out a little bit.
+
+SARAH: interesting!
+
+ELI: I also—there's a band called Too Much Joy who I love, who had a lineup change a little bit later in their existence, and one of the people who was singing started singing in kind of a Britishy accent, and I don't think that he was doing it specifically, but it was always weird to me because they are all from New Jersey.
+
+SARAH: [laughs] okay so we agree that this is a thing.
+
+ELI: check. step one, check.
+
+SARAH: why does it happen? I am going 100% out on a limb here, but I would posit one of two, if not both, reasons. one reason might be that if the singer has been trained in singing at all, in any sort of even moderately formal capacity—I mentioned a couple episodes ago how my choir director when I was young taught us to sing the sound [ai] by holding out the [a] and then closing on the [i] at the very end, as opposed to doing the Whitney Houston thing. and so, if singers are taught in any way to do things like that consistently, there might be a sort of, like, standardizing that happens.
+
+ELI: oh, that's interesting. I hadn't even thought about the sort of cultural transmission of accent in that way.
+
+SARAH: because a lot of us, right, like none of us when we're speaking just normally think about [aːiː] as being a diphthong, but it is.
+
+ELI: yeah, we just do it.
+
+SARAH: when you're singing, you have to pay attention to that or you're gonna sound like Whitney Houston.
+
+ELI: I mean, I wouldn't mind…
+
+SARAH: which, like, no discredit to her, but that's like a really specific sound, and so if you don't want to do that then you should avoid it. really deep advice from Sarah today…
+
+ELI: advice! from Linguistics After Dark. hey, we could be an advice podcast. ask us your linguistics advice questions, we'll answer those too.
+
+SARAH: sure! so yeah, some sort of cultural training element could be a part of it, but I also think that a lot of people sing without that kind of formal training and just sort of pick it up as they go.
+
+ELI: so you think that this question also applies not just to, like, recording artists but also this effect happens when somebody's, like, doing karaoke.
+
+SARAH: yeah, and I think… well, I think for two reasons, because some of it might be formally taught, but when you listen to a song and especially when you are singing along, um, so maybe not karaoke where there's no background vocals, but you're singing along in your car, right, I don't know about y'all, but I definitely try to match my vocalization to the singer as closely as possible. and so, in some songs I know where the awkward pauses are between words, and I know where, like, they either overemphasize a sound or drop the sound, and I try to replicate that as well.
+
+ELI: Sarah, this is why we're friends.
+
+SARAH: yeahhhh! so it's also possible that if we have enough people who have been formally trained to this, like, “musical accent” so to speak, then even the rest of us who are just listening to the radio, like, pick it up via listening to the people who are already singing. and I also think it has to do with… genre? 
+
+ELI: like the effect is more pronounced in certain genres than in others?
+
+SARAH: yeah, because I feel like country music you get—if the person has any kind of like American twang, you're going to hear it more. and I don't know if that's because of who sings country or because we've decided somehow culturally that the standard neutral accent for singing is not needed in country music.
+
+JENNY: well and there's also—I don't know if this is where you were going to go next, but I remember seeing a couple articles a few years back about the, like, pop punk accent that you get, and there was this really interesting exploration of the odd vowel sounds in music—I think they mostly looked at like Blink-182, and they looked at, like, who *those* artists had been listening to and how it affected the way that they were singing, and then how that influenced other like contemporary bands, and bands who followed them, so that you got this weird, like, very distinctive way of singing in pop punk for a while.
+
+SARAH: so what you're saying is that Fall Out Boy is not actually just bad at saying letters, but like, maybe that's on purpose?
+
+JENNY: oh, no, it's—I mean, that's a different question. that's both.
+
+SARAH: Okay.
+
+JENNY: that was “Patrick Stump thought it sounded better to not enunciate, so he deliberately didn't enunciate.”
+
+SARAH: I mean, okay, so Patrick Stump is making interesting artistic choices, but is it also—did he think that or was there any influence on him to think that because of this pop punk cultural sound?
+
+ELI: there almost certainly is, because you bring up Blink-182, and I didn't think of that. when you said “oh these different vowel sounds,” I immediately thought of the Ramones, and I mean, in in a punk context you’re going to think of the Ramones. but I remember listening to them with my dad when I was younger and I was remarking on the vocal quality.
+
+JENNY: I was just going to say, we just watched a documentary on the history of punk a couple of months ago, and there was like a bunch of stuff about the Ramones, and we wound up chatting about them afterwards, and my brother mentioned that they drive him a little bit crazy like something about the accent is just like “I don't understand, how are you you doing that and why?” and it's very specifically especially the way they say “the blitzkrieg bop,” the way they say “bop,” it's just like “I don't—what is that sound?” it was very funny.
+
+ELI: so I was remarking on this, and my dad said, “well, you know there's a reason that they were called ‘snot-nosed kids’!”
+
+[SARAH and JENNY laugh]
+
+ELI: you know, if you if you listen to it, it really does sound like you have a bit of a stuffed up nose, it's a little more nasal, it's a little… you know. and you kind of get this affect, and then that definitely does carry over to the, you know, the bands that are going to follow it in the next couple of waves of punk and right on down into pop punk and, you know, over to emo etc. etc.
+
+JENNY: right! I think they did also look at, like, how there was influence from earlier music including—I think there was this whole like complicated back-and-forth they talked about, where it was these bands from, like, Southern California, being influenced by British artists, who were themselves influenced by American artists, but from somewhere else, *not* from Southern California.
+
+JENNY: so you had these, like, SoCal kids—and I think some of them might have also spoken Spanish and so had a little bit of like that as this other way you could pronounce vowels in their heads—being influenced by these British singers who were themselves trying to do—I mean, consciously or unconsciously—American accents. and so that's how you got this, like, weird pop punk accent is that back and forth imitation.
+
+ELI: so this actually dovetails into a third theory that I have alongside Sarah's first two, which is I think that a lot of this has to do—there's a rhotic/non-rhotic thing that happens sometimes, but I think a lot of this has to do with vowel quality, as opposed to the entire accent (you're not going to have, like, different R’s or that kind of thing). and I think that maybe the base effect comes from just—you're pushing so much air through your midsagittal section, right, through your throat and lungs and mouth that it kind of flattens out the vowel space? right?
+
+SARAH: yeah, I was thinking that as well. like, accents have a lot of components, but I think the biggest component that people hear is vowel quality, and—
+
+ELI: yeah, and everything is gonna shrink to the middle, basically.
+
+SARAH: right. I think when you're singing in part, yeah, because of how much air and how fast you're pushing it, and because of usually the volume that you have to be singing at for it to even work, you just have less dexterity and less nuance achievable. and so you're going to come perhaps not quite to the middle, because we've obviously just discussed that there are ways to like sound more pop-punky or more, uh, country-y or whatever, but it's more likely that you're going to end up closer to a neutral vowel space than a particular accented one.
+
+ELI: yeah, and neutral just meaning, like, “in the middle front/back-wise and top/bottom-wise,” not neutral in some sort of, like, “this is the most neutral accent.”
+
+SARAH: right, exactly. I was about to say, like, “neutral in so far as there is such a thing,” but like, because it is positionally neutral, if you will, toward the middle of things, it sounds less accented to most people who would otherwise hear your accent as strong, because it's less far from theirs because it's closer to the middle.
+
+ELI: this actually makes me want to go listen to a bunch of, like, Gilbert and Sullivan, and the reason is because you're going to get—there's some small speaking parts. there are a lot of patter songs which are really close to just talking on pitch, and then there are some more lyrical songs where you're really doing the full theatrical singing thing.
+
+ELI: and I've never really paid attention to it before, but it makes me want to go listen because you're going to get the same vocalist (and in my case I'm often going to get a vocalist with a different accent than mine) and be able to hear them across the range of speaking, patter, or recitative or whatever, you know, and at like full-on operatic or lyrical singing. and I wonder if the effect will translate across the three, or if there's some sort of gradient.
+
+SARAH: maybe we will look for a good comparison clip and stick it in the show notes if we find it.
+
+ELI: I'm always here to put more Gilbert and Sullivan in the show notes.
+
+[SARAH laughs]
+
+ELI: that was a cool question.
+
+SARAH: that was a really cool question. okay, so our last question today comes again from my dad, Jim, who asked first via text but then sent me a *very* detailed email about—I love you, Dad!—he sent a detailed email about how we change meaning of a sentence just by the inflection (and by inflection like meaning vocal pitch not word endings), and so recorded, like, typed-out transcripts can lose that.
+
+SARAH: and I thought, first of all, that's really interesting because it's something that I know Jenny and I deal with in our transcribing of this podcast, because we like to have the text of what we've said available for people to read, and we want captions in our YouTube videos for people who are deaf or have auditory processing issues. and most of the time, we are all speaking just very neutrally, uh… “neutrally” is such a useless word, sometimes, gosh. 
+
+JENNY: evenly?
+
+SARAH: yeah, most of the time we're speaking very evenly, very straightforward, and if we're asking a question you can indicate our change in pitch just by the question mark, and it looks fine and it reads and makes sense. but occasionally you have to put stuff in brackets where you're like [sarcastic] or [surprised] or [excited] or whatever. and you see that obviously in, like, stage play scripts (and I'm sure movie scripts except I've never seen one), but it has really interesting implications for, like, legal transcripts and stuff, as well.
+
+SARAH: so the example that my dad pointed to was the movie My Cousin Vinny.
+
+ELI: excellent, I'm glad that your dad is a man of culture.
+
+SARAH: [laughs] uh, now he may be a man of culture, but I am not as cultured, so he did, for my benefit, attach a YouTube clip, which I will link to in the show notes as well. anyway, so for the rest of you who have also not seen this, in case there's anyone and I'm not alone: the conceit of this bit is that the guy gives a very emotional witness statement, and then later it's read back by someone who isn't him and doesn't put any of the emotional inflection on it, and it drastically changes the effect of his words.
+
+ELI: and obviously we'll put the clip in the show notes.
+
+SARAH: yeah, so you can watch the whole thing.
+
+ELI: yeah, you can totally see this with one of those exercises where you take a sentence and you stress a different word in the sentence and see how it changes the meaning, right.
+
+SARAH: I love doing that.
+
+ELI: so if you're like, “I only wanted three hamburgers,” right, I'm going to do them all, so you get:
+*I* only wanted three hamburgers.
+I *only* wanted three hamburgers.
+I only wanted *three* hamburgers.
+I only wanted three *hamburgers*.
+I only *wanted* three hamburgers[d].
+
+ELI: so, each of those, you can listen to them and then you can understand that each one of them happens in a different conversational context, right?
+
+SARAH: mhmm
+
+ELI: like, “I only *wanted* three hamburgers” is—that inflection is going to note the thing that is contrasting against the previous information or assumption that underlies the conversation
+
+SARAH: yep
+
+ELI: so “I only wanted *three* hamburgers” means you probably got four or five or ten but you only wanted three of them. whereas “I only wanted three *hamburgers*” means you probably got three cheeseburgers.
+
+SARAH: yeah. or three hamburgers and three cheeseburgers.
+
+ELI: right, exactly. and so you're going to lose the—the thing that you lose off of reading a recorded transcript flatly is you're going to lose the assumption that the discourse stress is pushing back against.
+
+SARAH: right. and the other thing is, it's not always just in the like contrastive emphasis way that you've mentioned, but you can also just have [quietly with rising pitch] “I only wanted three hamburgers?” or like [with falling pitch] “I only wanted three hamburgers…”
+
+ELI: yes, which which… maybe “pushes against” isn't the right thing, but it indicates a difference from the information that people sort of already… right, like, your first one was about, you know, “you took my desire way too seriously.”
+
+SARAH: yeah, you took it way too seriously or then the second one's like “ugh, whatever, it's like not a big deal…”
+
+ELI: right, like “ugh, great but like it's not worth a three-hour wait for three hamburgers, I'll just—let's just go home, you know, worst birthday ever.”
+
+ELI: I find that if you want to play around with this a little bit, you can reduce your questions to a single word, and not even the question word, but like a word that's important to the question. and note that you have different kinds of—you know, you get, like, [normal rising question pitch] “hamburgers?” versus [flat, high-ish pitch] “hamburgers?” right, you're going to have different inflections.
+
+SARAH: yep, or [high pitch followed middle/rising pitch] “*ham*burgers?”
+
+ELI: right. and all three of those are questions, at least in some sense of the word “question.”
+
+SARAH: or like, [normal rising question pitch] “you're doing?” like, I feel like if someone who didn't speak English very well looked at me, like, making a cake or something and asked me, [normal rising question pitch] “you're doing?,” that rising intonation, I would still understand the implied “what.”
+
+ELI: do you know where in first language acquisition that gets acquired? because I feel like it gets acquired very early.
+
+SARAH: I don't know for sure, but I would tend to agree with you.
+
+ELI: because there is sort of this stereotype of toddlers who don't have all their words yet or all their full sentences yet, but still being able to get across that it's a question.
+
+SARAH: yes, I think that's true. I also know that they have done studies (which I hope I can find and link to in the notes) where babies in utero who are exposed to English-speaking people—so like, they can hear at after a certain point of fetal development, they can hear the sounds of what's going on outside—and if you have a, a baby in the womb who hears English-speaking versus a baby in the womb who hears Spanish or literally any other language—any two languages.
+
+SARAH: so any two languages, you can take the baby who's heard language A and the baby who's heard language B, and you can play them recordings of people speaking language A, B, C, however many you want, and the babies—the newborns—will behave differently toward the language they've heard while they were in the womb versus the language they heard—they didn't hear, rather.
+
+SARAH: and there's no way—they obviously haven't learned words yet. in fact, they haven't even learned at that point which phones and which sounds actually matter, but they're able to hear vocal pitch and intonation.
+
+ELI: oh yeah and it has to be intonation because, as you mentioned, the phonemic inventory—we know when that gets acquired, and it is not before birth.
+
+SARAH: yeah, so I think they do pick up intonation really early.
+
+SARAH: so another thing recently that I found really interesting is: online, as of course over the past couple decades, more and more of our communication has been happening in text, over phones and computers and in real time. and so, rather than writing really formal literary letters to each other, or emails or whatever, we're doing a lot of casual writing. and we have—or people have, in general—started developing different systems for indicating casual vocal inflections in their text. and one of the most interesting ones is that, provided that you've structured the syntax of the sentence to clearly be either a question or a statement, you can use the other punctuation mark—
+
+ELI: yes!
+
+SARAH: —to indicate not that “oh this is secretly a question” or “this is secretly a statement,” but to indicate your pitch.
+
+SARAH: so I can be like, [question-ish rising pitch] “I thought we were meeting at three?” which is a statement: I did think we were meeting at three. but by putting the question mark in text, I'm indicating that rise in my voice and being like, “this is what I thought, but I'm now sort of doubting myself. can you confirm?”
+
+ELI: yeah, and it directly corresponds to the fact that in person, you would use a rising inflection there.
+
+SARAH: exactly. versus “what is even happening(.)” with either a period or no question mark, because periods also online are kind of, like, left out when they're not necessary.
+
+ELI: well, a period versus no period in that would also be a marker, right? like, “what is even happening.” I feel like a period is an intensifier there.
+
+SARAH: if it's the last—yes, if it's the last sentence that you send, then yes.
+
+ELI: yes!
+
+SARAH: I personally usually leave periods off the last sentence, but if I'm putting several sentences in a row, then I obviously put some kind of punctuation between them because otherwise that's hard to read.
+
+ELI: this is a transformation that I saw myself go through, because I used to type on, online—you know, i've been chatting since instant messenger—and I used to really be particular about capital letters and correct punctuation and periods at the end of sentences. and over the last four or five years, I have watched myself stop caring about putting—and sort of also felt myself *not* put a period at the end of a sentence because I don't want it to be that serious; I'm just saying a thing, I'm not angry about it.
+
+SARAH: right. your point about like instant messengers and stuff… I remember some of the earliest online, like, forums and stuff that I was involved in had really specific rules that in the forum you had to use correct spelling and grammar and punctuation, and no “netspeak.” which I think at that point was because netspeak wasn't widespread yet, and so they didn't want people—and especially because in the early days of netspeak, people were really into what I consider unnecessary, convoluted abbreviations of things?
+
+ELI: well, you had the abbreviations, but you also had a lot of l33t (IPA /lit/) speak.
+
+SARAH: right, with, like, switching out characters for things and just trying to, like, look cool and be in the in-crowd.
+
+ELI: and, like, spelling things with pipes and slashes and stuff.
+
+SARAH: right, or deliberately misspelling to be cute or whatever. so I can understand trying to discourage that, because it's so cliquey, and to someone who isn't actually fluent in it, it's impossible to read. and so if you're trying to have an open, public forum, then I think it's reasonable to try to say, “look, we're going to use the basically accepted standard so that everyone knows what's going on.”
+
+SARAH: but I have also seen over the past ten years, basically, those rules have been much less strictly announced. like, they're no longer in big bold letters at the top of every page. and at the same time, either because people have grown up and become accustomed, or because a lot of that like complicated looking l33t speak has just fallen out of fashion anyway, it's now totally acceptable to use minimal capitalization and punctuation, and to use emojis and abbreviate things like “because” as “bc” or like “you,” the letter “u.” (which now almost has its own connotation of—from the word “you” which is really interesting, and a whole other topic as well…)
+
+ELI: well, this is really interesting, because for example, I would never actually use G-R and then 8 (gr8),
+
+SARAH: yeah
+
+ELI: but I have and would use G-R and then 9 (gr9)
+
+SARAH: right
+
+ELI: which has a really specific meaning that is not parsable if you don't understand that “gr8” was once an abbreviation, right, for great.
+
+SARAH: that's the other thing! I don't know if I would use “gr8,” but if I did it would be in a similar vein to how I use gr9?
+
+ELI: it's an affect! [ˈæ.fεkt]
+
+SARAH: right, it's like, for me gr8 is like a little bit sarcastic?
+
+ELI: yeah it is. when you're doing a… I don't know, what's the word that I'm looking for? when you're, like, you're imitating not a specific person but like maybe a type of person… you're putting on some kind of vocal affect.
+
+SARAH: yeah basically. so I would use it to be like, “oh, I'm being like one of those old people who were obsessed”—not “old” as in, like, “elderly” but like previous—“people who were obsessed with weird unnecessary abbreviations.” but yeah, having come from that, the ability to take gr8 and then go, “oh, gr9 is even better” is great.
+
+ELI: the thing about “u” as an abbreviation that I find interesting is that—so my dad will use it consistently
+
+SARAH: yes! same.
+
+ELI: but it's not because he found it in a list of abbreviations when they were handing out pamphlets about netiquette in the late 90s, it's because he had an ARPA account. he was on the very, very early internet, and every character mattered. and there was sort of like two waves of this abbreviation: one of which was like you had limited time and limited bandwidth, and so you abbreviated things as much as possible, and then there's this sort of like “we are kids and we are abbreviating stuff because we're being playful” kind of generation.
+
+SARAH: well, and I think that also what you described with your dad happened again when we got to cell phones and texting.
+
+ELI: right.
+
+SARAH: because then we were back to limited characters, and—
+
+ELI: or if not limited characters, then like, who wants to T9 their way through, you know…
+
+SARAH: T9 was the predictive thing! that was great!
+
+ELI: oh, interesting. I always thought that T9 referred to the hitting multiple numbers to get the letter you wanted.
+
+SARAH: no, T9 was a setting that you would type, like, I don't know, I wonder if I remember this right, but like, “117” and it would say “cat” and then you would hit, like, “1170” and it would go to “bat.”
+
+ELI: so it was just the evolution of that system
+
+SARAH: yeah. but yeah so there was still like the issue of what was faster to type. and so *my* dad also… I don't know that—I honestly don't know—hey, Dad, you're probably listening to this, feel free to tell me about this—I don't know if he was on that early internet thing, but I do know that he started texting (as I did!) on a 12-key dumb phone, and even once he got a full keyboard, and even now that he has like an Android or whatever, he still types as if he doesn't have a full keyboard and autocorrect. which is like—that's a thing, that's a choice you can make, and that's totally legit! I personally have given up on all that because it actually for me takes more effort to outsmart autocorrect, so I've totally given up.
+
+ELI: yes, absolutely!
+
+SARAH: so also another plug is the BECAUSE INTERNET book by Gretchen McCulloch.
+
+ELI: oh yes, where a lot of this is discussed in much deeper detail.
+
+SARAH: absolutely. super good book, really love it. also, if you get the audio book, she reads it herself, and there's nothing like listening to the author of a book read their own work, because they get to put all the right vocal inflection. they know exactly what they're doing.
+
+ELI: also you get to hear her try to pronounce several different kinds of keysmash.
+
+SARAH: and it's actually really interesting, the whole audiobook thing for that, because so much of what she's talking about is, like, internet spelling principles? and so she has to describe out loud the difference between, like, great (g-r-e-a-t) and gr8, and all those things that we've been doing, but it's just like the whole book and—not the whole book, a lot of the book—anyway, go read that. go listen to that.
+
+SARAH: and, one of the things that she brings up in there is that now, because we have autocorrect and full keyboards and no character limits except on Twitter, if you are using gr8 or gr9 or the letter “u” outside of the context of Twitter, it is almost by definition a deliberate affected choice. and so those abbreviations have taken on like an extra connotation of either imitating someone or deliberately being cutesy or a whole variety of things.
+
+SARAH: and it's really interesting when you have the kind of different generations of internet people, because like you said, Eli, your dad is never using the letter “u” to be cutesy. he's just doing that because that's his habit, because that's where he grew up and learned internet language.
+
+ELI: yeah, exactly.
+
+SARAH: and so the real difficulty in a lot of these things is when you have the different generations of people who have—each one has developed their own system for conveying vocal intonation via text characters, and if you have two people from different generations that don't realize they have different systems, then you get some really impressive miscommunications, which are sometimes hilarious and sometimes bad.
+
+ELI: so bringing this back to the question a little bit, about recorded transcripts and inflection, I wonder if we are going to start seeing probably not for another 15 or 20 years, but I wonder if we are going to start seeing some of that ability to indicate vocal inflection start to make their way into more official transcripts? so, you've mentioned that you and Jenny sometimes will annotate one of our transcriptions on the podcast and I would not be surprised if there are other podcasts that don't annotate but they instead do some of these things about, like, asterisks meaning emphasis, or putting spaces in between every letter in a word to indicate a certain kind of intonation. and I wonder… because that seems to be more more widespread and even in sort of more casual points of—for example, offices and other professional environments you will oftentimes see an internal slack channels and stuff, people will be using those typographical intonation indicators. I wonder if we will start to see that in things like transcriptions of speeches and maybe even eventually courtroom transcriptions.
+
+SARAH: so what I'm hearing is the Strunk and White style guide for typographical things. maybe not Strunk and White, but
+
+ELI: yeah, maybe!
+
+SARAH: the APA, the somebody. (why’d I say the APA? I meant the AP. whatever. both of them.) every single writing guide is going to have their own—or should, at some point, have their own, like, guide to how to do that stuff. now, I have two opinions on this: 1) it would be really nice if all y'all could get together and decide on one?
+
+ELI: yeah, do it now. come on, CMoS, AP… 
+
+SARAH: because, like, this thing where the different spellings of “advisor” (/adviser) which are right or not right, and the different ways of doing footnotes… it's just unnecessary. (I say as a non-academic, so I don't actually have to care about that most of the time.) but also, it is really important—as much as we are here to support variety and descriptive, like, “figure out how language works” kind of stuff—when it comes to communication, having an understood standard of some kind is really important. and that's where I think the older forum moderators were getting at with “don't use L33T speak and netspeak” and stuff. because people use asterisks, for example, either for emphasis or to indicate motions, like *raises hand* or whatever.
+
+ELI: yeah. yeah yeah. that's a good point.
+
+SARAH: and contextually, as a reader of a text online, I can usually figure out which is which. but if the whole point of putting this stuff into official transcripts is to decrease confusion, that means we need to establish from the get-go what do asterisks mean, what do slashes mean, what does spacing out words bizarrely mean.
+
+ELI: I mean, I do feel like you could have multiple competing standards as long as it was really clear which one you were following? but I also think one of the things that we've seen happen over the last five years or so is that the AP style book and CMoS and all of those have started to kind of increase their—or decrease their cycle time to letting go of some of these sort of older, more conservative viewpoints on written language and have started to cross-pollinate a little bit. so I think that it will happen naturally, just like it already has on the internet.
+
+SARAH: yeah, I mean, you can have competing styles. I mean, like I said, in many ways I find, like, APA versus MLA versus AP versus the New York Times… I find it frustrating because, just as a person, I prefer some of them to others, and I find it confusing when things can mean multiple things. but I also grant that having options is good, so as long as a single transcript or a single set of transcripts, or, you know, the FBI is going to pick *a* style and stick with it… if that style updates, that's fine, but like what I worry about is especially in legal transcripts of things, using—
+
+ELI: the meaning getting lost because it is some kind of—
+
+SARAH: right
+
+ELI: so actually, I am curious. I know our audience is not all that large, but if you are a court reporter or if you are involved in the legal profession at all, I wonder is there already a way to indicate some of this stuff, and if there isn't, is there a reason that we don't? like, is there some kind of idea in the profession that you want only the words and not the intonation, or that it's like, you don't want to depend on the court reporter to interpret the emotions? right?
+
+SARAGI: that's the one that I was thinking about because I could see also, l, like, as much as we think that annotating “excitedly” or “loudly” or, you know, “sarcastically” would be helpful, that's also…
+
+ELI: yeah! if you mark something as sarcastic in a court transcript like that could have actual ramifications down the line, right?
+
+SARAH: and so then you're back to the issue of, like, the person who spoke (at least often) is supposed to be able to look at the transcript and be like, “yes, I did say that thing,” or someone is supposed to look at it and be like, “yes, the reporter got it right.” but you're still relying on human intuition, which is much better than, like, machine intuition on these things, but is still subject to all the same biases and sources of human error as every other thing that humans do. so it could have a lot of benefits, but it could also have a lot of problems and I'm curious about that.
+
+ELI: I'm going to get the details wrong here, but the Supreme Court of the United States recently shortened the time in between when its transcripts came out and the audio recordings. it is sort of well known that it's really hard to get a seat in the gallery to watch a specific case be argued or specific orders be delivered by the court, and especially if you want to get in on a really high-profile case, those reservations go really quickly. and the transcripts—the orders are sort of pre-typed-out and given out as, as soon as they're given; the transcripts usually come out at the end of the day; and then, I think until recently, the audio transcripts came out at the end of the month.
+
+SARAH: oh!
+
+ELI: the audio recordings, I mean. and that they've shortened it to the audio recordings coming out at the end of the week. and now, especially because the court has been meeting over teleconference and that kind of thing, that—there is sort of a push to be like, “why can't you get them out to us by the end of the day? because you're recording them, you're not doing a ton of editing on them, because they're recordings of the entire thing, and, you know, we'd like to have them.”
+
+SARAH: right. yeah, that's really cool
+
+ELI: this—there is this sort of push to, like—I wonder if it's sort of, the transcript is the official record but people are going to have more access to the actual audio to pair with the transcript. although again, audio is not 100% accessible to all people.
+
+SARAH: which is why having both of them available—and like, why we really make an effort to have both of them available for our show, because even if you're listening to us and you're hearing all of our inflections, it can be helpful to see it written down. and if you *can't* hear us, then seeing it written down obviously is *super* helpful. and the other goal, also, with a lot of transcribing is that someone who *does* know what the vocal intonations are doing, if it's important, can include that information, so that that information doesn't get lost to the people who are relying on the written record.
+
+ELI: cool! well, that was a good question!
+
+SARAH: yeah!
+
+ELI: three good questions today! thanks, Jim! that was awesome, and I didn't think that we were going to go that deep on that question, but we totally did.
+
+SARAH: yeah, that was really fun! Eli, can you remind us about our old puzzler?
+
+ELI: I can! I would love to. it would be my pleasure. so, you are on one of these puzzle islands where, I don't know, there's an evil dictator who's going to make you do random puzzle things, and if you don't do it right, then you're going to… get killed, I guess. anyway, you are standing outside of a room. inside of the room there are three incandescent light bulbs, and outside of the room there are three switches. and you get one chance to go into the room and come back out, and immediately after you come back out, you have to tell the evil puzzle dictator which switch corresponds to which light bulb. so, Sarah, did you get this one?
+
+SARAH: I think I did! so, the thing about incandescent light bulbs is that they get really hot when you turn them on, which I actually learned as a child because I hid one of my toys inside a lampshade
+
+ELI: Ohhh…
+
+SARAH: and forgot about it, and then we turned on the lamp, and then later my little stuffed sheep had a giant missing stomach. but anyway 
+
+ELI: aww, poor sheep
+
+SARAH: poor sheepy. also it smelled pretty bad. anyway, so you turn on two of the switches and you chill out in the hallway with your guard and try not to get killed for a little while, and then you turn off one of the switches. and then you go in and the light bulb that is still lit is obviously attached to the switch that is still on. but then you look at the two dark ones and you touch them, and one of them should be cold, and that's the one for the switch you never touched, and one of them should be hot but not illuminated. and that's the one that you just turned the switch off on.
+
+ELI: absolutely correct. bang on
+
+SARAH: all right!
+
+ELI: I think that this puzzle is really interesting, by the way, because we don't have a lot of incandescent light bulbs around anymore?
+
+SARAH: true
+
+ELI: and so you *used* to just be able to say “there are three light bulbs” and now you have to say that there are three *incandescent* light bulbs
+
+SARAH: that is true. I also like about incandescent light bulbs—it's not like an actual useful feature of them—in fact it's part of the reason I think why we've moved away from them—but if your lamp stopped working, you could tell whether the filament had actually burnt out or whether there was a problem with the rest of your lamp by shaking the light bulb near your ear, because a burnt out filament would actually have fallen out of the fixture in the middle and you could hear it rattling against the glass bulb
+
+ELI: once when I was a kid, I wanted to learn how light bulbs work, and so I took a light bulb down to the workbench in our basement and I carefully opened it with a hammer
+
+[SARAH laughs]
+
+ELI: and was confused as to why then it wouldn't work anymore
+
+[SARAH laughs]
+
+ELI: cuz I wanted to see, I wanted to see what happened inside, and there weren't any moving parts, and of course the filament was broken, but also the sudden lack of vacuum inside the bulb meant that it immediately stopped working
+
+SARAH: alas
+
+ELI: cool, well, I have a new puzzler for us
+
+SARAH: awesome
+
+ELI: so this is a puzzle that has been around a little bit, um, it has been featured on Car Talk, it's been in some other places, but here we go
+
+ELI: so you have just moved into a house, and you want to label your mailbox so that you can get mail. you live at number 12 on this street that you have just moved in on, and because you're fancy, you want to spell it out T-W-E-L-V-E, “twelve.” so you go to the hardware store, and it's like one of those cool hardware stores, where, like, there's a dude who's been working there for like sixty years and he, like, knows exactly where the ¾-inch grommets are up on a shelf, and, like, you know, they have everything somewhere in the back of the store, every paint color that's ever been made and so on, but there's no pricing on any of this stuff.
+
+ELI: so you go and you pull your letters off the shelf, and you get in line, and then you realize you're on a budget, so you really want to know what these things are going to cost, uh, before you, you know, decide if you want to, if you can afford them. so there are three people ahead of you in line, and actually, fortunately, all three of them are also buying these stick-on letters.
+
+ELI: so the first one, uh, is buying “one,” O-N-E, and you see them pay $2 for that. and then the second person buys “two,” T-W-O, and it costs them $3 and you're like “okay, well, it's not like, you know, 67 cents a letter or whatever, there's something else going on here.” and then the third person in front of you, who is your next door neighbor—I guess it would be your across-the-street neighbor—buys “eleven,” E-L-E-V-E-N, and it cost them $5. so the question is how much is “twelve” going to cost you, and there is enough information in that puzzle for you to know how much “twelve” is going to cost you
+
+SARAH: my only objection to this is the premise that I want to spell out my number in letters, because [laughing] I hate people who do that. it's so difficult to parse, especially because most of the places I've ever lived have three- or four-digit house numbers, and trying to understand the phrase, like, “ninety-seven eighty-two” (9782) in script letters when I'm trying to find their house is just really irritating
+
+JENNY: and it's always a script font, too, right? like it's always supposed to look cursive
+
+SARAH: yeah. I just—give me some numerals, please
+
+ELI: yeah, I agree that it's somewhat evil if it's above a two-digit number, but like—or actually, if it's above, if it's, like, a more-than-one-word number
+
+SARAH: yes right
+
+ELI: anything that's like, nineteen, that's like, above nineteen
+
+SARAH: sure. I think you can get to—I think I, I will take the word “twenty”
+
+ELI: sure
+
+SARAH: and then we're done. also I should specify, I said “give me some numerals”? please give me *Arabic* numerals. like, the ones that we use in English. don't give me any of that Roman numeral garbage
+
+ELI: I mean, I could see a version of this puzzle where, you know, you want to buy “XII” and then in front of you somebody buys “I” and “II” and “XI.” it's actually, it's probably a less complicated version of this puzzle
+
+SARAH: well, you, you could probably make it more complicated again if you use different numbers, like
+
+ELI: that's true. well, I mean—okay so, uh, Sarah, when you're solving this, assume that the letters are like sans serif, and not script, and that it is just “twelve,” it's, you know,
+
+SARAH: I, I can live with that for the sake of a puzzle
+
+ELI: you just—you just want to feel fancy! sometimes you want to feel fancy!
+
+SARAH: I understand that! I just want you to feel fancy in some way that allows me to still find your house
+
+ELI: maybe—maybe you already have a “12”? like a 1 and a 2? 
+
+SARAH: okay
+
+ELI: and it's like, *that's* like, on your door, and this is like, for your mailbox
+
+SARAH: sure yeah, if you put the 1 and the 2 somewhere visible, and then you put the script “twelve” somewhere fancy-looking, I'm fine
+
+ELI: I—look, I'm happy to adjust the puzzlers so that we can all live peacefully together
+
+SARAH: and so, that’s it for this episode! thanks for listening.
+
+ELI: Linguistics After Dark is produced by Emfozzing Enterprises. Audio editing is done by Eli, question wrangling is done by Jenny, show notes are done by Sarah, and transcriptions are a team effort. Our music is “Covert Affair” by Kevin MacLeod.
+
+SARAH: You can help us by visiting patreon.com/emfozzing, E-M-F-O-Z-Z-I-N-G, and by telling your friends about us. Ratings on iTunes and other podcast services help as well.
+
+ELI: Every episode we thank some of our awesome patrons. Today we want to say thanks to: Kali, Beth, Bex, Mitch, Dre, Tim, and Rachel the Good.
+
+SARAH: Find all our episodes and show notes online at LinguisticsAfterDark.com or on all your favorite podcast directories. And send those questions—text or audio—to questions@linguisticsafterdark.com. Or tweet them to us @LxADpodcast. You can follow us on facebook and instagram also @LxADpodcast.
+
+ELI: And until next time… if you weren’t consciously aware of your tongue in your mouth, now you are.
+
+SARAH: bye!!
+
+[beep]
+
+SARAH: oh, it's like, [sings melody of “Covert Affair” by Kevin MacLeod], okay
+
+[beep]
+
+ELI: Edward or Edwad ['εd.waːd]—suddenly my accent went non-rhotic
+
+[beep]
+
+ELI: nope! I was starting over cuz the first take sucked
+
+[beep]
+
+SARAH: well, that's what you get for your thing about Netscape Navigator
+
+[beep]
+
+ELIː excellent, now I need to not cut that from the podcast
+[a]13:16
+[b]13:16
+[c]13:16
+[d]irdk if i got these in the order he actually said them
