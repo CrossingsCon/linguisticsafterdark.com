@@ -126,7 +126,7 @@ ELI: oh, interesting! I like that.
 
 SARAH: so like, it obviously only means twenty-five in the context of, like, 25 ____ and then there's a noun, but I had never seen someone use that as a filler word, and so I was like, “why do you just keep saying that? like, what's going on?” [laughs] anyway, it's cool. I would love to learn more about filler words in other languages. 
 
-ELI: hey listeners who know languages that we don't! send us your filler words! tell us what they are, and do they differ? like we were talking about ⟨er⟩ being like correction and [a]⟨uh[b]⟩ being like confusion, do you have similar instincts for your languages?[c]
+ELI: hey listeners who know languages that we don't! send us your filler words! tell us what they are, and do they differ? like we were talking about ⟨er⟩ being like correction and ⟨uh⟩ being like confusion, do you have similar instincts for your languages?
 
 ELI: I love discourse-function words!
 
@@ -373,7 +373,7 @@ ELI: so if you're like, “I only wanted three hamburgers,” right, I'm going t
 I *only* wanted three hamburgers.
 I only wanted *three* hamburgers.
 I only wanted three *hamburgers*.
-I only *wanted* three hamburgers[d].
+I only *wanted* three hamburgers.
 
 ELI: so, each of those, you can listen to them and then you can understand that each one of them happens in a different conversational context, right?
 
@@ -692,7 +692,4 @@ SARAH: well, that's what you get for your thing about Netscape Navigator
 [beep]
 
 ELIː excellent, now I need to not cut that from the podcast
-[a]13:16
-[b]13:16
-[c]13:16
-[d]irdk if i got these in the order he actually said them
+
