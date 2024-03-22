@@ -1,0 +1,938 @@
+﻿ELI: Hey, and welcome to Linguistics After Dark. I'm Eli. 
+
+
+SARAH: And I'm Sarah. If you've got a question about language and you want experts to answer it without having done any research whatsoever, we're your podcast. 
+
+
+ELI: Settle in, grab a snack or a drink, and enjoy. Speaking of, Sarah, what have you got drinking today?
+
+
+SARAH: So I have—I don't know if we'll call it character flaw, but any weird flavor of like special limited edition flavor of things. I'm like, always I want to try them. And I have a “fruit quake” Mountain Dew.
+
+
+ELI: I would not have predicted any of those words. I didn't know you were a Mountain Dew person.
+
+
+SARAH: Not, like, all the time, but I do really like the “sweet lightning” one that KFC has because it's peach-flavored and I go for pretty much anything that's peach-flavored. Also, I didn't have coffee this morning and I wanted to not fall asleep during our recording.
+
+
+ELI: Well, fruit quake Mountain Dew will probably do that for you.
+
+
+SARAH: It's like, I mean, I don't know if you can see this—
+
+
+ELI: And obviously that's orange. That's terrifying.
+
+
+SARAH: Well, it's, it's like golden gingerbread-colored because it's like winter-themed. So it's like fruitcake-flavored. It really just tastes like fruit punch. But yeah, that's what I'm drinking. 
+
+
+ELIL: Whenever we got derailed by Mountain Dew, I was going to say that I think wanting all the special editions and chasing it around, that's just fandom.
+
+
+SARAH: Yeah, that's fair.
+
+
+ELI: Congrats. You're in the beverage fandom.
+
+
+SARAH: Okay, I'll take it.
+
+
+ELI: I mean, to be fair, I'm also in the beverage fandom. We literally have a beverages segment on this podcast about linguistics.
+
+
+SARAH: That's true. What are you drinking?
+
+
+ELI: I also have a very sort of fall wintery thing. It's cold enough that I have transitioned into stouts. So I have a coffee stout from Maine Beer Company, and I like Maine Beer Company's stuff. They're up in Freeport, Maine, they have a cool little brewery brew pub thing there. And basically all the stuff they put out is good. So far. This is a nice, you know, it's, it's not going to take everything over. It's, it's a nice intro to cold weather as a stout. Bringing it back to actually having an alcoholic beverage on the podcast.
+
+
+SARAH: Cool. I went back and forth on whether I wanted beer or caffeine. I went caffeine for today.
+
+
+ELI: I mean, this is a coffee stout. I don't know how much caffeine there is in it. But I did also miss my morning coffee this morning. I instead slept in late and then went out and got raclette. 
+
+
+SARAH: Oh, nice. All right. Well, I have a language thing of the day.
+
+
+ELI: Wait, hold on before we get to there. We have a little bit of a note, which is that this episode is coming out out-of-sequence. We originally recorded this episode (episode 8) in 2020, which is a full… check my watch… three years ago. But due to technical difficulties, we are rerecording it. I should say up front that neither Sarah nor I remembers what we said for any of these questions. So you're still going to get raw, unfiltered, whatever the heck this is. But hang on. Hope you enjoy.
+
+
+SARAH: Sweet.
+
+
+ELI: So Sarah, what's our language thing of the day?
+
+
+SARAH: So our language thing is called garden path sentences. And actually, in 2023, a student of mine brought this up in class the other day. And I was like, “oh, that's so fun. I've never actually had someone who knew what it was before I explained it.” And then it came up in the rerecording outline and I was like, “sweet.” So a garden path sentence is a particular type of ambiguity. And it's called that because the beginning of the sentence, so called “leads you down the garden path,” you think the sentence is going to go one way. And then you get to the end and you're like, wait, what? And actually, it's gone a different direction. And some of the like iconic ones, “the horse raced past the barn fell.”
+
+
+ELI: That one always I mean, that one always gets me.
+
+
+SARAH: Yeah, that one and “the old man the boat.”
+
+
+ELI: Yep. Always gets me.
+
+
+SARAH: Yeah, so it's “the horse that was raced past the barn fell.” And I'll come back to ways you can kind of rephrase that and it breaks. “time flies like an arrow, fruit flies like a banana” is a little bit less completely confusing? Like it, to me that one clicks way faster. And this one says, “the complex houses married and single soldiers and their families.” But if you read it, just on paper, on a screen, it starts out looking like “the complex houses married… and?” and it—then you have to like, stop and go back and, and reanalyze it in your own brain. And then of course, like you said, “the old man the boat”
+
+
+ELI: The old man *what* the boat?
+
+
+SARAH: Yeah.
+
+
+ELI: But it is, of course, “the people who are old staff the boat.” 
+
+
+SARAH: Exactly. So garden path sentences are really good for comedy value, obviously. But also, like I said, one of my students brought this up kind of on her own. And then I brought it back in class discussion later on because often students are asking, like, well, what if this weird thing I don't expect is in the writing in the thing that we're translating from Latin? And my answer is usually most of the time it won't be because it's the writer's job to write something that is clear and unambiguous enough that you can read it.
+
+
+SARAH: And sometimes, particularly like “the complex houses married and single soldiers and their families,” that word that's spelled C-O-M-P-L-E-X is pronounced differently, whether it's a noun or an adjective. And when you say it out loud, it doesn't sound like a problem at all. But when you put it in writing, it can be confusing. And I think that happens sometimes with writers who say a sentence in their mind or even record something that was said out loud. And it sounds great. And then when you read it with your eyes, without the vocal intonation, it doesn't work as well. And some of them, like “the horse raced past the barn fell,” is just a poorly worded sentence. It's grammatical. It's completely fine. But it's not kind to your reader.
+
+
+ELI: I think that these are almost always constructed. I mean, yes, they can come in naturally sometimes, but these are almost always constructed or the result of some kind of style that you're trying to do or thing like that. You know, a lot of these seem to be made by taking words out, for example, with like a relative clause or something like that, or using verbs and adjectives that are derived from nouns, and so confusing with that kind of thing. But I think I think your point stands, which is like, these are contrived instances almost always. And when they're not, then, you know, sometimes it's innocent, but sometimes it is something that should have been caught by an editor.
+
+
+SARAH: Yeah. So “the horse raced past the barn fell.” If you just replace the word raced with driven, there's no more ambiguity at all. “The horse driven past the barn fell” because the participle form driven and the past tense drove for that verb. Oh, it clears it right up. Don't look alike. Whereas most of our -ED pattern verbs in English look the same as a participle and as a past tense. And so it's like you could, you know, I could imagine in a more innocent situation—Innocent is such a silly word here, but like, you know—that someone had written a sentence like “the horse driven past the barn tripped,” “fell,” whatever. And like, that's fine. And then for whatever reason, they change the vocab word and they don't realize that switching which word you use introduces ambiguity. And then you end up with that.
+
+
+ELI: So this is Linguistics After Dark, not Editing After Dark.
+
+
+SARAH: That's true.
+
+
+ELI: So then the question becomes, why is this an interesting linguistics thing rather than an artifact of writing or editing?
+
+
+SARAH: So what's interesting about it from a linguistics point of view is that it's a demonstration of ambiguity and it's a demonstration of how readers and listeners take in ambiguous statements and then solve them. And it's not possible to eliminate all sources of ambiguity. There are just too many concepts in the world, too many things, and not enough sounds and signs and brainpower to completely and unambiguously define every single bit of the universe. 
+
+
+SARAH: And so, like I'm sure we've said before, and I'm sure we'll say again, every language has to balance the amount of specificity that the speaker or the writer uses and the amount of processing power that the listener or the reader has to employ in order to take in all of that information. And, you know, 90-some odd percent of the time, the tradeoffs that we make are fine. We figure out what to do with homophones, we figure out what to do with “COMplex” and “comPLEX,” and we have enough context to figure out what we need to figure out. And if we don't, then we say, wait, I'm confused, say that again. And we negotiate for meaning.
+
+
+SARAH: But this type of ambiguity, whether it is contrived—well, particularly if it's contrived, or if it's found and then used in a contrived instance—gives us the opportunity to study what are people's first interpretations more likely to be? And then you can find out, perhaps, why is it more likely that we interpret raced as a verb instead of a participle? Why is it more likely that the old man sounds like a noun phrase rather than the old people staff something?
+
+
+SARAH: And so it helps us kind of figure out how the language processing is going on inside our brain in a way that is normally so far below the surface in the processing of unambiguous language that we don't get a chance to analyze it.[a]
+
+
+ELI: I think that one of the other things that it shows, possibly on sort of a more basic level, is that we are interpreting our utterances one word at a time and reevaluating every single time that we get a new word. We're not waiting for the end of the sentence. The linguistic apparatus is always projecting ahead, trying to figure out where the utterance is ending up. And the thing about garden path sentences is that they make it very, very clear when you have to reevaluate, which you sometimes have to do during normal speech.
+
+
+ELI: But the dissonance is so clear. And it happens often at the end of the utterance when you're supposed to be like, you know, a lot of times if you give somebody all of a sentence except for the last word, they can give you the last word or they can give you a word that makes sense to go in there, right? If the last word is like a place, it's clear that it is a place, even if you were going to say, you know, Chicago and what they give you is Seattle, right? Like it's, it's the same thing. I think one of the things about garden path sentences is that at the point when you are supposed to have an unambiguous or a correctly interpreted utterance, that's the point where the sudden ambiguity comes in or the sudden sort of reanalysis that requires you to go sort of all the way back to the start.
+
+
+ELI: And it's larger than that normal reanalysis is. But it's a, I mean, as much of a proof as we're ever going to have about anything in the linguistic apparatus, it's that we're processing it a bit at a time, reanalyzing and projecting forward and that this causes great enough dissonance to sort of pull back the curtain on that and show it to us, you know, real-time and sort of almost like physically. 
+
+
+SARAH: Yeah. And that one word, one bit at a time analysis of language is something I think about a lot in terms of language learning, because if you're picking up a language that is similar to your native language in word order, then you get to use the same one word at a time analysis process that you do in your native language. If the language you pick up has a different word order, you have to relearn how to do that word at a time analysis. And that's hard. And like I see with my students, Latin has very free word order. But the sort of default, like unmarked word order is subject, object, verb, as opposed to English going subject, verb, object. And so in really short sentences, one of the strategies that a lot of beginning students apply and that some teachers even recommend is start with the subject, go to the end of the sentence, find the verb, and then come back and read the rest of the sentence. And that works to a point.
+
+
+ELI: But only on paper.
+
+
+SARAH: But only on paper, because if you're listening out loud, the person is not going to say the sentence out of order. And the longer and more complex that sentences get, the less you can reliably guess about which verb you should pull back to which place.
+
+
+ELI: And then you're making a syntax tree in your head and trying to do multiple nesting levels instead of creating another mechanism for interpreting things as they come in the order that that language wants you to be doing it.
+
+
+SARAH: Right. And so one of the things that I try to help students build is the ability that where in English you would say, OK, “Eli is drinking, fill in the blank.” You assume that last word is going to be water, beer, soda, tea, something.
+
+
+ELI: All things I have drunk at one time or another.
+
+
+SARAH: But that in Latin, you might see “Eli beer,” and then say to yourself, OK, “he something the beer,” he probably is drinking it, brewing it, pouring it, putting away it, something, but that you can still do the same. Like I have two-thirds of the information, let me guess the ending. And it's not an intuitive process.
+
+
+ELI: It's not. Although so weirdly, Japanese is also subject-object-verb and so requires that same build-up. And when you get into it and you realize that it's actually a thing. Vocabulary is my weak spot for learning languages. Grammar is the easier part for me. And so that actually is helpful to me because I now have a subject and I have an object and usually I'm reading a story—let's be real, usually I'm reading manga. So there's a story and there's context. And so it actually, again, there's a limited number of things that can go in there for that verb. And so it's helpful to jog the memory or to figure out what, what is this thing, or to make a prediction if I have to go look it up.
+
+
+SARAH: Yeah. And once you're working on prediction level instead of. OK, “Eli something, something, there's a mess of words, let me search around until I find the verb for it,” you're just in a lot better shape. The other thing that I want to talk about here is, as I alluded to earlier, the comedy value of syntactic ambiguity. And I don't know if we've said this joke before. I know we will say it again because it's one of my favorites. And I can, I can hear you laughing. I think you know where I'm going with this. I like syntactic ambiguity more than most people.
+
+
+ELI: It's the classic.
+
+
+SARAH: It is. And it is true. No, I like people. And if you haven't figured out where the joke is there, just think that sentence to yourself a few times. And if not, look it up online.
+
+
+JENNY: I think that's actually—like the way you said it was interesting because you put a little bit of emphasis on it that I think guided listeners to the nicer way. Like, I've heard it said more neutrally or with more emphasis in the place that guides you to the other interpretation. But you specifically said it, like, the nice way. And I think that that's interesting, too.
+
+
+ELI: I mean, to be clear, Jenny is assuming that the nice way is where—
+
+
+JENNY: —where Sarah still likes people.
+
+
+ELI: You are saying that you like syntactic ambiguity more than most other people like syntactic ambiguity, not that you like syntactic ambiguity in preference to liking other people.
+
+
+SARAH: Yeah, I'm actually not sure now how I would say that. Like I could say I like syntactic ambiguity more than most people. And that's definitely the like ruder reading on that. I'm not sure how to say it neutrally.
+
+
+JENNY: I mean, I have heard you say it with like about even emphasis on every word. This time you put a little more emphasis, I think was on the “more.” So like I, like “I like syntactic ambiguity more—”
+
+
+SARAH: Most
+
+
+ELI: Most, it would be on the “most.”
+
+
+JENNY: Yeah, that makes—I think that's what it was. So like you can put the emphasis on one bit or the other versus saying every word with about the same emphasis. But that does tend to tend to sound like very careful enunciation?
+
+
+SARAH: Yeah.
+
+
+JENNY: And so that then draws attention to the—like, it doesn't sound as natural in a sentence. It draws attention to “I am playing with words here.” So yeah, like you said it much more naturally. 
+
+
+SARAH: Yeah. And I mean, and then that goes back to the thing with the complex houses. Like a lot of times the ambiguity is actually removed with vocal intonation. Not always, but often.
+
+
+ELI: I mean, we talked about this on a previous/future episode. It's so much so that I think it actually made the episode title, where the emphasis in the sentence.
+
+
+SARAH: Oh, yeah. The hamburgers.
+
+
+ELI: The stress in the sentence tells you sort of it will change the meaning of the sentence. And I think that that's, you know, a lot of times people focus on word and meaning as ambiguity breakers. And I think there's a lot of like, especially when conlangs come around, people try to figure out how to take syntax and meaning and word structure to remove ambiguity. But they forget that these things get realized through, you know, a vocal apparatus or other modality and that you have the ability to add stress. And you can do that through vocal intonation. Comic books have a big tradition of bolding words in order to make it really clear what the intonation is for those kinds of things. The Internet has several different kinds of adding stress with asterisks or underscores or multiple asterisks or tildes around a word or sparkle emoji or that kind of thing. Alternating uppercase and lowercase.
+
+
+SARAH: [mocking(?) nyeh-nyeh-nyeh sounds??] That's the voice of alternating case in my head.
+
+
+[note to readers: if you can hear Sarah and have a better suggestion for how to transcribe what she did with her voice there, email us and we’ll give you a shout-out, because we’re stumped!]
+
+
+ELI: Is that? Yeah, it's so interesting. That's different than the voice in my head for that. I'm not sure I could, I'm not sure I could even realize it out loud. I think it's, it's so textual.
+
+
+SARAH: That's fair. 
+
+
+ELI: Speaking of comedy value, did you want to talk about crash blossoms?
+
+
+SARAH: Yes, I do. We've had an amazing conversation here, but crash blossoms are one of my favorite things. So this is kind of like a cousin to the garden path sentence where it definitely is a product of syntactic ambiguity, but it arises from the English language tradition of removing structural words from headlines in order to condense them and fit more words on a page. One of the iconic examples, “stolen painting found by tree.”
+
+
+ELI: It's a very observant tree.
+
+
+SARAH: It's a very observant tree. “Squad helps dog bite victim.”
+
+
+ELI: I always knew those police were suspect.
+
+
+JENNY: I was going to say, they must really have thought the dog was onto something.
+
+
+SARAH: [laughs] And this one is not one of the ones I always think of, but it cracks me up because this is both a we've left out words, but also like just semantic ambiguity more? where like, these words have different meanings. “Red tape holds up new bridge.”
+
+
+ELI: I actually really like this one because I feel like this one is on purpose.
+
+
+SARAH: Yes
+
+
+ELI: I feel like a lot of crash blossoms are not on purpose. And I think this one, some newspaper headline editor looked at that and went, “everyone is going to know what I'm doing here”
+
+
+SARAH: “and everyone's going to figure it out and think that it's funny”
+
+
+JENNY: And was right.
+
+
+SARAH: And was right. Yes. The Language Log that we've probably mentioned before has an extensive archive of crash blossoms and we'll put some links in the show notes.[b] But one that they had that is particularly delightful, “infant pulled from wrecked car involved in short police pursuit.”
+
+
+ELI: I mean, it's an infant, like how tall can it be?
+
+
+SARAH: One of the comments on the language blog post was, “I mean, it couldn't have gotten that far on its short little legs.”
+
+
+ELI: I think Language Log actually coined the word “crash blossom.” I think it's Ben Zimmer.
+
+
+SARAH: Ben Zimmer. That's right. So he coined the term crash blossom based off of one that was “violinist linked to PAL crash blossoms”, meaning that there was a plane crash and the violinist was related to someone who was involved in the crash. And afterward, this violinist has had a wonderful career. That was not super obvious on first reading. And a lot of people read it as “a violinist has been linked to PAL crash-blossoms” and rightly said, “what the hell is a crash blossom?”
+
+
+ELI: I also think part of the thing about crash blossoms that's specific is that when you have context on them, they tend to be very clear. So in that case, if you knew that there had recently been a crash, this airliner crash, and you also knew that this famous violinist had been linked to it, it's absolutely clear what's going on. And maybe when the headline was written, that was still in the public consciousness of the audience of the newspaper. And so it was not actually ambiguous. But even a little bit further on or somebody who's removed from the situation looks at it and goes, heck does that mean?
+
+
+SARAH: Yeah. And well, in the Language Log post that we were looking at, the newspaper actually ended up rewriting their headline. So initially it said “infant pulled from wrecked car involved in short police pursuit,” and then they rephrased it to “infant pulled from car after police chase crash.”
+
+
+ELI: That's not better.
+
+
+SARAH: I mean, it is a little bit.
+
+
+ELI: I mean, it's not a crash blossom anymore, but it still implies that the infant was like the reason for the police chase and the crash.
+
+
+SARAH: Yeah. I mean, I guess it's that the car now it's clear that the car was in the police chase, not just they pulled the infant out of the car and then that infant ran off to be pursued by police. I don't know. It's not that much better, but I don't know. Someone else also had pointed out that like these happen more often than you would think. But most of them, their second reading isn't funny or isn't even sensible, it's like you *could* read it this other way? And even if you do at first, you're like, “I must have done something wrong, this makes no sense.” Whereas Squad Helps Dog Bite Victim is a really great act supporting an injured person or not that. Stolen Painting Found by Tree. Great news either way, but how exactly was the tree involved?
+
+
+ELI: I mean, I suppose, you know, “man bites dog” is news, “dog bites man” isn't, but “police help dog bite man” ends up wrapping around to it being news again.
+
+
+SARAH: Yes, yes, exactly.
+
+
+ELI: Cool. Well, thank you for teaching us about garden path sentences and crash blossoms. Shall we move on to some real language questions submitted by real language listeners?
+
+
+SARAH: That sounds fantastic.
+
+
+ELI: All right. If you want to send us a question, email it in text to questions@linguisticsafterdark.com or send us an audio recording of you speaking your question aloud. Audio is especially handy for phonology and accent questions and not to spoiler the rest of the episode. I think we have an audio question later on in the episode.
+
+
+SARAH: Yeah. All right. However, our first question came via email from Bex and they said, “How do informal/formal registers change over time? Do they stairstep as we invent new informal registers and then everything bumps up a notch and the old formal registers fall off as staid or is it non-uniform?”
+
+
+ELI: This is a really interesting question. And just to make sure that everybody is on the same page here, a register is—a lot of times it's described as a level of formality. So, you know, it is everything from your syntax to maybe the word choices that you might use, sometimes even sort of the tone that you might use. But it's not necessarily just sort of a linear scale of formality. There are also different situations where you might use a different register. So, for example, Sarah, I'm sure that you have a teaching register that probably is, you know, if you were forced to put it on a single axis of formality, you probably could. But that's not really—it's a situational register.
+
+
+SARAH: Yeah
+
+
+ELI: You know, or sometimes people talk about that they have like, a phone voice or if you're in customer service, you might have a customer service voice. And that's not necessarily, like formal versus informal, but it's situational.
+
+
+SARAH: Yeah. And that can be voice as in like, [pitches voice higher and softer like she’s on the phone] “hi, how are you? I'm actually pitching my voice in a different way.” But it's also the syntax and the vocabulary choice and the…
+
+
+ELI: Yeah. More likely to add sir or ma'am to the end of a thing. More likely to add a do emphasis to your verbs. Sometimes, you know, you get like people who are trying to be very like, I don't know, cop-on-a-scene where they say “and then the perp proceeded to do this and proceeded to do that,” like that's also a register. But register is also, is also this idea of formal, informal, very formal, extremely casual, that kind of thing. I also think that this is interesting because some languages have this that—in a little more of a codified or formalized way than other languages do, and people either need to pick it up with that latter set of languages, or it is specific verb endings. So Japanese is a great example, actually, where there are two different verb endings that are usually classed as formal and informal, and that's the difference between them. It's not the only difference. There's some other stuff you use informal when you're doing like, a linking thing sometimes, like that kind of thing. But you can mark a verb for formality. And in some situations, you totally swap out a verb for another verb with no, no change in what I might call, like, translated meaning. Like there's no additional nuance beyond the register, but it's a, it's like a totally different verb, as opposed to English, where we have things that we do associate with more formal and less formal registers. But people sort of build them up themselves. You learn them by osmosis rather than it being sort of grammaticalized.
+
+
+SARAH: Yeah. And I think in English, it also tends to be more style, like it's partly about formality and situation. And it can often be you can often kind of refer to it in shorthand as like your style. So there's a lot of debate among educators and stuff about teaching English grammar. And when you correct a child's grammar or spelling or word choice or whatever in school, are you saying that how they speak in real life is invalid or whatever? And obviously that depends a lot on how you give those corrections and the context of everything and like disclaimer, disclaimer, disclaimer. And what I would tend to say is like, we all know how to talk to our friends. We do that already. I don't need a teacher to tell me how to talk to my friends. But I do need a teacher to help me figure out what is the correct style, the correct tone, the correct register for writing a formal essay, for developing a formal speech or something. Not because that is inherently better than our informal ways of speaking, but because it's not something we all typically get by osmosis, because most of us don't spend our time listening to formal academic speech all the time. And so you do have to do a little bit of intentional teaching with that.
+
+
+ELI: Yeah, absolutely.
+
+SARAH: Anyway, so the question that Bex actually asked was, how do they change over time? Do they kind of—the picture I'm getting is, you know, the nursery rhyme that's like, “four in the bed and the little one said ‘roll over’ and they all rolled over and one fell out.” Like, do the registers all roll over and then the formal-est one falls out and we invent a new casual one? Like, is that what's going on here?
+
+
+ELI: Yeah, I mean, what I was going to say is the phrase that comes to mind here is “euphemism treadmill.”
+
+
+SARAH: Yeah.
+
+
+ELI: And I don't think that this is one to one, but I think that what Bex is getting at here is pretty similar to the idea of the euphemism treadmill. The euphemism treadmill is a concept where talking about something that requires a euphemism, you use the euphemism to be polite about it or to be circumspect, circumspect or respectful about whatever the concept is. And then as that gains more traction, people stop using whatever the phrase or word that you're avoiding by using the euphemism as the euphemism becomes the new neutral term. And then you need something that is more circumspect or more respectful. Right. So, you know, you get stuff like if you want to talk about going to the bathroom, for example. Yeah, we have stuff that is very far down on the euphemism treadmill. Right. Like “I gotta go pee.” “I have to go piss.” Right. But then you can say “I need to use the toilet.” Which was a euphemism because the toilet was not that. It was not that piece of… furniture? Is a toilet a piece of furniture?
+
+
+SARAH: I think it is.
+
+
+ELI: I guess it technically is. But then people started using that for that room and for that appliance, I guess, fixture, piece of furniture. And so now you say you might say “I'm going to use the washroom” or you might say “I need the water closet” or even more euphemistically, you might say “I have to go powder my nose” or “I have to go see a man about a dog” or I have to, you know, any number of these things that sort of, you can see the train of things that were euphemisms and then just became synonymous with the thing and so required a euphemism again. And I think Bex is asking, is there a similar thing that happens with formal language? And I know what my thoughts about that are, but I am curious about your thoughts, because…
+
+
+SARAH: I… I don't know.
+
+
+ELI: Like my hypothesis is no, I don't think that this happens. I think it happens in little bits akin to the euphemism treadmill. And I think that some bits of casual speech become more accepted. So, you know, things like contractions were for a long time not considered formal language, and now they totally are. There's stuff that has that was email etiquette when email was only informal and now email is very business. But the etiquette has changed over. But I don't see this as a continual, all-encompassing process.
+
+
+SARAH: Yeah, I don't think it's that. And the thing is, I don't think it's one direction either. Like contractions were less formal, and now they are more generally accepted in different levels of formality. But I also think that in some situations you get more formal speech that makes its way down into more casual circumstances. And I don't…
+
+
+ELI: I can think of some examples in like Work Slack, for example. Work Slack is a formal situation where you are using a casual communication device.
+
+
+SARAH: Yeah. And I think we talked about this on an episode that, again, since we're doing this out of order, I don't know if it's come out yet or not. But we've talked about the fact that slang and jargon are basically the same thing. They are community-slash-situation-specific vocabulary items. And it's got to be two or three times a year we see a new slang term from one community, sort of, how do they say, “breach containment,” and make its way into widespread use. And everyone's like, oh, this is such a silly, casual word. But it gets raised up out of that particular slangy, casual vibe and becomes a normal word. And business jargon eventually comes out of business world. People start using it in their casual life. And then some of those words exist in a more neutral, less formal context as well.
+
+
+ELI: I mean, especially if you and all of your friends are in jobs where that's jargon that you're using all day long. And you're, for example, trying to plan something or trying to figure something out. You're going to pull that stuff in. And then you're going to feel a little dirty about it. But it's going to be there, and it's going to infect your speech.
+
+
+SARAH: And then in 10 years, you'll do it again. And you probably won't even feel that dirty anymore because now it's just a word. And another thing that I think about is the archaic second person singular pronouns in English.
+
+
+ELI: Oh, this is a great point.
+
+
+SARAH: Right? So thou, thee, thy. Those were informal. And the place that they have survived the longest is in religious context, especially Christian religious contexts, where they were used to mimic and translate the informal pronouns being used in Latin and Greek and other languages, and also just because contextually, the idea back in the day was that humans were meant to be on a informal basis with God and that you could use those informal pronouns. And so much of that language got fossilized that we've kept the phrasing around, but because we don't use it every day anymore, now it feels fancy. And it's so interesting, a lot of Christian denominations now are making a movement to replace all of the fossilized phrasing with “you” and “your” in order to bring back the casual feeling, which was hundreds of years ago, deliberately avoided for the exact same reason. And I think that's really, really interesting.
+
+
+ELI: It is. It's a super interesting thing. I think it's actually a really great example of how this kind of change goes in both directions and swirls around and that kind of thing. I mean, I think that's pretty good exploration of this. The question is, “do registers stair-step and everything bumps up a notch? I think the answer is basically “no, possibly the reverse,” or “no, definitely the reverse, and also in every other direction,” right? Like, this is not a uniform treadmill. This is like a whirlpool full of eddies where things are, I don't know, running around and taking each other's place. 
+
+
+JENNY: It's not like a stair step going up. It's someone dancing on the stairs.
+
+
+ELI: Yeah, I was going to say it's like that M.C. Escher print ascending and descending, but it's not. It's not. Musical chairs is exactly what it is. That was a cool question. Thanks for letting us explore that.
+
+
+SARAH: Yeah, that was great.
+
+
+ELI: All right. Severo sent us an audio question.
+
+
+SEVERO: Hello, folks. I'm Pedro, Brazilian, and I was just thinking about the science thing on linguistics. What are the pros and cons to argue on calling linguistics a science and what branches have some difficulty to be called science and what branches are not, what fields of linguistics are not? And there's another one. A friend of mine said something about discourse analysis, that some fields of discourse analysis have not the same scientific prestige. And I would like to understand how that works and how some fields of linguistics have this dubious way of being considered. You know, some are not as prestigious and why is that? And, you know, what makes linguistics a science and what could make it not a science and the branches and in general? That's my question. I know it's a little messy. I'm sorry for my bad English sometimes.
+
+
+SARAH: Well, first of all, I'm just super excited that we have an audio question.
+
+
+ELI: Yeah, thank you for sending in an audio question. We like your voice so much. Maybe we'll have you on the podcast.
+
+
+SARAH: To cut to the chase, I guess, what makes it a science is that we fuck around and write it down afterward, which I've been told is the definition of science.
+
+
+ELI: Linguistics. Fuck around. Check. Find out. Check. Publish results. Check. Science. Like, basically. And what makes it have more or less prestige than other sciences, I think, is a loaded question and an opinion question, which I suppose you're here asking for our opinions, so I'll tell you. But I think that in general, there's—like people talk about like, the soft sciences and the hard sciences or the social sciences and the science sciences.
+
+
+ELI: Physical. Physical sciences.
+
+
+SARAH: Physical sciences. There we go. And, you know, everybody has an opinion on whether or not all of those categories are actually equivalent or deserving of the same merit and respect and prestige and blah, blah, blah.
+
+
+ELI: Or whether it's a useful distinction in the first place.
+
+
+SARAH: Or whether it's a useful distinction in the first place. Yeah. And as with a lot of things I think we've talked about in terms of like, are these categories useful? Like, I would say yes, being able to categorize things is often useful in broad strokes. And it's not usually useful for more than that. I would say that among people who consider linguistics to have less prestige, I would guess that that has to do with it being a social science and something that, yeah, we can do experiments, but it's a lot harder to prove things empirically because it's not, it's not physics, right? Like, anything, once you bring in the human brain, is like a big ol' asterisk next to every single thing that you do.
+
+
+SARAH: Yeah, with applied math?
+
+
+ELI: I mean, we're gonna have to put the XKCD comic in the show notes with, yeah, physics is applied math, chemistry is applied physics, biology is applied chemistry, you know, sociology is applied biology, all of that stuff. But I also will say that that comic is interesting because I don't think linguistics is on that line. And I also don't 100% agree with that line, of course, but like, linguistics is so—hah, what I was gonna say is linguistics is so incestuous. We have overlaps with so many other branches of science that I don't think we are applied anything.
+
+
+SARAH: Or we're applied everything.
+
+
+ELI: Right.
+
+
+SARAH: I think back in one of the really early episodes, or maybe under the LX101 tab or something, somewhere on Instagram, I've posted, I've pinned in the stories thing, a graph of linguistics in the middle and then flower petals around the outside as this giant Venn diagram of every other science and where it overlaps linguistics. And so on the one hand, as a pure field of study, I think a lot of people, I won't say rightly, but I will say understandably, are like, “okay, but why do you care how language works? Like, the fact is, it does work. And I use it and I go about my life and I don't care why. I just, I just do. I do what I need to do.” And that's, like, I understand where that opinion would come from. And I would say that knowing how and why language works is actually important because as soon as you start applying it to all these other things, like we want to know how the human brain works. We want to know how to communicate more effectively. We want to be able to help people who have brain damage or other communication difficulties. We want to be able to understand more about the world through all kinds of different avenues. And this is one of the tools that we have.
+
+
+ELI: Yeah, I mean, language is our main communication mechanism as humans. And so we should know everything that we can about it.
+
+
+JENNY: I mean, one of the first linguistics classes I took was literally Applied Linguistics: Learning and Teaching Languages. I was in it partially for getting my linguistics minor reasons, partially because it was just interesting. But it did teach me a lot about how humans learn languages. And most of my classmates were interested in being English teachers, often like working with second language learner students. So, yeah, like how humans learn languages is extremely practical if you're interested in teaching a language, especially to someone who doesn't have that as their native language. Like that is a place linguistics is extremely useful.
+
+
+ELI: I do think, though, that it is a false thing to do to equate practicality with prestige or, quote unquote, lack of practicality and perhaps purity with prestige. But I do think that there's something in what you just said where a lot of people don't even know that linguistics exists. They don't know that this is a science and instead are still thinking about the philology sort of approach to it, where it's very much a, “it's an outgrowth of literature, it's an outgrowth of language arts,” right, and that there's “how could you be rigorous about about linguistics?” We learn in English that it's all about composition and theme. And this is, that's what language studies are about. And so I think that to the extent that linguistics doesn't have as much prestige as perhaps other disciplines, it's because it's a relatively young discipline. I think probably at this point, linguistics is between, I don't know, 100 and 200 years old, kinda depending on what you think of as the start of linguistics. Yes, there's things that are linguistics that go back thousands of years, but as an academic discipline, linguistics is about 200 years old on the outside. And so there's been less time for sort of mind share. You know, there's all kinds of things where news programs that need a comment about something that should be linguistic, you call up English professors and not linguists, lawyers who could be much—who could be really well served by having someone who knows how to do linguistic analysis, don't know that that actually exists and is a thing for them, and instead, try to make do with their own linguistic education, which is mostly around sort of composition and oratory and that kind of thing. So I think that that's a thing that is causing linguistics to have less prestige and a lot of sort of global mindshare. And then there are places where linguistics is starting to have more prestige, especially with the rise of AI and the need to do corpus analysis and the need to do tagging of data and the sort of overlaps that linguistics has with information science, computer science, that kind of thing, but also with some of the stuff that we're now doing in terms of biology and medicine and, you know, communication difficulties and helping with those and that kind of thing. But I think that, again, applicability and prestige are not necessarily the same thing.
+
+
+SARAH: Yeah. And you mentioned, like, rigor. And I think in a lot of people's minds, that's what defines science. And it should like—
+
+
+ELI: Yes, absolutely. 
+
+
+SARAH: The whole point of science is you fuck around, you write it down, and you replicate it and you prove that it is repeatable and the best explanation for the phenomenon that you've observed. And like you said, linguistics is a young discipline and there's an extent to which people don't know about it, and there's an extent to which we have had limited abilities to do all of that work, and certain, certain branches of linguistics have had more or less time to do all of that work. Phonetics, I don't know any dates, but like even before linguistics was nailed down as a or rather even before linguistics was established as an academic discipline, people have been studying and thinking about the sounds that we make for as long as we've been talking. And once that starts to be codified and people start to, like, name what those things are, you can start to turn that into something that feels sciency pretty quickly. I feel like syntax also, people have been really into diagramming sentences for a really, really long time and coming up with a new way to do it every 10 years and then getting into fights about it, but like, hey, that's also part of science.
+
+
+ELI: Yeah. I think that that's very, it's starting to get into the second part of this question, or I guess the third part of this question about different branches of linguistics having more or less prestige. But I think it's interesting. I view, so phonetics and syntax, I think, I don't know if they have more prestige, but I feel like they are viewed as more fundamental, perhaps more… I don't know, not more prestige, not more respected, but somehow more fundamental.
+
+
+SARAH: Yeah.
+
+
+ELI: And I think that they are that way for two different reasons. I think you're spot on about phonetics where people have been studying it for a really long time and we know a lot about it and we have much more solid theories. So there's not a new phonetics theory every 10 years or if there is, there are variations on a theme or they're starting to be at a higher level or they're really trying to fill out the edges. Syntax, on the other hand, and I think semantics to a certain extent also, though not always, borrows its prestige a little bit from math.
+
+
+SARAH: Yes.
+
+
+ELI: Because prevailing syntax theories and some prevailing semantics theories are very much coming out of a math background. 
+
+
+SARAH: Yes.
+
+
+ELI: Or using math language in order to talk about what those things are. And I think that they've borrowed some of that prestige from math and that if those theories had been phrased differently or approached differently, that they might not still have that because, again, those things are less further down the road in terms of what we know. And I do want to be clear in case there's any syntacticians listening to this being like, “hey, we know a lot.” Like, yeah, I'm a morphosyntactician. That was my field. We do know a lot. But it's pretty easy to get a theory that explains the first 75% of your data. And we're still fighting over how to diagram what “and” does in a sentence.
+
+
+SARAH: Yeah. And it's been so long since I've thought about this, I don't want to make any claims here, but I remember even thinking to myself in undergrad 10 years ago that everything we talked about in my morphology class, I was like, this all makes sense. And I couldn't get to a second level. I couldn't find a deeper exploration of most of the concepts we talked about. And I was like, I don't know if I'm looking in the wrong place or if this is literally such a new branch and such a new discipline that it's just not there.
+
+
+ELI: And I think that's the case.
+
+
+SARAH: I think it's just not there.
+
+
+ELI: We still have a little bit of a just-so thing happening where we're still looking at stuff that is more fundamental and looking at stuff, you know, we're like, I was going to say we're Aristotle-ing it up here, but we're not because he was wrong about a lot of stuff.
+
+
+SARAH: I mean, we might be wrong about a lot of stuff.
+
+
+ELI: We might be wrong about a lot of stuff. He was like, doing things that were clearly not consistent with observation.
+
+
+SARAH: Yeah.
+
+
+ELI: But, you know, we're like Galileo-ing it up, basically. Stuff that they sort of, they rush through in your first couple months in physics. Like, linguistics is a, it's a new discipline. And so I think the question about prestige has a lot more to do with social surroundings of those things. And what, how is it being talked about? How are the people in that field trying to accumulate prestige? What language are they borrowing from other fields? And then to a certain extent, how well-settled is that field, right? And so I think that, you know, you have fields that have more prestige because they are currently rising stars in society or they're helping to build stuff that is useful, but that's a rickety platform on which to build your prestige.
+
+
+SARAH: Yeah. I think if we were going to try to condense our answer, I guess I would say it has to do with age of the discipline and just how well known it is. Like, I don't think any prestige or lack of prestige that linguistics has is inherent to it, but it's about whether people know about it or not. And I was going to say whether they think it's worthwhile or not, but that's literally what prestige is. So that's not a great qualifier.
+
+
+ELI: Well, there's a question about science communication also, right? So like math has a number of really great science communicators, especially with the YouTube revolution. You know, you've got Vihart, you've got Matt Parker. You've got Numberphile. You've got all of this stuff. Physics has its folks. You've got Brian Green and Michio Kaku and you've got Brian Cox. You know, you get good communicators for biology and all kinds of stuff that come around here and there. When you think about linguistics communicators, there's some folks on Language Log. Occasionally you get John McWhorter who breaks containment and gets an op-ed in the New York Times or something like that. But language communication is still mostly the province of usage. And so you've got Brian Garner and you've got Grammar Girl, who I will give a lot of props for as starting out as a usage person and then understanding that she needed to learn a bunch of linguistics and getting a lot more descriptive about things. But like linguistic communication still is not out there to a point where people know that linguistics exists and have been giving it the appropriate due. That's why people still call up dictionaries and English professors and not linguists.
+
+
+SARAH: Yeah. Or they call up linguists and hand them a never-before-seen audio tape and say, “translate this.” It's like, no.
+
+
+ELI: Watch Arrival, y'all. It is a good movie. 
+
+
+SARAH: It is a good movie. And it's, ironically, some of the best pop linguistics communication that has happened and still makes such... I mean, on the one hand, it's a horrible misstep. On the other hand, doesn't she rightly say, “bro, I can't translate if I don't know the language. That's not what I do.”
+
+
+ELI: Yes, she does.
+
+
+SARAH: And outside of that movie, too. I mean, there are stories of, you know, “we recorded this phone call between two unknown people. You did a language. What are they saying?” And “well, based on how it sounds, I think it's Korean. I don't speak Korean. You're welcome.”
+
+
+ELI: The scene in Arrival is interesting to me on two levels. I think first is the level that you talk about, where they're like, “here's an alien language, translate it,” and she's like, “bro, why would you ever expect I could do that?” But the person who's handing it to her is a military person, I believe, and in the military and in the CIA, “linguist” is their name for “translator.”
+
+
+SARAH: Right.
+
+
+ELI: Which is, I don't think that they intended that, but it's a nice double level to that where they go, “oh, a linguist, you should be able to translate this, because that's what we call people who translate things.”
+
+
+SARAH: Right. And it's one of those things where I'm like, yes, these are the words people have chosen. And. 
+
+
+ELI: And they are totally incorrect. U.S. Armed Forces, change your shit.
+
+
+SARAH: At this point, it's like, yes, at one point “linguist” probably did mean “translator,” because it was “person who is good at languages,” but now that word has taken on another meaning, and given the fact that we also have the word “translator,” why don't you go ahead and shift that usage? 
+
+
+ELI: Computer once meant “lady who computed sums.” And now it does not mean that. Move on.
+
+
+Sarah: Yeah.
+
+
+ELI: Language changes, bitches. Yeah, it's all the representation that we get in the media is Amy Adams in Arrival and Michael Shanks in Stargate.
+
+
+SARAH: Also, OK, we should move on to our next question. But my last comment about Arrival is I feel like what I heard so much from that movie or from people that seen the movie was that her office was perfect, her office was the absolute pinnacle of, like, harried academic with books and papers strewn all over the place and just complete chaos. And then her house, which was cinematically beautiful—
+
+
+ELI: Yeah, no linguist can afford that house.
+
+
+SARAH: A mansion made of glass in the middle of the forest? And you're like, no linguist, no college professor, nobody that the army is going to in a crisis can afford a house like that. But it's a real good movie.
+
+
+ELI: The office, by the way, was modeled after a real linguist's office.
+
+
+SARAH: Which is why it was so good.
+
+
+ELI: Right. It was somebody in McGill. They basically busted in and they were like, “can we take pictures of all your stuff?” And she was like, sure. And then they were like, “quick, we have to go buy all these books because these were the books that were on the shelf, somebody buy a copy of Pratt and put it on the screen.”
+
+
+SARAH: It's so good.
+
+
+ELI: There's actually on Language Log, there's a series of posts that came out around the time that movie came out where they look at every screenshot that they can get of the office and try to identify what's going on with each of them. And then I can't remember the professor's name, whose office it is, but she, I think she wrote in a few comments and she was like, here's what it was like. They asked me about this.
+
+
+SARAH: Oh, that's so fun.
+
+
+ELI: I think she has an old set of, a set of books that were a gift to her and they put them in the set because they didn't know that they were sort of a one-off and not something that you would normally find.
+
+
+SARAH: Oh, right. It's like her personal collection of Winnie the Pooh.
+
+
+ELI: I mean, they were linguistics books, but they were old school. Some, her—I think her PhD advisor had been like, congrats on your PhD, here's like a gift for you or whatever. We're going to have to find those posts and put them in the show notes. It's an unusually Language Log-heavy episode today.
+
+
+SARAH: It is, but hey, it's, it’s usually the, um…
+
+
+ELI: It's usually the History of English podcast, is what it usually is.
+
+
+SARAH: It's usually the History of English podcast, so it's nice to shake it up.
+
+
+ELI: Well, that was a great question, Severo. Thank you for sending that in. Hopefully you feel like we did it justice. I feel like we did it in the way that our podcast does.
+
+
+SARAH: Yes. So that'll bring us to our third question, from Kobe, also from email. And they said, “What are your favorite words that don't have an English equivalent or cannot be translated into English, sign languages included?”
+
+
+ELI: This is a really interesting question because I don't know that I have an answer for it. I mean, I think the underlying bit of this question is what are your words, your favorite words in other languages that don't have a one-to-one equivalent in English, which I still don't have a good answer for. But also, we should stop and realize that no word has a one-to-one equivalent. There are a lot of translators out there that write a lot about different ways to translate things, and that's fantastic and fascinating. And translation is a totally different discipline than linguistics, as we just talked about.
+
+
+SARAH: Yep.
+
+
+ELI: But also, translators are amazing for the things they do and the choices they make. And even simple words often don't actually have one-to-one. It's around the margins, but they often don't have one-to-one. And everything is explainable in another language, especially given cultural context. But I think that that's probably thinking too hard about this question.
+
+
+SARAH: Yeah, I mean, so, an answer that I gave in one of our live shows about just favorite words in general was the Latin conjunction “ut,” because it encompasses a lot of things and is just really easy to use. And it sort of has a one-to-one—like, you can translate it as “that” in English, usually. It's just not always... English has moved away from using... I can suggest that you do something. I can't really order that you do something. English wants you to say, “I order you to do something.” We'd rather say, “in order to buy milk.” So I don't know, I feel like…
+
+
+ELI: Or just “to.”
+
+
+SARAH: Yeah. It sort of answers the question, but not really in the spirit of the question.
+
+
+ELI: I think that probably my answer to this is Japanese has a whole lot of sentence ending particles that are really useful. And some of them, I mean, they all have translations, but the translations are... I mean, they're not nebulous, like you can articulate them, but there are several different examples of translation. And I think that if I had to pick one, I'd probably pick “ne,” which is like one of the very first ones that you use. And very often sort of gets translated to like, “isn't it?” Or “aren't you?” Or “eh?” Or “heh?” You can do this thing at the end of an English sentence where you're like, “oh, you don't want to go there, do you?” Or like, “man, everybody loves that video game, huh,” right? And that is a similar kind of a thing, but it is some of those things and some of other things and that kind of thing.
+
+
+ELI: And I think that there's sort of this constellation of you get like “ne,” and “ze,” and “zo,” and “wa,” and “no,” and like a whole bunch of other particles that both encode discourse function and sort of pragmatic function, but also some of them get used by different people, depending on what your self-image is, in a very similar way to like how you might choose your first person pronoun in Japanese, depending on your self-image in that moment. Also, some of them are good for different registers and some are not. But I think that it's not that it's untranslatable again, but it's something where you have to learn how to use it. You can get the first step of how to use it through English equivalents, but you have to learn how to use it through repeated exposure.
+
+
+SARAH: Yeah, I have a couple other thoughts. So like, you know, on those lists that you see online of just like words that don't have a one-to-one companion in English.
+
+
+ELI: “Hygge” and like all of those things.
+
+
+SARAH: Yeah. And like, I don't know, like, you know, I'm saying all of this and I'm sounding sort of sarcastic about it, but like, it's legit. There are gaps in the vocabulary of every language and sometimes we develop our own term for something and sometimes we're like, “oh, wait, you know, you actually, you came up with a really good word for that. We're just going to—” you know, English especially, it's like, oh, “‘schadenfreude,’ that's a thing that we know about that we didn't name, but you named it. We're going to just take that.”
+
+
+ELI: Yoink!
+
+
+SARAH: Yoink, right? French is like, “oh, mail that is sent electronically. ‘Courrier électronique.’ ‘Courriel,’ if you must.” And all of the actual speakers of French were like, “nah, fuck that, ‘email.’” But it's like, there's this weird, like, gap between we've heard the word and we've actually borrowed it. And in that time gap is this, this like, “oh, they have the word for whatever.” Because at this point in English, it's like, “oh my God, did you know the Germans have a word for schadenfreude?” And it's like, yeah.
+
+
+ELI: It's schadenfreude.
+
+
+SARAH: Yep. I did know that they had that word, because they invented it. And so I think it's a very legit thing to find interesting and to study, and I think people sort of overblow it. But one of my favorite words that often appears on those lists is a Portuguese word that I'm sure I'm not pronouncing right, and apologies to the Portuguese speakers who I do know listen to this show.
+
+
+ELI: Possibly also the Brazilian speakers.
+
+
+SARAH: They're possibly also the Brazilian speakers, indeed. But “cafune,” which is like the act of, like, head scritches for someone that you love.
+
+
+ELI: Ah, what a great word.
+
+
+SARAH: It's a great word. And I'm like, yeah, that is absolutely. And, you know, I can say “head scritches” and we know what that means. But like—
+
+
+ELI: Although I will point out, you did not say “head *scratches*.”
+
+
+SARAH: That's true.
+
+
+ELI: You said “head *scritches*.” And I think that head scritches might be the correct translation.
+
+
+SARAH: I think it is. I absolutely think it is. And I just, I like that they have a word for that. Yeah. And one of the other words that I really like, well, two of them are American Sign Language words. One of them, this one I have been told about, like I've seen it on like “idiom vocabulary that doesn't make sense to a non-native speaker! you should probably learn this!” And as a non-native speaker, I haven't actually figured this one out yet. But it's like you start with your hand in a fist at the base of your throat, and then you sort of, like, open it up and then close it again. And it's like a feeling of awkwardness, it's like the lump in your throat kind of thing, that's the icon that it's meant to—and I haven't figured out exactly what emotion it goes with, because for me, I can get a lump in my throat for a lot of reasons, and I don't know if that word encompasses all of them?
+
+
+ELI: You need to see it in context by a native speaker more often.
+
+
+SARAH: Yeah. And I've never seen anyone use it in context. I've just seen it on the list of “cool idioms you probably don't know,” And I'm like, yep, I sure don't.
+
+
+[ELI laughs]
+
+
+SARAH: But another one that I have seen in context a ton and I love is—it's usually transcribed, it's usually written down as “kiss fist,” because you do, you just [kiss fist], you take the back of your hand up to your mouth and you kiss it and then move your hand forward, and it means just to like, to just love something, to just—it is like chef's kiss, perfect. [kiss fist] And so, you know, you'll have people who are like, you know, oh, I could say like, “did you like Arrival? Did you like the movie?” And you could say, “oh, yeah, I liked it.” Or “it was great.” or you could say, “oh, I just—[kiss fist] it was perfect. It was—”
+
+
+ELI: Just kiss fist
+
+
+SARAH: “I just, yeah. It's so good.” And it's like every time I try to say something similar in English, I'm like, “I just, I just,” I don't, like, I can't even fill in the blank there. But—
+
+
+ELI: That's a great word to loan in.
+
+
+SARAH: Yeah. 
+
+
+ELI: Like, wouldn't it be very cool to loan in a word to English from ASL?
+
+
+SARAH: It would be so cool. And it would be so cool also, because I could totally see like ASL has borrowed gestures from English speakers and from hearing English speakers. So like phone or phone call is the sort of like extended thumb and pinky up to your ear. And like, what time is it is tapping on your wrist like a watch, which are things I—and like, “crazy,” like drawing the circle near your head like those are all gestures that English, like hearing English speakers, particularly Americans, like, use without thinking about it. And there are also some ASL gestures or ASL words that hearing people have borrowed as gestures. So some of it has been taught deliberately, but I've noticed with my students, there was a period of time where it was taught deliberately to a lot of American school students to like you would make the same shape as if you're doing the “call me” thing. But instead, you point the thumb at yourself and the pinky at the person who's talking and you say, “this means ‘I agree.’” And it's the ASL word for, like, “same.” And I see students who just do this to each other while we're talking in class like “that person, I agree with them.” And so I've seen that kind of borrowing come the other way as a gesture. And—
+
+
+ELI: yeah, some of those have come out for Zoom calls.
+
+
+SARAH: Yeah.
+
+
+ELI: Also, so that, the “same,” that's a solution to a problem that exists on video calls where you don't want people to spend time just saying, I agree with that person.
+
+
+SARAH: Yeah.
+
+
+ELI: You want to get a good thing. There is also ASL for celebration.
+
+
+SARAH: Oh, yeah, with the jazz hands.
+
+
+ELI: Which is a nice way for a bunch of people in the background. Somebody says congratulations to this person for blah, blah, blah, blah, blah. And a bunch of people can make jazz hands and show that they're clapping without clapping.
+
+
+SARAH: Yeah. And so it's cool because we've seen those words and those gestures come in as we've seen those things come in as gestures and as backchannel in a way where, particularly, it is really useful in a group where you don't want a lot of people saying, “yeah, uh-huh, same, I agree,” especially on a video call where you get tons of lag. But I'm really interested, I've never seen anyone in a one-on-one conversation, and I've never seen anyone in writing, replace “congratulations” or, oh, “same,” with one of those gestures.
+
+
+ELI: They've been borrowed in as gestures and backchannel.
+
+
+SARAH: But not as words.
+
+
+ELI: You want to see one actually loaned in. So the thing with kiss fist is I'm really curious because there isn't a word that encapsulates that the same way. And so I can see it coming in as a gesture in this almost as a parallel to the chef's kiss. But what if it actually…
+
+
+ELI: Right. “Chef's kiss” isn't quite the same thing.
+
+
+SARAH: It's not quite the same thing, but like…
+
+
+ELI: “I love it” isn't the same thing.
+
+
+SARAH: But it's like, what if in the same way that people say, oh, that is chef's kiss. Like, could that phrase... Oh, that's like kiss fist. I just kiss fist.
+
+
+ELI: Oh, I'm kiss fist about that.
+
+
+SARAH: Yeah. Like, I would... That would be so interesting. I don't know that it will happen necessarily, but I'm really curious. 
+
+
+ELI: No, folks, get out there. Make it happen.
+
+
+SARAH: Let's do it.
+
+
+ELI:This is our mark. This is our mark on English.
+
+
+JENNY: I have a thought about that. I don't know how much this has, I guess, come up in... Like, in the CrossingsCon server, the Young Wizards server, we tend to have emojis for words. In the Discord servers I'm in, we'll use a lot more gesture emojis or like we'll have custom emojis, but they're images, not text. So I actually do like the kind of thing you're describing, like where you have these... It's sort of a gesture coming in, but it's like, it's sort of like borrowing a word, but it'll be an image. Like, it'll be an emoji or something. So the, like, “you and me both” kind of thing, or “that makes two of us”, or yes, “I also experience this,” that whole realm of things that can be encompassed by the like, tilting the, the “same” hand gesture.
+
+
+JENNY: In the Discord servers I'm in, we don't say “same,” we don't all, like, chime in one after another any more than you would on a Zoom call; we add a handshake emoji. If you want to be really emphatic about it, you might drop the handshake emoji in the chat, but—probably you're just going to reactji the specific message that you want to… second, or agree with, or whatever the right exact word would be in English words, but like, you just handshake emoji that. If you want to be like, “yes, that's a good point, I think you're right”: point-up emoji, like you're pointing at the message that they said, maybe like a “100” emoji.
+
+
+JENNY: And none of those are things you can really pull back into speech directly, but they capture the exact same... “this has like eight different meanings depending on the context of exactly how I would translate it back, and you can't just use the same word or phrase for all of those different meanings, but I can use the same gesture for all of them.” So I feel like there's something there.
+
+
+ELI: There's definitely something there. I think you're right to describe it as a gesture. Gretchen McCulloch and Lauren Gahn have done a lot of research on emoji as gesture. The idea of reaction emoji, as that same kind of, like, backchannel gesture is really interesting to me. And as I was thinking about that, and I was thinking about what you were saying and how different servers at different communities have different things that function in this way. You can have a “100” emoji. You can have a “shaking hands” emoji. You can have a “same hat” emoji. You can have the “SAME” emoji.
+
+
+JENNY: “spidey-point” is one that we use a lot, like the Spider-Man pointing meme, like we have that condensed to reactji-size.
+
+
+ELI: In a place where we don't have custom emoji, people use [heavy plus] (“heavy plus”) as that. So in Zoom chat, for example, where you can't do custom emoji, [heavy plus] is what people that I know have settled on. And in a lot of places, there's ++ (“plus plus”). And that's probably affected by the fact that I'm mostly in tech and surrounded by programmers, where… for those who are not familiar, ++ is a thing that you can do in some programming languages that if a variable stores a number, it makes the number one higher. And so ++ is a good way to sort of say, like, “I agree with that,” it’s…
+
+
+JENNY: “Seconding that,” “thirding that.”
+
+
+SARAH: Yeah
+
+
+ELI: You know, it's when somebody says “me too,” it's you saying “me three,” exactly. But I have heard that cross back into oral speech. And somebody will say “plus plus” on a call. Somebody says something to second it. So I think it has, it comes back a little bit. I'm not convinced it's still a full… trip, I think it's still a little bit of an affectation. I think it's still a little bit in the, like, “hygge” realm of being borrowed, where you're being cute, or it would still be italicized in text. Like, here's the difference. “Schadenfreude” is no longer italicized in text, but “hygge” definitely is. You know, “sushi” is no longer italicized in text, but “svenge,” which is a kind of donut that's common in Morocco and the Middle East and that kind of thing, definitely would be. Right? So I think it still is in the like, “we would italicize this” side of borrowing. But it is something that strikes me as having come back.
+
+
+ELI: I will also say, so, all the three, all three of us are in the Crossings Slack, which all of you listeners can join if you like. There's a link on our website. One of the most used reaction emojis there is “BLESS.” And it's just “bless” spelled out. And that has—I don't use that in speech at all. I use it in emoji reactions. But I also think that when the three of us are talking, or when I'm talking to somebody from that server, I would be more likely to use it in speech than anywhere else. And that's definitely influenced by the emoji usage in the server.
+
+
+SARAH: Which is so interesting, because for me, it's the exact opposite, where I do say that in speech. And I have increased my usage of it because we have a really convenient reaction, I haven’t had to go find a weird handshape emoji that could convey the same concept, and I'm like, oh, I could just literally say that in the same, like, unobtrusive backchannel way as handshake emoji. 
+
+
+ELI: But I think that that's, it's the, it's pressure in the same direction.
+
+
+SARAH: Yeah.
+
+
+ELI: When we have an emoji that is making its way back where that's not a thing that is part of my, that's not a thing that is part of my idiolect at all. And now it has a meaning and has had some pressure coming off of the screen and into actual usage.
+
+
+SARAH: That's really cool.
+
+
+ELI: I don't think that we have time to dig into it now. But I really love this idea of loanword continuum.
+
+
+SARAH: mm-hm
+
+
+ELI: From italicized to not italicized. Or maybe on one end, it is like italicized and footnoted. Defined, right? Or glossaried. And then works its way all the way down to not italicized in formal speech. Right.?
+
+
+SARAH: Yeah, I think we should probably wrap this question up. But listeners, what are your favorite words that haven't been fully un-italicized into English yet? I want to, like, genuinely, I want to know.
+
+
+ELI: Yeah, write in and tell us. Or join the Slack and jump into the linguistics channel and tell us.
+
+
+SARAH: Yeah. And I would love to discuss any answers we get to that on future recordings. Since we're sort of out of order, that probably won't be until like episode 12 or something. But keep an ear out. It'll be there.
+
+
+ELI: All right. Let's move on to the puzzlers.
+
+
+SARAH: Yes.
+
+
+ELI: So, Sarah, you had last podcast's puzzler. And by last podcast, we mean episode 7. Yep. Do you want to remind us what that was?
+
+
+SARAH: Yes. So you're going to take a term for an old communication method. Remove one letter. And then scramble the letters. And you end up with a new communication technology. What are the old and new technologies?
+
+
+ELI: Okay. So the old technology is “mailer,” and the new technology is “email.” Did I get it?
+
+
+SARAH: That's not the one that I had, but that does work. And I like it.
+
+
+ELI: It's a stretch. You don't have to give me that. It's a stretch.
+
+
+SARAH: I mean, okay. But also, it's a really broad question, so I think, actually, the fact that there's more than one answer is cool.
+
+
+ELI: The answer... what do you get when you take one letter away from pigeon? No, okay.
+
+
+SARAH: Do you want me to give you…
+
+
+ELI: Put us out of our misery. What's the answer?
+
+
+SARAH: Okay. So the new one is podcast. Listeners, Eli and Jenny both just stared off on the video call in opposite directions while they try to solve this.
+
+
+ELI: Podcast. And we're removing a letter from that.
+
+
+SARAH: You're adding one letter to that one.
+
+
+ELI: Oh, okay.
+
+
+SARAH: I said it backwards.
+
+
+ELI: I don't know.
+
+
+SARAH: The old one is postcard.
+
+
+ELI: Hey, that's cool! Yeah, right?
+
+
+JENNY: Wow, I was way overthinking that. I was trying to shuffle the letters so much.
+
+
+SARAH: Yep, you take the R out of postcard and you can spell podcast.  And if that was your answer, good job. Eli, do you have a new puzzler for us?
+
+
+ELI: I do have a new puzzler. So think of an informal term for a beverage. Now say that term in Pig Latin and you'll have an informal term for another beverage. What two beverages are these? And we may have listeners who don't know what Pig Latin is, so very quickly, I will just say Pig Latin is a language game that you can play—probably with everything, but you play it with English, what happens is that if a word begins with a consonant or a consonant cluster, you move that consonant cluster to the end of the word, and you add “ay” to the end of it. And different people have different rules for what happens if a word begins with a vowel. The one that I learned is that you don't move anything and you just add “ay” to the end of the word. That's what I designed this puzzle under, ut other people have different rules. But “Ig-pay aten-lay” is how you say “Pig Latin” in Pig Latin.
+
+
+SARAH: Cool.
+
+
+ELI: Do you guys get it?
+
+
+SARAH: I remember that I did get it last time. Maybe.
+
+
+ELI: Well, you have until next episode airs to remember it.
+
+
+SARAH: All right, well, that’s it for this episode! Thanks for listening.
+
+
+ELI: Linguistics After Dark is produced by Emfozzing Enterprises. Audio editing is done by Luca, question wrangling is done by Jenny, show notes and transcriptions are a team effort. Our music is “Covert Affair” by Kevin MacLeod.
+
+
+SARAH: Our show is entirely listener-supported. You can help us by visiting patreon.com/emfozzing, E-M-F-O-Z-Z-I-N-G, and by telling your friends about us. Ratings on iTunes and other podcast services help as well.
+
+
+ELI: Every episode we thank patrons and reviewers. Today we want to say thanks to these awesome patrons: Dre, Mitch, Bex, Trickey_7, Geoff, and Bryton. We also want to thank Seilide, and SpaceyDaisy for leaving us reviews on iTunes, and Artsortment and Li Yin for their comments on YouTube! Thank you!
+
+
+SARAH: Find all our episodes and show notes online at LinguisticsAfterDark.com or on all your favorite podcast directories. And send those questions—text or audio—to questions@linguisticsafterdark.com. You can reach us on Facebook, YouTube, Instagram, and the artist formerly known as Twitter at @LXADpodcast
+
+
+ELI: And until next time, if you weren't consciously aware of your tongue in your mouth, now you are.
+
+
+[beep]
+
+
+ELI: *Surely* not Benjamin Wharf.
+
+
+[beep]
+
+
+ELI: take without the cat bumping the microphone…
+
+
+[beep]
+
+
+ELI: [sings melody of “Covert Affair” by Kevin MacLeod]
+
+
+[SARAH and JENNY laugh]
+
+
+[beep]
+[a]holy shit, did i really say all of this with so little starting and stopping? or did luca just do an A+ editing job?
+[b]show notes
