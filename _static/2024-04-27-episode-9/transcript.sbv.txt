@@ -1,0 +1,1211 @@
+﻿[Intro music: “Covert Affair” by Kevin MacLeod]
+
+
+SARAH: Hi and welcome to Linguistics After Dark. I'm Sarah.
+
+
+JENNY: I'm Jenny.
+
+
+ELI: And I'm Eli. If you've got a question about language and you want experts to answer it without having done any research whatsoever, we're your podcast.
+
+
+SARAH: Settle in, grab a snack or a drink, and enjoy.
+
+
+ELI: Welcome back, friends.
+
+
+SARAH: Yeah!
+
+
+ELI: It's been, what, like, I don't know, a couple months?
+
+
+SARAH: I know that “a couple” is not a strictly defined unit of measurement, but please explain.
+
+
+ELI: Are you saying several? A few? Are we using the paucal here?
+
+
+SARAH: Many.
+
+
+ELI: That's probably true. It's been three years. Hello, we're back. We've got the gang back together. So much life has happened.
+
+
+SARAH: How many times have we actually collectively moved house since our last recording? It's gotta be at least three, right?
+
+
+ELI: I think so. I think maybe each one of us has moved at least once. Since we've done a pre-recorded episode and not a live episode,
+
+
+SARAH: Yeah
+
+
+ELI: I have moved two times, including across the country. I now live in Massachusetts.
+
+
+SARAH: Yeah, I think I was still living in my old apartment for our last pre-recorded one, and now we bought a house, which is exciting.
+
+
+ELI: Yeah, congratulations.
+
+
+SARAH: Thanks!
+
+
+ELI: I got married.
+
+
+SARAH: Congratulations.
+
+
+JENNY: Congratulations. I don't remember if I've moved once or twice. I might not have been living in this state, just staying with my family over school break, so I might have technically moved twice.
+
+
+ELI: So collectively, since the last time that we recorded an episode, which I think in listener time will have gone out like three weeks ago, we have moved five times. Time is fake, y'all. It's so fake.
+
+
+SARAH: It's so fake. Also, there was, like, a pandemic in there.
+
+
+JENNY: That too.
+
+
+ELI: Yeah, I know.
+
+
+SARAH: Although we recorded a few times during that, and then real life kept happening.
+
+
+ELI: Yes. We also, we had a convention, and we had a live show at that convention, which was a lot of fun. We're not going to talk about it. It's up on the YouTube channel. I think we've put it out on the feed at this point.
+
+
+SARAH: Yep. It should be everywhere.
+
+
+ELI: There's some fun stuff that happened. Go listen to that.
+
+
+SARAH: Yep.
+
+
+ELI: Live show.
+
+
+SARAH: Yep.
+
+
+ELI: What are we drinking today?
+
+
+SARAH: That's what I was going to ask. I'm drinking a sad cocktail of Downeast Cider's white slushie, because they did a collaboration with the actual slushie company.
+
+
+ELI: Sarah, this is the most basic thing I've ever heard you say.
+
+
+SARAH: No, no, no, but listen, it's going to get worse. See, the thing is that I have an incurable need to try every weird flavor variant of things. And my friend wanted cider, and so we went and bought a mixed pack of cider flavors. And then I saw this was the beginning of summer, and they had these slushie things. And I was like, I want to try those. And the red and the blue ones are actually pretty good. The white one doesn't have enough lemon in it. It mostly just tastes like straight vodka. And by that, I mean hand sanitizer.
+
+
+ELI: Ooh.
+
+
+SARAH: Which is pretty easily solved with a little bit of lemon juice. But also, my husband—
+
+
+ELI: You shouldn't have to doctor your canned drinks.
+
+
+SARAH: You shouldn't have to doctor your canned drinks. But also, my husband bought a really cool-looking bottle of lemon wine last week. And then we tried it, and it was aggressively lemon and not in a pleasant way. So my hope is that by putting a little bit of that in my cup and then pouring in the slushie, it will actually taste good. I'll let you know.
+
+
+ELI: What is lemon wine? Presumably, it's not fermented lemon juice.
+
+
+SARAH: I think it was white wine with lemon in it.
+
+
+ELI: Got it. Okay.
+
+
+SARAH: It almost worked.
+
+
+ELI: Yeah, I could see that.
+
+
+SARAH: Anyway. [cracks open bottle] Thanks. Eli, what are you drinking?
+
+
+ELI: So I am drinking an iced chai.
+
+
+SARAH: Oh.
+
+
+ELI: Sonia and I went on vacation earlier this summer, and we visited our friends Riker and Amy, and they had a really fantastic brand of chai concentrate called Bakhti, hashtag not sponsored, and we really loved it. So we ordered a case, and we're now through five of the six boxes that we have. So today, today is iced chai. So speaking of trying every flavor of something, opinions on Cel-ray?
+
+
+SARAH: Cel-ray is mind-boggling, because there are some things that I just don't expect the flavor to be able to be recreated.
+
+
+ELI: Yeah, but it's unmistakably celery.
+
+
+SARAH: It is. It is celery as a drink, as a soda. And for that, I love it. I think it is amazing. I also personally would not go out of my way to consume it.
+
+
+ELI: I think that's fair. For me, second best flavor of Doc brands.
+
+
+SARAH: Okay, what's the first best?
+
+
+ELI: The first best is Black Cherry, but that's because every year for Passover, I get a Kosher for Passover version of the Black Cherry, and that's my like, you know, I don't drink a lot of soda, but that's my treat for Passover.
+
+
+SARAH: We always get Kosher Coke for Passover, and I also really like the Doc Cream Soda myself.
+
+
+ELI: Doc Cream Soda is good. Not a big cream soda guy, but…
+
+
+SARAH: That's fair.
+
+
+ELI: Yeah, but I'll pick up a Cel-ray if it's, you know, if I'm in a deli or something and it's there.
+
+
+SARAH: All right. Also, the lemon wine white slushie bullshit was actually quite palatable.
+
+
+ELI: “Quite palatable” is damning with faint praise.
+
+
+SARAH: Considering the fact that both of them were undrinkable to start with, I'll take it.
+
+
+ELI: Hey, why don't we learn a language thing?
+
+
+SARAH: Yeah.
+
+
+ELI: What is today's show brought to us by?
+
+
+SARAH: Today's show is brought to us by transitivity, which actually I thought this is where you were going to go with trying every flavor of thing, because in the outline, I have listed every flavor of verb. Sort of.
+
+
+ELI: Mmmm. Sweet verbs. Bitter verbs. Umami verbs.
+
+
+SARAH: Yeah, so different languages handle verbs in a variety of ways, and that pertains both to the verbs themselves and to the overall structure of the sentence. English, and I think a lot of the European languages, are structured around this idea of transitivity, meaning the extent to which a verb can affect another noun somewhere in the sentence.
+
+
+ELI: Wait, hold on. Transitivity isn't universal? I thought transitivity was like a universal property of verbs.
+
+
+SARAH: Well, if I remember correctly from the time when I was actively studying linguistics, there are some languages that are primarily transitive versus intransitive, and there are some languages that are primarily ergative versus the opposite of that.
+
+
+ELI: Accusative.
+
+
+SARAH: Yeah, thank you. Ergative versus accusative. And I wouldn't be surprised if there's a way to interpret any language through either of those two lenses, but there's definitely like some languages' general basic sentence structure favors one or the other.
+
+
+ELI: Yeah, okay. That makes sense. So the property exists in every language, or the various properties exist in every language, but it may be more or less relevant to how you're putting your sentence together.
+
+
+SARAH: Yeah, I think that's true.
+
+
+ELI: Well, tell us about how it works in English.
+
+
+SARAH: So the word transitive means “the ability to go across,” and so it was named that because you're thinking about the action of the verb and whether it can go across, whether it can affect something besides the doer of the verb, the subject of the verb. And so you can kind of think of a spectrum starting at the linking verb or the copula. So those are verbs like be, is, was, am, are, all of those. And verbs like “seem” or “appear” sometimes, where you're going to have a subject. So I can say, like, “my drink is cold,” and “my drink” is the subject, and then “is” is the verb, and then “cold” isn't a new thing, it's just a description of the subject. Or, you know, “my cat seems sleepy.”
+
+
+ELI: Yeah, there's like an assignment or an equal sign rather than a relationship.
+
+
+SARAH: Yes, there's not an effect happening. It's just a statement of equality. Yeah, so that's like a zero. That's almost not even on the scale. Then you have intransitive, so things that don't affect other things. So there is an action, but it's not affecting anything else. So sleep, right? I sleep, my cat sleeps, I want to sleep even, but you can't sleep a nap. You can't sleep a sandwich.
+
+
+ELI: In the immortal words of one of my syntax professors, you can't live a dangerous banana.
+
+
+SARAH: Oh my god, “Dangerous Banana” would be such a good band name.
+
+
+ELI: Yes, I agree.
+
+
+SARAH: So that's true. You make the point that in English and in a lot of languages, you can sometimes get these intransitive verbs to behave transitively, if and only if you use what's called the cognate noun. So you can sleep the sleep of the dead. You can live a dangerous life. You can…
+
+
+ELI: You can dream a sweet dream.
+
+
+SARAH: You can dream a sweet dream, right. But you cannot live a dangerous banana. You cannot sleep the banana of the dead. You cannot dream a sweet banana. This—we're gonna move right on from that.
+
+
+ELI: I mean, you can't even, like, you can't even dream a scary nightmare. You can only dream a scary dream.
+
+
+SARAH: You can dream a scary dream. You can have a scary nightmare, but you cannot dream a nightmare. The only thing you can dream is a dream.
+
+
+ELI: Yeah, you can't live a long lifetime. You can only live a long life. It's not a meaning-based thing. Cognate really does mean it has to be the same word, just in noun form.
+
+
+SARAH: Yeah, so that's the linking verbs, which are just an equal sign. The intransitive verbs, which cannot affect anything else. They can sometimes add in an almost null, empty noun just to sound nice, as long as it's the same word as it already was. Then we have transitive verbs, which do take an object. They affect something else. And a great example of that would be “to chase.” So I can chase my brother. A dog can chase their tail. I can chase a dream, even. I can chase something. But it doesn't really work to just be like, oh yeah, “yesterday, I was chasing.”
+
+
+ELI: It's important to point out that there are some modifications that you can make that sort of are slang or jargon. But we're sort of sticking to kind of mainline meanings here.
+
+
+SARAH: Yeah, definitely. And this is also a really good place to point out that English especially has a lot of verbs that can be both transitive and intransitive, depending on how you use them. So I can say that a ballerina spins. And probably the image that comes up in your mind is a person going in circles. But I could also say the ballerina spins a top or spins a dreidel or spins a coin. And then presumably that person is stationary and they have a little object in front of them that is spinning. And English is super, super flexible. In fact, it took me a long time to think of the word “chase” as a strictly transitive verb because so many of our verbs in English could be transitive or intransitive. And a lot of the time, those intransitive meanings like the ballerina spinning themselves, it really does have like this implied reflexive nature where in other languages, in French, in Spanish, you probably would say they spin themselves. Eli, do you know how to say spin in Spanish?
+
+
+ELI: Uh, no, I don't.
+
+
+SARAH: I have a guess, but I'm quite afraid that if I give this as an example, it will turn out to mean something else horrendous. So I'm going to not.
+
+
+ELI: But it is true that English is very, very free to kind of do this. It's called the middle… is it a middle voice?
+
+
+SARAH: Middle voice or reflexive verbs. Some languages handle it with…so Spanish and French handle it with an actual pronoun. So in both of those languages, you wouldn't say I… like, in English, you can say, oh, I bathe and I could bathe my infant or I could just bathe. And the implication is I bathe myself. And in French and Spanish, you have to say I bathe myself. You have to put that “me” or that “se” in there to get yourself into the sentence. In other languages, for instance, ancient Greek, they don't use that reflexive pronoun, but they have a different version of the verb that means to do it to yourself. And so in Greek, you can remind someone in the active voice and then you can remind in the middle voice. And that means to remember.
+
+
+ELI: Yeah, Japanese has the same thing. And it's really hell to learn, actually, because you get these pairs of verbs where one of them is transitive and one of them is intransitive. And they usually differ by a single vowel. It's actually it's weird. It's almost like ablaut in Japanese. It is not. It is not actually ablaut in Japanese, but it is this sort of vowel grading thing that you get these, these similarities between transitive and intransitive. And it's not systematic. It's lexical.
+
+
+SARAH: Yeah, there's a couple of pairs of those in Latin that I have to teach students every year. So there's the verb “to hide something.” And then there's the verb “to lie in wait,” or “to lie in hiding.” And then there's the verb “to burn,” as in like a candle is burning, “to be on fire.” And then the verb, like, “to burn something, to set something on fire.” And it turns out that like “9-1-1, help, someone is burning—”
+
+
+ELI: That's a very different call than “my house is burning.”
+
+
+SARAH: Right, like, are we sending an ambulance or a fire truck? And is this a criminal or a medical emergency? Like,
+
+
+ELI: I—can we have a quick sidebar about the like, the vocabulary that comes up in Latin classes versus in sort of all other foreign languages that you might? I feel like it's both more interesting, and also, it's always a little more ominous.
+
+
+SARAH: Yeah, I think the fire bit came up because, oh god, I don't even remember. Somebody was hiding in a warehouse and then they knocked over a candle and then it caught fire.
+
+
+ELI: Yeah, like you do. Well,
+
+
+SARAH: Like you do.
+
+
+ELI: Cool. So we've got like intransitive verbs and transitive verbs. Yep. That's it, right?
+
+
+SARAH: Not quite. So then we have in English and other languages, we have what's called ditransitive verbs. So these are the verbs that can have more than one object.
+
+
+JENNY: "Di" as in "two," not "die" as in first year Latin vocabulary.
+
+
+ELI: Yeah, I was going to say, we're right back at the Latin book.
+
+
+SARAH: Yes, di as in two, not as in first year Latin vocabulary. That's correct. So if you give someone something, if I give a mouse a cookie, right? I'm the subject. The mouse is one object. The cookie is the second object. And different languages handle that in different ways. Latin, for instance, always is going to use just a noun for that second object. You're always going to say “give the mouse a cookie.” English, you can say, “I gave a mouse a cookie,” or you can say, “I gave a cookie to the mouse,” and you can make one of those arguments into a prepositional phrase.
+
+
+ELI: Which then kind of means it's not really an argument anymore.
+
+
+SARAH: Kind of means it's not really an argument anymore. But also semantically, I still can't be like, oh yeah, “I gave a cookie.” So syntactically, it's different. But semantically, it still has to be there.
+
+
+ELI: Yeah. There is a whole thing in here about case marking with ditransitive verbs and also just with different transitivity. But also case marking is not the end-all and be-all. There's an overlapping system here of roles with relation to the verb and case markings.
+
+
+SARAH: Yes.
+
+
+ELI: But they're not one to one.
+
+
+SARAH: Yes.
+
+
+ELI: But that is ergativity, which we are not talking about right now.
+
+
+SARAH: Correct. However, it's also passivity, which I do want to touch on just for a moment. In a moment, though. Because there were two other things I was going to add. And I was going to get distracted.
+
+
+ELI: Excellent foreshadowing.
+
+
+SARAH: Yeah. One of my college professors made an argument for English's singular tritransitive verb.
+
+
+ELI: Okay. I haven't heard of this. And I have heard some weird syntax shit about transitivity and other stuff, which we'll get into when we talk about passive and causative. But what is English's tritransitive verb?
+
+
+SARAH: So his argument was the verb to bet. Because you bet—so, I am one argument. I'm the subject, rather. "I bet Eli"—one argument—"five dollars"—two arguments—"that we could finish this podcast in under four hours."
+
+
+ELI: Yeah, I'll take that bet.
+
+
+SARAH: What about under two hours?
+
+
+ELI: I will not take that bet.
+
+
+SARAH: And so "that we could finish this podcast" is not a noun the way that the other things are. But it is a…
+
+
+ELI: I mean, it's a CP.
+
+
+SARAH: What does C stand for again?
+
+
+ELI: I mean, the whole point of X-bar is that it doesn't actually stand for anything. But I think coordinator.
+
+
+SARAH: Yeah, yeah, yeah. It's a phrase that acts like a noun, essentially. And so he was like, if you look at it that way, it's tritransitive. He's like, "but that's not like a real thing that people agree on." That's just his hot take.
+
+
+ELI: Oh, man. I'm like, okay, I'm having, I'm having a moment, though. I think, I think I, like, I think I need a minute.
+
+
+SARAH: Okay.
+
+
+ELI: Okay, yeah, I guess, I. Oh, man, there's a paper somewhere about this, I'm sure.
+
+
+SARAH: I'm sure there is. I'll see if I can dig it up for the show notes. But the other thing that I came across actually just in preparing this thing of the day was the idea of a complex transitive, which, again, I have never heard of before, like half an hour ago. But this is sort of when you take a transitive verb and a linking verb and smush them up together. So I could say that “my cat seems sleepy” or, you know, “my cat seems to be a bully.” But then I could make myself the subject of the sentence and I could say “I consider my cat to be a bully.” So it's like “I consider my cat,” that's just a straight up transitive verb, but “I consider them something.”
+
+
+ELI: I mean, that seems ditransitive to me, though.
+
+
+SARAH: Yeah. I mean, especially if you're sort of you're going to say one of these arguments is a is a CP. Like,
+
+
+SARAH: Yeah,
+
+
+ELI: I consider something and then you have a phrase that's that's the other argument.
+
+
+SARAH: Yeah, maybe it is just a ditransitive. I was not totally clear on what the difference was. So feel free, listeners, to look up more about that.
+
+
+ELI: Yeah, and I think it should be said that if you there's lots of stuff to think about in linguistics, but if you are getting into syntax and you're getting into sort of utterance level and that kind of thing, like verbs are where a lot of the action is. And there are a lot of different models about how verbs work. You've got all kinds of sort of theories that try to fit different kinds of evidence from different languages in. And so there is a lot here about there isn't one grand unified theory of verbs and how they work. There's sort of a lot of things that cover just like in the rest of linguistics, a lot of things that cover like 90% of what's going on. And there's a lot of times where people have looked at a phenomenon and given it a different name than somebody else who's looked at that phenomenon.
+
+
+SARAH: That's true.
+
+
+ELI: So I think like this, this makes sense. And, you know, get these conversations like Sarah and I are having, where is that complexly transitive? Is this some kind of construction that is different or is this, you know, a sort of something that is more normally attested and it's not special? The causative has some interesting properties and has been used in a lot of well, the causative and the passive have been used in a bunch of different linguistic theories to model a bunch of stuff. I took a seminar when I was an undergrad where my professor was building an argument of sort of verbs having an inner structure in terms of things like the verb “kill” having an inner structure that was “caused to die” and that there are a bunch of verbs that sort of are intrinsically causative, intrinsically causative forms of another verb. And I think in English, that doesn't make a lot of sense because those are clearly sort of two distinct verbs and they have different etymologies and that kind of thing. But in languages where they are much more closely related for the sort of transitive, intransitive forms of the verb are much more closely related. It is a theory that at least has some legs. I have to say personally, I don't buy it, but I see where it's coming from. And I wouldn't be surprised if it, you know—I don't buy it universally, I think is what I'm saying.
+
+
+SARAH: Yeah. So then the last thing that I wanted to say was about the passive voice and the case marking and all of that.
+
+
+ELI: I am ready to be told about the passive by you.
+
+
+SARAH: Well played. So all of the examples I've given so far have been active, either that someone is something or someone does something, possibly to other people or things. And the passive is when someone experiences something, something is done to somebody. So Eli will be told about the passive voice by me. And in English, we do that by taking one of the arguments from a transitive verb and turning it into the subject. And then the subject who had been the doer of the action, the agent, can be added in after the fact with a by phrase if we want to. So I could say “Eli will be told about the passive voice by me,” or I can just say “Eli will be told about the passive voice,” and leave it there. One of the really cool things about English is that we have so many ditransitive verbs that can be made passive with either of the two objects as the subject. So I could say “coffee is given to Eli by Sarah,” or I could say “Eli is given coffee by Sarah,” and those are both.
+
+
+ELI: And that, by the way, is how we know that that's ditransitive.
+
+
+SARAH: Yes.
+
+
+ELI: I mean, it's a test for that because those two arguments should be, or I guess the second and third argument is the subject. It's technically an argument, but the second and third arguments are equal status in this passive construction.
+
+
+SARAH: Yep. Now, in Latin, which is always my point of comparison, because that's my day job, you cannot do that.
+
+
+ELI: Yeah, you and the entire 19th century.
+
+
+SARAH: I know. Even if you would consider some of these verbs to be ditransitive, and I have never actually done a Latin syntax study, so who knows what they would actually say. You cannot take those two verb those two arguments of equal weight and make either one of them into the subject. It has to be the accusative. It has to be the direct object. So if I was taking the sentence “Sarah gave coffee to Eli,” and I wanted to make it passive, “coffee” has to be the subject. If I say “Eli was given,” no matter what the rest of the sentence says, in Latin that would mean that I picked Eli up and gave him to somebody. And one of the kind of iconic Latin verbs that we have a lot of trouble with is “to win,” because in English, I can win a game. And I can say “the game was won.”
+
+
+ELI: Oh, you could win a game and you could win a prize? Is that what you're doing?
+
+
+SARAH: You can win a prize. Yeah, you can win a game and you can win a prize. And you can just win intransitively. And the verb that we often use in Latin for this is “winco.” And intransitively, we translate it as “win” a lot. But transitively, “winco” means “to defeat.” And so when we see it in the passive, students often want to translate it as like “the game was won” or “the Romans were won.” And I'm like, okay, but if you say in English, “the Romans were won,” that doesn't…
+
+
+ELI: Yeah that has unfortunate implications.
+
+
+SARAH: That doesn't mean that they lost. That means that the claw in the grab machine came down and picked them up.
+
+
+ELI: Okay, that's a much less unfortunate implication than I was alluding to.
+
+
+SARAH: Or that they were prisoners of war or, you know, all kinds of things. But it doesn't imply that they were ever one of the combatants. It implies that they were strictly the prize. And if that's the story you're telling, then that's fine. But that's not the story that that Latin verb is telling. And so we use “win” so often. And then when we get to the passive, I'm like, “all right, you need to set that definition aside and pick one in English that has the right type of transitivity.”
+
+
+JENNY: Pick one in English, O-N-E.
+
+
+SARAH: Yes.
+
+
+ELI: So in my head, I always think of this as like the verb having slots.
+
+
+SARAH: Yes.
+
+
+ELI: You know, there's sort of like one slot before for the subject and another slot after for the object if it has it. And then, you know, if it's ditransitive, there's a third slot.
+
+
+SARAH: Yep.
+
+
+ELI: And I always kind of think about the passive as like taking the nouns or the arguments as like marbles and like moving every—everybody over to the left one.
+
+
+SARAH: Yeah.
+
+
+ELI: Which then, you know, if it's a transitive verb going passive, the subject marble like has nowhere to go. And yeah, you can tack it on with an oblique at the end. But like that's—you're doing that of your own free will. You're not obligated to do it. You're only obligated to do that thing.
+
+
+SARAH: Yeah, I really like that image. I like that analogy. So what about going the other way? Is there a way to move all of the marbles one thing to the right?
+
+
+ELI: There is actually. And that's the causative. So if you—well, it depends. In English, I think this doesn't quite work because I think we have to use the verb “make” for causative. “I made Sarah sleep,” or—that's, that's a weird example.
+
+
+SARAH: Oh, wait, no, no, no. I have a great example. So we were talking off mic earlier about how hockey commentators especially believe that every verb is a transitive verb if you try hard and believe in yourself. And my beloved Jack Edwards of NESN and Bruins commentary frequently will say that someone “skitters the puck up the ice.”
+
+
+ELI: Yeah. And actually, this is like, this is ripe for nonce forms. There's a lot of people who will take an intransitive verb and make it causative and do a construction like that. And it's, it's totally reasonable. So that's one way that you can, you can add another argument to a verb. So you can kind of go one way or another. You can even do it more than once. So if you have a ditransitive verb, of which "give" is one of the very few, right? You know, like if you give a mouse a cookie, you know, I gave a mouse a cookie and you could say “a mouse was given a cookie” and then you could say “a cookie was given.” You can shift them in any direction.
+
+
+SARAH: Yes. And that's interesting because with the ditransitive one, you can take—you can either say "a mouse was given a cookie" or "a cookie was given to a mouse." And those are both fine. But once you go down one more level, it has to be the thing that was actually moved. Like if I say "a cookie was given," that means one person picked up a cookie and gave it to somebody else. And if I say "a mouse was given," that does not mean the mouse received something.
+
+
+ELI: If you can add an argument with causative, you can then pacify it again. And in English, I think this usually just sort of nets out. But in Japanese, they have a passive causative where you could say "I was made to be hit." But you still only have the single argument in the verb because it's, it's made transitive by the causative and that—it's made intransitive again by the passive. How about zero argument verbs in English like rain and snow?
+
+
+SARAH: Yeah. So I said something when we were talking about the cognate forms about like these sort of null nouns that are just taking up a—taking up space to sound nice. So if you live a life or sleep a sleep or dream a dream. And in English, we also put in some null pronouns to sound nice for things like rain, snow. I—there are ones that aren't weather verbs, but I can't think of them right now.
+
+
+ELI: But there really aren't a lot. It's—weather verbs are really the the poster children for this.
+
+
+SARAH: Weather verbs are the big ones. Yeah. I suppose some of our other ones in English are in phrasal ones like "it is necessary" or "it's important" where that could be a meaningful pronoun. So I could say, "put your coat on, it's important." And "it" refers to putting on your coat. But I could also just say "it's important to check your fire alarms, it's important to check your smoke detectors," and it's just kind of there because grammatically in English saying "is important to," it's not a thing. It also doesn't work to be like, oh, "yeah, is raining."
+
+
+ELI: Doesn't work.
+
+
+SARAH: Right.
+
+
+ELI: And this isn't a—this isn't a prodrop thing. So there are, you know, English isn't a prodrop language. We have to have an explicit subject 99.9% of the time. But this isn't the same thing as that. These are really verbs that wish that they had no arguments and are restricted from having no arguments because of syntax.
+
+
+SARAH: Right. And in languages that do allow prodrop, those verbs are not going to have that it. They're going to take their option to have no arguments and have no arguments. And even so, like Latin and Spanish both don't require a subject pronoun, but you can put one in if you want to clarify or to emphasize. And as far as I'm aware, no Latin or Spanish speaker would be like, oh, yeah, “it is raining” because that just sort of demands, well, what—“the *what* is raining?”
+
+
+ELI: I mean, this is a thing that people ask a lot. Right. And okay, “it's raining.” What's raining? And people say the sky, the world, the, you know, existence. But it's not any of those things. It's just English syntax requiring that there be a word to fill that there has to be a marble in that slot. And so we've just picked the most neutral one that we have. This is called an expletive, by the way.
+
+
+SARAH: Yes. Not quite the same as the swearing expletives, but yes.
+
+
+ELI: Cool. All right. So we've done zero argument, one argument, two argument, three argument and possibly four argument verbs.
+
+
+SARAH: Yeah.
+
+
+ELI: I think that's everything.
+
+
+SARAH: I think so. Y'all feel free to write in.
+
+
+JENNY: Do one word imperatives factor in here?
+
+
+ELI: Oh, no. Okay.
+
+
+JENNY: Go.
+
+
+ELI: Yeah, Okay. Well, so that blows everything out of the water. I think that. Oh, man.
+
+
+SARAH: No, what do you mean that blows everything out of the water?
+
+
+ELI: I mean, it doesn't. I think that that's a different thing. I think that that's an invisible argument. It's a clear marble. But the marble is definitely there.
+
+
+SARAH: Right. It's interesting because with the weather verbs, with the zero argument verbs, the implication is something/a lack of thing is raining, is necessary, is foggy, whatever.
+
+
+ELI: Yeah, you kind of just want to be like, “there's rain out there.” Here's a noun that exists, but I need a verb in the sentence.
+
+
+SARAH: Right. And it's true that, like, “it is important,” or “there is a requirement,” like those are two ways of phrasing the same thing. And it's sort of like an existential type of thing. And we—and by “we” I mean “English speakers”—over thousands of years have identified “there” and “it” as being the, like, least meaningful marble that we could put to fill that slot. The imperatives are so interesting because the implication is not this nebulous existential thing, but it's very much “you, the person I'm talking to.”
+
+
+ELI: Yeah, there's no doubt whatsoever as to who the imperative applies to. And so might really be the only place in English where you don't actually need a subject because it's so strongly implied by the discourse context.
+
+
+SARAH: Yeah, that's a really, really good question.
+
+
+ELI: Ah, man, Jenny, just coming in and blowing our whole thing up here.
+
+
+SARAH: Perfect. A+. It's what we don't pay you for.
+
+
+JENNY: Thank you.
+
+
+ELI: Transitivity is important. And maybe later we'll talk about ergativity, which is vastly more mind-bending.
+
+
+SARAH: Truly. Because that's the thing, right? You have some languages where transitivity is the main axis along which we measure verbs and ergativity is like a cool, interesting thing. And then you look at a language where ergativity is the main axis and to our brains, it's just like, what?
+
+
+ELI: Yeah, it is a system that you really have to get your mind around, especially if you have really only studied Western languages and actually sort of many of the very popular languages. There's also, there's a thing that we really didn't talk about in here, which is about—that there are two different kinds of intransitive verbs in English that have to do with which argument is missing if you were to turn it into a transitive verb. And we are not going to go into that.
+
+
+SARAH: It might be time to move on to some real language questions submitted by real listeners.
+
+
+ELI: If you want to send us a question, email it in text to questions@linguisticsafterdark.com or send us an audio recording of you speaking your question aloud. Audio is especially handy for phonology and accent questions. We have a few accent questions lined up today. There were some that we didn't choose for this episode because it was hard to know what accent in particular you were talking about. So if you have an accent question, send us an audio recording.
+
+
+SARAH: And I know I said this a few episodes ago, but I will say it again—
+
+
+ELI: Do you mean three years ago?
+
+
+SARAH: I do mean three years ago, but I was listening to them because we were editing them because they're going to go up. Anyway, please also send us your name either in audio or in IPA so that we can credit you appropriately.
+
+
+ELI: All right, let's dig in. Bex asks via Slack, “are accents predictable? That is, there are specific accents people have based on the languages they've learned, and often these have specific enough features to have stereotypes. But would a native speaker of Parisian French have the stereotypical French accent when speaking English, even if they had grown up in a cultural vacuum or learned English from a book? Further, if this is predictable like this, is it sufficient to predict the accent of a native speaker of Quenya or Lojban might have when they were learning English for the first time?”
+
+
+SARAH: That is such a fascinating question. Also, I must admit my ignorance. What is Lojban from?
+
+
+ELI: So Lojban is a conlang. It is one of the earliest modern conlangs that was like, “language is very messy; let's make everything logical.” I think the Loj in Lojban is actually supposed to be logic, and I would expect the Ban has something to do with language or tongue or something like that. It is one of these things where people said, like, “oh, if we only just made language super logical and then everyone could learn the same language,” and then… world peace.
+
+
+SARAH: Esperanto, but not Esperanto.
+
+
+ELI: Yeah, with no—like Esperanto, but with no, like, deep European roots.
+
+
+SARAH: Cool.
+
+
+ELI: This is a great question, and it reminds me of one of the job prospects that they taught us about when we were in undergrad. They were like, you could go do this, which was to go work at the CIA and train spies.
+
+
+SARAH: Oh, yeah.
+
+
+ELI: Because if your cover is that you are a tourist from Germany and you're spying in France, there are mistakes that you'll make in French as a native English speaker. And there are mistakes that a native German speaker would make in French. And you want to learn to not make the English mistakes and to make the German mistakes.
+
+
+SARAH: Yeah.
+
+
+ELI: And being a morpho-syntactician, I'd always thought of it as a syntax thing, but there's definitely a phonology aspect to it.
+
+
+SARAH: Absolutely. So the basic answer to all of this is, well, I don't quite understand what Bex means by a cultural vacuum, because if a native Parisian speaker learned French, even in a vacuum, they would still know French.
+
+
+ELI: Yeah, I think that they're kind of talking about like, [in a stereotypical French accent] 
+“oh, the stereotypical French accent, which is probably done by the United States hegemony of media,” you know?
+
+
+SARAH: Well, okay, sure it is. But also having met some native French people, that's real.
+
+
+ELI: I mean, yes, absolutely. But I think that that's the question, is that happening? Because that is how a French speaker perceives how they are supposed to speak English.
+
+
+SARAH: I don't think that that is happening because someone has learned that this is how French speakers sound in English.
+
+
+ELI: Yeah, I agree.
+
+
+SARAH: I think for the most part, most people are working as hard as possible to have no accent or to have an accent that is one of the native sounding ones.
+
+
+ELI: Yeah, usually to match the accent of whatever their teacher has.
+
+
+SARAH: Right, right.
+
+
+ELI: Which is quite funny because you can tell people who learned English closer to Australia, people who learned English in Europe because their teachers are often Brits, and people who learned English in the Americas.
+
+
+SARAH: Yeah, yeah. So, yes, I think if they had learned English from a book or they had never heard a… or even if they hadn't, even if they had experienced how French quote-unquote sounds in English, or rather how French speakers speak English, I think that accent would happen in the same way anyway. And I do think if there were enough evidence, like if I knew enough about Quenya, that I could predict what types of mistakes a native Quenya speaker would make in English.
+
+
+ELI: Absolutely. I mean, so it comes down to phonemic inventory, right?
+
+
+SARAH: Yep.
+
+
+ELI: So every language has a set of phonemes that it has chosen. These are my phonemes that we are going to use. And those are not… there are overlaps, but there's a Venn diagram from language to language. I think one of the most notorious ones is English has theta (θ) and eth (ð), which are [ð] and [θ], the voiced-unvoiced pair.
+
+
+SARAH: And that sound is why you get [in a stereotypical French accent] zee French accent with zee Zee.
+
+
+ELI: Well, but also you get that in a lot of people who are trying to learn English because theta and eth are actually two of the rarest sounds across the world. There are not a lot of languages that actually use those phonemes, and it just so happens that one of the modern lingua franca—linguas franca, linguae franca, I don't know—uses these two rare sounds. And so every language that doesn't have them has to figure out, am I using a T and a D? Am I using an S and a Z? Am I doing something else? Although I think T, D, and S, Z are two of the most common substitutions. And you can actually hear that in some dialects of *English* that don't have that sound, and instead substitute a T and a D,
+
+
+SARAH: Yes. Actually, the other ones,
+
+
+ELI: “Dat ting dere.”
+
+
+SARAH: “Dat ting dere,” but also F and V. I feel like I was going to make this joke at some point during the 2022 convention, and I don't know that it actually happened. So I'm going to do it now. So a couple years ago, I was listening to an audiobook of Redwall, which is a children's story that takes place in Britain somewhere, and all of the characters are animals. And one of the characters’ name is spelled like it is a portmanteau of the word cheese, like rats and mice like to eat, and a thief, like a robber. But in that character's dialect, they did not pronounce the T-H at the beginning of “thief.” They pronounce it like a T. And so the narrator kept calling him “Cheezteef.” And I misinterpreted Cheezteef as not a T for the T-H, but an F for the T-H at the end. And so I was like, oh, “Cheeseteeth,” sure.
+
+
+ELI: Was the character like a rat or a mouse or something?
+
+
+SARAH: I think so.
+
+
+JENNY: Yeah, a rat.
+
+
+ELI: Well, that makes total sense either way.
+
+
+SARAH: Right. So I was like, oh, yeah, Cheeseteeth. And then I wrote his, I think I wrote his name in writing because I've been listening to this audiobook the whole time, right? So I texted Jenny, who had told me to listen to this, and I referenced Cheeseteeth. And she just lost it because she was like, no, no, no, that's not his name.
+
+
+JENNY: I completely forgot that happened.
+
+
+SARAH: It was so funny. And anyway, so yes, I think you're right that T-D and S-Z are the most common.
+
+
+ELI: No, you're right, F-V also.
+
+
+SARAH: But F-V is totally up there. And it's not just non-native speakers. It is some native dialects that have just made that shift. And so French has, like most French speakers, when they try to replicate the T-H sounds, they come up with S and Z, whereas most German speakers, I think, come up with T and D. And so, yeah, if you're trying to—if your cover is that you're German, but you say, “zese are ze sings zat I want,” like, that's not believable.
+
+
+ELI: Yeah. I think the other thing is, the other part of this is that those substitutions are usually systematic. So, I mean, it's dependent on dialect and it's dependent on, you know, a bunch of other stuff, but they are systematic enough that, yeah, you could do this prediction. I think a way that you can see that here is in Japanese, where if you gave me an English word, I can tell you how a Japanese speaker would try to say that word.
+
+
+SARAH: Sure.
+
+
+ELI: And it's systematic enough that I could be quite confident. And, you know, there's always a little bit of shift. There's always a little bit at the edges. But I think that, you know, maybe we wouldn't be able to do it a hundred percent because say Quenya has both S, Z and T, D. And so maybe we wouldn't be able to, we'd have to make an assumption about which one they would pick. But we would absolutely be able to say, here's where there is no overlap in the phonemic inventory, and so something would have to go in there. We've been talking about consonants, but this happens all the time in vowels, because English is vowels Georg and has 100,000 vowels, all of which are fake anyway. And a lot of other much better behaved languages have like five or eight or three or some sort of, you know,
+
+
+SARAH: Manageable number.
+
+
+ELI: Exactly. And so you have to have all five of those vowels work for all, you know, probably 20 vowels in English. And so they get mapped onto all of these vowels.
+
+
+SARAH: Yeah.Or yeah, they get mapped on in weird ways or they get pronounced as more syllables than the English word actually has so that they can try to account—
+
+
+ELI: get each of the diphthong vowels or something like that.
+
+
+SARAH: Yeah. One of the things that I've said to my students very often is when I coach them on their pronunciation of Latin and inevitably there's a kid every year who says, “who are we even going to talk to?” Like, “my accent doesn't matter.” And that's true. You're absolutely correct. And you're going to talk to me. We are going to be in this room for the next nine months. And we have to agree that when I say a word out loud and say, find on the page where it says ⟨quae⟩ [kwaɪ], that you are actually finding the same word I'm asking you to look for. Or that when you say to me, “Magistra, what does [ˈsɛ.la] mean?” that we know whether the word you're starting with starts with an S or a C because those (​​⟨sella⟩/⟨cella⟩) are different words. And so even if the accent, like, yeah, if I'm coaching you into an accent, and even if that isn't precisely what an ancient Roman would have sounded like, we have to agree on what the American English accent of Latin is so that we can communicate.
+
+
+ELI: So you once invited me to a Certamen ([kerˈta.mɛn])—
+
+
+SARAH: Yes.
+
+
+ELI: —over Discord, which was an interesting experience. But one of the things that I learned happens at a Certamen is that the host or the question reader—Certamen, by the way, is just Quiz Bowl, but for people who are so nerdy, it's going to be in Latin.
+
+
+SARAH: More or less.
+
+
+ELI: The question reader starts every round off by reading a specific sentence so that everyone in the room knows what accent they are trying to listen to.
+
+
+SARAH: Yes.
+
+
+ELI: And I understand that some of it is for consonants, but a lot of it is for vowel pronunciation.
+
+
+SARAH: Absolutely. And in fact, they edited that passage a few years ago. I don't know if this was before or after you came.
+
+
+ELI: I think it had happened right before because it was like big news and everybody was adjusting to the new passage.
+
+
+SARAH: And all they did, they added one word, but the original passage had like every phoneme except it didn't have any words that started with the letter H. And at different periods in Roman history, H would have been pronounced or not pronounced at the start of words, which you can tell because in different authors, those words are spelled with or without an H. And a lot of Latin teachers, frankly, will pronounce the H at the start of every word, except sometimes they will leave it off on words that have that same silent H in English. So like honor, H-O-N-O-R. I had to actively coach myself into pronouncing it [ˈho.noɹ] in Latin because I always just wanted to read it as [o.noɹ]. But that's inconsistent with the way that I pronounce every other word that starts with H. So like I taught myself to do that. And so for ages, at the end of every passage, some kid would raise their hand and be like, do you pronounce initial H's? And then the person would say yes or no. And after a while, they just added the word for this is [hık] HIC, H-I-C. And so in one of the sentences, they just added in the word this, kind of unnecessarily, just so that it would be there.
+
+
+ELI: This is some Council of Nicaea shit happening.
+
+
+SARAH: Yes.
+
+
+ELI: This is actually, it's interesting, this could be diachronic also.
+
+
+SARAH: Yes
+
+
+ELI: So this is reminding me, I mean, you just gave that example of the H being pronounced or not pronounced across centuries of Latin. I'm thinking about reading Canterbury Tales and even back to Beowulf. But you just have to go back to Middle English, which is pretty understandable for a modern reader, especially if you have seen it written down. And then you will try to read it or listen to somebody say it. And you'll say, oh, the vowel inventory is actually a lot smaller. Oh, there are differences in which way they're pronouncing things. Oh, that's not being pronounced as a diphthong, it's being pronounced as two separate vowels.
+
+
+JENNY: Another fun side note. Quenya actually sort of has TH, but it gets replaced early on with S, and this becomes a major political drama, and whether you still use the TH or if you've adapted to using the S is actually, like, a signifier of your political allegiance.
+
+
+ELI: I love that so much.
+
+
+JENNY: It's really delightful. I could get into all of the why this becomes a political drama—it has to do with someone's name—but yeah, so, like, of all the points about accents and English specifically having a weird assortment of things, you picked the one where you could actually go off into a whole thing about how actually whether or not you use TH in Quenya, it wouldn't necessarily be linked to… It wouldn't necessarily be about how you adapt it, so much as how you adapt it *based on your existing political allegiance.*
+
+
+ELI: I mean, that tracks.
+
+
+JENNY: Oh, it absolutely tracks. Of course you were going to have that. And then the other fun thing is the question mentions Quenya, but not Sindarin, which has both TH and the *other* TH, but he spells it DH. Except for in notes where he thinks about spelling it with straight up just as ð instead, because it's Tolkien. And so he literally… there are words where it's like… the official version that you will find in the Silmarillion has this with a DH, but if you go digging around in the History of Middle-Earth, or, like, the Parma Eldalamberon—which we're not even getting into because that's a whole thing—you will find words where at one point he was spelling it with an ð.
+
+
+ELI: I think DH is a pretty common transliteration for ð also. You know, if you're trying to write some Icelandic or something.
+
+
+JENNY: I mean, it makes sense, right? It's kind of the obvious way to do it. If TH is [θ] then by extension from T to D, obviously [ð] is going to be DH. That's extremely straightforward, I feel like.
+
+
+ELI: Well, and adding the H for slight palatalization, or I guess alveolarization. We've talked in the past about people changing their accents for the group that they align with. All right, I don't think that we're going to get a better button on that question than bringing it all the way back to Quenya. Shall we move on to the next question?
+
+
+SARAH: Yeah. So in 2019, somebody asked on an index card at the very first LxAD Live, “have you noticed people using the sound [t͡s] instead of [t] at the beginning of words? And why might that happen?”
+
+
+ELI: I feel like I am going to need an example of this because I am not on the TikToks. Officially old.
+
+
+SARAH: [t͡sık.t͡sɑk]? No.
+
+
+JENNY: See, the funny thing is the first person I know who pointed this out was my dad, like years and years ago. I'm not sure it's an age thing, I think it's a regional thing, because I think he noticed it at some point after we moved to the West Coast.
+
+
+ELI: Oh, well, that then double makes sense why I haven't heard this.
+
+
+SARAH: Do you know, do you remember an example that he gave? Because I was also going to ask for an example.
+
+
+JENNY: To? [t͡suː]
+
+
+SARAH: To?
+
+
+JENNY: To like T-O or T-W-O?
+
+
+SARAH: Oh, yeah. I was going to say—yeah, yeah, yeah, okay, I hear that.
+
+
+ELI: So it's cool that we just talked about alveolarization because that's the process that is happening here. You could also say that this is lenition, which is a more general version of this. Let's talk about fortition and lenition, which is what this question is actually about. Uncontroversial statement. Over time, sounds in a language change.
+
+
+SARAH: Yes.
+
+
+JENNY: Unless you're Fëanor.
+
+
+ELI: And you can create a graph—in the network way, not in the Descartes way—of which sounds tend to go to which sounds, or kind of more which sounds tend to be next to each other. And if you go one way in that graph, it's fortition, which means getting stronger. If you go another way, it's lenition, which means getting lighter. I guess fortition would be getting heavier. And so this kind of alveolarization or palatalization, which is when you sort of add [j] to things. So to becomes to, that kind of thing. Or sometimes [tə] becomes [tjə], or that kind of thing is a lenition. And so this is, I guess it's a sound change that's happening on the West Coast. Like, cool, another sound change moving its way through the Americas.
+
+
+SARAH: One of the places we already see a lot of sound change with word initial T is what Eli just referenced. Not the T-S, like [tsə] sound, but either a kind of T-Y or T-J, like [tjə]. So some people will say that music has a [tuːn], and other people will say that music has a [tjuːn]. Or you can meet on [tuːz.deı] or [tjuːz.deı].
+
+
+SARAH: Yes, [tuːz.deı] or [tjuːz.deı]. And for some people, then it goes even further past [tjuːz.deı] all the way to [t͡ʃuːz.deı].
+
+
+ELI: There's a YouTube channel that I follow called Mary Spender. And she has, she is British and has that particular sound change. And she has, well, she had a recurring thing on her channel, which was her just talking to camera or interviewing another musician, which she called Tuesday Talks. Tuesday Talks. But in her accent, it's [t͡ʃuːz.deı]. And so her title card for it is C-H-E-W-S-D-A-Y Talks.
+
+
+SARAH: There's a different YouTube channel that I don't know if I actually follow or if it just keeps popping up in my feed because The Algorithm.
+
+
+ELI: Get some thunder and lightning behind that.
+
+
+SARAH: But it's this really sweet guy who his day job, I guess, is as a caregiver for his elderly grandmother. And the two of them just kind of liveblog their life on YouTube. And she speaks a combination of Tagalog and Spanish and English. And the days of the week, she usually says in Spanish, but she will say “Tuesday” in English. But she only will say and will only understand it if you pronounce it [t͡ʃuːz.deı]. And so they also have a whole running gag about [t͡ʃuːz.deı], C-H-E-W.
+
+
+ELI: This is a channel on [juː.tjuːb] YouTube?
+
+
+SARAH: [juː.tjuːb] YouTube, yeah. Actually, they might be “Choose”day as in, like, selecting rather than nomming.
+
+
+ELI: Yeah.
+
+
+SARAH: Oh, yeah.
+
+
+ELI: It's also interesting to note that in all of our examples, it's T-U. So this doesn't happen at the bottom of the vowel space. It's happening at the top of the vowel space. But I think that that's because that palatalization uses, is very related to the yuh glide and the [jə] yuh glide is very related to vowels happening at the top of the mouth. There's also T-R, which turns a lot into [t͡ʃə], which I think basically everybody that I know has this, even if they don't think that they do. So there are trees in the yard. There aren't [tɹiːz] in the yard. There are [t͡ʃɹiːz] in the yard.
+
+
+SARAH: I genuinely think I go back and forth between actual [tɹiːz] and [t͡ʃɹiːz].
+
+
+ELI: I think you do. I think you're the only person I know who does.
+
+
+SARAH: Yeah, but you see this so much in little kids first learning to spell, because little kids are so good at sounding out words. And then we grow up and we forget. And we learn what those underlying phonemes are, and we stop thinking about what they actually are realized as. But little kids sound stuff out and they will write you a story about a guy who drives a truck [t͡ʃɹʌk], C-H-R-U-K.
+
+
+ELI: Which is how that word is said.
+
+
+SARAH: Which is how that word is said. It's so good.
+
+
+ELI: Yeah, and then those little kids forget that, and then they grow up, and then they go to undergrad, and they go to phonology class. And then you have to learn it all over again. So you sit there in a minor existential crisis as you unlearn listening to your underlying representation and listening to your surface representation.
+
+
+JENNY: I just found the graphic of the little kids spelling “triangle” as C-H-R-I-E-G-O.
+
+
+ELI: Which is great. Chri-e-go.
+
+
+SARAH: Chri-e-go.
+
+
+ELI: It's perfect.
+
+
+SARAH: It is perfect.
+
+
+ELI: It even has the little kind of like snot-nosed little kid thing happening.
+
+
+SARAH: Yes.
+
+
+ELI: With the taking the L out.
+
+
+SARAH: Yeah, because Ls are hard, man.
+
+
+ELI: Ls are hard, especially syllabic L. Yeah. We have a conference at work coming up where we have a whole bunch of people giving talks. And one of the things that was requested is, please tell us how to pronounce your name so that we say it correctly when we introduce you. And one of my co-workers has a name with a syllabic L in it. And they pinged me on the side and they were like, “it's been a while since I've used IPA. I'm pretty sure that this is right?” And I was like, “yes, that does sound right. Also, this is advanced IPA. It's got a syllabic L. You've got like the correct vowels in there. And the hosts of this conference are not linguists. They're not going to know how to read this.” And he was like, “yeah, I was going back and forth between like, do I write it out in the way that they'll look at it and understand it? or do I write it out correctly?”
+
+
+SARAH: Both. Eli said something a minute ago about the high vowels and getting [tuːz.deı] and [tjuːz.deı]. And I think, Jenny, you said the example that your dad had given was like, [t͡suː] (⟨to⟩/⟨two⟩).
+
+
+JENNY: ⟨Talk⟩ [t͡sɔk] would be another?
+
+
+SARAH: ⟨Talk⟩ [t͡sɔk]. Yeah. So to the part of the question that was, why might that happen? I am going to say it's happening because of those high vowels. Often—well, ⟨talk⟩ [t͡sɔk]…
+
+
+ELI: ⟨Talk⟩ [t͡sɔk] is interesting because ⟨talk⟩ [t͡sɔk] to me sounds like a very specific New York Jewish accent.
+
+
+SARAH: Talk as in like, I'm going to give a [t͡sɔk] talk.
+
+
+ELI: Well, I'm going to [t͡sɔk] to you right now.
+
+
+SARAH: Yeah. Okay. So I think we actually do have two different things going on here. So there's the high vowel thing, which gives us potentially [tsu:], but also Tuesday, Tuesday, truck, triangle. Either the high vowel or the R thing. Because T plays interestingly with those sounds. But Eli, you're right. Like, we're going to have a [t͡sɔk] in a kind of like New York.
+
+
+ELI: It's a very Fran Drescher than Annie kind of a thing. Come here. I want to ⟨talk⟩ [t͡sɔk] to you.
+
+
+SARAH: Yeah. I want to ⟨talk⟩ [t͡sɔk] to you. Who are you ⟨talk⟩ing to? Yeah. That's not a vowel thing. But I don't know why that would be other than a general lenition thing where moving from a stop to an affricate like [tsə] tends to happen over time and certain dialects may have begun that process.
+
+
+ELI: Yeah. You've got an articulation type thing here. So if it's happening with all vowels, then it seems like it may just be language changing and people deciding to say that sound in a little bit of a different way.
+
+
+SARAH: Yeah. And the question asker did point out it's at the beginning of words, and it's not surprising that it would happen in that certain context, as it is the quote unquote, standard American pronunciation of the phoneme [tʌ]. At the beginning of words tends to be aspirated and in the middle of words tends to not be aspirated and at the end of words tends to be sometimes even clipped, let alone unaspirated, just like not even fully pronounced. And so I could see how [tʌʰ] with that aspirated extra air coming behind it could…
+
+
+ELI: Yeah. Starts to make it more of a fricative. An affricate.
+
+
+SARAH: Starts to make it sound a little more fricative, a little more affricate. And for some people hearing the [tʌ], their brain hears that and says, well, what's the closest sound I know how to say when it comes to [t͡sʌ], or that some people [tʌ] and they just hit an S in there and they start to keep it. Another place where I've seen that particular sound change is in Latin and over the development of the pronunciation of Latin and into Italian and then further into English. Words that end in T-I-O-N in classical Latin would be pronounced… so if we took "lenition," for example, in classical Latin, that would be pronounced ⟨lenitio⟩ [ˌlɛnˈɪt.i.o] or ⟨lenitiones⟩ [lɛnˌɪt.iˈo.nɛs] or whatever, it would have a very pronounced T-I-O, TI-O. However, in later Latin and in the way that Latin is pronounced now in Europe, it would be pronounced ⟨lenitio⟩ [ˌlɛnˈɪts.i.o], with a [t͡sʌ] in there.
+
+
+JENNY: That's also in ecclesiastical Latin—which is the kind of Latin that most of the kids I knew learned growing up because we were all a bunch of Catholics, so you still learn ecclesiastical Latin—and it has the [tsi].
+
+
+SARAH: Yes. And my husband, who is not Catholic, studied for a long time with a professor from Germany who pronounced it that way, and my husband picked that up without even noticing and now it drives a lot of his coworkers crazy because he's like, oh yeah, "lenitsio," and they're like, “you're not German, stop it.” He's like, “but I like it, no.”
+
+
+ELI: And then that softens even further with the English loanword,
+
+
+SARAH: Yes.
+
+
+ELI: Lenition.
+
+
+SARAH: Yes. And so all of those T-I-O's started out as “ti-o” and then “tsi-o” and then “sh.”
+
+
+ELI: Yeah, you even lose the vowel in there.
+
+
+SARAH: Yes.
+
+
+ELI: Or it changes.
+
+
+SARAH: The O softens or moves from O to U, but the I changes from being a vowel to just being the glide that's in the fricative.
+
+
+ELI: And again, you've got that high vowel glide situation happening.
+
+
+SARAH: Yep. And I do think that in Latin, it tends to be predominantly in front of the high vowels, but it also is syllable-initial. So you would not have a word in Latin like, like, “et” that means “and,” I don't think at any point in the development of Latin or Italian that became pronounced as “ets,” because there's no vowel after it. There's not even anything after it. But lenitio [ˌlɛn.ɪtˈi.o] excuse me, you get some of the articulation, the aspiration, the high vowel, you start to get that shift. So it's unsurprising that we see a lot in English with high vowels and it's really unsurprising that we see it word-initial.
+
+
+ELI: Yeah. Or maybe syllable-initial, you know, syllable-onset. But I think I think it's even stronger word-initial. I think that's a really great insight to this.
+
+
+SARAH: Yep.
+
+
+ELI: Cool. Let's move on to another question.
+
+
+ELI: Yeah. So Elijah Baragovsky asks via email, “how do songs in tonal languages work? How do the speakers distinguish between the melody and the tone?” I feel like this is a question that every single person who learns about tonal languages, if they're not a native speaker of one, sort of immediately asks because the initial comparison of tonal languages is sort of to a melody or to singing, which I would argue is not a great comparison, actually.
+
+
+SARAH: Yeah, I would agree that it's not a great comparison. I would also say that the answer to this, as far as I'm aware, is “how do songs work: with difficulty?” “How do they distinguish the melody and the tone? They don't.”
+
+
+ELI: So here's the thing. English is a tonal language. But we don't use it for distinguishing meaning between two different words. We don't use it as an aspect of a minimal pair between homophones or near homophones. We use it to indicate emphasis and subtext in our utterances.
+
+
+SARAH: We use it more at a sentence level than a word level.
+
+
+ELI: Yes. Although we also have the verb-noun alternation where you've got stress, but stress in English comes out sometimes in a tonal way where one syllable will be higher if it's got more stress or that kind of thing. So the question then is like, “how can you tell whether something is reCORD or REcord in a song in English?” It's the same answer.
+
+
+SARAH: Yes and no. In English, at least in my experience, there's a great deal of effort put in by most songwriters and most poets to fit the native stress pattern of the words to the rhythm of what they're writing.
+
+
+ELI: Okay, yeah, that's a good point. And there are certain places where they just can't make it work and those stick out. And sometimes it works and sometimes it works, but it sounds funny. And sometimes songs make it to publication with that sort of aggressively shoved in there in the wrong stress pattern thing. And I think, “you should have workshopped this one a little longer.”
+
+
+JENNY: Well, and then you get made fun of for putting the emPHAsis on the wrong syllABle.
+
+
+SARAH: Yes.
+
+
+ELI: Ding.
+
+
+SARAH: Well played. On the flip side, at a sentence level, it is much more true that we tend to have different patterns of pitch and tone following an entire statement or an entire question. And so “I will go to the store today” versus “will I go to the store today” are distinct from each other in the order of the first two words. And so even if you don't have the pitch matching up to the tune of the song, you can fall back on the word order.
+
+
+ELI: Yeah, there is a—you can, in music, have a call and response or a question and answer thing with the melody also, but that doesn't have to line up with the syntax of any lyrics. But I do think that this basically just comes down to context and lack of ambiguity and maybe even a particularly skilled enough songwriter using the ambiguity because you don't have that information.
+
+
+SARAH: Yeah. But I would expect that it is not speakers distinguishing between melody and tone and instead using redundancy that's built into the language to unconsciously reconstruct the information that they're missing.
+
+
+SARAH: Yes, I think it's a lot of using redundancy, but I also anecdotally have observed and also been told that, for instance, Chinese music videos have the lyrics on screen way more than English music videos do.
+
+
+ELI: That's true.
+
+
+SARAH: In part because once you start singing, it can be hard, even if you do pronounce the tones, it can be hard to hear them. Sometimes it's not even possible to pronounce the tones comprehensively and maintain the tune. And so part of it also is hearing the song, but also knowing what it means to say because you've seen it written or heard it spoken without music. And then once you put the tune to it, it doesn't sound ambiguous anymore because you know what it means to say.
+
+
+ELI: That's very interesting. I never considered that that would be a reason that there are a lot of captions on television in East Asia—because that is a thing that happens, there's a lot of captions, there's a lot of text on screen—I always thought that it was a cultural thing. I never thought that it was necessarily functional. But you kind of wonder—I mean, TV has only been around for a century or so. Singing basically has existed for all of human existence. I would love to know a comparison between, for example, classical Chinese songs and modern Chinese songs. And if there's more, if there's some mechanism that was used earlier, or if there's more ambiguity that is resolved by captions on screen.
+
+
+SARAH: Definitely. And, you know, kind of speculatively, one of the things that I could say is before TV, before radio, before records, if you're singing, if you're listening to music, it's with people who you can stop and say, “wait, what does that lyric mean?” Or, “wait, I didn't understand that.” And as they teach you the song, they can say the words in a less ambiguous way. And part of the difficulty with radio and records and TV is that it's not live and interactive in the same way. And so by publishing lyrics in the record liner, or by putting captions on screen, you can kind of solve that a little bit. I don't know if that's true. But I imagine that's one of the ways you might have been able to resolve some of that ambiguity before the technology that we have now.
+
+
+ELI: Yeah. Well, you know, we don't do any research on this podcast. So I would love if there are any Chinese speakers out there. You know, if somebody could write it and teach us about this, it would be very cool. You know, even just to say if we're along the right track or if we are totally speaking out of nowhere here. But I just want to emphasize, we don't do any research. This is speculation based on an informed background.
+
+
+SARAH: Exactly.
+
+
+ELI: Dang. I thought that question was going to be really straightforward. And actually, there was a ton of good depth in there. Thank you, Elijah, for that question.
+
+
+SARAH: All right. Let's have a look at a couple of puzzlers before we wrap up. So last time our puzzler was “think of an informal term for a beverage. Now say it in Pig Latin, and you'll have an informal term for another beverage. What two beverages are these?”
+
+
+ELI: So funny story. The last time that we recorded a puzzler was three years ago. So I went to our outline from three years ago saying, “okay, cool, let's put this puzzler in the outline.” And then I realized I had not written down the answer. So we started late in part because I could not remember the answer to this puzzler, and we had to actually solve it. Sarah came up with a great suggestion.
+
+
+SARAH: This is not the answer because neither of these are beverages, I hope.
+
+
+ELI: One hopes.
+
+
+SARAH: But a pair of words that does fit this pattern are “trash” and “ashtray.”
+
+
+ELI: There is somebody out there with a folk etymology where the ashtray was because smoking was taboo. You know, if you needed to put your cigarette out.
+
+
+SARAH: Oh, my gosh.
+
+
+JENNY: I was just going to say, I feel like those are probably drinks at a really weird bar somewhere.
+
+
+ELI: You know, the world is vast. So the answer is “Joe” and “OJ.” So Joe is an informal name for coffee and OJ is an abbreviation for orange juice. And if you said Joe in Pig Latin, it would be OJ.
+
+
+SARAH: Those are much better beverages than trash and ashtray.
+
+
+ELI: So if that was your answer, you came up with that. Good job. Probably took you not as long of a time to come up with it as it took us. Now that we've solved the last puzzler, I'm going to give you a new one. Okay, so this is going to be a little North America specific. I apologize, but, you know, the information that you need is very easily available on Wikipedia. So you think about the teams in the NFL—that's the National Football League. You're going to take one team and change a single letter in its name. And you're going to take their rival and change a single letter in their name. Those two words are synonyms and they will be synonyms of a third NFL team, which happens to be in the other conference. So which teams and which words are these? Once again, you're going to take two NFL teams that are rivals, change one letter in each of their team names, and you'll get synonyms for the name of a third NFL team. Which teams are they?
+
+
+SARAH: So the synonyms are after the letters are changed in the first two teams.
+
+
+ELI: Yes. Okay. We'll have that answer on the next episode of Linguistics After Dark. All right, that's it for this episode. Thanks for listening.
+
+
+SARAH: Linguistics After Dark is produced by Emfozzing Enterprises. Audio editing is done by Luca. Question wrangling is done by Jenny. Show notes are done by lots of us, sometimes me. And transcriptions are a team effort. Our music is Covert Affair by Kevin MacLeod.
+
+
+ELI: Our show is entirely listener-supported. You can help us by visiting patreon.com slash emfozzing, E-M-F-O-Z-Z-I-N-G, and by telling your friends about us. Ratings on iTunes and other podcast services help as well.
+
+
+SARAH: Yeah, and it turns out that Spotify recently introduced the ability to rate podcasts. So if you're listening on Spotify, throw us a rating. That would be great. Every episode, we also love to thank our patrons and reviewers. Today, we would love to say thank you to these awesome patrons
+
+
+SARAH: Ralph, Kali, Oseas, Bex, and Dre. We also want to thank Lingshits and Charlie Bee for reaching out to us on Instagram, and to duzk mu and Jennisok for leaving us reviews on iTunes. Thanks so much. And if I said your name wrong, let me know.
+
+
+ELI: Find all our episodes and show notes online at linguisticsafterdark.com or on all your favorite podcast directories. And I will say our live shows have video on our YouTube channel, which is also Linguistics After Dark. And send those questions, text or audio, to questions@linguisticsafterdark.com. Or you can X them to us at @LxADPodcast. Not sure how much longer we're going to be on the service formerly known as Twitter. You can follow us on Facebook and Instagram, also @LxADPodcast. By the time this comes out, it's possible we'll have, like, a Bluesky and Mastodon and all that stuff too.
+
+
+SARAH: Ideally, on whatever service you use, if we exist, we will be LxADPodcast. And until the next time, if you weren't consciously aware of your tongue in your mouth, now you are.
+
+
+[Outro music: “Covert Affair” by Kevin MacLeod]
+
+
+[beep]
+
+
+ELI: Thanks, Google.
+
+
+[beep]
+
+
+SARAH: Mispronouncing a name, Civil War.
+
+
+[beep]
+
+
+ELI: We've saved the spirit of the index cards. The numina of the cards lives on.
+
+
+[beep]
+
+
+SARAH: The lemon wine white slushie bullshit was actually quite palatable.
+
+
+ELI: “Quite palatable” is damning with faint praise.
+
+
+[beep]
+
+
+ELI: I'm not sure that the numina of the index card knew that.
+
+
+[beep]
+
+
+SARAH: I don't remember enough about this. All right.
+
+
+[beep]
+
+
+ELI: Appendices or it didn't happen.
+
+
+[beep]
+
+
+ELI: Yeah, man, if only they had gender theory in Valinor.
+
+
+[beep]
+
+
+ELI: None of this is usable.
