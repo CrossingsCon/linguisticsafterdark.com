@@ -1,0 +1,1085 @@
+﻿SARAH: Hi, and welcome to Linguistics After Dark. I'm Sarah.
+
+
+ELI: And I'm Eli. If you've got a question about language and you want experts to answer it without having done any research whatsoever, we’re your podcast. 
+
+
+SARAH: Settle in, grab a snack or a drink, and enjoy. 
+
+
+ELI: Speaking of, what are you drinking today? 
+
+
+SARAH: I have some salted caramel tea, and also, for when I finish this, a—I don't know, a drink that I made up that has this weird lemon wine in it that is impossible to drink on its own, and seltzer water and white peach balsamic vinegar. 
+
+
+ELI: Oh, I like it. Doing a little shrub action. 
+
+
+SARAH: Look, it's November now, but also it was like 80 degrees last weekend. So I'm like, is it fall? Is it summer? I'm doing both. 
+
+
+ELI: Yeah, I dig that. Does it have a name yet? 
+
+
+SARAH: No, I'll work on that. 
+
+
+ELI: Yeah, you got to tell us next episode what you named it. 
+
+
+SARAH: Okay. Yeah, white peach and lemon. I'll think. What about you? What are you drinking? 
+
+
+ELI: Yeah, so like you said, it's November. It's deep into fall, although up here in New England, it hasn't been super cold, but it finally has gotten cold enough that it is cider season, so… 
+
+
+SARAH: Ah, good. 
+
+
+ELI: I have some cider right here and very, very happy for that. 
+
+
+SARAH: Excellent. So, we don't have much in the way of notes from previous episodes, but the 2022 live show did go out a couple of months ago, and we had a poll on Spotify about which of our three swords people like the best. On one version of the poll, everybody voted for Samwise Gamgee; on the other version, the winner was the gladius, but if you… 
+
+
+ELI: Rigged. 
+
+
+SARAH: …put them all together, then Samwise and the gladius tie. And I don't understand why nobody gave your anime sword any love, because it was pretty great. 
+
+
+ELI: Clearly, clearly the vote was rigged. No, I—you know, I—first of all, who's not going to vote for Samwise Gamgee? But I also, you know, Princess Mononoke is a great movie, but I don't, I don't think that the sword from it is particularly iconic. I feel like, you know, Roman gladius has a lot of history. Samwise's sword, people go for that. But that's okay. It's my sword and I love it. 
+
+
+SARAH: Maybe I accidentally rigged it because I forgot the name of the movie it came from and I just called it “anime sword.” [laughs] 
+
+
+ELI: Yeah, that may have something to do with it. 
+
+
+SARAH: [in sing-song tone] Sorry. 
+
+
+ELI: Like I said, rigged. 
+
+
+SARAH: It wasn't on purpose. Anyway, the Princess Mononoke sword is great. You should go watch the video if you haven't seen it yet and admire its beauty. 
+
+
+ELI: Yeah. Should we learn a language thing of the day? 
+
+
+SARAH: Please do. I've been looking forward to this. 
+
+
+ELI: All right. Today's language thing of the day is ergativity. We're also going to talk about the ergative-absolutive case system. So when we start out here, first of all, I want to give a big shout out to “Describing Morphosyntax: A Guide for Field Linguists” by Thomas E. Payne, which is a book that I had on my bookshelf. We are allowed to do research for this part, and I did some research because I wanted to make sure that I had good examples.
+
+
+SARAH: I appreciate that.
+
+
+ELI: Yeah. This book is great, by the way. It's meant to help a field linguist, and like it describes kind of all parts of morphosyntax that you could have in a language. If you just kind of want to, like, look through all of the options, maybe you're conlanging or something like that, this is a really great book to take a look at.
+ELI: I also want to give a negative shout out to Andrew Carnie’s syntax textbook, which is like the standard syntax textbook. I was like, “Okay, I'll look at the syntax textbook and see what he says about ergativity,” and what he says is, he has little carve out that's like, “By the way, the ergativity-absolutive system exists, and we're not going to talk about it in here because it's an intro textbook.” And I was like, “Okay, that's fine, but come on, man, you're laying down on the job here.”
+ELI: Okay, so last episode, Sarah, you told us about transitivity, which is basically like the number of slots that a verb has. We're not going to talk about ditransitive verbs at all during this, so don't worry about that. But as a bit of a refresher, an intransitive verb has a single slot, so that's something like “Frank fled,” and a transitive verb has two slots, so that's something like “The lion ate Frank.” It's a lot of lions eating people in linguistics example sentences, by the way? 
+
+
+SARAH: It really is.
+SARAH: Also, I feel like Frank should have fled faster.
+
+
+ELI: Well, I mean, that's his problem.
+
+
+SARAH: [laughs]
+
+
+ELI: So you'll note that I said there's a single slot and there are two slots. And you might be thinking, “Okay, one of those is for the subject, and the other one is for the object.” You know, we have subject-verb-object in English. Sarah, I'm going to ask you, and answer quick. What's a subject?
+
+
+SARAH: I'm not good at this. I have to teach this. I have such a teacher answer to this. What I tell my students is, it’s the doer of the sentence, because it's not grammatically necessarily the topic of the sentence, which is what people always want it to be.
+
+
+ELI: Yeah, so I think a lot of us learned in school like subject, predicate, that kind of thing. And the subject is the doer of the sentence. By the way, we're going to talk about this doer role a lot, and we're going to call it the agent, so I'm going to start saying “agent.” Since the agent of the sentence, it's the person who is acting has agency, except that that is not always true. So in English, we'd say, “I like cake.” “I” is the subject. I'm doing the liking. I'm the agent. But in Spanish, you'd say “me gusta el pastel,” and “me” is an indirect object there. I am still the one liking the cake, but “I” or “me” is not the subject of that sentence.
+
+
+SARAH: Yeah, although only if you say that “gusta” means “to like” and not “to be pleasing.”
+
+
+ELI: I mean, even then it's “the cake is pleasing to me.”
+
+
+SARAH: Right. So the cake is the subject.
+
+
+ELI: Right. The cake is the subject.
+
+
+SARAH: It's the one doing the pleasing.
+
+
+ELI: We're going to actually get to something like that in a bit, but like, okay, but which Spanish teacher is teaching “gustar” as “to be pleasing”?
+
+
+SARAH: The place where I run into this is when we start teaching passive. And so, you know, for the first two years of Latin, I keep hammering into my students that the subject is the doer. And then I'm like, “Except, haha, just kidding,” because I assumed your counterexample was going to be “I like cake,” I'm doing the liking. But what if I say “I am loved by my parents”?
+
+
+ELI: Yeah, I mean, we can get into passives and causatives, but I don't have to go to that for this. If I can stick in the active voice for this, you know, it seems like less of a gotcha. You had also said before that one of the things that you specifically don't say is that the subject is the topic of the sentence, which I've sometimes heard, you know, the subject is the topic of the sentence. There are any number of ways to look at this. Japanese has a topicalizer particle, which is は [wa]. And in English, you can do this by fronting, say, “Now, cake, I like.” And so “cake” is clearly the topic of that sentence, even if “I” is still the subject of that sentence.
+ELI: So we look at this and you've talked about passives, and I've talked about the agent is not necessarily the subject here. The thing I want to get across is that subject and object in relation to the verb here are syntactic constructs. They're not…
+ELI: They are related to the pragmatic context, and they are related to who's doing what, but they're not the same as, there's just a lot of overlap between those concepts. Keep that in mind as we talk about this, because we're going to talk a lot about sort of grammatical relations here.
+ELI: Okay, so in English, we use word order to tell us what's the agent versus what's the patient, and somebody else might say for what's the subject versus what's the object, but here I want to talk about word order to tell us what's the agent versus what's the patient.
+
+
+SARAH: In this context, what's a patient? Because I assume it's not someone who's ill.
+
+
+ELI: No, that's true. So “patient” is the noun or noun-ish thing that's being acted on by the verb. Right? So we have an agent who has agency, with patient who is the target of the verb.
+ELI: “Patient” has always seemed weird to me too, but it is whatever it is. So if you say “Ashley poked Jacob,” Ashley's the agent, Jacob is the patient. If you say “Jacob poked Ashley,” Jacob is the agent, Ashley is the patient. Easy. We have a couple of words that have case here in English, but like, they're—let's be honest, they're vestigial, like, English’s case system…
+
+
+SARAH: It's pronouns and not even all of the pronouns.
+
+
+ELI: Yeah, exactly. Other languages will use case for this, and we're going to get to that in a second, but everybody listening to this speaks a little bit of English at least, so we're going to do this via English. What if we didn't have word order to help us? So intransitive verbs are no problem. We only have one slot. Doesn't matter where we put the noun. “Frank fled,” “fled Frank,” it would be clear what we were saying. But for transitive verbs, if I say “Jacob Ashley poked,” who's the agent and who's the patient in that sentence?
+
+
+SARAH: [I-don’t-know sound]
+
+
+ELI: Yeah. So you might be thinking, “Oh, I can hear that,” and I could say, “Oh, well, it's Ashley poking Jacob, but Jacob is the topic of the sentence.” But again, we're in a place where English doesn't use word order to help us.
+
+
+JENNY: I mean, frankly, that sounds as much a possibility to me as this being a person whose name is Jacob, last name Ashley.
+
+
+ELI: I guess if you're going to go with an intransitive form of “poked.”
+
+
+JENNY: It's already a weird sentence. Like, it doesn't work either way.
+
+
+ELI: Yeah, except that there's, you know, there's languages out there that are SOV or OSV, right? So we are looking at a language and we're trying to figure out what's going on here. If we think about this, one way that we can do this is, we'll have one noun that is marked the same way as the single noun for an intransitive verb and one noun that's marked as the extra, somehow. So in English, we do this through word order. The one noun that's the same as in in the intransitive is the one that goes first before the verb and the one that's extra goes after the verb. But you could do this with suffixes. You could do it with all kinds of things.
+ELI: So in systems where the agent is the same, that's called a nominative-accusative system. And in systems where the patient is the same, rather the patient is the noun that sounds the same as in the intransitive form, that's an ergative-absolute system. So if you're very familiar with English, and actually if you're very familiar with a lot of Indo-European languages, this is going to hurt your brain a little bit because we're very, very used to the agent sounding the same whether the verb is transitive or intransitive. And ergative-absolute systems are extremely rare in Indo-European languages, but there's a lot of Australian languages, there's a lot of Central Asian languages, Basque or Euskara, ergative-absolute. And in those languages, the patient in a transitive verb sounds the same as using that noun with an intransitive form.
+
+
+SARAH: Which… I'm, like, trying to make a comparison to a verb in English, and it just doesn't work because we just don't.
+
+
+ELI: We don't. Although, if you look at intransitive verbs in English, there is a way in which there's a parallel here. So we have a few verbs that have transitive and intransitive forms. So you could say something like “Alice left” versus “Alice left the room.” And you could say something like “The vase dropped” or “Alice dropped the vase.” So these seem to be two different kinds of verbs. One of them, when it goes from intransitive to transitive, adds a patient, and one of them, when it goes from intransitive to transitive, adds an agent.
+
+
+SARAH: Okay. So this is where, man, years ago at this point, Jenny and I and a couple of our friends were talking about how sports commentators make verbs do things in English that the verbs were not meant to do. And like, I say that as a linguist who's like, “do whatever you want with your verbs.” But like, “he skitters the puck up the ice.” I'm like, that's… that… what are you doing? And I remember talking about this with you and you said, you were like, “Ah, nonce ergativity.” And then I decided…
+
+
+ELI: Yeah, that’s exactly what’s happening.
+
+
+SARAH: And then I decided that, or you decided, one of us was like, “All right, the next band we have is going to…” or maybe a next album, “Nonce Ergativity.”
+
+
+ELI: I like that. But this is true. And that's like, you know, you can see that there's a causative effect happening here, but the reason that there's a causative effect is because “the puck skitters across the ice” and “the player skitters the puck across the ice,” in both cases, the puck is the patient.
+
+
+SARAH: Yeah. And so he, like, the commentator turns it transitive and adds the agent there.
+
+
+ELI: Exactly. Exactly.
+
+
+SARAH: Right. Okay. Cool.
+
+
+ELI: You'll note, by the way, that this agent-patient relationship only happens in a transitive sense. So when you have an intransitive verb, there's only one slot, and so a lot of times it just gets called S and agent and patient often just get called A and P because linguists like to take the words that we started to use for things and then just abbreviate them as soon as we're like, “Uh, it's fuzzy around the edges, so it's not actually an agent. We're just going to call it an A-role.”
+
+
+SARAH: Yeah.
+
+
+ELI: So there's a model for this where you talk about are S and A grouped, are S and P grouped, are S, A, and P all separate? Is there no distinction between S, A, and P morphologically, but somehow it's done in a different way? That kind of thing. You can get into that. There's also, I should note, there's probably like four or five different theories, but this is a descriptive approach rather than trying to figure out what motivates this. So I'm going to stay away from that. We're not going to talk about theta roles. We're not going to talk about any of that stuff. We're just kind of talking about what languages do and what we can see them doing.
+
+
+JENNY: What happens, not why.
+
+
+ELI: Yeah, exactly. Another way to think about this difference is the S + A, when those are together, the language is paying attention to who is the agent, who has the agency. When S and P are together, and that's an ergative-absolutive thing, the unmarked noun is who changes state. It's really hard to create an A in a sentence that actually undergoes a change, changes state, when the P doesn't also do it. There's a couple of ways to do it—you have stuff like “John underwent surgery” and that kind of thing, but even with that, “John underwent surgery,” there's some kind of passive thing happening there. You see what I mean here?
+
+
+SARAH: Yeah.
+
+
+ELI: I'm going to blow your mind for a second.
+
+
+SARAH: Okay.
+
+
+ELI: In English, we have a suffix that has ergativity leanings and this is -ee, so “employee,” for example. So you've got “employer” versus “employee.” “Employer” is the agent, somebody who employs, “employee” is somebody who has been employed. But then you've got a word like “escapee,” where the escapee is the one doing the escaping.
+
+
+SARAH: We talked about this on Slack at one point because I think this summer while I was traveling, I was at an airport and I saw a sign over one of those moving sidewalk things that was like “walkers to the left, standees to the right.” And I was like, “Who says ‘standee’? Like, you’re doing the st—” I was like, “That's an agency thing. You're doing the standing. That should be -er.” And so I posed the question to the community and I was like, “Is this normal? Have I just missed this word?” And I don't know. It was not a hard-and-fast, like, “Yeah, Sarah, you're crazy. That's a real thing.” There was a bunch of people who were like, “Yeah, that sounds fine to me,” and a bunch of people who were like “what.”
+
+
+ELI: Yeah. So now you know the answer. “Stand” is intransitive, and so it takes the -ee, but “walk” is… I mean, “walk” can be transitive or intransitive, but when it is intransitive, it is unaccusative, which is a thing we haven't quite talked about yet, meaning that the argument that stays the same is aligned with the agent.
+
+
+SARAH: Okay, so that makes sense, and it makes sense why “standee” exists at all. But I also feel like “stander” is still fine. Like I do hear the word “bystander” a lot. Like I've never heard “bystandee,” actually. So is it that because English isn't ergative-absolutive inherently that like, we get some sort of wishy-washy thing between is it the grammatical subject versus the agent/patient role? Or… I don't know.
+
+
+ELI: Let's see, for “bystander,” that is somebody who is standing by something else, and you are standing by. Yeah, I think… I mean, it's weird because there is no “bystandee.” I mean, you could imagine it, right?
+
+
+SARAH: Yeah, or even the… I guess my point is that if I hadn't seen that sign, I would have been like, “walkers to the left, standers to the right.” Because to me, -er is the person who does the thing. So like “escapee” is a word, but there's no reason to me that it couldn't be “escaper.” And like now I hear what you're saying about why it is the way it is, but like, is that wishy-washiness because English and English speakers aren't fully attuned to the agent-patient relationship?
+
+
+ELI: I think that might be part of it. I think it is -er has a strong agentive quality to it that might sort of be overriding this kind of more background thing, and so you might get a nonce formation like that. But I can also see a situation, for example, where somebody wrote that sign and said “Walkers to the left, standers to the right,” and somebody came along and said, “Actually, the word is ‘standees,’” “Oh, yeah, you're right,” and put it in there. And so you might have this thing where the nonce formation favors -er as a default “person who does a thing” suffix. And when you have actual formation, it's got this, you know, actual lexicalization, especially maybe for older words, it's got this—or extant words—it's got this ergative-absolutive quality to it.
+
+
+SARAH: Yeah, that makes sense. That's so interesting.
+
+
+ELI: By the way, we touched really quickly on unaccusative and unergative intransitive verbs. The way to think about those is if you're thinking about the sort of like, does the S align with the A or align with the P. An unaccusative intransitive verb is one where the accusative got taken away, so S aligns with A, and the P, which would be accusative, because that's a nominative-accusative system. An unergative verb is one where the A gets taken away, S is aligned with P. And so those two would have absolute case in the ergative-absolutive system. And so it's unergative because you take the ergative term away.
+
+
+SARAH: Yes, that makes sense. And that means that in the ergative-absolutive system, the ergative case denotes the agent, and the absolutive case denotes the patient?
+
+
+ELI: The ergative case denotes the agent and the absolutive case denotes the patient in a transitive verb. In an intransitive verb, you only get the absolutive case for the single argument.
+
+
+SARAH: Right, okay.
+
+
+ELI: I really hope there's somebody out there listening to this who's, like, currently going through their, like, morphology or syntax class, and has suddenly realized what the difference between unaccusative and unergative is.
+
+
+SARAH: If we can help one linguistics student—
+
+
+ELI: Then we've done our job.
+
+
+JENNY: I do actually know the word “standee,” but not as potentially like “stander.” But the way I know it is a cardboard figure of a person that stands either like a little one that stands on your desk, or like a life-size one that stands in your apartment and freaks your roommates out probably.
+
+
+ELI: Yeah, it's a thing that stands.
+
+
+JENNY: It is. So that like, I'm familiar with the word “standee.” I'm just not used to it meaning a real person instead of a cardboard one. So that's where it keeps tripping me up.
+
+
+ELI: Okay, do we want to go a little deeper?
+
+
+SARAH: Yeah.
+
+
+ELI: Cool. Okay, so we've got languages that use nominative-accusative, we've got languages that use ergative-absolutive—which I've always thought it was weird that we don't call it absolutive-ergative, but I guess you still have a lot of SVO languages—so for transitive verbs, be ergative first and then absolutive afterwards. Anyway, there are languages that use both.
+
+
+SARAH: Because why not?
+
+
+ELI: Because why not? Use the full range of linguistic ability. I have a couple of examples here, but there are lots of different ways that languages can use both systems. So some languages use these sort of fluidly. So not necessarily, you know, in one specific case versus in another, but Chickasaw, for example, can mark a noun as an agent or a patient or dative, and it makes you, it changes the relationship. So the word in Chickasaw “chokma”—at least I hope that I'm pronouncing that correctly—means “good.” So you can say “chokmali,” which is agentive, which gives a volitional quality, so something like “I act good” or “I do good.” You could say “sachokma,” which gives a patient quality. So that's non-volitional, “I am good.” Or you could say “anchokma,” which is dative, which gives an experiential quality, which is “I feel good.” So you've got this agent-patient playfulness or fluidity happening here.
+ELI: You've also got a sense where you might be talking about a hierarchy of nouns or noun-ish things, where some of them are more likely to be agents and some of them are more likely to be patients. So for example, first person—if you're using first person, in a sense, you're saying “I,” “me,” whatever—that's more likely to be an agent, kinda sorta, and if you're talking about third person or just, you know, nouns, not pronouns, those might be more patient-y. There's a whole hierarchy. There's a whole bunch of different other things. Some languages have a hierarchy where animate stuff is more likely to be agent-y and non-animate stuff is more likely to be patient-y. So in this case…
+ELI: And we can use Dyirbal as an example here, everyone loves a good linguistic example from Dyirbal. First and second, personal pronouns are sort of higher on this hierarchy if they seem more agent-y. And so in a sentence in Dyirbal, you only mark the first and second pronoun if they are patient; otherwise you leave them unmarked. And “marked” usually just means adding a suffix, but it's adding something that makes it different than sort of normal. And third-person pronouns and regular nouns seem more patient-y, so those only get marked if they are an agent.
+
+
+SARAH: That makes sense. I don't understand how that represents being both ergative-absolutive and nominative-accusative.
+
+
+ELI: So if you think back to how the two arguments of the verb act from intransitive to transitive, in an unaccusative form, the thing that gets marked is the patient, and in an unergative form, the thing that gets marked is the agent.
+
+
+SARAH: Okay. Okay. Gotcha. Also, where is Dyirbal from? I don't recognize that language name.
+
+
+ELI: Dyirbal is a language in Australia.
+
+
+SARAH: Okay, cool. And Chickasaw’s a North American language, right?
+
+
+ELI: Yes. Yeah, Dyirbal has some fame because of the book “Women, Fire, and Dangerous Things,” which is a survey about noun classes and possible semantic bases for noun classes, but also ways in which having a semantic basis for noun classes is not sort of the end-all-be-all of that.
+
+
+SARAH: Right.
+
+
+ELI: So that is a tour through ergativity, through nominative-accusative and ergative-absolutive systems, through some places where that pops up where you might not think about it, and through maybe thinking what a subject of a sentence is a little bit differently.
+
+
+SARAH: Awesome. Thank you.
+
+
+ELI: Hey, you want to answer some questions?
+
+
+SARAH: I do want to answer some questions. Let's answer some real questions from real listeners. If you want to send us a question, you can email it in text to questions@linguisticsafterdark.com, or you can send us an audio recording of you speaking your question aloud, which is especially handy for phonology and accent questions.
+SARAH: Okay, so our first question is two questions. One came from Bex, and one came from Zayit, both from email, that overlap quite a lot. So Bex said, “Some people would say ‘historic moment’ or ‘electric field.’ Others say ‘historical moment’ or ‘electrical field.’ Is there any study of this difference / how would you describe it? I usually call it whether people use nouns adjectively, but that may not be accurate or precise.” And then Zayit says, “‘Magic’ is a noun, and its adjective form is ‘magical,’ and adverb is ‘magically.’ ‘Tragic,’ on the other hand, is an adjective. Its noun form is ‘tragedy,’ and the adverb form is ‘tragically.’ Why aren't ‘tragic’ and ‘magic’ the same part of speech? Should we make them the same part of speech? And if so, do we drop ‘tragedy’ and make ‘tragic’ a noun and reintroduce ‘tragical’? Or do we invent the word ‘magedy’ and get rid of ‘magical’?”
+
+
+ELI: Okay, so there's a lot here, and it's not just about derivation and that kind of thing. I think before we get into it, Zayit's question about, like, do we drop “tragedy,” make “tragic” the noun, do we invent the word “magedy”—like, some of these backformations do happen, and they do exist, but, like, getting them to happen on a large scale is really, really tough, and also, like, language is working fine? Like, why would we fuck with it?
+
+
+SARAH: I think “magedy” has, like, potential as a nonce form or as a comedy form, but also what it really sounds like to me is not a parallel form to “tragedy,” but a portmanteau. So, like, if you told me something was a magedy or whatever, or that it was magedy, I would be like, “That sounds like a magical tragedy.”
+
+
+JENNY: I would have said “a tragedy, but you're mad about it.”
+
+
+SARAH: Oh, that too, yeah. [laughs]
+
+
+ELI: Yeah, you really have to set up that nonce form, which I think is a death knell for introducing it as a continuing form, to be honest.
+
+
+SARAH: This is where, if we were a YouTube video, we'd put in a little clip from Mean Girls of—
+
+
+SARAH: “Stop trying to make fetch happen.” [laughs]
+ELI: “Stop trying to make fetch happen.”
+JENNY: “Stop trying to make magedy happen.” [laughs]
+
+
+ELI: So, I do think that Bex's question here, like, is a, I mean, it's related to Zayit’s question, which is why we put them together, but this idea of “historic” versus “historical,” “electric” versus “electrical,” it's okay to have two words that are the same part of speech and have a suffix on them. Like, sometimes that happens.
+
+
+SARAH: Also, I would say that, like, “electric” and “electrical” I feel like pretty much overlap entirely. I can't… The place where I end up drawing a semantic distinction is between those and “electronic,” but I know people—and I am usually one of them—who actually draw a distinction between “historic” and “historical.”
+
+
+ELI: Oh, that's interesting, because the only distinction that I have between those two forms—I think, unless you're about to say something that I'm going to end up agreeing with, which happens a lot on this podcast—is that “historical” and “electrical” feel a little more old-timey to me than “historic” and “electric.”
+
+
+SARAH: I was not going to say that.
+
+
+ELI: Oh, okay.
+
+
+SARAH: I don't know if I have an opinion on that, actually. To me, “historic” is something that will be notable. Like, a historic moment is we are setting a record, we are breaking ground for the first time, we are accomplishing some thing that is going to be written about later. And “historical” is something that's already in the past.
+
+
+ELI: Yeah, okay. I see that distinction.
+
+
+JENNY: A historic moment is going to be in history books. A historical moment already is in history books.
+
+
+SARAH: Exactly. I don't make any kind of distinction like that between “electric” and “electrical.”
+
+
+ELI: Clearly, an electric field is something that is going to be in a textbook, and an electrical field is something that already is in a textbook.
+
+
+[Sarah and Jenny laugh]
+
+
+SARAH: Yes, we should absolutely draw from this that all words ending in -al are things that are already—
+
+
+SARAH: —in a textbook.
+JENNY: —in textbooks? [laughs]
+
+
+ELI: I do want to jump in here, though, because it's interesting—Bex says, “I usually call it whether people use nouns adjectivally,” but both of these are adjectives.
+
+
+SARAH: Exactly.
+
+
+ELI: You know, sometimes you do get these compounds where you have a noun or a thing that looks like a noun that's being used in this adjectival spot. I don't want to go into “is the noun modifying the other noun.” This is like a whole thing, words can act in different ways, but—
+
+
+SARAH: Well, and actually, “magic” is a really good example of that, because “magical” is absolutely an adjective. “That was a magical moment, but this is my magic wand.” “That was a magic transformation.” Like, “a magical transformation.” Those are both fine to me.
+
+
+ELI: Yeah, and I would call those adjectives.
+
+
+SARAH: Right. And on the flip side, “historic” and “electric” are not ever nouns.
+
+
+ELI: Correct. Yeah.
+
+
+SARAH: And “tragic” is not ever a noun. So, yeah, it's like we have… [sigh]
+SARAH: We don't have a lot of the inherent inflection in English that says, “this word is definitely this part of speech,” and that gives us… Crap, what does Calvin and Hobbes say? “Verbing weirds language” or something like that?
+
+
+ELI: Yeah, we have a lot of zero derivation in English.
+
+
+SARAH: Yeah, and that is really cool and also incredibly baffling to people who don't already speak English.
+
+
+ELI: It's interesting here, though, we are seeing two suffixes that are used to make things into adjectives. The -ic and the -al both make things into adjectives, and I would expect that if we did a deep dive into this, we would see that they apply in slightly different semantic ways, that you might be able to -ic some stuff that you can't -al, or -al doesn't really work unless it's going onto a certain other kind of word.
+
+
+SARAH: I'm trying to think if I know… Well, I guess like “radial,” “axial,” those are -al. Because I was thinking like -ical as a whole suffix, but yeah.
+
+
+ELI: Yeah, I would expect that—and this is off the cuff, because welcome to Linguistics After Dark—I would expect that -al is a more widely applicable suffix, and -ic needs to go onto something… It strikes me that it is something classical, needs to be Greek or Latin type thing, but…
+
+
+SARAH: Sounds very Greek to me, yeah.
+
+
+ELI: But -al can go on to anything sort of in the same way that in- for negative binds very closely, but is not universally applicable, un- doesn't bind as closely and can be used with basically everything.
+
+
+SARAH: What do you mean by “bind closely”?
+
+
+ELI: You can tell if you like put a bunch of affixes on a word that in- binds earlier than un- does.
+
+
+SARAH: Oh, like where in the derivational inflection process, like in- gets added on sooner.
+
+
+ELI: Yeah, when you're putting all the Legos together, yeah.
+
+
+SARAH: Yeah, yeah, yeah. And un- binds almost at the end, and you can…
+
+
+ELI: Basically.
+
+
+SARAH: …stick it on pretty much anything. Yeah.
+
+
+Elli: Yeah, including onto itself, which you can't do with in-
+
+
+SARAH: Un-unreadable, un-undo, yeah. Okay. Relatedly, did you know that in French, the prefix re-, like “do it again,” is so much more wuggable, so much more flexible than in English? You can “rebonjour”: “Hello again, welcome back.”
+
+
+ELI: Yes, I encountered that recently and I was like, “This is cool. Why don't we do this everywhere?”
+
+
+SARAH:  I think I've mentioned my college morphology professor before who was a French Canadian, and he brought this up in our class and he had a comic. It was like a French newspaper strip or whatever, and it showed a kid like throwing a bouncy ball around a room. And in the first panel, the little rubber ball hits the ceiling and it goes “boink,” and in the second panel, it hits it again and it goes “reboink.”
+
+
+[Eli and Jenny laugh]
+
+
+JENNY: That’s amazing.
+
+
+SARAH: Or like whatever the onomatopoeia was, but it was just like “reboink,” and I was like, that's beautiful. I want English to play with that more.
+
+
+ELI: So I want to go back to “magic” and “tragic” here, because I think there's something to be said with the -ic adjectival suffix that we have talked about. And also, we just talked about zero-derivation. Zero-derivation just means making a word into another part of speech without adding any other affix to it, which is a thing that English does a lot of, and which is where we get a lot of our nonce forms and language play and all of that stuff. It's a lot of fun, occasionally frustrating. My sense is that “tragic” is an adjective that comes from “tragedy” and that “magic,” as you pointed out, is also an adjective that probably comes from, I don't know, “magios” or some other Greek whatever thing. Sarah's giving me the weirdest look right now.
+
+
+SARAH: Well, I'm thinking, and the thing is, as far as I'm aware, it comes from the word “mage,” like the person who does it.
+
+
+ELI: Yeah. I mean, that's fine.
+
+
+SARAH: Actually, no, so if “mage” is a noun, “magic” is having to do with that person. So that makes sense. And then we went back and said, “All right, we have the person, but what is the thing they actually do? We need a word for that,” and we just
+
+
+ELI and SARAH: —zero-derived it.
+
+
+SARAH: Yeah.
+
+
+ELI: Yes. And so I think, Zayit, you have presented “magic” as a noun, but it is a zero-derived noun from “magic,” the adjective. And I think, again, you have this like extra adjective form of “magical.” And I have seen “tragical.”
+
+
+SARAH: Yeah, me too.
+
+
+ELI: I think only in Shakespeare, but I have seen “tragical.”
+
+
+SARAH: I was going to say Gilbert and Sullivan.
+
+
+JENNY: I didn't include in the outline, but there was a note in the email about how “tragical” is a very old-timey word that we don't use anymore.
+
+
+ELI: So seeing “tragical” only in Shakespeare goes back to me saying “electrical” and “historical” feel old-timey to me. And as we know, “tragic” is for things that are currently happening that are sad, and “tragical” is for things that are sad and have already been written down.
+
+
+JENNY: …in English textbooks.
+
+
+SARAH: [laughs] I want to kind of just wrap up each of the things that they said, actually. So Bex said, “How would you describe ‘historic/electric’ versus ‘historical/electrical’?” And I think I would just say those are two similar types of words, and people use them differently. I don't think it has a neat-and-tidy clever name. I think it's just using words.
+
+
+ELI: Yeah. I think we both see that there's some kind of valence difference between the two of these, but yeah, I don't think that there's a specific name here.
+
+
+SARAH: No.
+
+
+ELI: Adjectives are the Wild West of word classes.
+
+
+SARAH: They really are.
+
+
+ELI: And fun fact, linguists don't believe in adverbs.
+
+
+SARAH: That's like a whole other tangent that I could go on.
+
+
+ELI: It is. I'm sorry, I interrupted you.
+
+
+SARAH: No, it's okay.
+
+
+ELI: But it's important that the listeners know that adjectives and adverbs are the same thing.
+
+
+SARAH: They are. And then sometimes they're not, but really they are.
+
+
+ELI: See the truth.
+
+
+SARAH: Yeah. We did a syntax tree on Slack a couple weeks ago. I don't remember, I think my brother asked me a question and I was like, “Oh no, I don't know anything about syntax. Hey, Eli,” and then I walked him through the—
+
+
+ELI: Yeah, you nerd-sniped me good.
+
+
+SARAH: I did. It was great. But then I took the tree that you drew and I showed it to my brother and I was like walking him through and teaching him the basics of X-bar theory, and we got to the AP or the AdP or whatever you'd labeled it as, and he was like, “Okay, so A stands for action? Or A stands for…” I was like, “it stands for ‘adjective,’ except it…” this is what you said earlier, as soon as we decide that it's kind of fuzzy, we just abbreviate it down to a letter.
+
+
+ELI: This is exactly what I was saying earlier is, you get NP, and that does not stand for “noun phrase.” It's just an NP, except it secretly does stand for “noun phrase.”
+
+
+SARAH: It used to stand for “noun phrase” and now it stands for “nounish, phraseish.”
+
+
+ELI: NP is a cranmorpheme.
+
+
+SARAH: Stop. Go… you're fired.
+
+
+[Eli and Sarah laugh]
+
+
+ELI: Okay, wait. So we decided for Bex's question, “what do you call this?” Nothing. Zayit said, “why aren't they the same part of speech?” Because humans don't actually abide by rules and patterns. Should we… 
+
+
+ELI: But they are.
+
+
+Sarha: …make them that way? Well, they are, and because we've further zero derived things and we didn't derive a noun “tragic” because nobody did. I don’t have a…
+
+
+ELI: You don't need like a mass noun of tragic things.
+
+
+SARAH: Well, yeah, or maybe somewhere in the world you did or whatever, but like if someone made that up, it didn't stick and… 
+
+
+ELI: And we've already got “tragedy.” There's no lacuna there, yeah.
+
+
+SARAH: As is often the case, like why did humans either invent a word for a thing or not invent a word for a thing? I don't know.
+
+
+ELI: Because.
+
+
+SARAH: Yeah, because is—
+
+
+JENNY: I don't know, man. Ask the humans who did or didn't invent it.
+
+
+SARAH: Yeah, like get me a time machine and we can have this conversation better.
+
+
+ELI: I was actually, I was listening to a podcast earlier today and they were talking about why things happen in evolution, and one of them was saying, “You have to remember the axiom of ¯\_(ツ)_/¯.” [Sarah and Jenny laugh] That is, sometimes things happened like that.
+
+
+SARAH: Okay.
+
+
+ELI: Yeah, let's move on to question two. Elijah Beregovsky asks via email, “how to learn a relatively obscure language without going to the country it's spoken in. How does it compare to learning a dead language?” Well, you're the dead language expert.
+
+
+SARAH: I am. I feel like to an extent it would be pretty similar because if… I mean, depending on how you define “obscure,” you may be working completely from written sources, you may be working completely by yourself, and that probably is very similar.
+
+
+ELI: I mean, you're right to talk about what do they mean by “obscure,” because I think there's a difference between like, are you talking about Occitan? Are you talking about Navajo? Are you talking about Icelandic?
+
+
+SARAH: Yeah, it really depends on what you mean by “obscure” and what your goals are with learning that language. For instance, in the study of classics and dead languages, there is a requirement after a certain, you know, to get a master's degree and certainly to get a PhD in classical languages, you have to reach a certain level of proficiency in English, French, German, Italian, pick three, just because so much scholarship about your target language, your actual target languages, has been written in those other languages that you can't get as far into your studies as you need to if you can't read the resources that are written in these other modern languages. And yet the people who are studying… You know, I don't speak any German, so if I wanted to do that, I would need to go study German, but I probably… I mean, I might, just because I'm me, but I wouldn't have to take an actual German class or study German in the same way that someone who wants to move to Germany would study German.
+
+
+ELI: I mean, moreover, you're probably reading German texts from the 1800s, right?
+
+
+SARAH: Sure. And, you know, some of them might be modern texts and some of them might be older texts as well, but there's definitely that temporal piece, but learning a language for reading proficiency is a really different task from learning a language for conversational proficiency or writing proficiency. In fact, that's something that I'm thinking a lot about at work right now, because we're doing this, like, overhaul/grand review of our department and of the world language program throughout our whole district, and for everyone besides me and my one colleague who teaches Latin, every other language teacher in the district is teaching a modern language where the expectation is that the students are coming away with not necessarily the same proficiency levels in all four skill areas, but a degree of proficiency in reading, writing, speaking, and listening. And in Latin, I teach my students to write, a little bit, insofar as it helps their reading, and I teach them to read out loud and to have a short conversation with me, insofar as it helps solidify their vocabulary for reading, because what we're actually doing with Latin is learning to read it, because not even the people in the Vatican actually speak it. Like, that's not an actual useful skill.
+SARAH: And I guess the question there is like, if you want to learn one of these obscure languages, is that because you actually do want to go to that place, like you want to move to Iceland and you just live in the middle of Nebraska, and so you're like, “My opportunity to practice Icelandic is none,” or do you just think that, you know, the noun class system of Zulu or Dyirbal or whatever is super fricking cool and you just want to learn more about it, or you want to read the Icelandic epics in the original or whatever it is, that's going to change how you approach your study and what you do with it, I guess.
+
+
+ELI: Yeah, that's a really good point. I had never thought about that from the teaching point of view, where—I'm now thinking about that I'm quite bad at reading Japanese because I'm quite bad at memorizing stuff and kanji are hard to memorize, but I always focused on the fact that I'm good at speaking and good at listening and better in a conversation than I am at reading and writing.
+
+
+SARAH: Sure.
+
+
+ELI: And that that's been okay. But you can't do that in a dead language, and depending on what your desire is, it may not be appropriate for an obscure language. My desire was always to visit and converse and to be able to get by. And if you travel, that's sort of the thing that you're going to do. But yeah, it's a question of what your aims are.
+
+
+SARAH: Yeah, absolutely. And one of the other things that’s sort of come up at work is like, what we aim for a Latin student to be able to do at the end of high school is to read actual Latin writings, and, like, we don't have elementary school books. We don't have middle-grade readers from ancient Rome. Like, even if those things did exist, they're not the things that have been passed down for centuries by all the scribes, so if we want to be able to engage with the writing and like the stuff that we want to learn from the ancients, which is the whole reason you would study Latin in the first place, you're jumping straight in at like…
+
+
+ELI: Zero to Cicero in two semesters.
+
+
+SARAH: Well, right. And I'm trying to think of what an English-language comparison would be to like Cicero or Virgil, but it's like, it's like Charles Dickens. Like, you're jumping straight from like textbook Dick & Jane kind of stories, you're like, “okay, and so we're going to start from there in ninth grade, and then we're going to read Charles Dickens in 12th grade,” and you’re like, “that's actually ridiculous,” but it's entirely achievable once you say, “Okay, but we're also not practicing…” 
+SARAH: or more to the point is, it is achievable with all different kinds of techniques and supports and whatever, and the other languages are not reaching that level of reading proficiency in four years, but they are reaching…
+
+
+ELI: Because they’re focusing on… 
+
+
+SARAH: …a much higher level of proficiency in every other skill. So it's entirely reasonable that, like, you're not necessarily reading Don Quixote in the original after four years of Spanish, but you could also, like, talk to someone or get help if your car breaks, which I could do in Latin if I really wanted to, but like…
+
+
+ELI: Well, and also more to the point, like, you're also teaching people to read across a really wide time span.
+
+
+SARAH: Yeah.
+
+
+ELI: Right? And so you definitely are not expecting people to come out of their high school education for modern languages being able to read historical stuff or things that were written 400 years ago or whatever.
+
+
+SARAH: Right. I mean, 400 years ago, never mind 400 or 800 years before that, because we're talking about Latin texts that were written in 500 BC and 500 AD. And you're like, That's… That's quite a long period of time, actually. [laughs] It's like a millennium or something.
+
+
+ELI: Yeah. I mean, we don't ask native English speakers to be able to do that, although the last thousand years for English has been a little bit of a bumpy ride, so that's maybe not an apples-to-apples comparison, but…
+
+
+JENNY: Well, and I think there's also something interesting there with we do cover a comparable span of time in English classes focusing on medieval lit in college, but there you're reading translated versions where it's, you're not reading this text in the Old English, you're reading this Old English text that has been translated into modern English, but the other three, like, texts that you are covering in this class are like also from hundreds and hundreds of years ago and have also been translated. But like, even if you manage to get fluent in… 
+JENNY: Being able to read Chaucer is not going to let you also read Beowulf and vice versa. So I feel like there is something there with like, we do cover comparable spans of time with English, but we don't expect you to read all of those versions of English.
+
+
+SARAH: Yeah. So it just, it depends a lot on what your goals are and what, where you are, I guess. But I think also, to the kind of heart of your question, how do you do this? How do you learn a language without going to the place where it is spoken?
+
+
+ELI: Yeah. From the phrasing of the question, I think we could assume that the desire is to be able to eventually go to that country and converse. I don't know that I have a lot of advice here, besides the fact that there are services out there that will hook you up with a native speaker of a lot of languages and give you a chance to talk with them, and they know that it is an opportunity for you to learn the language.
+
+
+JENNY: And conversely, it's often an opportunity for the native speaker to practice English.
+
+
+ELI: Yes, although I would not recommend trying to do them at the same time.
+
+
+JENNY: [laughs] Not at the same time, no. But like, I know that there are some where you take turns.
+
+
+ELI: Also, if you live in a fairly large city or metro area, you might be surprised at what speaker communities are there, even if they're really small. So you might be surprised to find a Finnish community somewhere, or, you know, a community of people who are speaking Quechua, or whatever you've got. It might be small, but you might be able to find a community center, or something like that. And, you know, you may go and see posters for language classes, or even have other opportunities. A lot of times, those communities are doing programs that try to preserve the language and teach it to more people.
+
+
+SARAH: Yeah. I was going to recommend a website that I used to use, and then I opened it up just to make sure that the website still existed, and it does, it's called Lang-8. But they have stopped taking, they're, like, kind of phasing it out. I don't think they want to delete everybody's posts from the past, but they're not taking new users. They have instead developed an app called HiNative that connects native speakers of different languages to native speakers of other languages, and you get to chat with them and things like that. I have no idea which or how many languages they support, and whether any of those would qualify as obscure under your question, but resources like that absolutely do exist, and they can be really helpful.
+
+
+ELI: You might also go to your library and see what you can get, either in the library or under interlibrary loan. You might be able to…I wouldn't suggest necessarily starting with like a grammar or something like that, but a lot of times linguists who have made grammars are doing that as a baseline to create language learning materials usually for that community, if it's a small community or one that's trying to revitalize its language. Again, it's kind of hard to know without the specific language, because all language communities are going to be a little bit different and have some different circumstances. But if you can find a linguist who's created a grammar, you might be able to step your way towards some language learning resources.
+
+
+SARAH: And the other thing you could do is look on YouTube. I've seen a lot of… Well, “a lot,” I don't know, I haven't counted, but YouTube has recommended to me recently, people going around Ireland and just being like, “Do you speak Irish? Speak Irish for me. Like, try—” Because that's a community that's definitely trying to revitalize its language. I think there was a channel I mentioned last month about Greenlandic, which she's not trying to teach Greenlandic, but she does talk about it, and like, I'm sure—
+
+
+ELI: You could do some ear training on these kinds of things, get used to what the language sounds like.
+
+
+SARAH: Absolutely. It's always hard to tell if you just sort of search the internet and be like, “Learn Greenlandic,” and there will be some really awesome websites and there will be some that are just like a bot that scraped a list of words off another page, that scraped a list of words off another page, etc.
+
+
+ELI: Yeah. And occasionally you get the Scots Wikipedia issue.
+
+
+SARAH: [distressed sound]
+
+
+ELI: We're not going to go into it. Look it up.
+
+
+SARAH: Look it up. It's terrible. But yeah, just ask around. Usually, if it's a small or a difficult-to-find language like that, people are excited to talk about it, if they're able to connect with you.
+
+
+ELI: You know, the internet has made this a lot easier. If there aren't more resources, there's a lot of better accessibility to the resources or at least being able to find out what they are. So yeah, look on the internet. I will once again put in a plug for your library. Your local librarian probably knows how to get this information because the librarians are awesome.
+
+
+SARAH: That is true.
+
+
+ELI: All right, let's move on. How about a third question?
+
+
+SARAH: Sounds good. Tom W asks via email, “if I'm trapped in the distant past with anatomically modern humans armed only with Ryan North's book “How to Invent Nearly Everything,” then I plan to follow his recommendation to invent writing (after spoken language, of course). So what features should I keep in mind when devising an alphabet for my ancient new friends, and what might the result look like?”
+
+
+ELI: Wide open question here.
+
+
+SARAH: I love it.
+
+
+ELI: I have just started reading this book, by the way. For people who have not heard of this book, it is a book that… The conceit is that it is a user manual for a time machine, and basically the manual is like, “So, you're stuck somewhere in the past and your time machine is broken. Good luck, because this is not a user-serviceable time machine, so based on where you are in the past, here's what you can do to make your life better.” It has a wonderful flowchart at the beginning that's basically like, “If you are in this time period, you're fucked. If you are in this time period, you're also fucked. If you're in this time period, you can become the most famous person in the world by doing blah, blah, blah, blah, blah,” that kind of thing.
+
+
+SARAH: That's awesome.
+
+
+ELI: And one of the things that the author says is basically, if you are in a place where spoken language exists, but written language does not, you can speed up the development of technology by inventing written language as early as possible.
+
+
+SARAH: Yeah, okay.
+
+
+ELI: Because it helps to preserve information and can make information travel from place to place much more easily, and… all of the things that the technology of written language does.
+
+
+SARAH: Yeah. Okay, so “What features should I keep in mind when devising an alphabet for my ancient new friends?” I also just love the phrase “ancient new friends.”
+
+
+ELI: That's a band name for sure.
+
+
+SARAH: Yeah. “What might the result look like?” I mean, I assume—
+
+
+ELI: So we've talked a little bit about abjads and alphabets and logographic writing systems and ideographic writing systems and all of that stuff.
+
+
+SARAH: I feel like what it will look like is writing. Like, I don't know what the other options are for that.
+
+
+ELI: So I think my take on this is, it really depends on what the language is like.
+
+
+SARAH: 100%
+
+
+ELI: So if you look at a bunch of the written language systems from, I don't know, the last several hundred years, you know, especially ones that are not descended from Phoenician, you can see some interesting patterns. Things like the… Oh, gosh, what's it called? Canadian Aboriginal syllabics? Is that what it’s called?
+
+
+SARAH: Yeah, something like that.
+
+
+ELI: May have a different name now. It's the writing system that Inuktitut is written in, that kind of thing. That language lends itself very well to a writing system where you have an initial consonant and a variable vowel and you put a sign on the consonant that tells you what vowel it is, because that's how the language is structured or that's how the the phonetic system of the language is structured.
+
+
+SARAH: One of the things I love pointing out to my students, and we just had this conversation in Latin too, is, the Latin alphabet is really great for Latin because it's the Latin alphabet, which was invented for Latin, and all of the letters correspond directly to the sounds of that language because it was made for that language, and English stole somebody else's alphabet, ate other somebody's vocabulary, had its own huge pronunciation shift at least once if not five times, and then slapped it all together and said, “Okay, learn to read,” and we wonder why reading in English is hard. And I'm like, “Actually, Latin's great.” Japanese, okay, we can talk about kanji, but, like, reading kana in Japanese is pretty straightforward because it was invented for that language.
+
+
+ELI: Yep. And the way that it is set up with the columns of five in each, it helps you… Once you learn about that, it helps you with verbs, it helps you with parts of speech, it helps you with deriving words into other words. The system provides a scaffolding for understanding and being able to wuggify things, say, “this was one pattern here, I'm going to try this other thing here, and it'll probably work.”
+
+
+SARAH: The Korean alphabet is one of my favorite stories because they were another, that's another language that learned about writing from China. They tried really hard for many years to adapt the Chinese writing system to their language. And say what you want about the Chinese writing system: it seems to work okay for Chinese, for which it was invented.
+SARAH: Trying to make that work in Korean, which has a completely different grammar and a completely different set of sounds, sucked. And one day, one of the emperors was like, “Actually, you know what would be really cool is if we had a writing system that worked for Korean?” And he made one up and you can learn it in a day.
+
+
+ELI: And there is a reason why King Sejong is hailed as a hero in Korea.
+
+
+SARAH: He should be.
+
+
+ELI: And it is because Hangul is so good for Korean! You know, going back to English, I hate the fact that we lost thorn and yogh, and these other letters that are specifically designed for English. We've talked about the fact that English is weird and that it has [θ], the T-H sound, but it had a letter for it. And when printing came along, they were like, “Ah, screw that, we'll just do like T-H.” And it has, like, kinda screwed our writing system up.
+
+
+SARAH: Yeah.
+
+
+ELI: So I think it depends a lot on what's the syllabic structure of the language that you're trying to devise something for, what's the way that words break up? Because this is another thing, is languages that depend a lot on suffixes and affixes, you're going to want a writing system that makes it really clear when something has a suffix or not, and that when that suffix, you know, shows up in different other words, that kind of thing.
+
+
+SARAH: Yeah. One specific recommendation that I have is probably a bias based on the languages that I know, but also when I was having this conversation with some of my students about how, you know, Hangul and kana are really easy to read because they're designed for those languages. I was like, Hebrew has an alphabet that is specific to that language. And all of my Hebrew-speaking students just stared at me and they were like, “‘Easy to read,’ she said. ‘Bullshit,’ I said.” They didn't swear, but I could see it in their face. So while it is technically possible for an already competent user of a language to read an abjad or an abugida, now I've mixed up which is which, to read the things that don't really have vowels, it totally works, people around the world do it—and I happen to think that unless your language has very few vowel sounds to begin with, actually denoting vowels is a benefit in the long run.
+
+
+ELI: So the Hebrew thing is very interesting because I understand where your students are coming from. But once again, it is, I agree with you, an alphabet that really centralizes the triliteral root system of the language and is very helpful for that. You can pick out those triliteral roots, you can pick out the prefixes, you can pick out the suffixes very, very easily. The vowel thing, yeah, it is nice to have vowels in there, but I wonder if that is because it was harder to write things, and so you basically left out vowels as an abbreviation, with writing being a reminder, almost, of, or a prompt of the thing that you wanted. I do agree, if you're going to do this kind of thing where you have predictable vowels, like, mark them down in a nice way anyway. But I guess it really depends… Again, it really depends on what your syllabic structure is, it really depends on what your word structure is. So we don't have any specific recommendations, although I guess Sarah is very pro-vowel.
+
+
+SARAH: I'm very pro-vowel.
+
+
+ELI: I think that it is not worth it to try to make things too systematic.
+
+
+SARAH: That's true.
+
+
+ELI: There's some writing systems out there where things are very, very systematic, and it does make it easy to learn, but also it can be constraining. So I, like, wouldn't be too worried about that, because sound changes are going to happen, things are going to shift, but I think do something that works well with the grammar, works well with the phonetics. It helps readers be supported when they're reading the language. Also, you should invent it so that it is vertical, going bottom-to-top, right-to-left.
+
+
+SARAH: Definitely don't reinvent boustrophedon [bustɹə’fidən], boustrophedon [bus'tɹɑfədɑn].
+
+
+ELI: Yes.
+
+
+SARAH: Whatever. Don't do that.
+
+
+ELI: Don’t do that.
+
+
+SARAH: That's actually the real suggestion is whatever you do, don't do that.
+
+
+ELI: Pick one direction and go for it.
+
+
+SARAH: Yep.
+
+
+ELI: You know, or pick, like, two mutually exclusive directions to use. Right? So Japanese goes top-to-bottom, right-to-left, like lines go from top to bottom… Sorry, the characters go from top to bottom, the lines go from right to left, OR it goes sort of characters go left-to-right, lines go top-to-bottom, and those are fine because it's really clear what's happening in each of those situations.
+
+
+SARAH: Right, so if your sentence goes vertically, the page can go horizontally in a different direction than if the sentence goes horizontally and the page goes vertically.
+
+
+ELI: Right, exactly. Although you do occasionally get these things where you get signs that read right-to-left because they're basically several columns of one character each.
+
+
+SARAH: That's weird.
+
+
+ELI: It's weird, but it is a thing.
+
+
+SARAH: Like I understand that's just like an unfortunate design flaw where it breaks the system, but yeah, definitely don't, like, intentionally set up a system where on every page you alternate between going vertically and going horizontally or going right-to-left and left-to-right. Like, don't do that.
+
+
+ELI: There is a thing here where lots of people are right-handed, and so, you know, lines going from left to right and then filling up the page from top to bottom or lines going top to bottom and filling up the page left to right is probably better because you're probably going to get ink at some point, but I don't know. It's up to you.
+
+
+SARAH: Yeah, like most people are right-handed, but, like, not everyone, so no matter which system you choose, you're going to be screwing somebody up.
+
+
+ELI: Oh, and invent a sign language to go along with your spoken language also. Make sure that your speech community has, like, spoken language and sign language and written language. It's going to make it much, much cooler, and also it's going to be useful.
+
+
+SARAH: Yeah, and invent a Braille that parallels whatever your writing structure is. So it doesn't have to be that the Braille symbols are visually the same as the handwritten symbols, but that if you choose a syllabary, invent a Braille syllabary, not a Braille alphabet. And if you choose an alphabet, make a Braille alphabet, not a Braille syllabary. I think—
+
+
+ELI: Yeah, and Braille is not too hard to do on papyrus or sheepskin.
+
+
+SARAH: Yeah.
+
+
+ELI: I think that's all the advice we have.
+
+
+SARAH: Yeah.
+
+
+ELI: Do you have any more advice?
+
+
+SARAH: Leave us a message if you get trapped in the past.
+
+
+ELI: Yeah. Good luck. Hope you enjoyed the journey. We'll be looking the encyclopedia to see if we see your name.
+
+
+SARAH: All right.
+
+
+ELI: Does that count as a historical event?
+
+
+SARAH: [laughs]
+
+
+JENNY: I think it's a historical event for us, but a historic event for Tom.
+
+
+SARAH: Or possibly both for us.
+
+
+JENNY: Maybe that too.
+
+
+SARAH: Cool.
+
+
+ELI: Thanks for the question, Tom. That was a cool question.
+
+
+SARAH: That was a really cool question. I like it. Shall we move on to our puzzler, Eli? Will you remind us what our previous one was?
+
+
+ELI: Yeah. So last podcast, our puzzler was the American rapper Watsky put out albums in 2019, 2020, and 2023 that were named Complaint, Placement, and Intention. The album cover art features the album name in caps as large as possible for each of these albums. Why did he choose these album names?
+
+
+SARAH: Okay. So last month… By the time this goes out, I have no idea how much of it made it into the edit, but Jenny and Severo, our guest, both figured this out before we even finished recording. And a month later, I have still not figured it out. But I can tell you, it doesn't have to do with the mathematical values of the letters of the words. I don't think it's a Caesar cipher. It's not the number of strokes that it takes to write the words. They're all nine letters long, but there's lots of words that are nine letters long, so I don't know what that has to do with it. And I did notice that they all have <nt> in them and two of them have <pla> in them, but I don't know if that's relevant. So I don't know, help me.
+
+
+ELI: So the last little bit is relevant. I'll tell you that.
+
+
+SARAH: Oh.
+
+
+ELI: We were talking a little bit before the show and we had asked if you had written the words down.
+
+
+SARAH: Yes, I did write them down.
+
+
+ELI: Did you write them down next to each other?
+
+
+SARAH: I wrote “Complaint” on one line and “Placement” on the next line and “Intention” on the next line, with them, like, lined up vertically.
+
+
+ELI: Okay. The other thing I asked you is if you did it on graph paper or not.
+
+
+SARAH: I did not do it on graph paper, but I did do it as uni-width, mono… monospaced? Yeah, as monospaced as I could.
+
+
+ELI: Okay, you've been doing the crossword a lot lately, right?
+
+
+SARAH: Yeah, and I looked at that and it was like CPI, OLN, MAT, but I'm not…
+
+
+ELI: So they all have nine letters. There are three words.
+
+
+SARAH: Are they anagrams?
+
+
+ELI: Not quite. Jenny, do you have that whiteboard ready?
+
+
+SARAH: Oh my god! Okay, oh for fffffr… pfff… [blows raspberry]
+
+
+ELI: So because this is an audio-only medium, we'll describe to the listeners, if you break each word up into three-letter chunks and you place the words on top of each other, you will be able to read “Complaint” across and down, you'll be able to read “Placement” across and down, and you'll be able to read “Intention” across and down.
+
+
+SARAH: Because the first three letters are C-O-M and then the next three letters are P-L-A, because that's the first three of the next word, and then I-N-T is the end of “Complaint” and the first three letters of “Intention.”
+
+
+ELI: Exactly.
+
+
+SARAH: That's the long game, man. That's amazing.
+
+
+ELI: It's very cool. I should write a program to see how many other sets of words there are that do this.
+
+
+JENNY: There are, after all, a lot of nine-letter words. [laughs]
+
+
+ELI: Yeah, well, and if you extend it past nine-letter words, then you do any kind of sort of chunked word square.
+
+
+SARAH: That's so cool.
+
+
+ELI: It would be very cool. So good job if you got that, and if you puzzled over it, now you have the answer, and I hope that it provided you a lot of joy. Sarah, you have a puzzler for us this week, right?
+
+
+SARAH: I do. I forget where this one came from originally. Several years ago, my mom was subscribed to some sort of puzzle-a-day type thing. It might have been a New York Times offshoot. It might have been something else. I have no idea. But she sent me this one, and I solved it. And in the intervening years, I've forgotten the answer, so we'll figure it out together. “The name of what widely spoken language consists of four consecutive U.S. state postal abbreviations?”
+
+
+ELI: So I've been thinking about this ever since you put it in the rundown, and immediately, I noted that there's no S-H and there's no S-E. So it can't be something that's -ish, and it can't be something that's -ese, which rules out a bunch of the widely spoken languages that immediately come to mind.
+
+
+SARAH: It's true.
+
+
+ELI: This is a cool puzzle. I'm going to be thinking about it. It's going to be bouncing around in the back of my head.
+
+
+JENNY: It is a cool puzzle, and I think I just solved this one, too. 
+
+
+SARAH: [laughs] I'm going to put you in charge of finding puzzlers. All right, well, tune in next time. We'll figure it out.
+
+
+ELI: Yeah, you'll have a whole month, and then we'll be back with the answer.
+
+
+SARAH: Cool.
+
+
+ELI: So that's it for this episode. Thanks, everybody, for listening.
+
+
+SARAH: Linguistics After Dark is produced by Emfozzing Enterprises. Audio editing is done by Luca. Question wrangling is done by Jenny. Show notes are done by me, and sometimes Luca, and sometimes Eli. And transcriptions are also a team effort. Our music is Covert Affair by Kevin MacLeod.
+
+
+ELI: Our show is entirely listener-supported. You can help us by visiting patron.com/emfozzing, E-M-F-O-Z-Z-I-N-G, and by telling your friends about us. Ratings on iTunes and other podcast services helped as well.
+
+
+SARAH: Every episode, we like to thank our patrons and reviewers, and today we want to say thanks to these awesome patrons: Tim, Benjamin, Andy, Jason, Bex, and Dre.
+
+
+ELI: Find all of our episodes and show notes online at linguisticsafterdark.com or on all your favorite podcast directories, and send those questions, text or audio, to questions@linguisticsafterdark.com, or tweet them to us—post them to us? “X” them to us? @LxADpodcast. You can also follow us on Facebook, YouTube, and Instagram, also @LxADpodcast.
+
+
+SARAH: And until next time, if you weren't consciously aware of your tongue in your mouth, now you are. 
+
+
+[end of outro music]
+
+
+[beep]
+
+
+SARAH: Hi, and welcome to Linguistics After Dark. I—Pfft.
+
+
+JENNY: [laughs]
+
+
+ELI: It was a sassy intro, I liked that.
+
+
+SARAH: I forgot my name.
+
+
+[beep]
+
+
+SARAH: It's a sleeping snake.
+
+
+[beep]
+
+
+SARAH: Let's answer some real... Ah, [tongue-twister noise].
+
+
+[beep]
+
+
+ELI: Wouldn't it be cool if we were right, though?
+
+
+SARAH: It would be so cool if we were right.
+
+
+JENNY: It would be cool. I've already looked it up. We aren't.
+
+
+[beep]
+
+
+ELI: All right, Luca, cut all of that, please. [laughs]
