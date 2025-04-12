@@ -1,0 +1,579 @@
+﻿[Intro music]
+
+ELI: Hey, and welcome to Linguistics After Dark. I'm Eli.
+
+SARAH: And I'm Sarah. If you've got a question about language and you want experts to answer it without having done any research whatsoever, we’re your podcast.
+
+ELI: Settle in, grab a snack or a drink, and enjoy. First episode of the New Year, Sarah. Happy New Year.
+
+SARAH: Happy New Year. And happy whatever month it is to the rest of you.
+
+ELI: I mean, our release schedule is getting a little bit better.
+
+SARAH: It is. I just don't remember how many months ahead we are right now.
+
+ELI: Yeah, that's fair. Have you been having a good 2024 so far?
+
+SARAH: Mostly. I got sick. You might hear my voice… I'm almost recovered. But otherwise, yeah, pretty good. How about you?
+
+ELI: Doing okay. So everybody knows we're on two hosts that are on lifelines today. Sarah's recovering from a throat thing, and I got basically two hours of sleep last night, so y'all are in for an extra wacky episode.
+
+SARAH: Let's go.
+
+ELI: So got a drink in your hand?
+
+SARAH: I do. It is a Sioux City Prickly Pear soda.
+
+ELI: Oh, that's cool.
+
+SARAH: Yeah, we went to this, like, weird candy shop thing with my family over the holidays, and they had a wall of make-your-own-six-pack craft sodas, which was very fun. I got like 12 of them.
+
+ELI: Man, I love those things. There's all kinds of, like, little soda makers all over the country that are just doing their thing, and then for some reason, candy stores are the ones that have decided to carry all of these sodas.
+
+SARAH: You're, like, there to get solid sugar and then you can get your liquid sugar at the same time.
+
+ELI: You know, I never thought about it that way, but it makes a lot of sense.
+
+SARAH: What about you? What are you drinking?
+
+ELI: So I have a beer today that is a brown ale with a single origin Tanzanian honey. It's called Wordplay, and it's from the Lamplighter Brewing Company, which is in Cambridge, Massachusetts. And one of the reasons that I have this for today is that it has a crossword puzzle on the front of it.
+
+SARAH: That's so cool.
+
+ELI: Yeah. So I got these for our New Year's party, which you know, because you were at my New Year's party.
+
+SARAH: It was lovely.
+
+ELI: And I know that some people there started to solve it while they were in various states of drunkenness, but I did not get a chance. So it's got a little QR code. I think I'll probably write the answers on the front a little bit later. But for now…
+
+SARAH: Please take a picture and put it on Instagram. That would be very fun. Although I guess that would give away answers to people.
+
+ELI: Follow us on Instagram, everybody.
+
+SARAH: Get spoilers to the beer bottle crossword.
+
+ELI: I hear that they change it every so often, which is kind of cool.
+
+SARAH: That's actually really clever. They publish a completely blank one and then just shuffle up the clues.
+
+ELI: Oh, that would be cool. I don't know if they do that, although… So for those who don't know, I do the New York Times crossword basically every day and have been for a really long time. There is a constructor right now who is trying to do, I think, 13 different crosswords all with the same shape.
+
+SARAH: That's amazing.
+
+ELI: So it's the same grid and it's a totally different fill, totally different clues for each of them. And they are… I'm going to get this wrong, but we're a podcast with no research. It's following the idea of… What is it? There's a poem that's like “13 views of a blackbird” or something like that. And so he’s trying to do 13 puzzles. They don't have anything to do with the stanzas of the poem; he's just inspired to make this idea.
+
+SARAH: That's fantastic.
+
+ELI: So we don't often go back and correct the things that we've said, except in our show notes, but we do have some notes from the last episode, and we want to set the record straight about the shared or not-so-shared etymology of “magic” and “mage.” Sarah, do you want to talk about that a little bit?
+
+SARAH: Yeah. So I think I said we get the word “magic” from “mage,” and then Jenny actually looked it up and said that that wasn't quite true. And then I thought about it and I was like, “Okay, so we did, kind of. It’s just that by ‘we,’ I mean the ancient Greeks, not the English speakers.”
+
+ELI: This is what happens when you study classics. You start identifying with ancient peoples.
+
+SARAH: What I really meant was like we as humans, but, you know, fine.
+
+ELI: Okay, yeah, sure. Shared linguistic heritage.
+
+SARAH: Actually, no, now I'm reading the notes I wrote myself. I said, “Let's be real, I probably meant we as humans, not we as English speakers, and my dead language power got in the way.” [laughs] So Eli's right.
+
+ELI: I like the idea of a dead language power. Just like [makes ghostly “woooOOOooo” sound].
+
+SARAH: [laughs] Yeah. So, yes, we got the word in English “magical” or “magic” from the Greek word μᾰγῐκή [magikḗ] that meant “magical.” And then we got the word “mage” from the Greek word Μάγος [Mágos] that meant “learned person” or “mage.” So they are related, just not quite the way that I maybe framed it the first time.
+
+ELI: Yeah, so you have to go back to Ancient Greek or, like, Old Persian or something to have them meet back up. Yep. For folks who are wondering how we do this kind of research, Etymonline is the site that is my first stop for this kind of thing. It is awesome to just go look up the etymology of words. They also have, I realized this the other day, they have a trending word list, which appears to have no relation to anything in particular. But I appreciate that Etymonline has trending words.
+
+SARAH: Yes. Etymonline is totally my first stop. And then my second stop is usually Wiktionary, actually, for words that Etymonline doesn't have.
+
+ELI: Surprisingly complete.
+
+SARAH: Surprisingly complete, like astoundingly.
+
+ELI: Massive props. With us having issued a very rare correction, Sarah, I know that you are anxious to get us on to the language thing of the day, and I hear that we are going to learn about passive tense.
+
+SARAH: I hate you. [laughs] It's passive voice to you.
+
+ELI: [laughs]
+
+SARAH:: Eli was like, “I'm going to give your intro and you're not going to know what it is.” There we go. So last episode, Eli taught us about nominative/accusative languages versus ergative/absolute languages, and we were talking about roles of nouns in the sentence, so being the agent or the patient or whatever and how that interacts with the verbs and with the word order in the sentence. And I made a comment about how you can achieve this in English in a nominative/accusative language by making the sentence passive. So you can say, “The soda was drunk by me” instead of “I drank the soda” and move the soda up to the subject. And Eli was like, “Yeah, yeah, but we don't… We don't even need the passive.” And then after the fact, I was like, “Wait, no, no, no. That's totally relevant because the word ‘passive’ and the word ‘patient’ are the same. They have the same relationship to each other that ‘active’ and ‘agent’ do.”
+
+ELI: You're blowing my mind, Sarah.
+
+SARAH: I know. I love doing that. So “active” and “agent” both come from a Latin verb that means “to do something” or even “to drive,” so, like, to drive the action of the sentence. And then “passive” and “patient” come from a verb that means “to experience or undergo something,” so they're the things that the action happens to. Similarly, if you are the patient at a doctor's office, you are the one experiencing the problem, and if you are being patient with someone, you are putting up with, enduring, undergoing whatever they're doing. So that's how all of those uses of the word “patient” actually end up actually making sense, kind of. So what I want to talk about today is verb voice. So that's, like, the other side of the nominative/accusative, ergative/absolutive thing is, how do you use the verbs to readjust the roles that different people are playing in a sentence or different nouns are playing in a sentence?
+
+ELI: You should also go back and listen to our Language thing on Transitivity, which—we had a few conversations about different verb voices there and then I think literally said, “We're going to do a different language thing of the day on this.” So this is that Language Thing of the Day.
+
+SARAH: Yeah. Love following up on our promises. So yes, verb voice. I did do a tiny bit of research setting this up because it's something I think about a lot in my day job. But my most fun fact that I learned in my research is that apparently there are people in the world who call verb voice “diathesis,” and I have literally never heard of that.
+
+ELI: I have also literally never heard of that, and I have studied this specifically.
+
+SARAH: Yeah. So I don't know if that's only Greek people who use that word or if there's, like, some weird pocket of English… Okay, not weird, just tiny pocket of English speakers who use that word that we've never heard of.
+
+ELI: These are the kinds of people who knew what “chiasmus” meant before they found out on a Tumblr post or like, who could tell you what synecdoche is—the people who can list every kind of, like, metric foot and tell you what stress pattern they are.
+
+SARAH: Is this a personal attack against me or…
+
+ELI: I mean, it's probably a personal attack against me too, if it is.
+
+SARAH: Okay, cool.
+
+ELI: Despite that neither of us knew what diathesis was…
+
+SARAH: That’s true.
+
+ELI: …or that verb voice was also called it.
+
+SARAH: All right. Anyway, so, what is a verb voice? The two biggest verb voices cross-linguistically are called “active” and “passive,” as we mentioned. And so the active voice is where the grammatical subject of the sentence is the actor or the agent, and the passive voice is where the grammatical subject of the sentence is the patient. So “I drank the soda,” I am the agent, I'm the doer. “The soda was drunk by me,” the soda is the patient, but it's the subject of the sentence.
+
+SARAH: The next one I’m going to list, I don't know cross-linguistically if it's the next most common, but it's definitely the next most written about, is the middle voice, which is present in Ancient Greek and I would argue is present at least semantically in English. And the middle voice is in the middle between active and passive, where the grammatical subject is both the agent and the patient, so very often it is used for reflexive verbs or in place of reflexive verbs. So in French and Spanish, you have verbs like “to take a bath” is like “I wash myself” or “I brush myself the teeth” or “I hurt myself my knee” as opposed to just “I hurt my knee” or “I brush my teeth.”
+
+SARAH: And obviously we can use phrases like that in English as well, because we can say things like “I hurt myself” or “I cleaned myself” or “I saw myself in the mirror.” Like, we can do that. We don't have to do that in the way that those languages require it. And Ancient Greek, for example, has similar phrases, but doesn't actually include the word “self” anywhere in it. They just have a slightly different ending they can put on the verb. That means “I do this action to myself.” And English has a similar thing going with our verbs that can be transitive or intransitive.
+
+SARAH: So for example, I can say… You know, I'm playing peek-a-boo with a little kid, right? And I'm like, “Here's Sarah. Where's Sarah?” and hide behind a blanket, my hands, whatever. I could say “I hide myself behind the blanket,” but I don't have to. I can just say “I hide behind the blanket.” And because you're using “hide” intransitively, the implication is that you are hiding yourself. I could also show them a cookie and then hide the cookie behind the blanket, and now I'm using “hide” transitively. I'm hiding something: I'm hiding the cookie.
+
+ELI: So to me, this is deeply related to what we were talking about in last episode, because you can analyze this as moving to the middle voice, right? Or you can analyze it as changing the verb from a transitive verb to its unergative or unaccusative version, depending on…
+
+SARAH:: Yeah.
+
+ELI: …which direction you go. So I think you've got two different analyses of the same phenomenon here.
+
+SARAH: Exactly. And I would say that in English, the unaccusative version is probably correct because we don't change anything about the morphology of the verb. We don't change anything about how it's spelled or pronounced—we just use it differently—whereas in languages with a true middle voice, they have an actual different way of pronouncing and constructing the verb, if that's what they mean for it to do.
+
+ELI: Yeah. And this is a great example of how different languages will take the same need and fill it with different grammatical phenomena, but also it's a good example of how something can be analyzed in two different ways. And it's not that one of these is correct; it's more that one of them might be more useful in one way and one of them might be more useful in another way, or you've got two different lenses on the same kind of phenomenon here.
+
+SARAH: Yeah, definitely. And yeah, it's true. In languages that have really strong verb typing systems, you might be more likely to call it an unaccusative or unergative, and in languages with really strong voice systems, you might be more likely to call it middle voice. And in English, where, at least on a daily basis, I don't feel like anybody talks about either of those things a ton, you can kind of pick which one makes more sense, or if you're comparing to another language, pick the one that compares better to that language.
+
+ELI: Yeah, I think in English, we talk about the active voice and we talk a lot about the passive voice, probably more so than we ought to. But I think we perceive English as only having those two voices for verbs. Whereas, you know, this is similar to the case discussion where, okay, Finnish has 19 cases or whatever it is. And so the question is, does English have 19 cases? And, you know…
+
+SARAH: All of them just sound the same.
+
+ELI: All of them sound the same, except nominative, and like, if you're a data fan, I guess have fun with that. Or is this a case where English only has two-ish cases and it actually differs, right? Like Japanese, for example, has a positive voice, and it's really clearly entrenched within that passive-active-causative framework. So it's unambiguously verb voice. English also has a way to make things causative, but we do it with an auxiliary verb. Actually, we do it with a couple of different auxiliary verbs. And so does that make it causative voice? Maybe? It depends on how you analyze the VP, probably. Like… But it’s—
+
+SARAH: Yeah, it could just be adding another word that adds a meaning.
+
+ELI: Right, and makes it into a, like, I don't know, maybe even a dependent clause or whatever. Like, there's there's a bunch of ways to analyze that. And so I think it's a question of, like, what is your analysis looking for? What is the lens that helps you here?
+
+SARAH: Yeah, exactly. So I just went to double-check something about the next thing I was going to say, and I saw that on Wikipedia, the middle voice has “See also: Anticausative,” which actually makes so much sense, right? Like, if you do it to yourself, nothing is causing it to happen to you. You are making that choice. So you have anticausative, some languages are going to have causative out there. The other one that gets a pretty high listing is the antipassive voice, which is much more common in the ergative-absolutive languages, but also occurs in some nominative-accusative languages, and it's a voice that deletes or reduces the importance of the objects of transitive verbs and makes the agent be the intransitive subject. I haven't quite figured out how that works, actually.
+
+ELI: So this is kind of the take a verb and make it the unaccusative version of it, and then maybe you take the previous patient of that verb, object of that verb, and turn it into an oblique.
+
+SARAH: Yeah. I can't figure out how to give an example, but I think you're right.
+
+ELI: I actually think that the hide example that you gave earlier, right, was like, “I hide myself.” I don't think that English has a true antipassive in that we can't do the “plus oblique” thing, but I think that that's a… that's a solid example of that.
+
+SARAH: Okay. Yeah, and then there's a whole bunch of other voices that are common to some languages, but not super common cross-linguistically. I don't have a list. You can absolutely find them.
+
+ELI: Yeah, but I think this is one of these things where like, you're always going to see active, you're always going to see passive. Middle is pretty common, causative, antipassive, anticausative. These things are pretty common. And then there are others that, again, languages do things in different ways.
+
+SARAH: Yeah. Oh, yeah, Wikipedia has a list. I'm not going to read it. Nobody cares. That's not true; I'm sure there's at least someone listening right now who cares. But it's a long list. I'm not going to read it. The one other thing I want to say about it is just, so many languages appear to have different kinds of passives. And I have not studied that and I do not fully understand it, but this at least says that you can have a direct passive, an indirect passive, a static or dynamic passive, an impersonal passive, so many things.
+
+ELI: Yeah, I sort of wonder… This is like slicing and dicing, right? I wonder how much this comes up in the actual sort of teaching of these languages, because I think this might be some sort of real deep, like, looking at the exact different phenomena or what exactly moves to where or that kind of thing. I think overall, for our listeners who are not linguists, the important thing here about the voice is, we're switching around or we're moving back and forth, which things go in which slots on the verb. Voice is another way to play with these. Like you have a bunch of nouns, you have a bunch of slots on the verb. And it has this interplay with the things that we've talked about in the last couple episodes.
+
+SARAH: Yes. And to wrap up, I like that idea of, like, switching around what you're putting in the slots. Depending on the type of language that you have and the type of voices that are available, there are stylistic and semantic reasons to choose one voice over the other. Sometimes they're pretty interchangeable. “I drank the soda,” “The soda was drank by me,” “was drunk by me,” whatever—those communicate the same information. Personally, in English, I find that the passive voice sometimes can be clunky. It's not agrammatical, it's not bad, but a lot of English teachers try to steer you away from it because you end up with a ton of extra auxiliary words in there that sound clunky. Other times, it's really useful because the passive voice promotes the patient and doesn't require the agent, which means that if you don't know who drank the soda or you want to deliberately obscure who drank the soda, it sounds much more weird to be like, “Someone drank the soda this morning,” as opposed to, “Oh, the soda was drunk this morning. It's gone.”
+
+ELI: So this is not exactly the same thing, but I have been watching a lot of “Bake Off: The Professionals” lately, and so this comes to mind, which is, you know, you would think a straightforward version of a sentence would be “So and so is the team going home today,” and instead you're going to flip that around. And this is the copula, so it's not passive, but it's the same kind of idea of saying “The team that is going home today is…” and then you can do a big long pause, or you can put that at a page turn or you can do a cliffhanger and then you answer it afterwards. And I think this goes to sort of one of the things that you're talking about, about what's the topic of the sentence that we want to talk about? Not the subject, but the topic. And there are some languages that have other ways to mark topics explicitly, like with a particle or an ending or something like that. And those languages have a really interesting relationship with voice because you don't have voice as the only way to indicate what the most important noun stylistically, narratively in the sentence is.
+
+SARAH: Yeah. And we can do that in English, too. You can be like, “The soda, I drank. The beer, Eli drank,” and topicalize the beverages that way. That tends to work a lot better out loud than in writing.
+
+ELI: Yeah, but if it's not really important who did the actual action and it's just important that the soda got drunk, then you would be like, “Hey, yo, the soda got drunk. We need some more.” 
+
+SARAH: Exactly. Exactly. And finally, the other point that I often make about the stylistic value of passivity, not just if you don't know or don't care or are trying to hide who the agent was, but also that if you are topicwise focused on a particular noun and you're listing a bunch of facts about that noun, and some of the facts are that they did something and some of the facts are that they experienced something, it's actually much more narratively punchy, narratively… It flows better to say something like, “The cat took a lovely nap, and ate their lunch, and got kicked out of the office because they were stepping on the keyboard,” which is exactly what happened to my cats this morning, as opposed to “The cats had a nap and ate lunch, and then Sarah kicked them out of the office,” which gives all the same information, but sort of takes away from the fact that it's focusing on them.
+
+ELI: And now that we have given you a lot of information about verb voice, shall we move on to real language questions submitted by real listeners?
+
+SARAH: That sounds fantastic.
+
+ELI: If you want to send us a question, email it in text to questions@linguisticsafterdark.com or send us an audio recording of you speaking your question aloud. Audio is especially good for phonology and accent questions, but you can send us any question that way. And speaking of, here's our first question.
+
+ELI: Mitch asks via email, “I once initially used ‘tiring’ to describe someone and then realized it didn't quite fit right, so I use ‘tiresome’ instead. Those should basically mean the same thing, and I can't put a difference into words, but they feel very different. How do words develop different connotations like that?” And kkirl said in Slack, “Does the ‘-eous’ suffix mean that something just has a flavor or a hue of something, but isn't actually the thing? ‘Flavor’ or ‘hue’ may not be the right words, but I can't remember what the correct term is, like how ‘rightful’ and ‘righteous’ are not the same. I haven't looked up the definition of ‘beauty’ is, but I think it does mean something different from ‘beautiful.’”
+
+SARAH: Those are good questions.
+
+ELI: They are. So, Sarah, how do words develop different connotations like that?
+
+SARAH: [laughs] Slowly. I actually don't know how. I just know that they do.
+
+ELI: I think it's interesting. There are some suffixes that have really solid meanings when they turn words into adjectives, because we're talking about adjectives here (tiring/tiresome, beauteous/beautiful, rightful/righteous, that kind of thing), and there are some suffixes that have really good, solid meanings when you use them to turn things into adjectives, and there are others that kind of don't. They're just kind of like, “All right, this word is now an adjective, deal with it,” and like, you're just going to have to figure out which adjective it happens to be.
+
+SARAH: Yeah, it's like, if you put -able or -ible on something, it means “able to be that.” I can't imagine being like, “Oh, this is visible. That means I like looking at it,” or, “This is consumable. That means it ate me.” Like, no.
+
+ELI: Yeah. I do think that there's some in here, right? So like, -ful means like “has a lot of that thing in it.” I think this -eous, though similarly has this, like, “has the quality of,” “evinces a lot of the quality of.” So I think that they are… They're similar. That -eous has a little bit of a grander flavor, I think.
+
+SARAH: So yeah, that's exactly what I was going to say. I don't have any insight into the “tiring” versus “tiresome” or any of those, but it's true that the—not… It's not always -eous, but the -ous suffix, and which sometimes also comes into English as -ose, like “verbose” or “bellicose.” “Bellicose,” by the way, is a word that I only know from having been taught this suffix. I'm sure it's used in literature somewhere, but I've never heard anyone use that word in real life. It means, like, “warlike.”
+
+ELI: Warful, perhaps?
+
+SARAH: Warful. Exactly. But yeah, -ous and -ose come from the Latin suffix -osus, which was the equivalent of “-ful.” So it literally is the same thing.
+
+ELI: I mean, etymologically speaking, at least.
+
+SARAH: Yeah. And similarly, we have… Well, I have a similar story about the suffixes “-ness” and “-ity,” which make nouns rather than adjectives, where “-ness” is the native Germanic one, like -ful,” and then “-ity” is a Latinate one that we inherited through French. And yeah, “rightful” and “righteous” etymologically would appear to be the same thing, and “beautiful” and “beauteous” would appear to be the same thing, but they do start to diverge, and there is a pattern that's pretty consistent through English where things that are more Germanic are more kind of down-to-earth, and the things that are more Latinate are more grandiose. And-
+
+ELI: I mean, this is “beef” and “cow.” This is… You know.
+
+SARAH: Yeah. And so my morphology professor in college, who I've probably mentioned before, I love this man, but he he wanted to make a point about how you can have technically synonymous suffixes that, once applied to nouns or words in general, don't end up with those compound words that are still actually synonyms, or at least fully. And he's not a native English speaker, and he's trying to come up with words to compare them with. And he's like, you know, like, “What's the difference between ‘collectivity’ and ‘collectiveness’?” And the entire classroom looked at him and said, “Well, ‘collectiveness’ is a word.” And he was like, “No, ‘collectivity’ is a word.” And we were like, “It's not, though.” We looked it up later, it is a word. It's not a word a single person in the room had ever heard before, which made it a terrible example for his, “What is your instinctive feeling about this?” question.
+
+ELI: Locally, it was not a word.
+
+SARAH: It was not a word.
+
+ELI: Globally, perhaps it was a word.
+
+SARAH: Globally, yeah.
+
+ELI: Well, and we've got “rightful” and “righteous,” which are etymologically identical and clearly not the same. You know, “rightful,” meaning something that, you know, by rights deserves or is in line for something, and “righteous” meaning somebody who feels like they have the right on their side.
+
+SARAH: Yeah.
+
+ELI: So etymology is not pure.
+
+SARAH: Exactly. “Beauteous” and “beautiful,” I think, are much closer. But yeah, they have a different flavor. I think we ended up in class with the example of “clarity” and “clearness,” which he was like, “I don't like that the vowel changed.” And I was like, “Okay, yes, but these are both words we understand, so let's go with that.” And we did. Like, I think we settle on the fact that you can talk about the clarity of… I no longer remember exactly what we decided the difference was there, but I think some people had some pretty strong instincts that you could talk about like clarity of speech or clarity of thought, and that was more common than saying the “clearness” of someone's speech or thought. And you were more likely—
+
+ELI: It’d be a little weird to talk about the clarity of a window.
+
+SARAH: Yeah, it's like, you can do that, but “clearness” makes a lot more sense. The clearness of the water.
+
+ELI: Yeah, I think that that's interesting, though, because I don't know that “clearness” is a word. Like, it feels like a nonce form to me.
+
+SARAH: Sure.
+
+ELI: You know, I think that I might be, like, talking about a window or something like that. And I would say like, “Oh, yeah, well, this one, I like the clearness of this one versus this other one,” and somebody might come along and be like, “You know the word is ‘clarity.’” And like, I'd be like, “Oh, yeah, that's the, that's the noun-making suffix that we put on the word ‘clear,’” but like, it still would seem a little weird. It wouldn't come to mind.
+
+SARAH: Yeah, exactly. And someone else brought up “humanness” versus “humanity.”
+
+ELI: Hey, there you go.
+
+SARAH: I don't… Like, those are really different words. “Publicness” versus “publicity.” Like, whoo, miles apart.
+
+ELI: Absolutely. You know, I did notice that one of these adjectives does stand out to me as different. Do you know which one I'm thinking of?
+
+SARAH: If I had to pick, I would pick “tiring” because it feels like the participle form of the verb rather than a pure adjective. But that seems like a very Latin teacher thing to say.
+
+ELI: No, but that's exactly the one that I was thinking of, and it's exactly the reason that I was thinking about it.
+
+SARAH: Yes!
+
+ELI: I think it's a derivational word. It might be lexicalized at this point, but I'm not entirely sure that it is, and I feel like that may be the reason that Mitch sort of realized it wasn't quite right, because you're saying, “That person is tiring me out,” or “They're causing me to be tired,” and going straight for a verb, like, makes sense, and then you're like, “Okay, cool, I have to, like, adjectiveify that, so I'll just, you know, I'll just participle it up.” English does that all the time. It's fine. But we do have a word, “tiresome,” that means that.
+
+SARAH: Yeah. And I feel like if I was like, “Oh, man, Eli, you're really tiring…” First of all, I don't like how that sounds, but second of all, I could imagine like, “Okay, you're tiring me out in this moment,” like this time, whereas if I was like, “You're just a tiresome person,” like “you constantly exhaust me and make me annoyed.” None of which is true, by the way. I love you.
+
+ELI: Aww. Thanks.
+
+SARAH: [laughs]
+
+JENNY: Yeah, no, but that's what I was thinking is, it's a, like, situational or contextual versus state of being.
+
+ELI: Yeah, I think you've got the one-off versus habitual there.
+
+SARAH: Yeah, I would agree with that.
+
+ELI: So I think, you know, it's interesting. We get a fair few of these questions that are like, “Hey, here's, like, two different words that seem like they should mean the same thing etymologically, and why don't they?” And they're interesting, they're super interesting to talk about—f you find a cool word pair, send it in—but I think this kind of comes back to the idea that, like, etymology is not destiny, and you can't derive a word’s meaning straight from its etymology. You have to observe it in usage. You have to get context about how it's working. And you that also means everyone is going to have a slightly different context for the… when the word makes sense. And that's okay.
+
+SARAH: Yeah. This reminds me, it's not super related, but it is a very short story of something that happened in class just the other day. We were talking about the Latin word for “flower,” like a thing that blooms, and it gives us words like “floral” and “florist.” And one of my students was like, “Is this related to ‘flour,’ like F-L-O-U-R?” And I was like, “I doubt it, but hey, let's go see our friend Etymonline, and let's find out.” And we may have ended up on Wiktionary for this one, I actually don't remember. But looked it up, and it turns out that “flour,” like a grain, was, like, when you ground up grain, you had, like, different sizes of grinds that would come out, and at some point, somebody named this particular size of grain “flower” as in a thing that blooms. And it was the flower of the grain. It was grinds that were that particular size.
+
+
+
+SARAH: And so for quite some time, both the plants and the grains were interchangeably spelled both ways, and then someone somewhere—possibly Webster, possibly somebody else—said, “Okay, you know what? Actually, it would be nice if we just assigned one to one and one to the other, and it was less confusing,” and they did, and we have stuck with that ever since. And the same thing happens with this other type of etymology, where it's, like, it's not always someone consciously and arbitrarily saying, “Okay, this one gets a W, this one gets a U,” but sometimes it's just, like, people develop a tendency to use two basically synonymous words in slightly different ways, and over time, it sticks.
+
+ELI: Yeah, I mean, you can go back pretty recently and find that for “terrible” and “terrific,” which are two words that I think nobody in modern English would think have the same meaning, but they both used to mean “something that has a lot of terror associated with it.”
+
+SARAH: It's true.
+
+ELI: Awesome. Thanks for the questions.
+
+SARAH: Yeah, those were good.
+
+JENNY: Eli, can I ask, was “awesome” on purpose? Because “awesome” and “awful” is also…
+
+SARAH: [laughs]
+
+JENNY: [laughs]
+
+ELI: It might have been.
+
+JENNY: Well played.
+
+SARAH: Sorry that I didn't catch that. Well done.
+
+ELI: I mean, there's “awesome.” There's “awful.” As far as I'm aware, there's no “awecious”.
+
+JENNY: No, but I have… I’ve seen…
+
+SARAH: “Awllible.”
+
+JENNY: I have seen, like, a chart of all of these words where there's like, we have two or sometimes all three of these… You know, it's like three or four endings, and it's, like, pointing out like, “Okay, here's all the missing spaces. We could just coin these. We could make these mean things. We have the power.”
+
+ELI: You should find one of those so we can put it—
+
+JENNY: Yes.
+
+ELI: —in the show notes.
+
+JENNY: Also, I have a link that I'm going to stick in the show notes about the Germanic, French, Latinate, like, increasing grandeur of the terms. I'm going to… There's a couple articles, I'm going to look for that.
+
+SARAH: Thank you.
+
+ELI: I think it's interesting that it's Germanic to French to Latin, because I quite often look at stuff and think, actually, the French one seems the fanciest and, like, Latin’s in the middle and then German is on the bottom. But that's a topic for another show.
+
+SARAH: Yes. All right. So our next question comes from Havu, who gave us a pronunciation guide for their first name, and I think the last name is Miikonen, who asked via email, “I saw a screenshot of a Tumblr post which reads like this. ‘Do you think cavemen ever get humiliated and had the kill myself urge? Like, “Grug so embarrassed, Grug jump into tar pit.” And then Glarg is like, “No, everyone forget soon.” And Grug is like, “Grug going to do it for real.”’” And then Havu says, “It got me wondering. The grammar and the dialogue might be trying to suggest that the caveman's language is primitive, and we could imagine that the scene is set in a time when spoken language was still very much in development compared to what it is today. With that in mind, do you think they would have opted to use consonant clusters like /gl/, /gr/, and /ɚg/ in their names? Are those, especially /gl/, common across languages spoken today? I don't know how to search for that in WALS.” Sorry, “When do you think they first appeared in a spoken language? What do we know about the sounds or phonemes our ancestors could produce? Which likely came first, and which ones are more recent?”
+
+ELI: So this is a very interesting question, and I think it's interesting in a couple of different ways. The first is that Havu is talking a lot about the phonemes, and for me, the interesting thing about cavemen-speak is the grammar. But I also think there's this question about, what do we know about the real early development of language? And the answer is: not much. I don't think that there is any particularly well-accepted theory about how we got from non-language communication to linguistic communication. I think there's also a whole topic in there about what is language defined as and what things, what communication systems are language and which ones are not, although I think there are definitely things on one side of that line and things that are on another side of that line, and, you know, people have debated that quite a bit.
+
+ELI: But I think I think we really don't know anything about that transition because it's obviously way before history, and so I'm not sure that there is a way for us to talk at all in any particularly informed way, not that this podcast is particularly about talking in an informed way, but that there is any way for us to do anything here beyond pure speculation. So, let's speculate.
+
+SARAH: Yeah.
+
+ELI: So one way that I think that we might think about this, and again, we are going way out on a limb. I don't think that there's any well-accepted actual scientific basis for anybody who claims anything, anybody who claims to know anything about this transition, but I think one way that we might think about this is to take the model of the color hierarchy. So, there is a phenomenon—it's not 100% universal, but it is… It is pretty common that if you have a language that has N number of color words, you can see what, what colors fall into each category for those words, right? So you get black and white first. If you have only two color words, you're going to get black and white or light and dark, basically. If you have a language that has three color words, the third color word… I mean, you'll have three color words, light and dark, and one of them will sort of encompass the red spectrum. I think the fourth one is blue, and then I think you get yellow. We could look up what the actual thing is. But there's this idea of when you have more opportunities for a thing, there's an order that you cut up this spectrum in.
+
+SARAH: Yeah.
+
+ELI: And so I wonder if there's a similar thing here about which phonemes do we think… If a language is going to have a severely restricted phoneme inventory versus a larger phoneme inventory, which phonemes are going to be in those languages and which are not? Although, that presupposes that our first languages had a restricted phonemic inventory, which is not a thing that is substantiated at all.
+
+SARAH: Yeah. I mean, I suppose it's going to be restricted in some way, if only because someone, somewhere, sometime started with one word [laughs] and it went up from there. So, you know, where did it start and in what order did it grow? I know that there definitely is a similar thing like that for vowels, so if a language is going to have three vowel sounds, it's going to have something in the range of /i/, something in the range of /u/, and something in the range of /a/, and if it's going to add two more, it's going to add something in the range of /o/ and /e/. And then it kind of gets…
+
+ELI: Funky?
+
+SARAH: Freeform. I don't know what or if there is a similar thing for consonants. I wouldn't be surprised if earlier languages had fewer consonant clusters, also wouldn't be surprised if they did have them. But it seems like the simplest, most straightforward sound that a human can make is just a vowel, and the next most simple thing you could do is a vowel with a consonant. Like, you know, when you think about infants learning to speak, even if the languages around them contain consonant clusters, most of the babbling sounds they make are “baba,” “mama,” “dada,” like single-consonant-single vowel-type sounds. The other thing that this question makes me think of, though, entirely unrelated to what Havu actually asked, is phonosthenic…
+
+JENNY: Phonesthemes?
+
+SARAH: Phonesthemes. Yeah. There you go. Yeah, it makes me think about the phonestheme, the, like, vibes value of certain sound patterns and, like, how much of what's in that Tumblr post is there because it was made by an English speaker. Right? Like, we do have a tendency for our caveman speak to be like, leave out certain verb forms and other things like that. And we have a tendency for /gr/ and /arg/ to be, like, unintelligent sounds.
+
+ELI: Yeah. I mean, I think, you know, you get… comes from grunting, which has that phonestheme /gr/ at the front of it and, you know,  /ʌχ.ɚ.ɚ.ɚ/, but I think you also have this R sound is a very English sound. There's not a lot of other languages that have this /ɹ/ as their R-ish sound. L is pretty common, G is pretty common. I actually think, going back to what you were saying about, like, what's kind of the first thing consonant-wise that you might think about, and I think it’s stops. So you've got your P, T and K and then you've got, you know, your B, D and G, which are the voiced versions.
+
+ELI: I've been thinking the consonant space sort of makes a lot more sense to cut up in terms of features, and I'm sure that the vowel hierarchy also comes down to features, but, like, this sort of, “Okay, cool. We're going to, like, start with stops, and then that's the, you know, manner of articulation thing that we take for a while, and so then we're doing that at different places in the mouth, and we're palatalizing and we're not, and we're…”
+
+ELI: You know, Proto-Indo-European has, like, a whole ton of palatalized stuff all over the place, which seems weird to an English speaker, but happens in languages all over the world and probably is a fairly primitive thing to be doing or fairly… I don't know, “primitive” is not the word that I want to use here, but a fairly… ancient thing to be doing, thank you. I want to be really, really clear and careful here, because there's a whole lot of stuff that's attached to the word “primitive,” and language has been a really big component of saying that a certain people or a certain group of people is primitive, “Look at their primitive language,” right? But yeah, I think we're talking about ancient before-things, not simplicity.
+
+SARAH: Yeah, exactly.
+
+JENNY: So one thing I would think is that I would actually think that /m/ or /m/, but especially, like, the M sound, I would expect that to be one of, like, the first, that seems like the easiest consonant to make to me. Like as a sound on its own, not just paired with a vowel. Like, it is very easy to say /m/, you know? So that is the one thing that I would throw in there is, like, not a counterexample, but that's very much not a stop.
+
+SARAH: Well—
+
+[SARAH and JENNY laugh]
+
+ELI: I mean, it is.
+
+SARAH: It is.
+
+ELI: But—
+
+SARAH: Like, it's a nasal stop, but also because it's nasal, you can treat it kind of vowelly.
+
+ELI: Yeah, this is an interesting thing to do to flip it on its head and say, “Actually, maybe it's not the stops. Maybe we've got liquids, maybe we've got glides, maybe we've got nasals, and those are the bridge from the vowels over to consonants,” or something like that.
+
+JENNY: Like even the thing with, like, baby talk, like, yeah, you tend to get the /baba/ or /dada/, /papa/ sounds first, but like, usually you get, like, the /mama/ before a lot of those. And I've heard an awful lot of babies who can make an /m:/ sound and kind of draw it out before they can actually do the, like, consonant /a/ for most of the early baby consonants.
+
+SARAH: Yeah, you get your vowels because you can just go /a::::/ and whatever.
+
+JENNY: That is a very baby sound to make.
+
+SARAH: It sure is. And then you can close your mouth and do the same thing and be, like, /m/, and then, yeah, and move to /ma/ and /ba/ and all of the rest of them.
+
+ELI: I love this idea of analyzing the acquisition of phonemes for babies as thinking about that in terms of the acquisition of phonemes for language in general. It seems to me to have parallels to the disproven and unscien—now unscientific idea that, like, the embryo goes through all the stages of the, you know, ladder of life on its way to human.
+
+[SARAH and JENNY laugh]
+
+ELI: Like first it's kind of a fish, and then it's kind of a lizard, and, you know, eventually it kind of looks like a monkey and then eventually it's a human and it gets born. Like, it seems like it's that same kind of concept, which—
+
+JENNY: —makes me kind of want to count it out.
+
+ELI: …people used to think is true. It's absolutely not true. But, you know, like, I don't know. Sounds good.
+
+SARAH: It does sound good. Also, in my defense, I am talking about human babies and human adults. [laughs] Like…
+
+ELI: That's true, and they do bridge the gap from having a non-linguistic communication system.
+
+SARAH: Yeah, and we have scientifically proven that human babies evolve into human adults. [laughs]
+
+JENNY: [laughs]
+
+ELI: That's true. We do have scientific proof of that.
+
+JENNY: That one’s pretty solid.
+
+ELI: I do wonder if there is an effect that the surrounding language has on phonemic acquisition for babies, because I know that accent gets picked up, phonemes get picked up, even while the baby is still in the womb. I am going to have a kid soon, and I have been making sure to speak multiple languages to it where it can hear.
+
+[Sarah and Jenny laugh]
+
+ELI: So that it's not going to be, you know… It's going to have a wider phonemic inventory when it is born. So I wonder worldwide what the first acquisitions are, whether that is pretty commonly M and B or whether it's something else.
+
+SARAH: I'm, like, 98% certain that M and B make up about 98% of the first consonants.
+
+ELI: So I should stop telling my baby to stop kicking my wife in Japanese is what you're saying.
+
+SARAH: Well, how do you say that in Japanese?
+
+ELI: Usually I'm just like 静かに [shizukani], you know, like, “Don't do that. Be quiet, like, chill out,” you know.
+
+SARAH: Well, no, then that's fine. I think they're going to get M and B whether you try or not. Like, give them the rest of the sounds.
+
+ELI: I guess that's true, yeah.
+
+JENNY: That's why I was bringing it up, because I'm pretty sure that, like, even cross-linguistically, that it isn't just about the local phonemic inventory. M shows up for pretty much everyone, like, first or second.
+
+ELI: Sooner or later, M shows up.
+
+[SARAH and JENNY laugh]
+
+SARAH: Yeah, I don't know. I think that's a really interesting question, and… I guess to get to the last thing that Havu asked, like, what do we know our ancestors could produce? And that also gets in, terms of, like, evolution and things, to the question of what sets humans apart with our linguistic apparatus. And part of it is our intelligence and our mental capacity, and part of it is actually our anatomy. And, like, say what you want about Koko the gorilla and sign language and all of that, but the reason they tried that at all with sign language is because gorillas are physically incapable of moderating their vocal cords in the way that humans are. And so if you were going to try to communicate with them, you had to do it in a different modality.
+
+SARAH: And if we're looking at our ancestors, I guess the next question I'm asking is, what was our anatomy like back then? What pitches were we able to control our vocal cords at? Which… You know, did we have as big a mouth? Did we have a smaller mouth? Did we have more or fewer places of articulation for consonants? Because I think as soon as you're able to control your tongue and lips and teeth in a spoken language manner, anything is possible.
+
+SARAH: Like, I think the only sound or the only consonant on the whole IPA chart… No, there's a couple, but the famous one that is grayed out, like, “this cannot exist” is the voiced glottal stop because anatomically, the way that you make that is by turning off the vocal cords, and so you cannot voice the lack of vocal cords. That is just physically not possible. There's a ton of other empty squares on the chart that are not grayed out. They're white. They're just empty because we don't have evidence that people make those sounds, but we're physically capable of making those sounds.
+
+SARAH: And so I have no idea, other than like, it seems like the labial sounds and the stops seem to be the easiest ones for babies to pick up. I don't know if that means they're the easiest ones for adults who've never spoken before to decide to make meaningful, but presumably they could do any of the sounds. It just kind of, I don't know, maybe is up to chance of what sounds they did make, and I have no idea how to find that out short of a time machine.
+
+ELI: I think we might need voiced glottal stop merch. Sarah, well, thank you for bringing this question back around to something that I feel like is actually substantive. I feel like we've been wandering through the desert on this question just because… pure speculation. But I think we got to somewhere really cool in the end there.
+
+SARAH: I'm glad. Do you want to take us to our last question?
+
+ELI: Yeah, absolutely. So David Petty asks via email, “quote: ‘Optimality theory is bullshit.’ End quote. Discuss.”
+
+SARAH: Take it away.
+
+ELI: Oh, is this going to be on me? Okay.
+
+SARAH: The only thing that I know about optimality theory is that it's the thing you always say, “the thing with the finger” and I say, “Deixis?” and you say, “Not that.”
+
+ELI: [laughs] That’s true.
+
+JENNY: The other thing I know about it is that then you always say it's bullshit.
+
+ELI: Okay.
+
+SARAH: Correct. [laughs]
+
+ELI: I guess… All right, cool. By the way, David sent us a detailed pronunciation guide for first name and last name, but not middle initial.
+
+[JENNY and SARAH laugh]
+
+ELI: So that's, like, two for two here on pronunciation guides. Let's talk about optimality theory. Optimality theory is a school of thought. It’s a… I guess it's a theory about… I've seen it applied to syntax. I've seen it applied to morphology. If you have been listening to the podcast, you also know that I think there's a pretty big overlap between those fields, so that's fine. But it operates on the context of having a number of constraints within a system or within a language or something like that and then having those constraints ranked against each other, trying all possible versions and seeing which of those versions fail which of those constraints, and then sort of ranking them to find the most optimal, AKA the one that fails the fewest constraints or doesn't fail any of the constraints. And you can have it fail a constraint and have a constraint be sort of like, “Okay, that's just a mark against it, but you still need three failures in order to get out,” or you can have a constraint where it's like, “You must have this constraint fulfilled. It's obligatory, and so if you fail this constraint, it doesn't matter which other constraints you pass.”
+
+ELI: That's the methodology or the theory of optimality theory, and I have seen it used not just for linguistics, but actually the best example of optimality theory that I have ever seen uses it to talk about applying Jewish law to situations. So things like if you have a particular commandment, but something also happens on Shabbat and if you have something that is not supposed to happen on Shabbat, what's the thing that you're supposed to do? And so you talk about what are the constraints, which ones are more important than each other, how many violations can you have, and you rank all the possibilities, and you find the one that is optimal, and that's the answer. Although, if you know anything about Halakhah, the idea that that's the answer is a concept that exists is, like, not exactly firm footing. But this is not Rabbinics After Dark, this is Linguistics After Dark, so we're going to go back to talking about linguistics.
+
+ELI: The thing about the pointing finger and the flower, also, is that, so these are often presented as tables where you have several columns in each row is one possibility of how something might be. So, for example, a particular word order or, you know, a word that has a particular stress pattern or has a set of suffixes and the order that those suffixes go in or something like that, and then each column after that is for each constraint, and then you mark whether or not they match those constraints or not. And then—I believe the flower is for the most optimal one and the pointing finger is for the first one that doesn't satisfy enough constraints, I think. It's been several years since I have cared about this past the Unicode characters.
+
+ELI: Here's the reason that I think it's bullshit. First of all, the idea of listing all of the possibilities within a linguistic point of view is really tough. There are some particular examples where you can actually enumerate everything, but the idea for things like word order, or choosing the right inflection, or that kind of thing, that our brains are actually, like this as a model for what our brains are actually doing, of generating every possible option and then weighing it against constraints and then bringing out the one that's the most optimal, I think that that is probably not how we do it. Like, it just seems like there's often, if not an actually infinite possibility space, there's an extremely vast possibility space. And yeah, we probably use some heuristics to get ourselves to where we are supposed to be and that kind of thing. I think that that's sort of a thing that optimality theorists might often say, but, like, there are places where we just wouldn't be able to do that, right? Not within the time that it takes to produce speech.
+
+SARAH: Yeah, it seems like it's not entirely irrelevant, but it seems like it can't be the thing. Like the example we were talking about with the adjectives where it's like, like, you want to say that something makes you tired, and in a split second, your brain runs through the ways you could end the word “tire.” And every time, or almost every time, it lands on, if not the word you really wanted, then a word or a series of sounds that are allowed in your language. Like, your brain doesn't just spontaneously key smash.
+
+ELI: Yeah, so hold that thought, because I'm going to talk about that in a moment. In what I have seen and in what I have read—and granted, I'm not an optimality theorist (because I think it's bullshit)—there is not ever a great motivation for why the constraints are what they are, and moreover, why they're in the order that they're in and what number of violations means that something is no longer eligible. It's not always just, “Oh, we're going to rank them in the number of violations,” so that kind of thing, but there are ones… there's some number above which it's out, and there are things that can be optimal despite having violations. And that's not consistent, and there's no way to derive it, and while I am totally here on the “lots of things about language are just arbitrary” train, I think there needs to be some kind of underlying… I don't know, some kind of underlying…
+
+JENNY: Justification?
+
+ELI: System, justification. I don't know. Like, there should be a there there, even if it's, “Here's what we've observed.” So I don't find it super convincing. And I think, as you've said, like, it seems like it could be a way to sort through data, but it doesn't strike me as a super convincing model for how the linguistic apparatus actually functions. Now, I'm going to go back to the thing that I told you to remember, because optimality theory has one great strength, and that is that it, better than anything else that I know, explains the gradient of grammaticality better than any other theory that I'm aware of.
+
+SARAH: Okay.
+
+ELI: The idea that there's a bunch of possibilities, and they’re ranked and some of them are better and some of them are worse, is like directly what our experience is in terms of looking at different sentences or looking at different endings on a word and saying, “That one's definitely out. This one seems better than that one,” and having that kind of ranked thing. Like I'm sure that if I gave you a set of adjectives, all of which had the same stem and had a bunch of different, you know, adjective derivational suffixes on them, you could rank them for me in terms of which ones seemed like, “This one is, like, an established lexical item. You know, this one is also an established lexical item, but I probably wouldn't reach for it. This one is probably a nonce form that I might come up with. This one is a nonce form that I would only come up with in certain circumstances. And what the fuck is this one?” So I think that that's the one thing that really gives me pause about optimality theory is that there’s been nothing else that can explain this gradient of grammaticality, which is a real and true thing, better than some kind of ranking and violation system. Because oftentimes, we also can articulate some of those constraints. That said, I don't think you could build a whole theory on that.
+
+SARAH: Yeah.
+
+ELI: Especially with no other underlying there.
+
+SARAH: Yeah. That makes sense to me.
+
+ELI: So that's why I think optimality theory is bullshit.
+
+SARAH: Excellent. I feel like that's been a rant long time coming, and thank you to David for finally prompting it. [laughs]
+
+ELI: By the way, if we have any listeners who learned optimality theory or that's your primary way of interfacing with linguistics and doing your field, or that's just, like, what you learned in college doing your degree, I would love to hear from you. And, you know, if you're willing to, like, come on the show and chat with us about it, like, I… I say this—
+
+JENNY: Uh-oh.
+
+ELI: I say optimality theory is bullshit in the same way that we say that all vowels are the same and the words are fake. Like, it's a cool, fun, punchy thing for us to say, but, like… I'd love to hear from you, and I'd love to learn where the gaps in my understanding might be and, like, have another tool to think about things using. And sorry for maligning your theoretical underpinnings for 12 episodes.
+
+SARAH: [laughs] Fantastic. Yeah, awesome. Thanks, David. And why don't we have a look at our puzzler?
+
+ELI: Yeah, thanks, David. So last podcast, we had a puzzler and that puzzler was: “The name of which widely spoken language consists of four consecutive U.S. state postal abbreviations?” Did you get this one?
+
+SARAH: No. I looked at a map of the U.S. with all the postal abbreviations and tried to rearrange them into words, and I looked at the list of all of the most commonly spoken languages by speaker and by number of countries they're spoken in, and I could not find very many that were eight letters long, let alone eight letters that are also not J. So please, save me.
+
+ELI: I am amazed with that methodology that you did not get this language. Would you like a hint?
+
+SARAH: Sure.
+
+ELI: Do you want the first, second, third or fourth state?
+
+SARAH: Fourth state.
+
+ELI: Indiana.
+
+SARAH: IN. Hold on. [unclear] Wait. Mandarin.
+
+ELI: Yeah, correct!
+
+SARAH: Who's DA?
+
+ELI: There's no DA. It's Massachusetts, North Dakota, Arkansas…
+
+SARAH: Oh, fuckin’...
+
+ELI: …and Indiana.
+
+SARAH: I can't divide words into two letters.
+
+ELI: You might want to get on that. I hear you have a linguistics degree.
+
+SARAH: I know. [laughs] Okay, well, then that's on me. That was a very good puzzler and I am dumb. Cool. That's awesome.
+
+ELI: Uh, do you have a new puzzler for us this week? You can get some revenge.
+
+SARAH: Yes, I do. So if you listeners figured out “Mandarin,” good job, and if you didn't, you're in good company. This week's puzzler, this month's puzzler: “What is three-sevenths chicken, two-thirds cat and two-quarters goat?”
+
+ELI: Okay, so ever since you put this in the Slack, I have been trying to figure this out, and I… I understand what this puzzle is about, and I have not yet figured it out. So if you were looking for revenge, you are having it right now.
+
+SARAH: I'm so glad, because this is going to be… This is going to be very funny. I hope that you do figure it out, but, also, if you don't, I will laugh.
+
+ELI: I could see what the puzzle is and I can't get the answer from it.
+
+SARAH: All right. Well, you have a month to figure that out, and I'm going to go ahead and just say this a month early. David, who asked our last question, also sent us an email with his favorite Car Talk puzzler, and I don't know why it hadn't occurred to me before he did that, that if y'all, listeners, have a puzzler you would like us to feature on the show, hit us up.
+
+ELI: Oh, yeah, absolutely. Send it in. We'll give you credit and everything. I think David also said this isn't a word one. It's a number one. And that's okay. We have puzzlers of all kinds on this podcast.
+
+SARAH: Yes. We've had a bunch of word ones recently, I think because honestly, some months it's just me in front of Google being like, “What's a riddle that's interesting but not impossible?” and that's what happens. But if you have something, please let us know, and we'll be happy to share it.
+
+ELI: You mean you don't come up with these puzzlers all yourself like I do? I do not…
+
+SARAH: That's also bullshit.
+
+ELI: …do this, listeners. That is bullshit.
+
+SARAH: [laughs] No, in fact, I don't. And that's it for this episode. Thanks for listening.
+
+ELI: Linguistics After Dark is produced by Emfozzing Enterprises. Audio editing is done by Luca. Question Wrangling is done by Jenny. Show notes are done by Sarah and Eli. And transcriptions are a team effort. Our music is Covert Affair by Kevin MacLeod.
+
+SARAH: Our show is entirely listener-supported. You can help us by visiting patreon.com/emfozzing, E-M-F-O-Z-Z-I-N-G, and by telling your friends about us. Ratings on iTunes and Spotify and other podcast services help as well.
+
+ELI: Every episode, we thank patrons and reviewers. Today, we want to say thanks to these awesome patrons: Beth, Dash, Rachel, Bex, Jason, and Dre. We also want to thank the_linguist_ll and dream-in-png for leaving comments on YouTube, thirty-two of you for rating us on Spotify—although we can't see who you are so we don't have your names—as well as everyone who's been voting in our YouTube and Spotify polls. Thank you so much.
+
+SARAH: Find all our episodes and show notes online at linguisticsafterdark.com or on all your favorite podcast directories and send those questions, text or audio, to questions@linguisticsafterdark.com. You can reach us on all the usual socials @lxadpodcast. If you don't find us on your platform of choice, let us know. We're also on Slack at the-crossings.slack.com, and there's a link to that on our website.
+
+ELI: And until next time, if you weren't consciously aware of your tongue in your mouth, now you are.
+
+[outro music]
+
+[beep]
+
+ELI: Contextually, a couple can be either only two, two to three, or anywhere up to twelve.
+
+[beep]
+
+JENNY: That's fun. Half my keyboard suddenly isn't working.
+
+[beep]
+
+ELI: With us having issued a very ware corre— [tongue-twisted sound]
+
+[beep]
+
+ELI: If you weren't consciously aware of the tongue in your mouth… Nope, that's not how the saying goes.
+
+[beep]
+
+SARAH: Sorry, Luca.
+
+ELI: Sorry, Luca. Scratch everything.
+
+[beep]
