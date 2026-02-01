@@ -1,0 +1,1006 @@
+﻿[Music]
+
+ELI: Hi, and welcome to Linguistics After Dark. I'm Eli.
+
+SARAH: And I'm Sarah. If you've got a question about language and you want experts to answer it without having done any research whatsoever, we're your podcast.
+
+ELI: Settle in, grab a snack or a drink, and enjoy. Hey, Sarah, how's it going?
+
+SARAH: Not too bad. How are you?
+
+ELI: I am exhausted. We've been moving into a new house, and we have one box left.
+
+SARAH: [inhales] One?
+
+ELI: One box. We spent all of yesterday just like cleaning everything out and moving stuff out, giving things away to the local buy nothing group, and there's been one box lurking in the corner. I was on the phone with my sister earlier today, and I was like, “We got the last box out!” and then Sonia was like, “We did not. Look in the corner. There it is.”
+
+SARAH: [laughs] Alas. We pulled the carpet up in our living room recently and discovered really nice floors under there, but also—
+
+ELI: Hey, congrats.
+
+SARAH: Thank you—for anyone who has never done that before, carpets are held in with really sharp tacks and staples, and I think all of the injuries on my hands have, uh…
+
+ELI: Oh, no.
+
+SARAH: …healed up? They were minor.
+
+ELI: How much blood did you lose?
+
+SARAH: Very little, but I did just find a staple last night, like two weeks afterward, and I was like, “Oh, that's just been hanging out there. That's cool.”
+
+ELI: On the floor, right?
+
+SARAH: On the floor, in the floor.
+
+ELI: Not in you.
+
+SARAH: Not in me, in the floor. Yeah.
+
+ELI: I will say we used movers and we used packers, and we saved for packers, and it's the best thing in the world. I… If you are moving and you can afford packers, like… Look, I'm a Bears fan. This is the only time in my life that I will recommend the packers.
+
+SARAH: [laughs]
+
+ELI: And the moving company that we used was great, which like, I guess if you're in the Boston area and you want a moving company recommendation, get in touch, but shall we learn a language thing?
+
+SARAH: We should, but first you should tell me what you're drinking.
+
+ELI: Oh, yes, of course. So, I am drinking the Farm Flor Cider. It's a nice, dry cider. It's somewhere around here. We have a grocery store. It's a farm stand nearby that I basically just… They have a bunch of good cider and beer, and so often I will just go in and be like, “That looks cool,” and get one. I think this might be from… I think this is from New York? Yes, by Graft Cider in Newburgh, New York.
+
+SARAH: Cool.
+
+ELI: It's quite good. How about you?
+
+SARAH: I have the last of a variety pack of Downeast Cider. So this one is blueberry, and we're going to see if we can get the… [sound of soda can opening] pop. It's not very carbonated, so not as good. All right, well, cider day, and cider day, and ways to make words. Is that what we're talking about?
+
+ELI: Yeah, ways to make words. So there's like a whole lot of ways to make words. The official term for this is “derivation,” which is like taking a word and then making it into basically a totally different word, deriving a new word from it. You want to contrast this with “inflection,” which doesn't really make a new word. So inflection is like when you conjugate a verb to be for, you know, a person or a number or a tense or something like that, or, you know, when you make a noun plural. Those things, it's the same word; it's just doing, like, agreement things with the rest of the sentence. Derivation makes a word into a totally different word, and often you can tell that this has happened because the part of speech will change, what's usually called the category of the word. So like if you make a noun into a verb, that's a derivation, but you can also do… you can also derive words into their same part of speech. So a good example of that is “undo.” So you take the verb “do” and you stick an “un-” on the front of it, and that's “undo,” which is also a verb.
+
+SARAH: And that's definitely a brand new word, as opposed to if you just say “does.”
+
+ELI: Yes. So “does” means the same thing as “do.” “Undo” means the opposite of “do.”
+
+SARAH: It does.
+
+ELI: Well, it doesn't actually, it means to perform the reverse of the thing that you just did.
+
+SARAH: That's true.
+
+ELI: So “undo,” “un-” plus “do,” is an example of a kind of derivation called “affixation.” I think we've talked about affixes. “Affix” is just a word that includes like “suffix,” “prefix,” “infix” (which is when you stick something in the middle of a word) and “circumfix” (which is the opposite of an infix; it's when you stick two things on either side of a word).
+
+SARAH: That one we don't do in English very much slash ever.
+
+ELI: We don't, and actually, I don't think that we have any circumfixes in English. Get in the comments, let us know if we have that wrong. We do have one infix, but I will get to that in a moment.
+
+[SARAH laughs]
+
+ELI: So affixes are things like “un-,” “re-,” “-ish,” “quasi-,” “-phobia,” “-ism,” “-esque,” and the cool thing about these is that I think, out of all of the things, all of the ways to derive words that we're going to talk about today, they're really wuggable. “Wuggable,” the official term is “productive,” but we love the term “wuggable.”
+
+JENNY: We have previously established that as one of our, like, official stances is, “morphological productivity” is a dumb term, and “wuggable” is clearly the better option.
+
+ELI: Yes, exactly. So one of the cool things about these is that they're really wuggable. You can use them in nonce forms, so there are established words that use… that are derived using affixes, but they're also really easy to make up a word that you need on the spot. You know, you can say that something is Hemingwayesque, which is a nonce form as opposed to like “Kafkaesque,” which is a much more established word. They also are really prone to getting more of them being created, right? So it's very easy to coin an affix. Some of the ones that I have encountered recently are “-core” for like… There's like a lot of music genres that have “-core” as a suffix, or “-punk,” so coming from stuff like “steampunk,” “diesel punk,” “solar punk,” that kind of thing. “-vania.” So there is a video game genre called Metroidvania, and Metroidvania itself is a blend, which we'll get to in a second, comes from “Metroid” plus “Castlevania,” but then you also see other genres that are “Somethingvania” or “somethinglike” where you have like roguelikes, Soulslikes, meaning games that are like the game Rogue or Dark Souls or that kind of thing. Another one is “-gate,” which comes from “Watergate,” which means a scandal, and so you can take something and stick “-gate” on the end of it, and then it's a word for this, for a scandal of some kind.
+
+SARAH: That's got to be such a trip for people learning English, because you look at a thing like “Pizzagate,” and you're like, “A fence made of pizza, a fence for pizza, pizza behind a fence, what is happening?” And then you're like, “No, this is actually a really famous political scandal involving a pizza company.”
+
+ELI: Yeah, I mean, I think that this stuff happens a lot in a bunch of different languages. Nothing is coming to mind right now, but there are a number of Japanese… I don't think that they'd be affixes, I think they'd technically be clips and blends, where you have this kind of three-step thing to understand what's going on. But also, for English speakers, “Pizzagate,” all it does is say, “This is a scandal of some kind, and it involves pizza somehow,” but it doesn't tell you what it actually is.
+
+SARAH: Yeah, I mean, for anybody, it's really context-dependent, but I can just imagine myself trying to interpret a phrase like that in another language and looking up the two component words and not… like most dictionaries are not going to have… I don't know, Watergate’s old enough, maybe they would have that.
+
+ELI: They do have “-gate.” I think they're not going to have stuff like a “-stuck” or “-core.”
+
+SARAH: Yeah. And then you're just like, “Okay, cottagecore, the center of a small house. Sure. That means something.” [laughs]
+
+ELI: [laughs] Yeah, exactly. All right, I'm going to really quickly talk about the one infix that we have in English, because I know lots of other people talked about it, you can find it in a lot of places. The infix is “-fuckin’-,” or “-fucking-,” or “-effin’-” (“F-ing”) which I consider to basically all be the same word. This is the only infix that we have… I mean, we have a couple that are substitutions for it, but they're substitutions for it. The cool thing about this is that there is a placement rule for this, and some people feel it more strongly than others. There's actually two placement rules. One placement rule, the one that I feel really strongly, is that it comes before the stressed morpheme in the word. The other placement rule is that it comes after the first morpheme in the word. And in English, these often overlap, but they don't always overlap.
+
+SARAH: Does it have to come directly… Like according to that rule, does it have to come directly after the first morpheme, or somewhere?
+
+ELI: This is a thing where there's a gradient of acceptability. Some people will place this infix in different places. You know, there's prototypical examples like “fan-fucking-tastic” or…
+
+SARAH: The one I always think of is “abso-fucking-lutely,” which, that definitely hits on the stressed syllable thing, and then the question is to what degree people understand “abso-” and “-lutely” or “abso-” and “-lute” as morphemes, or “ab-solute” or none of the above.
+
+ELI: Yeah, so with respect to “absolutely,” “abso-fucking-lutely,” I have heard “ab-fucking-solutely,” and that does not hit for me.
+
+SARAH: I don't like it as much.
+
+ELI: But it does hit for other people, and I think that sort of traditionally, the previous-to-the-stressed syllable is kind of preexisting, and then it's not as strong to have it after the first syllable, but people do absolutely do that because they're not going to be thinking about this in the middle of a sentence. They're just going—you know, if you're using “fuckin’” as an infix, you're not stopping to do linguistics in the middle of it.
+
+SARAH: Necessarily. I mean, I've met us. We probably would.
+
+ELI: That's true.
+
+[SARAH laughs]
+
+ELI: All right. So that's infixes, affixes, suffixes, prefixes. There are actually a lot of different ways to make different words, and so I want to talk about a bunch of those. I want to talk about blending. So, blending. Sometimes people call the words that you make with blending “portmanteaus.” You take two words, you stick them together, you just kind of smash them into each other. You blend them. So let's play a little game.
+
+SARAH: Okay.
+
+ELI: I love to play a little game in this segment. I'm going to give you a blend, and you're going to tell me what two words it comes from.
+
+SARAH: Okay.
+
+ELI: All right. “Liger.”
+
+SARAH: “Lion” and “tiger.”
+
+ELI: Yep. “Smog.”
+
+SARAH: “Smoke” and “fog.”
+
+ELI: Yeah, and I think “smog” is probably the word that is most usually used when you're trying to say, “Oh, here are words that are blends.”
+
+SARAH: Yeah.
+
+ELI: I remember learning that “smog” was a blend, and I didn't know that until I was in high school, because it was so well established in the lexicon that I thought that it was just another word. How about “Eurasia”?
+
+SARAH: “Europe” and “Asia.”
+
+ELI: Yeah. But then I've also heard Afro-Eurasia, so I have a question for you, which is: do you think that this is a three-word blend, or do you think that “Afro” is a prefix?
+
+SARAH: Ehhhh? My question is, does anybody care? And of course, the answer is yes, someone cares, but I'm not that person.
+
+ELI: Yeah, so I have heard some folks be pretty particular about Afrofuturism—versus other ways to construct words that are similarly sounding—as a book genre, and so I think there's an argument here where “Afro” is an affix in that context, but I think that in Afro-Eurasia, it probably is a blend.
+
+SARAH: Yeah, I would say that in general, I assume “Afro” is a prefix, and I guess my question is to what extent it actually makes a difference in the meaning or function of “Afro-Eurasia,” whether it is a prefix or a full on blend, and I don't have enough experience to have an opinion on that, I guess.
+
+ELI: And I don't think that it makes a difference with respect to meaning, but I do think that it's interesting that it's very clear that we're trying to do the same thing here, to say, “Hey, geographically, these are probably one land mass,” or “they should be considered as one land mass,” or that kind of thing, but even within that word, we've got two different derivation strategies going on.
+
+SARAH: Yeah.
+
+ELI: All right, how about “watermelon”?
+
+SARAH: Is that a blend or is that a compound of just “water” and “melon”?
+
+ELI: Ah, you've got me. “Watermelon” is a compound of “water” and “melon.”
+
+SARAH: Okay.
+
+ELI: All right, how about “infotainment”?
+
+SARAH: “Info,” which is a shortening of “information,” and “entertainment.”
+
+ELI: Yep. And “cosplay,” do you know this one?
+
+SARAH: Costume roleplay? Costume play?
+
+ELI: It's just costume play, but yeah, and that's a Japanese loanword right there.
+
+SARAH: Nice.
+
+ELI: How about “Paralympics”?
+
+SARAH: Paralyzed Olympics.
+
+ELI: Yeah, so this is an interesting one. So originally, it was Paraplegic Olympics.
+
+SARAH: “Paraplegic” makes more sense, actually.
+
+ELI: And now it is Parallel Olympics.
+
+SARAH: That's so cool.
+
+ELI: So they backformed from… Well, they didn't backform. They sort of backronymed? Not really.
+
+SARAH: Because “parallel…” I would have to look it up, and I'm not going to, but I don't think that “parallel” and “paraplegic” are actually cognate, or if they are, it's more distant. But that just works out really conveniently.
+
+ELI: Yeah, it does. I think the “para-” bits are probably the same.
+
+SARAH: Probably. I just can't decide what the “-llel” part of “parallel” would be, and one of the rules I try to stick to pretty closely is that if you're going to pull something off as an affix, what you leave behind has to be a reasonable morpheme on its own, so I'd have to go look that up.
+
+ELI: So that's a really interesting thing to say. How do you feel about “cranberries”?
+
+SARAH: Okay, so yeah. 
+
+ELI: Or “raspberries” or “crayfish”?
+
+SARAH: Right. So that doesn't always work, especially within a language itself, but yeah. That was a terrible answer to that question.
+
+ELI: Yeah, but I mean, I think it's like, it goes to, there's always these edge cases.
+
+SARAH: Yeah.
+
+ELI: There's always this kind of thing. The other thing is, like, “cranberry”… Yeah, “cran” doesn't mean anything other than the kind of berry that a cranberry is, but then you get, like, drinks that are flavored as cran-orange.
+
+SARAH: Right. So it's not a meaningful morpheme outside that context, but it is still a morpheme you can work with. Similarly, I think with “raspberry,” like, “rasp” in that word doesn't mean “rasp”; it just means that kind of berry.
+
+ELI: Yeah, exactly. All right, so that's blending. Blending is pretty straightforward. We've also got clipping. So, clipping is taking part of a word out. People usually think about clipping in terms of shortening a word, but you can shorten it from, like, either end. So a lot of nicknames happen this way, you know, you get like Rob or Theo or Jen. Especially nonce nicknames often really happen in English by shortening somebody's name. But there are all kinds of words. “Ad” for “advertisement,” “phone” for “telephone,” “bot” for “robot,” there's “chute” for “parachute,” and then “specs” for “spectacles.” So “parachute,” the front comes off it; “specs,” the back comes off it. And then one that I thought was very interesting, I never realized this was a clip, but “ma'am” is a clip.
+
+SARAH: It's “madam” without the middle syllable, right? Or the middle sound.
+
+ELI: Exactly.
+
+SARAH: And then you can also go the other way where you only take out the middle. We will “how do you do, fellow kids?” here for a moment, but “rizz” is a big deal…
+
+ELI: Oh, yeah.
+
+SARAH: …right now, which I found out is short for “charisma,” and I got really mad about that for a second, because I was like, “Why are you shortening words out of the middle syllable?” And then the person I was talking to, I no longer remember who that was, but they came back instantly with, “Well, ‘flu’ is short for ‘influenza,’” and I was like, “Okay, fine. You win.” [laughs] It's… Words are wild. I love it.
+
+ELI: Yeah, I do remember we had “the ‘rona” for a while for “coronavirus,” and then “corona” off of “coronavirus” is also a clip. There's also a genre of words that are clipped and then compounded, so words like “sitcom” or “sci-fi” or “infosec” or “parsec.” Okay, so that's clipping. Another one that you see a lot are acronyms, so you get acronyms that get common enough that people turn them into words, so you've got stuff like “scuba,” and “radar,” and “sonar,” and “laser.” You've also got things like “AIDS” and “FBI,” which you say out loud each letter separately, but it still is a word. One of my favorite acronyms, which I have to say here, is “UTC.” Do you know about UTC?
+
+SARAH: I feel like I should, but no, I don't.
+
+ELI: So, UTC is like the time without any daylight savings time or any time zones applied to it.
+
+SARAH: Universal time… thing.
+
+ELI: So in English, it stands for “Coordinated Universal Time,” and in French, it stands for the French version of that, which is [vaguely French-ish accent] “coordinated universal” or whatever that is. Sorry, goodbye to all of our French listeners.
+
+SARAH: [laughs] Yeah.
+
+ELI: And what happened was, the ISO, the International Standards Organization, was like, “Look, we have two languages, and they're going to fight over what the acronym is, so we're making it ‘UTC,’ which doesn't correspond to either language.”
+
+SARAH: That's fantastic.
+
+ELI: “There. We took it away from both of you.”
+
+SARAH: [laughs] That's amazing.
+
+ELI: Also, a word that is an acronym is “OK.”
+
+SARAH: Yeah, I was looking this one up recently. I don't remember why.
+
+ELI: So, “OK” comes from a short-lived fad for misspelling things, and it comes from “all correct,” O-L-L K-O- whatever. But again, we say it on the podcast all the time, any other cute little acronym story is probably not correct. So “posh” is not an acronym, “tip” is not an acronym, “fuck” is not an acronym. But “OK,” “OK” is actually an acronym.
+
+JENNY: I feel like the key is that we didn't start using acronyms as words until pretty recently. I think “OK” is about as old as it gets, but we didn't… Like, that's just not really how we had new words being formed until the last like hundred years or so.
+
+ELI: Yeah, and this is a really good point, which is that different kinds of derivation sort of go in and out of favor. I think affixation happens a lot, but acronyms are pretty recent, and people like acronyms and blending as neologisms.
+
+SARAH: I do have to add my particular favorite story to the “This is not what the acronym stands for.” Within the past year, I was talking to somebody and we were talking about how “scuba” is the “secure underwater…” or, sorry, “Self-Contained Underwater Breathing Apparatus.” And someone said, “What about ‘tuba’?” Because they rhyme.
+
+[ELI laughs]
+
+SARAH: And somebody in the conversation, again, without missing a beat, said, “Terrible Underwater Breathing Apparatus.” And I have… I know that that's not where the word “tuba” comes from, but I'm going to live with that for the rest of my life because it’s great.
+
+JENNY: That's your personal backronym?
+
+SARAH: Yeah, exactly.
+
+ELI: That's wonderful. Now I'm just imagining somebody using a tuba as a snorkel.
+
+SARAH: [laughs] Torkel.
+
+ELI: [laughs] All right—
+
+SARAH: Snuba.
+
+ELI: Snuba. It's a snail tuba.
+
+SARAH: [laughs] All right, moving on.
+
+ELI: Let's move on to backformation. So, backformation is when you take a word that seems like it has an affix on it and remove the affix to make a new word. So, a good example here is the word “surveil,” which is a backformation from “surveillance,” or something like “babysit,” which comes from “babysitter.” So “babysitter” came first, and then the verb “babysit” comes from that. There is some indication that the verb “edit” postdates the word “editor” and is backformed from that. That's a little controversial. But probably the most famous backformation is “-holic,” which is backformed from “alcoholic” to mean somebody who indulges too much in something, and then you get words like “chocoholic” and “shopaholic,” where you're affixing this “-holic” onto other things, usually in much less serious situations then.
+
+SARAH: Right. Because “alcoholic” can mean the person who indulges too much in alcohol, but it can also just describe a substance as containing alcohol, in parallel—
+
+ELI: That’s true.
+
+SARAH: …with words like “acidic” or “basic.” And so you've got that very ob—
+
+ELI: I don't think I've ever seen “-holic” used to describe like a quality of a thing.
+
+SARAH: No, that's my point. The -ic thing is… Like, the word—
+
+ELI: Oh, I see what you’re saying.
+
+SARAH: —“alcoholic” came about initially as “containing alcohol,” like acidic things contain acid, and then it went through this context shift, and then was reanalyzed as “-holic” as a suffix that took on its own meaning, which is just so interesting.
+
+ELI: Yeah, there's actually, there's all kinds of morphemic stuff going on with “alcoholic,” because there's “alcohol” plus “-ic” being reanalyzed into “alco-” plus “-holic,” like you said, but also, “alcohol” is a loanword from Arabic and has this “al-“ plus “cohol” in it, which then goes away once it gets loaned.
+
+SARAH: Yep. The other one like that that I enjoy is “helicopter.”
+
+ELI: Oh, yeah, “helicopter”’s great.
+
+SARAH: Because we frequently—
+
+ELI: Do you want to talk about it?
+
+SARAH: Sure. We frequently clip it down to “copter,” right? But it's not a “heli-copter.” It's a “helico-pter,” and the “pter” is the same as in like “pterodactyl” for “wing,” and then “helix” or “spinning.” But like even as someone who studied Greek for a while, it took someone pointing that out to me to like reanalyze it the way that it actually started out, because obviously “heli-copter” makes sense in English, and the other one does not.
+
+ELI: And it's strong enough that not only do we clip “helicopter” to “copter,” but we also use “heli-” for “helipad.”
+
+SARAH: Yeah, nice.
+
+ELI: Yeah. So this kind of reanalysis is very strong and is part of a whole bunch of these things. I mean, making words is very wuggable. It's a very productive thing. It's a thing that people do a lot in all kinds of languages, but especially English, and you get things bouncing between a whole bunch of these different strategies. I want to talk about compounding, where you basically just take two words and shove them together. You take two words and say, “Now kiss.”
+
+[SARAH laughs]
+
+ELI: So compounds, when you get two words or you get multiple words into a compound, they are all one unit, so they can't really be broken up. They can be analyzed, but, you know, a lot of times, you'll see sort of the prototypical English teacher being like, “Okay, here you have ‘chili dog,’” which is a compound, “And ‘chili’ is acting as an adjective for ‘dog’ or a modifier for ‘dog,’” and it's not. They're both nouns. They're in a compound. They are a compound noun.
+
+SARAH: Yeah. I feel like both of those things can be true.
+
+ELI: They can be, except that we can test it syntactically. Right? So you could be like, “Which dog did you get?” “The chili one,” which works but is really marginal for me.
+
+SARAH: Okay, but then what about like White House? Like…
+
+ELI: So I want to do a comparison, which is like, “Which dog did you get?” “The jumbo one.”
+
+SARAH: Sure. I guess my point is, it can act as an adjective and still be part of an undissolvable compound.
+
+ELI: So for “White House,” you can, but “white” is actually an adjective. “Chili” is not. “Chili” is a noun.
+
+SARAH: Right, but I guess my point is that English lets nouns act as modifiers a lot. Like, “Which charger did you bring?” “The computer one.”
+
+ELI: See, that one is… That's still marginal for me. I think there may be some cases where you get nouns that zero-derive into adjectives, but I still think that they'd be syntactically separable, and I think there's a bunch of these where it's questionable whether they're actually syntactically separable.
+
+SARAH: Okay. I want to dive into this more later, but I'm so intrigued.
+
+ELI: All right. It's rare we have an actual disagreement on the podcast.
+
+SARAH: I know. I love this.
+
+JENNY: Also, I want to point out, I feel like the, like, “Which dog did you get?” “The chili one,” actually works fine for me if the context is that you're both standing in front of like a fancy hot dog stand. Like, I have heard people shorten “hot dog” to “’dog” as like a deliberate affectation, and so I feel like I can definitely understand people being, like, a little bit affected, a little bit playful, when you have the context of “we know we're talking about hot dogs, because that's what we're all getting for lunch.”
+
+ELI: So I think that this makes an interesting point that there is… it's marginal, not ungrammatical, right? You can slide it into contexts where it works. I think if you get a much longer compound… And this is the fun thing about compounds is that you can just keep doing them. So, the example that I stole is “high voltage electricity grid system supervisor,” which can be reanalyzed in any number of different bracketing things, but you get stuff like “Which system supervisor did you meet?” “The high voltage electric grid one” is less good for me, but it's still a compound, and it's breaking it up at a compounding… a compounding barrier and so on. I also, I want to give some props. Sarah came up with a really good long compound, which is “dog food bowl washing machine repair team sign up list.”
+
+SARAH: [laughs] I remember a professor of mine in college, and I know this is not a thought original to him, but, you know, we're talking about syntax trees and like, is there a limit on how many elements you can add into a grammatically, like syntactically, valid sentence? And he was like, “Mathematically, no, but the limit is the number of pieces of information your brain can actually retain at once,” and frankly, that thing that I made up, I think, has passed my own limit for what I can understand.
+
+ELI: I think your professor is right, but I also think that the limit is one breath worth of things.
+
+SARAH: Yeah, that's fair.
+
+ELI: I remember that a co-worker of mine when I was working in the phonology lab at UW Madison, one day we tried to figure out what the longest compound noun that we could create was, and you had to both take a deep breath at the beginning and start your pitch up high because your pitch slowly fell as you tried to say the compound noun. I wish I still had that. It, like, took up a whole piece of 8.5" x 11" [paper].
+
+SARAH: Amazing.
+
+ELI: I also want to talk about there's like a bunch of different ways to do compounds, so it's not just noun-noun. You can do adjective-noun like “White House,” but there's, you know, “chili dog,” “board game,” “high chair.” There's an adjective-noun compound there, and you can talk about stress on different words. You can tell that it's a compound based on whether the stress goes to the front of the compound or the end of the compound. There's also a cool class of compounds in English like “pickpocket” and “scarecrow,” where you have verb-noun, where what's happening is that the noun is being verbed.
+
+SARAH: Yeah, and that's so interesting, because most of our compounds, like a chili dog is a type of hot dog and a board game is a type of game, but a pickpocket is not a type of pocket, and a scarecrow is not a type of crow.
+
+ELI: Yeah. And these are… There's a word for this. My brain just supplied “endothermic” and “exothermic,” but that's not correct. These are endocentric and exocentric, where endocentric compounds, the head of the compound actually describes the kind of thing that it is, and exocentric does… the head of the compound does not describe the kind of thing it is, or you could also say there is no head to the compound. So “pickpocket” and “scarecrow,” but also things like “lazybones,” interestingly, is syntactically singular.
+
+SARAH: True.
+
+ELI: Okay. So another way that you make new words is through folk etymology or reanalysis. So this happens when you take a word from another language, or maybe it's one part of the word is from a really old part of English, and it gets reanalyzed, or there is a story about what it actually is, because you've turned it into English words that are not actually the thing it is. So a good example of this is like “cockroach,” which comes from the Spanish “cucaracha.” They are not… I mean, I guess they're roaches, but they have nothing to do with chickens. Or “witch hazel,” which comes from “wica-hazel,” meaning like “weak hazel” or like a bendy hazel tree. Or another one of these is “werewolf.”
+
+SARAH: So “wer,” that's like a really old English word for “human,” right?
+
+ELI: Yeah, exactly. So “wer” is a, I think… Hmm, I'm going to get this wrong. I'm trying to remember if it's “human” or “man,” that's the thing.
+
+JENNY: It's human, but it was “werman,” and then you had—because that was the word for “man,” and then you had “wifman,” which was “woman,”
+
+ELI: Right, exactly.
+
+JENNY: and then that's why “woman” has “man” in it, is because it is “wifman,” but we lost the F sound. And then “werman” just lost the whole first syllable. So they were both originally like compound words, I guess, but “man” meant “human,” and then we lost the part that meant “male.”
+
+ELI: Yeah, this is what I was trying to remember. Yeah, so you have “wer” for “werewolf”, but now it's been reanalyzed into like “person who changes into a thing,” so you get like “werebear,” or, I don't know, “werebird,” “weresnake.”
+
+SARAH: Which, on the one hand, it is a reanalysis. On the other hand, it's still “person,” and like “werewolf” is a person wolf.
+
+JENNY: Well, it was a man-wolf. That's the thing, right? It's the part that meant “man,” not the part that meant “person” or “human.”
+
+SARAH: Okay, but did… So did “werewolf,” when it was first a word, mean “a male wolf,” or did it mean “a male person-wolf”?
+
+JENNY: That bit I don't remember.
+
+ELI: I would put forward it doesn't matter, because if you grabbed a person off the street, and you were like, “What does the ‘were’ in ‘werewolf’ mean?” they wouldn't say either “person” or “male.” What they say is “person who changes into something”
+
+SARAH: Yeah. For sure. It's definitely not just “person.” It's like specifically the shapeshifter bit.
+
+ELI: Right, like a weretree is not a person tree. It's a person who changes into a tree when the full moon comes around.
+
+SARAH: Which reminds me, I want to say this was… I want to say this is from the D&D Is for Nerds podcast, but it's definitely one of the D&D shows I listen to where the DM is giving some like background story, and he's like, “So you approach a warehouse,” and genuinely, with no irony whatsoever, one of the players was like, “A werehouse?”
+
+[ELI laughs]
+
+SARAH: “Like, it turns into a house?” And everyone else is like, “Dude, dude, like a warehouse, where you store stuff,” and he's like, “Ohhhhh, right,” and he had just completely forgotten about the morpheme “ware” as in wares, goods and services and was just like, only, only transformation.
+
+ELI: [chuckles] Somewhere out there is fanfic.
+
+SARAH: Yes.
+
+ELI: About the warehouse. So this reanalysis is a thing that is interesting, because it takes time, and sometimes things that are known to be sort of errors will become like, like real words. So there's a whole genre of things out there called eggcorns, which are basically phonological reanalyses of words where people will say a thing and it's quote-unquote “wrong,” but it is what their analysis of the thing is. So “eggcorn” is an example of this. This is a mishearing of “acorn,” but they think, “Oh, it's like hard like corn and is shaped kind of like an egg. Maybe it's ‘eggcorn.’” Right? Or, “my old stomping grounds” or “chomping at the bit” are two eggcorns, where the original versions of the phrases are “champing at the bit” and “my old stamping grounds,” and part of that is because “champ” and “stamp” are not really used too often anymore, “stomp” and “chomp” are much more common.
+
+SARAH: Are those pairs of words otherwise synonymous? Like, because you can stamp down or stomp down, and that's like a similar action, just maybe with a different tool? I don't actually—
+
+ELI: Yeah, I mean, I think that that's one of the reasons why they get reanalyzed this way, but I think you can think of an eggcorn as sort of a transitional thing here.
+
+SARAH: Definitely.
+
+ELI: Where those may become actual words that became that way through this folk etymology or reanalysis.
+
+SARAH: Interesting. Because now that I think about it, I don't actually know that I've heard “champ” as a verb except in the phrase “champing at the bit.”
+
+ELI: Yeah, I think it's pretty old-fashioned.
+
+SARAH: Does it mean to chew on something, or does it mean something else entirely?
+
+ELI: You know, to be honest, I don't know off the top of my head. The only piece of information that I have about that phrase is that that's the quote-unquote “correct” way to say that phrase.
+
+SARAH: Cool. All right, well, we'll stick that in the show notes.
+
+ELI: Yeah. All right, and we've got one last way to make words, and this is, for English, it's the big one, which is zero derivation. So, this is called zero derivation because you derive words without doing anything to them. That's where the “zero” comes from. Some people think of this as adding an affix that is not pronounced, so like if you take a noun and you make it into a verb, you add a verb-making affix that is zero, it doesn't… it's not pronounced at all. Great example of this is “beer me,” AKA “take a beer and hand it or throw it to me.” You're taking the noun “beer,” turning it into a verb. The verb means “deliver a beer unto me.”
+
+SARAH: Nice.
+
+ELI: Sarah, you pointed out “fly” and “fly ball,” which I hadn't thought of, but is clearly a zero derivation of “here is a flying ball” that now… “fly” is definitely a noun here, and so you have a fly ball.
+
+SARAH: And one of the interesting things about that phrase too, is that because it underwent that zero derivation, it then, when it underwent its next derivation, because you can also as a verb have “fly” as in “hit a fly ball,” and if you hit a fly ball and it is caught, you have “flied out.” You have not “flown out,” because the verb “fly,” as it starts, like, to move through the air quickly, makes the past tense “flew” or “flown,” but then once it undergoes this set of derivations, it becomes the more wuggable form of “flied,” and…
+
+ELI: I think this is a really interesting point to make because it shows that it is actually another word. Like it's not just, “Oh, you took ‘fly’ the verb, turned it into ‘fly’ the noun, and then took it back to the original ‘fly’ the verb.” It's like a double layer kind of a thing where it's a whole new verb whose base form sounds like the previous verb.
+
+SARAH: Exactly.
+
+ELI: We've got another example of this, which is “chair.” So I had “chair” as a noun as in the leader of a board, which comes from the verb “chair” “to lead a meeting,” or it's a clipping of “chairman” and also “chairwoman,” it’s a gender-neutral version of that. And then Sarah reminded me that you can chair a committee. That is, you can act in a capacity as a chair while leading the meeting, so the person who’s chairing the committee is chairing the meeting, but those two chairs are different.
+
+SARAH: Yeah. And then all of those are different from the fact that “chairwoman” or “chairman” or whatever also started as a compound of “person” and “the thing they sit in.”
+
+ELI: Yes, exactly.
+
+SARAH: And then it all ends up sounding as the same single-syllable word because English is like this.
+
+ELI: But you can just kind of zero-derive your way across the entire set of word categories. One of the ones, as long as we're talking about chairing a meeting, we can talk about “tabling,” which means two different things in the United States and Commonwealth. In the United States, when you table something, you're not going to talk about it for a while. You take it off the table, and when you, in Commonwealth English, table something, you're putting it on the table for discussion.
+
+SARAH: [laughs] I'm sure that's never caused any confusion.
+
+ELI: No, never at all. But one of the things about zero-derivation, it's very common to make new words. It's a very common modern way to make words, although it has been happening for a long, long, long time, basically ever since English really lost its sort of inflective affixes, and this is where a lot of the like “new words in English are destroying the purity of the language!!” or whatever. You know, you get like “message” as a verb or “text” as a verb or that kind of thing. There's a lot of business jargon that comes from this, and I will say that one of my few language pet peeves, one of my words that I really hate and try to avoid, comes from zero derivation, and that is “ask” as a noun. The word “request” is right there. But even then I have to admit that “ask” is different. It means a different thing and it can be used in different contexts. You can receive asks from somebody, and those are not requests to do something, but they are sort of checklists of qualities that something needs to have, that kind of thing. I don't know why that particular one, it's my one linguist-allowed English pet peeve.
+
+SARAH: So if you find another one later, does that mean you have to like, let them duke it out and then you'll pick which one to be actually upset about anymore?
+
+ELI: I feel like this has probably happened to me several times, actually.
+
+[SARAH laughs]
+
+ELI: Do you have like a one linguist-approved pet peeve…
+
+SARAH: I don’t know—
+
+ELI: …dealing with zero derivation?
+
+SARAH: I definitely have one. I'm not sure I would say it's like my big issue or whatever, but first of all, I am apparently one of the most popular people in the county I live in to serve on a jury. I have never actually served on one yet, but I have gotten a jury summons.
+
+ELI: You've been summoned a lot.
+
+SARAH: Well, apparently what I've been is “summonsed” a lot.
+
+ELI: No!
+
+SARAH: And I just—
+
+ELI: Ugh.
+
+SARAH: Again, I'm like, look, I'm here for zero derivation. I get that “a summons” is what you get, and so you have been “summonsed” if you got that thing, but also, “a summons” is just the noun of the verb “summon,” so like, why did you do this? This seems really unnecessarily complicated. But I suppose, see also: the judicial system. But yeah—
+
+ELI: I mean, I guess… Oh, I guess there's like a very thin, like you've gotten summoned to jury duty, but the way that you got summoned was by being summonsed.
+
+SARAH: Right, and I'm like, did we really need that level of detail?
+
+[ELI laughs]
+
+SARAH: Like, I see what you're saying, but did anyone need that? And I would say that they don't. But also, I'm not in charge of writing up all of the official paperwork for that nonsense, so here we are.
+
+ELI: So that is a very deep dive into all of the different ways that you can derive new words from old words. You will start hearing these all over the place when you are listening. You'll hear blends and clips, and you'll really start hearing zero derivation, and you might even hear some, like, reanalysis or that kind of thing. So keep your ears out, especially for those fun little nonce forms, because I think that nonce-derived words are probably where a lot of the best language play comes from.
+
+SARAH: Definitely. All right, well, thank you so much, Eli. That was super fun. Why don't we move on to some real language questions submitted by real listeners? If you would like to send us a question, please email it in text to questions@linguisticsafterdark.com, or you can send us an audio recording of you speaking your question aloud, which is super handy for phonology and accent questions, or hit us up on all of the usual social media locations.
+
+ELI: All right. So Galadryels asks via Slack, “Is it possible to have a different accent in your speaking voice versus your inner monologue voice on a regular basis? When I'm tired, mine just throws from one accent to another, even ones I can't make my mouth do but my brain knows the sounds of.” And we had a couple other people on the Slack mentioned that they have something similar.
+
+SARAH: I mean, I guess I would say it's possible if you have… Oh, well, okay, they're saying, is it… That happens to them in certain contexts, but is it common or possible for your mental voice to just have a completely different sound than your normal voice?
+
+ELI: Yeah, I don't know. This feels like a neurology question more than it feels like a linguistics question.
+
+SARAH: Yeah, and I'm not sure—
+
+ELI: Wait, do you know about sudden accent syndrome?
+
+SARAH: Yeah. Not a lot, but I have definitely heard of it. It's like, you get some sort of neurological damage or neurological event or something, and then suddenly your speaking voice has completely shifted, like, your default accent, right?
+
+ELI: Yeah. So I wonder about those people and their inner monologue, whether their inner monologue is still the accent that they had before, or whether it's their new external accent.
+
+SARAH: Yeah. I don't even know how you would go about finding this out. I mean, other than just, I guess, surveying people a lot, but that's such a subjective experience? Not to mention all the people who just don't have an inner monologue.
+
+ELI: Yeah, exactly. Which, this is like, this is very weird to me because my inner monologue is like very strong, especially when I'm reading or, like, trying to think where I think through things by talking internally about them, but there are a lot of people out there who just don't have an inner monologue.
+
+SARAH: I had a really interesting experience with my inner monologue recently, or no, more like the narrator voice while I'm reading something. So this comes in two parts. One is that when I was a child and we would go on road trips, we usually got audiobooks to listen to in the car, and basically the one thing that my whole family could agree to listen to was Harry Potter. And so even once we'd all read all of the books, we would just relisten to those because it was like…
+
+ELI: Yeah, sure.
+
+SARAH: …neutral common ground we could agree on. And the narrator for those books is a guy called Jim Dale, who I absolutely love. And I don't do it so much anymore, but there was definitely a point at which I could, on demand, read in his voice in my head, and I would occasionally do that when I wanted to check the quality of some writing, like, “Does it sound good if Jim Dale says it?”
+
+[ELI laughs]
+
+SARAH: “It's probably well written.”
+
+ELI: I love that.
+
+SARAH: And recently, I've been listening to the “Raven Boys” series, or “The Raven Cycle,” by Maggie Stiefvater.
+
+ELI: Great set of books, by the way.
+
+SARAH: Excellent set of books.
+
+ELI: Highly recommended.
+
+SARAH: Yeah. And there's some really interesting language play—There's a lot of really interesting language play that goes on there, especially if you actually know any Latin, and I… used to know the name of the narrator for that one, and I've now forgotten. He's also really excellent, and even more than Jim Dale, he does this incredible character acting, for a lot of the different characters. And so I've been listening to those for a while, and then I was reading in print a completely unrelated story, and all of a sudden, one of the characters in the print story said something particularly snarky, and my brain read it in the Ronan Lynch voice of that narrator, and I was like, “What just happened?” Also, because the two characters in question are actually nothing at all alike, and I was like, “Brain, what are you doing?” But…
+
+[ELI laughs] 
+
+JENNY: Also, this isn’t linguistics, I looked it up. I think it's Will Patton?
+
+SARAH: That's right. His name is Will Patton. He also had a bit part, not a bit part, a occasionally recurring part on the TV show NUMB3RS, which I loved in high school.
+
+ELI: Oh, NUMB3RS was a great show.
+
+SARAH: So he played that like LA local cop who was like trying to deal with all of the gang wars and stuff, and I went back and rewatched NUMB3RS at one point after I had first listened to “The Raven Boys,” and I was like, “Oh my God, it's the voice of Henrietta, but it's a LA cop. What is happening?” And then found out that it's the same guy.
+
+ELI: Hey, more you know.
+
+SARAH: So yeah, I don't… I assume it's possible.
+
+ELI: I mean, sure. Yeah, I think, you know, like you've said, and I have heard of people who have different narrator voices in their head, they have different… I mean, I think when I think in my head in a different language, I have a different voice or accent, but also when I speak out loud in a different language, I think my voice quality changes, so I don't know. The question is, is it possible? It's absolutely possible. You know, I don't see any reason why your inner monologue voice would be so directly linked to your external voice.
+
+SARAH: Yeah. And the point you make about other languages too makes me wonder, like, at what point do some of these things get set in our neurology, or do they? Because, like, there's pretty substantial evidence across a lot of studies, across languages, across experiences and stuff, of no matter how no matter how fluent and comfortable you get in a non-native language, the odds that you will default to counting or swearing in that language are much lower, and, like, there's no—I don't know.
+
+ELI: Well, I think that that's, there's a tangent here that's about, like, why it's so important when you're learning a language to like, do your filler words in that language and, like, count in that language a lot and learn what the swear words are and, like, all of the little sort of paralinguistic stuff. I mean, counting isn't like paralinguistic, but it's, I don't know, it's unconscious in a kind of a way. So, you know, like, to try to do that, and even to do it, I guess, in your head, so that you're really immersed and you mold your thought processes to it.
+
+SARAH: I know a lot of people who are, you would never know that they didn't speak English as their first language, but then if you ask them to do math… Like they can even count—
+
+ELI: Yeah, they fall back.
+
+SARAH: …objects, but like to actually do arithmetic, they're like, “Nope, I'm doing that in German” or Swahili or whatever it is, and I just think that's really interesting.
+
+JENNY: This is kind of another tangent, but like going back to the, like, having a voice like for your internal monologue that differs from your own, kind of like with the narrator thing, but I know several trans people who—the voice of their internal monologue did not sound like their voice out loud. It was like they had a girl's voice in their head or a boy's voice in their head, and I don't remember… Like, I haven't, it hasn't come up since any of them started, like, actually transitioning, but that was like a thing that a couple people I know have talked about being one of the things that helped them figure out that they were trans was realizing that not everybody just had a girl's voice for their internal monologue, most people's internal monologues actually sound like your own voice, and so that was one of the clues that like maybe’s something odd about that, and so I wonder like how that also kind of ties into the your internal monologue not sounding like you sound out loud. I wonder if that's also related.
+
+ELI: Yeah, that's very cool. I don't know that we have anything to add to that. I think that's a great end to this question.
+
+SARAH: All right. Well, that will take us then to our second question, which came from an email from Bex, who asked, “I would love to hear y'all talk about Unicode and Unicode normalization and the Basic Multilingual Plane from a linguistics perspective,” and I am now sort of wishing I was allowed to do research, because that sounds like a lot.
+
+ELI: It is a lot. This is a really big topic. I don't have to do research on this because I know way too much about this.
+
+SARAH: Please tell.
+
+ELI: Well, so I think I'll start by, which ones of these things do you and don't you sort of feel familiar with?
+
+SARAH: I mean, I know what Unicode is. It's like the characters, but also the organization that handles them, that are consistently accepted across different computing devices, I think is a good definition.
+
+ELI: Yeah, the organization is called the Unicode Consortium, which sounds like an evil organization, if I've ever heard it. And yeah, it's this idea… The standard is this idea that there's one number that represents one glyph.
+
+SARAH: Right, and then, and different characters, different glyphs, have been added to that collection over time in order to accommodate additional alphabets or other scripts or other…
+
+ELI: Sets of symbols.
+
+SARAH: … para/meta-linguistic symbols, math symbols, emoji is the big one right now.
+
+ELI: Yeah, everyone knows about Unicode because there are emoji in Unicode, and you get more emoji when they release a new version of the standard.
+
+SARAH: Right. If I understand correctly, the Basic Multilingual Plane is the part where if you go in your, like, “insert special character here” window on your computer, it's like Latin basic.
+
+ELI: So that is not correct.
+
+SARAH: Okay, cool. Tell me what I did wrong.
+
+ELI: Yeah, so that's a character set, and for historical and America-centric reasons, the ASCII character set, which is basically all the keys that are on a normal QWERTY keyboard or a U.S. QWERTY keyboard, stayed exactly where they were in ASCII, and then some other stuff, but that only takes care of the first 127 characters or so. In Unicode, you get one number to one glyph, and so those numbers can be as high as you want. I mean, we can add… We can add glyphs on to the end forever, basically. So the… I'm not going to get super, super deep into it, but Unicode is organized into a series of planes, which are thought of as sort of basically a set of numbers, and then each plane is sort of the next set of numbers up, and weirdly, so there's the Basic Multilingual Plane, and then there's all the other ones are called the astral planes.
+
+SARAH: [laughs] That's incredible.
+
+ELI: Because nerds. So the Basic Multilingual Plane is Unicode characters. You usually will see them written as U+ and then four hexadecimal digits, so 0 through 9 and A through F, encoding places of 0 to 15. And if I remember correctly, the Basic Multilingual Plane is everything from 0000 to FFFF. So there's nothing that prevents us from assigning a character to number… guess it would be 10001, right? Five, five hex digits in it. But there's sort of like this idea, because the first Unicode standard sort of thought like, “Oh, these four digits will kind of be most of what we'll need. Like, yes, we'll build it to be extensible, but like, this is where our first kind of mark in the sand is, is four Unicode digits. That's where we'll be okay.” And so that's the Basic Multilingual Plane. Basically, every character that you think of is in there. There's a bunch of stuff that is higher. I think a lot of the Chinese, Japanese, Korean, unified, you know, kanji, whatever, stuff is up in the astral planes, and you either can just mark that directly, depending on your encoding, or if you only have access to the Basic Multilingual Plane, there's a whole section of what they call surrogate markers that you could put together in various combinations to be interpreted as characters from the astral planes in a not-straightforward way that is not worth going into.
+
+SARAH: Is that why documents written in those Asian languages that get saved poorly then turn into like Basic Multilingual gobbledygook?
+
+ELI: Sometimes.
+
+SARAH: Okay.
+
+ELI: Also, a lot of those documents often got saved in previous encodings that are not a Unicode encoding. And we don't have time to go deeply into various Unicode encodings, because this is only an hour-long podcast,
+
+[SARAH laughs]
+
+ELI: but for example, there is a coding for Japanese characters called Shift JIS, which just like ASCII was like, “Okay, we're going to put all the Latin characters and the punctuation that we use most in the smaller numbers,” Shift JIS was like, “We're going to take all the Japanese characters and put them in the smaller numbers,” and so sometimes you get something that's like encoded in a different encoding, even if it's pre-Unicode, and then it gets done into gobbledygook. Actually, there's a Japanese word for it, which is “mojibake” [Sarah giggles], which is what happens when you try to interpret like a Shift JIS or another-encoded file in ASCII or in Unicode. But it also can happen where you have something that's not aware of the astral planes and tries to interpret stuff into Basic Multilingual Plane things.
+
+SARAH: Gotcha.
+
+ELI: Oh, and we didn't talk about normalization. Normalization is basically, because of #reasons, there is both, for example, the character <é> with an acute accent, and the characters <e> and “stick an acute accent on the previous character” as a character, right? It's called the Modifier Acute Accent or whatever. And so there are two different ways to write <é> with an acute accent. One is one number, and one is two numbers or two glyphs next to each other.
+
+SARAH: Right, and there's also the thing where like the IPA letter esh <ʃ> and the integral symbol <∫> are basically the same thing, but they each have their own Unicode number.
+
+ELI: Yes, and so that's a slightly different thing that talks about like synonym characters, or variant characters, or that kind of thing. Normalization is the process of deciding how you're going to collapse those things. So, some versions of normalization sort of say, “We'll compose everything we can,” so you, at the other end, you only get the <é>-with-accent single character. Some of them say, “We're going to stretch everything out,” so a single <é>-with-an-accent character goes in, and it turns it into <e> and then a modifier, an accent modifier. Sometimes they collapse variants, so you can have normalization algorithm that says like, “Fuck the integral symbol, we're just using eshes,” like… All of that. So there's not one kind of normalization, although the Unicode Consortium publishes a couple of useful normalization algorithms, basically.
+
+SARAH: So then also, what's the benefit of that type of normalization if we have all those characters already anyway?
+
+ELI: Because if you have a username that has an accent in it, or if you have a last name that has an accent in it, and you type into search for that username, or you try to log in, if it's typed as one character <é>-with-an-accent, but it's stored as <e> and then a second character that's a modifier, then you're not going to get a hit, because computers are just comparing the numbers, and so it's useful to be able to, for example, normalize before you store and then normalize your input before you search against it so that you have sort of ground truth for everything.
+
+SARAH: So the user either who writes the original data or who is searching or inputting new data can type it either way, but the idea is that the machine is able to, on the backend, say, “Oh, actually, people usually use these two characters synonymously, and we should look for both of them in some sort of way, or collapse them down to a certain way so that…”
+
+ELI: Yeah, exactly.
+
+SARAH: “…you get the most number of hits.” Okay.
+
+ELI: Yeah, exactly. So, granted, the programmer has to be smart enough to put that in there. It doesn't happen automatically.
+
+SARAH: Of course.
+
+ELI: But also, you don't want to do it by rote, because there's different uses for these different things.
+
+SARAH: Sure.
+
+ELI: Sometimes you want to use this kind of normalization; sometimes you want to use that kind of normalization. So from a linguistics perspective, first of all, Unicode is great because now we have all of the things that we need to write all of the weird characters that we use and also represent the languages that we're studying and all of that stuff. I am of the era where you had to use fonts from SIL, the Summer Institute of Linguistics, in order to access characters in the IPA, and it wasn't guaranteed. I'm also right on the tail end of things like people using capital letters in phonetics transcriptions to represent… like a capital S to represent an ʃ and that kind of thing. And so now you don't have to. Basically every font… I mean, not every font, but like all the fonts that come with your computer are basically going to have… are going to be Unicode-aware and that kind of thing, and they're not just going to be like, “I don't have that character. Here's a diamond with a question mark in it.”
+ELI: The normalization thing is interesting from a linguistics perspective. I think it's mostly about searching or mostly about making sure that the corpora that we have are useful, because I think also… I mean, Sarah, you sort of hit on it earlier where we've got stuff like we've got a lot of IPA symbols that look like other symbols, and you want to make sure that that's usable and that's searchable and it's, you know, interpretable, especially if you're running some kind of statistics or you're, you know, trying to do a corpus search or something like that.
+
+SARAH: Yeah, I actually… I've run into this a couple times recently. Obviously, I hadn't thought about it in quite these terms, but in Latin, there are… There's basically one diacritic that we use. It's the macron or the long mark over the vowel, but depending on the level of the text, sometimes they're included, and sometimes they're not, and sometimes some of them are included, and it's like a whole thing, and different teachers and different editors and different writers hold to different—basically their personal standard of which diacritics they think are useful, and even myself as a single person, like, sometimes I use them consistently and sometimes I don't, and then I go searching through my files and I'm like, “I swear we read this story. Where is the document about it?” and it turns out that I had actually used the accents that day, and so it didn't show up right. And also, like, when I give my kids vocab quizzes, I have learned to build into the answer key both the pre-combined <ē>-with-long-mark, and letter <e> appended long mark after the fact, because depending on which keyboard you use and which whatever, it would mark it incorrect if they chose a different version of the Unicode character than I did. 
+
+ELI: Yeah, and a lot of times you don't know which one you're typing unless you're being really particular about it.
+
+SARAH: The way you can find out is, if you backspace it, it will backspace the accent separately from the letter if they are post-combined, but like, if you—
+
+ELI: That is usually the case. Yeah.
+
+SARAH: But also, if you typed it right the first time and never hit backspace, then why would you know that?
+
+ELI: Exactly. There is another perspective here—which I don't know if it's so much of a linguistics perspective, although linguistics plays a part; it may be more of a political perspective—in terms of, we have this, this body of the Unicode Consortium, which is, it's a number of people who work at tech companies, recently, they have opened to linguistics consultants and that kind of thing, but the start of it was “How do we represent these characters on computers,” and so it really was a tech-focused endeavor talking about which scripts are going to get into Unicode, which ones rate being in Unicode. And if you have a new script, are the letters that are in that script already represented and so you don't need a new area, or maybe we'll just add the ones that are specific to that, you know, the idea of like, “We already have an æ,” and so, you know, “Here you go, use the æ,” “Oh, wait, no, but we think that it's a different letter than that,” and trying to convince the Consortium that, no, we do actually need a new glyph, even if it looks a lot like the previous ones.
+ELI: You can go and you can read all kinds of sort of groups of people or groups of language speakers who have said like, you know, who have been told, “Oh, this letter is already in Unicode,” and their answer is “No, it's not. That letter’s used for a different purpose. Ours is a different thing,” and trying to combine this idea. You know, there are languages that have scripts that are very close to each other where they might consider a letter with a modifier to be its own letter, as opposed to something else. A good example of this is in Spanish. You know, you have <ll> and <rr> AND <ch>, which are “double L,” “double R,” and “CH,” which are letters in the alphabet. They're not used that way—I mean, people type them as two different letters, I think that's pretty uncontroversial in the Spanish-speaking world, although write in if I'm wrong—But there's other stuff, you know, languages where something looks similar to a Cyrillic letter, but they think that it's distinct because it has some kind of modifier on it.
+ELI: Another big one of this is, Unicode took all the Chinese characters and all of the kanji and all of the Chinese-derived characters in Korean, which I cannot remember the name of… not Hangul, but Korean often uses Chinese characters in some cases. And just, they were like, “These basically overlap. Let's all s—let's save some space and put the ones that are pretty similar all on top of each other, even though they might be written differently in Chinese and Japanese and Korean.” And there are a number of these, and that's a really controversial decision. It's one that was made by Westerners and wasn't really made with the input of those language speakers. Was that the right thing to do? Instead, you might have three copies of what seems like are the same thing, but then again, there are lots of different capital letter A for all kinds of stuff, including things like bold capital A and that kind of thing, which if, you know, you see on like Twitter usernames and that kind of thing, people will often do that sort of thing.
+ELI: So I don't know if that's so much from a linguistics perspective, except from the point of view of like languages that have small speaker communities asking to be represented in how they view their language and their orthography. It's a linguistics concern, it's a political concern, it's a sociological concern, it's an identity concern, and I think there is this question of, are the right people on the Unicode Consortium, and also like, who are the right people to be on the Unicode Consortium? It's the kind of thing that happens all the time when you're solving human problems to shove them into tech things.
+
+SARAH: And the other thing too is, there's also a tech concern, right? Because even with ʃ and integral, which are not really a minority language community problem—
+
+ELI: And they're not used for the same thing either.
+
+SARAH: And they're not used for the same thing at all, and that's I guess that's part of my point is like, if you were just scrolling through the list of Unicode characters, and you were like, “Oh, that looks like the thing that I want,” and you click it, to a human reading the shapes of the characters, that's fine, that's sufficient, that's good. To a computer, that is a completely different thing, and you have just spelled the word wrong, and everything is broken.
+
+ELI: Yeah, exactly.
+
+SARAH: Like, even among, let's say, the Latin alphabet and the Greek and Cyrillic alphabets, which are probably the… I’m pulling this out of my butt, but like, probably the three first alphabets we put into Unicode, they all have a letter, as far as I'm aware, that in lowercase is a small circle and in uppercase is a bigger circle, and probably makes a vowel sound something like [o]. Right? So there's no reason visually that those should be three different letters, because the lowercase and capital version of all of those letters looks exactly the same. But also, if you're going to go look at the collection of the Greek alphabet, and you're like, “Ah. Well, but omicron's not here, because it's already in the Latin alphabet, so like, we're just putting in the letters that look different,” then you have to go as the—as the user, the input, like the human side of things, you have to go like look in all of the different alphabets to find the different parts of things, and it's actually so much more easy on a human to be like, “Okay, Latin letter O and Greek letter omicron are different.” And then the computer still does need that sort of normalization process, because I have both of… I have keyboards for Greek and Latin both installed on all of my devices, and if I just type the one letter, there is not a guarantee that I will have switched to the right input source. If I try to type a longer word, I'm probably going to notice when the letters come out wrong, but, you know, if I'm just typing like one thing, I might not, and then if I can't find anything because I've spelled it with omicron instead of <o>, that's like even more confusing than I spelled it with or without the accent on it.
+
+ELI: Yeah, there's a whole rabbit hole of all of this stuff, but I think what you've brought up illustrates the other side of these kinds of like new scripts that are being told “Oh, we'll piecemeal you from the other stuff,” which is, at the beginning, people just said, “Okay, we've got the Latin alphabet. Let's chuck the whole Greek alphabet in there. Let's chuck all of Cyrillic in there,” and so on, although—to be clear, Russian Cyrillic, because they've had to go back and add letters that are in other languages that use Cyrillic, but the length of the alphabet isn't exactly the same. Similarly with like, is it Danish that has <æ>, <ä> with an umlaut and <ö> with an umlaut? No, wait, which language is it that has those as three letters at the end of the…
+
+SARAH:  That sounds right. And well, and I know Finnish has all the… Finnish has a lot of umlauts, but I don't think they have æ.
+
+ELI: Yeah. Oh, man, or it's… Okay. Well, anyway, we'll look it up and we'll put it in the show notes. Because they were in first, they got their whole alphabet not piecemeal put in, and so I think the sort of human aspect of “Oh, I have to go find this. I'm just going to find the right one,” a lot of times now when those are displayed, even if they're piecemeal from different things, you can have them displayed all in one place and in the right order, but it's not fair to those other language communities that they have to, like, piecemeal their things together, but like, we just chucked the whole Greek alphabet in there, even though, like, alpha's the same, omicron's the same, right? Like—
+
+SARAH: Yeah, and for that matter, we also, when you think about fonts, like, in a standard kind of Times New Roman appearance, a capital alpha <Α> and a capital “a” <A> look the same. I don't actually know if that's true in handwriting. I don't actually know… I mean, for that matter, the lowercase of those two letters doesn't look at all that—I mean, it looks a little bit similar, but they're not identical, so are you going to say we have capital “this letter with no name,” but then we have a lowercase <a> and a lowercase <α>? Or like—
+
+ELI: Yeah, so these are questions that the Unicode Consortium tries to solve because they have to at some point, and they have some—I will say, I've been ragging on them a little bit, but they do have some really good ways of resolving these things. I think the thing is, is that it's never going to be perfect, because these things are shifty, and they're human, and they have gradients, and that's just not a thing. Like, you have to figure out where the lines are. I think, talking about it from a linguistics perspective, every language has to be treated on an equal plane, and I think you just see political inequities in the way that Unicode deals with some of these things.
+
+SARAH: Yeah, and that's going to be the case probably forever, because humans are like that, and there's an added—
+
+ELI: And because you can't change Unicode.
+
+SARAH: Well… Right. I mean, there's this added difficulty of everythi—I mean, once Unicode became this international accepted standard, everything has been written in it, and so even if you decided to go back and really condense every single thing and actually just have “capital first letter of a lot of alphabets, lowercase <a>, lowercase <α>” situation, like, what happens to every document on the internet?
+
+ELI: Yeah, this is my point is, you can't.
+
+SARAH: Yeah.
+
+ELI: And it's actually, it's part of the standard that you can't. Once a letter has a… Once a glyph has a number, it's in there for forever.
+
+SARAH: Right. Right, and then what is the solution, so for these scripts that have been piecemealed together, like what if you go and give them omicron? And then you're like, so now everything you've written with Latin O instead of omicron is still readable, but isn't the same thing as the things you're going to type in the future, and yeah, it's…
+
+ELI: Yeah. And this can circle back to the normalization stuff, because there are some ways to sort of make a normalization algorithm that helps with that kind of thing. It is a bit of a mess, you know.
+
+SARAH: I do not envy them having to handle that.
+
+ELI: Yeah, but it would be kind of cool to be on the Unicode Consortium.
+
+SARAH: It'd be real cool. I just would need to quit all of my other jobs, probably.
+
+ELI: They're sort of like… Well, so actually, the cool thing about being on the Unicode Consortium is that you get paid by a company to do it. Like, it is your job. Like if you are the like Microsoft representative on the Consortium, like, yeah, you do stuff in other parts of your job, but like, that is your job at Microsoft is to like be their rep to the Unicode Consortium.
+
+SARAH: Okay, that's pretty cool.
+
+ELI: It's really cool. I feel like the Unicode Consortium is like the cyber equivalent, almost, to the, like, if you're going to draw out a web of different shady organizations, we've got L’Académie, we've got the Unicode Consortium, and this sort of, like—here's the like old guard stuck up French and then here's the like new like technologically cyborg Unicode like Silicon Valley kind of thing over here, and then, I don't know, we’re slowly building our map of linguistically related…
+
+SARAH: Geopolitical organizations?
+
+ELI: Geopolitical shady organizations, yeah.
+
+[SARAH laughs]
+
+ELI: Yeah. Although I think… I'll go look, but I think that somebody pointed this out about ten or fifteen years ago and they were like, “Hey, you're trying to solve like linguistics issues, and you don't have any linguists,” and being nerds and not, I don't know, stuck up French authors, they were like, “Maybe we should get a linguist on here,” so I do think that they do at least have consultants, if not permanent members.
+
+SARAH: That's encouraging.
+
+ELI: Yeah. You know, like everything in the tech industry, like, they've taken some small obvious steps, probably still need to put in the work.
+
+SARAH: Yeah.
+
+ELI: All right. Shall we move on to question three?
+
+SARAH: I think we shall.
+
+ELI: Dani asks via email, “I'm learning French and I'm really confused about the word ‘chez.’” That's C-H-E-Z. “It's supposedly a preposition, but it's used in a billion different contexts and also indicates possession. Also, when used with the word ‘lui,’ as in ‘chez lui,’ it seems like it's not a preposition anymore.” Hold on, I'm going to let you finish, but ‘chez’ is a preposition? Is that right?
+
+SARAH: Yeah.
+
+ELI: The fuck, I thought it meant like “house.”
+
+SARAH: Okay, so it means “at the house of.”
+
+ELI: Oh, okay. Specific, but—
+
+SARAH: Specific.
+
+ELI: Seems French.
+
+SARAH: But yes, Latin has a word like this too, ‘apud,’ and-
+
+ELI: You know, silly me, I was expecting it to sound like ‘chez.’
+
+SARAH: Yeah, no, I have no idea if they're related in any way, but they both mean that thing in English. So one of the things that I've discovered is particularly different about English compared to Romance languages and possibly other Western European languages in general, especially the ones that Americans often learn in school, is kind of related to that zero-derivation thing we were talking about at the top of the show, where we just end up with a lot more phrases or compound… not just words like “pickpocket,” but like “at the house of” is… You know, if I say “at the house of pizza,” right, in English, that's two prepositional phrases, that's “at the house” and “of pizza.” But the concept of “at the house of” is condensed into a single word in French and Latin, and “on top of” is often condensed into a single word in other languages, “at the side of.” And like, we have ways to do these in single words in English, so you can say “beside” or “next to” or—
+
+ELI: “Atop.”
+
+SARAH: “Atop.”
+
+ELI: “Above.”
+
+SARAH: “Above.” “Upon.” Right? But we, for some reason, in English just have not only these single-word prepositions, but also these like multi-prepositional-phrase units.
+
+ELI: This seems similar to me to the way that English has a lot of verbs that have preposition endings.
+
+SARAH: Yes. Yes. That’s exactly where I was going to go.
+
+ELI: And other languages don't really do that. Yeah.
+
+SARAH: Right. So, English prepositions are often zero-derived into adverbs.
+
+ELI: Yeah, that tracks.
+
+SARAH: That's a little bit of a hot take in that I could not possibly cite you a source on that off the top of my head, but—
+
+ELI: No, but that—
+
+SARAH: You can—
+
+ELI: That tracks, you know.
+
+SARAH: Right? You drive up the street or you climb up the ladder, but you can also just climb up. And a lot of Romance languages—and, again, probably other European languages that I don't speak—incorporate those adverbs/prepositions into the bigger words, using “bigger” to mean things like nouns, verbs and adjectives.
+
+ELI: Yeah. So you'll have a verb that means “to go up” that's different from the maybe etymologically related “to go.”
+
+SARAH: Right, and in fact, I'm pretty sure French, and definitely Latin, includes those, or in many cases includes those adverbs or prepositions into the word and still wants a preposition afterward. So not all the time, but a huge percentage of the time in Latin, you would say things like–“exit Mercutio stage left,” right? If you were to say, if you were to use that type of phrasing in a full Latin sentence, “exit Mercutio ex scaena,” like “Mercutio leaves ‘ex scaena,’” from the stage, “from the,” even though “ex” is already in the verb, you have to say it. He can't just “leave the stage (accusative direct object).”
+
+ELI: Yeah, that's true. I, you know, a lot of times thinking about that kind of direct object often seems like there ought to be a preposition in there in English, or there is a preposition, but it's a preposition that's attached to the verb. It's a verb with a preposition rather than feeling like you sort of freely chose to use a prepositional phrase after the verb.
+
+SARAH: Right, or it's a situation where I find like in English, we often have the option. So I can say in English, “he leaves the stage,” and I can also say “he leaves from the stage,” and that sounds a little weird to me, but it doesn't sound wrong. It sounds like maybe not my dialect.
+
+ELI: Yeah, it sounds more specific.
+
+SARAH: Yeah.
+
+ELI: Kind of like “do”-support.
+
+SARAH: Sure. And part of, I think, what helps with that in English is that since we don't have that inflectional morphology very much, and because we treat all of the objects with the same type of morphology when we have it, there's not a pronounced difference between leaving from somewhere and leaving somewhere.
+
+ELI: Oh yeah, they both get the same marking, which most of the time is none, but if it does, it's just accusative.
+
+SARAH: Right, right. And so I think what often… With “chez” in French in particular, we're running into two different problems that you might have in picking up a second language, which is (1) the part of speech just doesn't overlap as neatly as you would like it to, and (2) this is a word for… I mean, this is one of those quote-unquote “untranslatable” words, because we have the concept in English of something happening at somebody's house. We just don't have a singular word for it, and so it's weird to be like, to think about it that way. So for the phrase that Danny gave, “chez lui” means “at his house,” or “at her house.” “Lui” is, I think, all of the genders. And it feels weird, because usually when you think of a preposition, you're thinking of it directly relating to that object, and “chez lui” doesn't actually mean anything about the person “lui” represents, except it does, because it's about their house.
+
+ELI: “At the house of them.”
+
+SARAH: Right. “At the house of them,” basically. And so yeah, there's this weird thing where English doesn't handle that concept via one single preposition, and so it's weird to make that shift.
+
+ELI: Although I would say that English, you can in English just use “at,” and then you'd say like a preposition, right? So you'd be like, “Oh, that's happening at the Jones’s,” right? Or, “Oh, there's a party at Bob's tonight,” and we can just use “at,” but you have the added context that if you just use a possessive, like a person with a possessive, that it's, like, where they live.
+
+SARAH: Right, so instead of saying “at the house of Bob,” you're saying “at Bob's house,” and you're clipping off that last word, and that's fine, but it makes it feel a little bit different. But the other thing about “chez” is that it also happens in French in ways that we wouldn't translate it using “at” in English. So after work, when you're done at the office, you would “rentrer chez vous,” like… I conjugated that terribly, but you would “rentre,” “go home,” “chez vous,” “to your own house,” and in English, we don't say “I go at my house.” And again, that's just a situation where the specific prepositions that each language chooses to use with specific verbs or specific situations sometimes overlap really well and sometimes don't, and it's kind of arbitrary.
+
+ELI: This seems parallel to me to the way that different cases have different jobs in different languages.
+
+SARAH: Yeah, and it's like the dative is usually going to be the indirect object. The accusative is usually going to be the direct object.
+
+ELI: But the dative sometimes has an additional job that might be used by another… or might be represented by another case in another language.
+
+SARAH: Exactly.
+
+ELI: Yeah.
+
+SARAH: Yeah. And yeah, it's like sometimes… I feel bad that all of my examples are always Latin, but like, I don't know, it’s what I do with my life.
+
+ELI: I don't know. All my examples are all Japanese, like…
+
+SARAH: Fair enough.
+
+JENNY: I feel like all your examples are all Latin, because that's what we get for talking about linguistics with a Latin teacher? Like, if we didn't want Latin examples, then we should find someone who doesn't… teach Latin. Professionally. Like, that's kind of what we expect.
+
+SARAH: No, you're right. You're right.
+
+ELI: If we didn't want Latin examples, maybe we should be doing this podcast in a language that has actual case marking.
+
+SARAH: I mean, that too, yeah. But like, I was talking not that long ago with some of my students about the fact that there are a number of words, not just prepositions, but verbs and adjectives that, as we say, take the dative in Latin, meaning they are going to relate to a noun, and the noun that they relate to is going to be dative, and some of those are just kind of arbitrary irregular things. Like, why do you approach something and the thing is dative? There's no reason for that.
+
+ELI: And you can like make up a reason for that, but the reality is that that just is how that word works.
+
+SARAH: Right. Right, and it turns out that a whole bunch of compound verbs, like if you put a preposition on a verb in Latin, the odds of it taking a dative instead of an accusative skyrocket. Why? Because humans.
+
+ELI: Because… Right, exactly.
+
+SARAH: Like, there's no real reason, but there are words that maybe have a reason or maybe it's because humans, but it happens to be the same type of “because humans” that English has. So if you are friendly, or hostile, or generous, or kind, in English, all of those are followed by the word “to,” which is also what we use to mark the dative case in English. And in Latin, if you are friendly, or hostile, or generous, or kind, the person you feel that way toward goes in the dative, and there's not a reason for that other than…
+
+ELI: Because humans.
+
+SARAH: …we both evolved that way and it's really convenient. There's also ones where that's not true. Like, I cannot think of any examples off the top… I mean, there's the ones that are not that way too, like with “approach something.” Like, yeah, that has “to,” but that's a different kind of “to” than we usually think of dative. Or, oh, better, inexplicably, in Latin, there are two really common verbs for “to order someone to do something,” and one of them, the person you order goes in the dative, and one of them, the person you order goes in the accusative. Because reasons.
+
+ELI: And I think, again, like, you can come up with ways to justify this sort of for the purposes of learning and remembering it.
+
+SARAH: Exactly.
+
+ELI: But it is important to remember that, like, that's not the actual reason why that works. The actual reason why it is that way is because that is how that language evolved, and it is… There's not a less arbitrary thing that you can say about it in terms of talking about the actual structure. There is a less arbitrary thing you can say about it in order to remember it.
+
+SARAH: Right. It's a mnemonic, not an origin. And I remember my husband, who also teaches Latin, saying once that he makes a point when he can on vocab lists of rephrasing the definitions in a way that sounds like it should take a dative whenever he can. So like, the verb “nocere,” which is I think, famous in English for being in the “first, do no harm” quote, means “to harm” or “to injure,” and so you'll often just see it as “‘nocere’ plus dative equals ‘to harm.’” But then what Michael will do and what other dictionaries will also do is say, “to do harm (to someone),” because that's a phrasing in English that lines up with the dativeness of it in Latin and is a mnemonic and a parallel, but not necessarily a causal one, just a helpful one.
+
+ELI: Yeah, exactly. So this sounds like a pretty great answer to what “chez” is doing here, because I think once you understand that that other languages are going to have these prepositions, but they're prepositions that sort of have a bunch of meaning packed into them, then it kind of opens your mind to being able to use prepositions in a different way than in English, where we're using them very much like individual Legos as opposed to sort of things that can have more complex concepts pumped into them.
+
+SARAH: Yeah. I like that Lego analogy. I think English in general tends to be a pretty, like, individual-Lego-piece type of language, and I think a lot of other European languages tend to be like, “Here is the whole Lego car, and if you really want to take it apart, maybe you can, but also it might just be a single piece of injection-molded plastic.”
+
+ELI: Yeah, I think that this is a boon and it is a bane to English speakers who are trying to learn other languages, because I think it's really easy to put together a bunch of English Legos that mean the same thing as another word and then start to think that that is the translation, and maybe there's some deep structure in the other language or maybe not, but either way, to kind of think about this like, “Oh, I'm going to construct a parallel in English and sort of confuse the model for the reality,” and I think that you have to meet… When you're learning another language, you have to meet that language where it is, basically, and understand… I mean, we don't even have to go out to like the typology of languages and start talking about synthetic languages and agglutination and that kind of thing. We can even just talk about within the realm of prepositions, even, there are ways that English works with that particular word category, and there are ways that other languages work with that particular word category that are different, and it's good to acknowledge that and not to kind of think that you're going to always be able to have this kind of one-to-one correspondence. You can force it if you need to, but it's not a good long-term solution.
+
+SARAH: Yeah, and that's one of the things in general that I think is so valuable about studying another language even if you never get the chance to use it in conversation with another person, or even if you never travel to the place where it is spoken. I mean, I spend most of my day, every day, working in a language that is not actually realistically used in active conversation, but not only do I get to read the texts from that language in the original and encounter the historical speakers and writers in that language on their own terms and all of the other wonderful benefits of studying Latin, but also, it makes me think about English in a different way, and it makes me think about words and language and communication in a different way. And I say this kind of flippantly to my students… Not flippantly, but kind of snarkily to my students sometimes when they complain about case endings or other parts of Latin that they find annoying or difficult because they are a native English speaker, but to a native Latin speaker, if they tried to learn English, they would have all of the same complaints in reverse. They would be like, “Where are your case endings? Case endings are so helpful. Why do you have 85 different prepositions that mean the same thing? Why do I have to learn so much vocabulary?”
+SARAH: And then on the flip side, personally, I think Latin prepositions are really straightforward because there's like two of them that have ambiguous meanings. The rest of them are all extremely cut and dry. In Greek, there are three non-nominative cases. There's accusative, dative, and genitive, and all of them can take prepositions, and half the prepositions can take all three cases, and the meaning of the preposition changes depending on whether you are περῐ́ [perĭ́] a genitive thing, περῐ́ [perĭ́] a dative thing, or περῐ́ [perĭ́] an accusative thing. And that's about when I noped out of Greek, because why would you do that? And again, as an English speaker, I'm like, “That's terrible,” and as an Ancient Greek speaker who would try to learn English, they would be like, “No, but you could just have περῐ́ [perĭ́], and that could mean all three things. Why do you need ‘above,’ ‘on top of,’ ‘atop,’ and ‘upon’? That's stupid.” And it's like every language is going to balance that in different ways, and learning what choices are made in different languages, even if on a personal level you think some of them are dumb, opens your mind to the way that words and communication can work, which is what I think is so interesting.
+
+ELI: Yeah. And I think it's interesting that you're like, “Oh, that's when I noped out of Greek,” because I think you're going to find—every person is going to find that they vibe with a different language differently, right? You're going to, if you study, if you get the opportunity to study a bunch of different languages, you'll find that you have an easier time vibing with some than with others, and some things may sort of click with you differently. And it's not necessarily that they are things that are like your current language. I think a lot of times when people say like, “How easy is it to learn another language?” people think about like, are the languages related? Are they syntactically similar? Are they, you know, do they feel like each other in that way? But I think that from the languages that I've tried to learn, and I think from kind of what you're saying here, it's also about like, what are the variances that your brain is willing to accept and willing to say, “Okay, this is in a different direction,” and what are the ones that you're, like, going to have a really hard time with? You know, I have a really hard time with conjugating verbs, and I don't have a really hard time with sort of circumlocutive ways of phrasing things, and that happens to be a thing that Japanese doesn't conjugate to number or person, but it does have a lot of circumlocutive ways of phrasing things. And like, I'm fine with that. That's just… I was going to say “that's just grammar.” All of it is grammar.
+
+[SARAH laughs]
+
+ELI: But I'm fine with that. That's like syntax, and I can break it down. You know, I have a really hard time. Like if I was going to try to learn French, I already know the way that it's going to stymie me is, “Great, now I have to learn several tenses’ worth of conjugations again.” You know, and you would and everyone can, but I think, like, that's an underrated aspect of figuring out whether you're going to have a hard time learning another language or not.
+
+SARAH: Yeah, not just is it familiar to you, but is it either familiar or unfamiliar in ways that make sense to you? Or even like, I fully understand… Like cognitively, I understand how cases and prepositions work, and also I'm just terrible at recognizing them in that level of detail.
+
+ELI: But somewhere out there is another classicist who was like, “Oh yeah, περῐ́ [perĭ́] makes total sense to me. It's easy. Here it is.”
+
+SARAH: There are so many people I've met who are like, “Greek is easier than Latin,” and I want to, like, climb inside their brain and figure out why. Like, how did that make sense to you, because it makes so little sense to me. And some of it's because it's the language they learned first, but not all the time. Sometimes people escape Latin into Greek and go, “Ah, finally, a reasonable language,” and I'm like,
+
+[ELI laughs]
+
+SARAH: “Who are you? What planet did you come from?” Anyway.
+
+ELI: I want to bring it back to prepositions for just a final last thing, and then I think we'll probably move on, which is, in this kind of English has a ton of prepositions, and you can use them like Legos, a fun thing to do for our listeners is to, when you're going to use an English preposition, try using a different English preposition that's like similar, but not the same one, and just like see how it feels different to you. So not like, don't say like “above” when you mean “below” or that kind of thing, but like say “atop” instead of “above,” or “upon” instead of “atop,” right? And say “aside” instead of “next to” and like, understand how that feels different. Say like “for” instead of “to,” you know. Play with it, and you'll see some interesting contrasts in there that I think you probably never would have thought about, just because prepositions are usually so far down in your conscious thought.
+
+SARAH: Nice.
+
+ELI: Before we move on to the puzzler, I just want to say, I love the fact that we've had two questions, one of which I could get really geeky about and the second of which you could get really geeky about, and I love seeing both of us get geeky and the way that we get geeky in different ways. It's just a thing that I really like.
+
+SARAH: Yeah, that was really fun, and the fact that we also had a little bit of a disagreement somewhere earlier on, I feel like we really covered the range of things today. That was fun.
+
+ELI: Yeah. I'm glad to be—have that strong of a podcast host relationship with you, Sarah.
+
+SARAH: Yes, back at you. All right, tell us about last time's puzzler.
+
+ELI: Yeah. So last podcast, our puzzler was a cool little math one. Here it is. A farmer had a 40-pound stone, which he would use to weigh 40 pounds of feed. He had a balance scale, and he would put the stone on one side and pile the other side with feed, and when it balanced, that was it. A neighbor borrowed the stone, but when he returned it, the stone had broken into four pieces. But good news: now, using the four pieces in combination, the farmer could actually weigh items of any integer weight from one pound to 40 pounds. So what were the weights of the four individual stones?
+
+SARAH: All right, did you actually solve this one?
+
+ELI: I did, but it took me a bunch, which was trying to figure out, you know, you put weights on one side of the balance or the other side of the balance. And if you like, for example, put a one-pound weight on one side and a three-pound weight on another side, then you can use the difference of them. So it's like, it's kind of like the like three-gallon bucket, five-gallon bucket thing in that way.
+
+SARAH: Yeah, and I, so I started out, I was like, “I'm guessing that the smallest stone is one pound,” and then I was like, “Maybe that's not true. Maybe you can do it with two and three and still get one,” but then my friend that I was solving it with, we realized that you couldn't ever get 39 unless you had a stone that was one. So that's as far as I got definitively. Then I like, it was like, “Okay, so if there's one, then the others have to add up to 39, which means maybe one of them is thirteen, because that's in the middle,” and we just like tried a whole bunch of different numbers and basically brute forced it, and I ran out of time, so I don't know the answer.
+
+ELI: So I had a bit of a hunch here, because I think if you were only allowed to put the weights on one side of the scale, the answer is base two… or not base two, but powers of two, because you can use powers of two to make any number going up to whatever you need. You know, you could have 1, 2, 4, 8, 16. With those, you can make any number up to 31, and then for 32, you need a 32-pound weight and so on. So I was like, “Is there a parallel thing where you can put it on opposite sides of the balance and kind of get a, it's almost negative thing?” And then I was thinking about an Advent of Code problem from not 2023, but 2022, talking about a number system called balanced ternary, where the digits are not 0, 1 and 2, like you would expect in ternary, but -1, 0, and 1.
+
+SARAH: Uh-huh?
+
+ELI: And you can use balanced ternary to make any number, and so then I just thought, “Okay, so what if it is 1, 3, 9, 27?” And then I noticed that those added up to 40, and then I worked it out, and so that's how I got to it.
+
+SARAH: That's so cool.
+
+ELI: So the answer is 1, 3, 9, and 27.
+
+SARAH: Cool.
+
+ELI: Got there by a weird, weird set of knowledge.
+
+[SARAH laughs]
+
+ELI: Thank you, Eric Wastl, for making Advent of Code every year and helping me solve this particular puzzler. All right, do you want to tell us about this week's puzzler?
+
+SARAH: Yeah. So this one comes to us courtesy of the UK intelligence agency GCHQ, which I used to know what that stands for and I no longer care, but they're like the British equivalent of the CIA, kind of. And during the initial COVID shutdown in 2020, they posted 12 weeks of brain teasers in both family-friendly level and head-scratcher level, I think. So there's 24 puzzles on their website.
+
+ELI: That's a very cool thing for an intelligence agency to do.
+
+SARAH: It is. I appreciate that about them, and I actually had not found it until recently, but I was like, “I'm stealing one of these for our puzzlers.” So today, our question is, “Given the following sequence of numbers, what comes next? 7, 8, 5, 5, 3, 4, 4.” Something after that.
+
+ELI: Okay, so there's multiple fives and there's multiple fours, so it's not an ordering of things.
+
+SARAH: Mmhmm.
+
+ELI: My first hunch, but I can't find anything yet that does this, is that it's the number of letters in some kind of thing, but it's not 1, 2, 3, 4.
+
+SARAH: Yep, and it's not the number of letters in “seven.” Yeah.
+
+ELI: Yeah.
+
+SARAH: That's exactly where I went as well.
+
+ELI: Also, four is the only number that has the same number of letters in it.
+
+SARAH: Four is the magic number, as the game goes. I don't know the answer to this yet, but I'm going to try to actually solve it before next recording.
+
+ELI: I really highly doubt that it's like add and subtract kind of a thing. It must be some sort of… It feels like it must be something related to like number of letters or, I don't know, a decimal expansion or something like that.
+
+JENNY: I feel like it's got to be like a sequence of words. Like the words might be number-related, but I feel like it's a word puzzle as much as a number one.
+
+SARAH: I think so too.
+
+ELI: Yeah, but that seven and eight is like, those are some high-caliber numbers, if it's going to be like number of letters in a word.
+
+SARAH: Yeah. So I will be really interested to see if we are correct about our hunch there because we are either both like, intuiting this really interestingly, even though we have no idea what's going on, or we're both completely off base.
+
+ELI: I mean, maybe it's just that, like, I've been listening to a lot of like audio escape room podcasts, and that that's like the first thing I think of when I think of puzzling things, but like…
+
+SARAH: No, that's the same thing I thought of, and I haven't been listening to those, so we'll have to see if we're right.
+
+ELI: Yeah. So you don't know the answer to this yet.
+
+SARAH: I do not. It's on their website, which means that if y'all want to go cheat and look it up, I cannot stop you, but I'm going to try to solve it myself before I look up the answer.
+
+ELI: Yeah, very cool.
+
+SARAH: So, that’s it for this episode. Thanks for listening.
+
+ELI: Linguistics After Dark is produced by Emfozzing Enterprises. Audio editing is done by Luca. Question wrangling is done by Jenny, and show notes and transcriptions are a team effort. Our music is “Covert Affair” by Kevin MacLeod.
+
+SARAH: Our show is entirely listener-supported. You can help us by visiting patreon.com/emfozzing, E-M-F-O-Z-Z-I-N-G, and by telling your friends about us. Ratings on iTunes, Spotify, and other podcast services help as well.
+
+ELI: Every episode, we thank patrons and reviewers. Today, we want to say thanks to these awesome patrons: Benjamin, Kali, Bryton, Jason, Dre, and Bex.
+
+SARAH: Find all our episodes and show notes online at linguisticsafterdark.com or on all your favorite podcast directories and send those questions, text or audio, to questions@linguisticsafterdark.com. You can reach us on all the usual socials @lxadpodcast.
+
+ELI: And until next time, if you weren't consciously aware of your tongue within your mouth, now you are.
+
+[outro music]
+
+[beep]
+
+SARAH: [sound of soda can opening] Pop. It's not very carbonated, so not as good.
+
+JENNY: You just vanished.
+
+ELI: Yeah, you opened your cider and then you vanished off of Zoom.
+
+JENNY: It was very impressive.
+
+[beep]
+
+JENNY: I think we probably talked about that when I was studying early werewolf literature in my French medieval lit class in college, but I do not actually remember that part now.
+
+ELI: Jenny, this is among one of the most Jenny things you've ever said.
+
+[beep]
+
+ELI: Also, there's a “risma” joke in there somewhere that we probably shouldn't put on the podcast.
+
+SARAH: I don't know where you're going with that, and I think I'm happier that way.
+
+ELI: Yeah, you probably are.
+
+SARAH: Great.
+
+[beep]
+
+ELI: Snail cream, or sncream.
+
+SARAH: [laughs] Snream.
+
+ELI: I—Scream.
+
+[beep] 
+
+ELI: Is “ecress” a word? Maybe? No?
+
+[beep]
+
+JENNY: Like, I don't remember there being THAT many made-up words.
+
+ELI: Oh, you didn't get to the secret spelling level in Portal?
+
+JENNY: I didn't.
+
+[beep]
+
+SARAH: I speak English, I swear.
+
+[beep]
+
+ELI: The six-month-old kid is one thing, but the negative one-month-old kid is another.
+
+[beep]
+
+SARAH: I was just like, “That's a word they made up for space.”
+
+[beep]
+
+SARAH: Sorry, you have to cut a bunch of stuff out of here while I think.
+
+ELI: That's fine. That's why we don't do this live.
+
+SARAH: I know.
+
+ELI: Except for the four…
+
+SARAH and ELI: …times that we’ve done it live.
+
+SARAH: Yep.
+
+[beep]
