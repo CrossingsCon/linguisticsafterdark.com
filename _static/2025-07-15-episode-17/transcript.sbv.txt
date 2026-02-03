@@ -1,0 +1,978 @@
+SARAH: Cool news, everyone! We’re doing a live show at CrossingsCon 2025. We’re going to do live puzzlers, answer everyone’s questions, fight one of Les Immortels with the swords we got last live show.
+
+ELI: Oh, I’m so ready. Did they finally answer our email? Do they, like, need expenses covered? Do we have to get flights to France? What’s going on?
+
+SARAH: Uh, not exactly. I took matters into my own hands.
+
+ELI: Oh, what are you talking about?
+
+SARAH: Well, you know how I did a bunch of basement renovations last year?
+
+ELI: Uh-huh?
+
+SARAH: We’ll just say the French get very sick of PB&J sandwiches very quickly.
+
+ELI: CrossingsCon, August 15th through 17th. Come see us in Philadelphia, where hopefully we won’t have an international incident again. More info at crossingscon.org. All right, on to the episode.
+
+[music]
+
+SARAH: Hi, and welcome to Linguistics After Dark. I’m Sarah.
+
+ELI: I’m Eli.
+
+JENNY: I’m Jenny.
+
+KRISTEN: And I’m Kristen.
+
+SARAH: If you’ve got a question about language and you want experts to answer it without having done any research whatsoever, we’re your podcast. Settle in, grab a snack or a drink, and enjoy.
+
+ELI: How’s it going, Sarah?
+
+SARAH: It’s going okay. For us, it’s the first of December. It’s cold, but not snowy yet. How are you doing?
+
+ELI: I’m doing great. Just got back from, you know, Thanksgiving break and all of that stuff, and to tell you, doing Thanksgiving with a bunch of vegetarians, you’re the only one who’s eaten turkey is, it’s a trip, but all the side dishes are all vegetables anyway, so I think it worked out okay.
+
+SARAH: That’s true. In fact, my husband, he is also a high school teacher, and he was doing a trivia game the day before break, and according to whatever study he was looking at, like 56% of people said that given the option, they would just do a plate of sides anyway.
+
+ELI: Those people are weak, though.
+
+SARAH: Yeah, but the sides are the good part.
+
+KRISTEN: Correct.
+
+ELI: I mean, the sides are great, don’t get me wrong, but I actually like the taste of turkey, and I think if you are expecting it to taste like a giant chicken, you should just embrace the fact that turkey tastes differently.
+
+SARAH: Oh, no, that’s for sure. I just, I feel like I eat a turkey sandwich or what, or even like roasted poultry fairly frequently, and nobody makes the special veggies and stuff except at Thanksgiving.
+
+ELI: Oh, that’s fair.
+
+KRISTEN: Well, you’re just talking about that, about how, why can’t you make green bean casserole just any week of the year? And like, you don’t, but you could. Who’s stopping you?
+
+ELI: I mean, you could if you weren’t a coward. [SARAH laughs] Also, hotdish is basically just green bean casserole with some sausage in it and some tater tots on top.
+
+SARAH: Ooh, I should make that.
+
+ELI: You should. We have actually added it to our rotation here.
+
+SARAH: Nice.
+
+ELI: I was going to say, Kristen, do you want to jump in and break the tie? Is it sides are better, or is turkey worthy of staying on a Thanksgiving table?
+
+KRISTEN: Well, so you said people need to suck it up and embrace the fact that turkey tastes like turkey, and I refuse to do that and have converted my family to roasting chickens on Thanksgiving.
+
+ELI: I’m trapped on a podcast with goyim.
+
+SARAH: [laughs] You are. That’s true.
+
+ELI: First, Thanksgiving with vegetarians. Now a podcast with goyim. I’m really going through it. Kristen, welcome to the podcast. Do you want to introduce yourself a little bit?
+
+KRISTEN: Well, yes, I will. Other than someone who loves green bean casserole and chicken over turkey—although those are super important facts about me—yeah, I’m Kristen. I am Sarah’s younger sister, and I am a teacher, and I was invited here to talk a little bit about how people learn to read, or at least how we try to help them learn how to read. [laughter]
+
+ELI: Yeah, we’ll get to that in a bit, but the real question is, what are you drinking?
+
+KRISTEN: I am drinking a blueberry hibiscus herbal tea.
+
+SARAH and ELI (overlapping): Ooh.
+
+SARAH: Fancy.
+
+ELI: All right.
+
+SARAH: What are you drinking, Eli?
+
+ELI: I have a treat today. I’ve got a beer, which is a Belgian red made by New Glarus. New Glarus is a small brewing company in Wisconsin, and they don’t distribute outside of Wisconsin, so if you want this beer, you have to actually go to the state, and our friend Sky recently went to Wisconsin and was wonderful enough to bring me back some New Glarus beer. So—
+
+SARAH: Nice.
+
+ELI: I’m excited about that. This is one of my favorite beers in the world.
+
+SARAH: That’s awesome.
+
+JENNY: Nice.
+
+ELI: [sound of beer can opening] How about you? What are you drinking, Sarah?
+
+SARAH: I have the tail end of a raspberry chocolate chip tea that didn’t really taste much like either, I think because it’s several years old.
+
+ELI: That’s a tough flavor profile to ask from a tea, also. I feel like blueberry hibiscus you could definitely get.
+
+SARAH: Yeah.
+
+ELI: Raspberry chocolate chip is rough.
+
+SARAH: I’ve had good versions of it, but this is both old, and I don’t think it was that strong to begin with, but I also have a Downeast Cider Donut apple cider.
+
+ELI: Ooh, all right.
+
+SARAH: Which I’m very excited about. [sound of soda can opening]
+
+ELI: Oh, this is so good. It’s got cherry juice in it.
+
+KRISTEN: That sounded delicious.
+
+ELI: Yeah, cool. Hey, let’s learn a language thing. Sarah, do you have a language thing for us today?
+
+SARAH: I do, and this is something that popped into my head while I was reading a few weeks ago, and I’ve seen it come up with my students. This is the idea of the verb “to be” and the ways that it can be in different languages, and one of the things that I really appreciate about English is the option to use it as an existential thing, rather than only as a joining, only as a copula, specifically to distinguish between those two in slightly different ways. So I don’t think it was about pie when I saw the phrase that made me think of this, but, in the spirit of Thanksgiving food, “Nothing is better than pie.”
+
+ELI: True.
+
+SARAH: Makes sense, but you could, if you were being a pain, interpret that as, “Having absolutely nothing at all is better than pie. Actually, pie is the worst.”
+
+ELI: Which is false.
+
+SARAH: Correct. Whereas if I say “there is nothing better than pie,” then it’s very clear which side I’m coming down on there. In English, we do this by adding in the phrase “there is,” which—I think we’ve talked before about the idea of a null pronoun or a null argument.
+
+ELI: Yeah, the “there” is… it doesn’t mean anything. It’s just, English requires there to be a word there, and so “there” is the word that we have settled on. That’s like the “it” in “it is raining.” Nothing is raining; we just need a word there.
+
+SARAH: Exactly. In French and Spanish, they have another way to do this, but it’s with a completely different verb, it’s actually with a form of “have.” So—
+
+ELI: Oh, yeah.
+
+SARAH: You have “hay” and then in French, you have “il y a.”
+
+ELI: Exactly, yeah.
+
+SARAH: But in Italian, which I’ve started learning recently, you have “è” which is “is,” and then you have “c’è” or like “there is,” basically, or like “this is,” which means, like, “something exists.” 
+
+ELI: Oh, I see. Okay. So it’s a little more like the English system.
+
+SARAH: It’s a little bit more like English, yeah, and in Latin, you don’t have any of those, so in Latin, “est” by itself could be existential or it could be copular, and you just get to decide which one it is.
+
+ELI: Oh, interesting. So it’s not… This isn’t like a Romance-Germanic split thing.
+
+SARAH: Nope. [laughs]
+
+ELI: They just… The Romance languages got together and they were like, “Screw you, Dad. We’re doing it a different way.”
+
+[SARAH and JENNY laugh]
+
+SARAH: So it would seem. Just the other day, actually, there was a sentence we were reading in class that started like “ibi templum erat,” blah, blah, blah, like “there in that place was a temple,” but if you just translate word for word, it sounds in English, “Oh, there was a temple,” which in English sounds empty because that’s how we do this existential thing, but if you’re like “There, there was a temple,” sounds clunky, and you have to like figure out how to capture that because of the particular word choices that English has made.
+
+ELI: Yeah.
+
+SARAH: I don’t have a lot more to say about this other than it’s interesting and it’s really interesting to me that not every language makes this distinction or makes it the same way. Which shouldn’t surprise me, actually, because not every language even uses a copula all the time, and some languages have more than one. Looking at you, Spanish.
+
+ELI: That’s true, and in Japanese, you have a distinction between the copula and the existential verbs, and there are two existential verbs and one copula, as opposed to what you brought up in Spanish where there’s two copular verbs, although there are distinctions between them—and Spanish linguists, please write us—and a single existential verb that is like highly specialized. So you said it’s from like a form of the verb “to have,” which is true except you never conjugate it in any other way, basically, besides “hay”?
+
+SARAH: Unless it’s in the past tense.
+
+ELI: Well, sure. Yeah.
+
+SARAH: And then it becomes regular, but it has its own present tense form separate from the whole rest of the verb, which is so weird.
+
+ELI: Yeah. One of these things where it’s so common that it’s mutated into irregularity.
+
+SARAH: Exactly. Is there a difference in Japanese between the two existential verbs?
+
+ELI: Yeah. So, roughly, they are animate things versus inanimate things.
+
+SARAH: Okay.
+
+ELI: Although, again, it’s like a “Women, Fire, and Dangerous Things” situation—
+
+SARAH: Sure.
+
+ELI: —where what’s animate and what’s not animate is sometimes a little confusing. I can’t think of anything right now, but I am sure that there are places where you can play with that to use one or the other to kind of make a weird point or—
+
+SARAH: Sure.
+
+ELI: —do a storytelling thing, or that kind of thing.
+
+SARAH: Cool.
+
+ELI: I don’t know a lot of languages that don’t use a copula. Do you know any? And if so, do they have a way to sort of do emphasis? Like, I vaguely remember that languages that don’t have a copula often sort of have a secret copula that can be used for emphasis or that kind of thing, but what’s your knowledge base there?
+
+SARAH: So, I’m aware of Russian not using the copula in the present tense but using it in other tenses, and my Russian is minimal, like привет [privet]. That’s it.
+
+ELI: That’s… One word is pretty minimal.
+
+SARAH: I used to know how to say “thank you,” and I’ve forgotten that too.
+
+ELI: I can say it’s snowing. That’s basically the only thing I can say in Russian.
+
+SARAH: So together we can go to Russia to be like, “Hello, it is snowing.”
+
+ELI: Yes, which is relevant in a lot of Russia.
+
+[SARAH and JENNY laugh]
+
+SARAH: That’s true. ASL does not typically use a copula.
+
+ELI: Oh, that’s right.
+
+SARAH: There are signs for the English verb “be.” I’d be surprised if anyone was using them in an authentic ASL way as opposed to borrowing them in to make a point or to make a direct English quote.
+
+ELI: Well, so what you said there is really interesting, because I was sort of expecting like, okay, “yes, it’s present in manually coded English—”
+
+SARAH: Yeah.
+
+ELI: “—but you would never see it in ASL,” but I’m intrigued by the, like, borrowing it in, because it seems like maybe there’s a gradient there, where, I don’t know, you might use it to spice something up or to, like…
+
+SARAH: Yeah, I really have—
+
+ELI: Can you say a little bit more about—
+
+SARAH: Well, I’m trying to think, like, I can’t remember an instance where I’ve seen it outside of people doing more of a manually coded English thing or trying to quote word-for-word something that was originally written in English. I feel like more for the emphasis, you might be like “really” or “truly,” or there’s a very popular ASL idiom—that I think is now the title of a book that somebody wrote…? this should go in the show notes, but—it’s signed as TRUE WORK, but it’s usually written down as TRUE BUSINESS or even abbreviated in like the way people mouth things as TRUE BIZ, which means like, “facts,” like, “I’m not lying.”
+
+ELI: Oh, yeah, okay.
+
+SARAH: I could see that like, “She is crazy, true business,” or…
+
+ELI: So “TRUE BIZ” is the ASL “no cap.”
+
+SARAH: Exactly. [laughs] Exactly. Yeah, so I don’t know. This was just like a weird observation that popped into my mind, and I don’t have a lot to, like, teach about it, but I’m really curious. Kristen, have you encountered this anywhere? You may not have, I don’t know.
+
+KRISTEN: Yeah, I got to say, I’m not a linguist, so this whole conversation was above my pay grade. The only real contribution I have to make is that your example sentence, “There is nothing better than pie,” made me think of “better late than never,” I don’t know why, which then of course turned into “better pie than nothing,” which is then like a third shade of meaning compared to “nothing better than pie, pie is so good.”
+
+SARAH: Oh, yeah.
+
+KRISTEN: “Nothing is better than Pie,” which is, if you take literally means, “I’d rather have nothing,” and then—
+
+SARAH: Right.
+
+KRISTEN: —my whatever version I just made up is like a “it’ll do” meaning, which isn’t… I don’t know if it’s actually interesting, but that’s just what my brain did with that sentence. So… [laughs]
+
+SARAH: No, I think that’s very interesting.
+
+ELI: Well, another direction to go with that is, the “nothing is better than pie” is the same kind of thing as like “I could care less,” right? Where you’re saying something that, taken literally, is not really strictly true, right? You would say like, “There is nothing that’s better than pie,” but like “nothing is better than pie…” Like, “I could care less,” like, you could care less, I guess? You’re not actually saying either of those things.
+
+KRISTEN: Right.
+
+ELI: What you’re saying is, “I don’t care,” or, “Pie is very good.”
+
+KRISTEN: Right.
+
+SARAH: Yeah. Well, then, Kristen, your example gets to the scalar implicature thing that I think we maybe talked about in episode two or something.
+
+ELI: Oh, yeah. We hit implicature early.
+
+SARAH: Where “Pie is better than nothing” gives that implication of, “Well, I guess it’s okay,” because of this meaning and valence that the word “nothing” has, whereas “Nothing is better than pie” gives this very strong connotation in the other direction for basically the same reason, in a way that saying like, “Apples are better than oranges,” or “Oranges are better than apples” is just like a “I could put these things on a balance, and one of them would go up higher” kind of thing.
+
+ELI: Yeah. And you’ve got the literal meaning of “Nothing is better than pie” being the same as “Anything is better than pie,” so you’ve got that [SARAH laughs] weird negative… negative polarity thing happening there.
+
+SARAH: Oh, wow, that’s… That’s weird.
+
+KRISTEN: “Nothing” and “anything” are interesting words in that way.
+
+ELI: Yeah, you’re back to negative polarity stuff and implicature and all of that stuff.
+
+SARAH: Yeah. Wow, okay, I really didn’t think that’s where this conversation was going to end up, but that was awesome. Cool.
+
+ELI: Hey, listeners, if you know a language that does a cool thing with existential verbs and copulas, let us know, because this is one of these things where, I mean, the copula is like the most used verb in every language, basically, assuming that it exists—
+
+SARAH: Yep.
+
+ELI: —and existential verbs are also very well used, to the point where they’re sort of almost guaranteed to be irregular, but I bet there are some languages out there that are doing some weird stuff, because it gets used over and over again, and that’s where you get the weird shit in languages.
+
+SARAH: Exactly. Yes, please let us know. I don’t know how many of you have figured this out, but we are on YouTube, and one of the fun things about YouTube podcasts is, you can leave comments on specific episodes, and we can write back to you, and I would love to do that. So, yeah, leave us a comment somewhere, send us a message on Instagram or whatever. We’d love to hear from you.
+
+ELI: God forbid, you could send us an email.
+
+SARAH: Hey, people do send us emails, actually. That’s true.
+
+ELI: Yes.
+
+JENNY: That’s where we get most of our questions, actually.
+
+ELI: I just feel like an old man saying it.
+
+SARAH: I know, but the thing about leaving comments and stuff is, then they become… Like, I like the comment threads because you get more people who can join in—
+
+ELI: That’s true,
+
+SARAH: —the conversation if they want to.
+
+ELI: other people can see it. Yeah.
+
+SARAH: Speaking of contacting us: Eli, you want to bring us some real language questions submitted by real listeners?
+
+ELI: Yeah, and as previously mentioned, if you want to send us a question, email it in text to questions@linguisticsafterdark.com, or you can send us an audio recording, which is a great way to ask us a phonology question or an accent question, or I guess you could send us a carrier pigeon, you could write it on a piece of paper and put it in a bottle and chuck it into the ocean, you could write it down and burn it with a prayer that it gets to us.
+
+[SARAH and JENNY laugh]
+
+ELI: Email is probably best, though.
+
+SARAH: If you figure out how to beam it to us with ESP, let us know.
+
+ELI: That’d be great. We’ll have Jenny standing by, waiting to receive those messages.
+
+[JENNY, SARAH, and ELI laugh]
+
+JENNY: On it.
+
+ELI: Today’s episode is going to work a little bit differently than our usual format. So instead of having three distinct questions, we have been having a bunch of discussions on our Slack server, which, by the way, you should join us; we’re at the-crossings.slack.com, there is a link on our website. And we’ve had a number of conversations come up over the years about how reading works, and, you know, we’re just a bunch of word nerds, so it happens to come up every so often. Anyway, we decided to do a dedicated episode about this topic, because we’ve had so many questions about it, and we’ve got some specific questions that were put together by Slack members Bex and Skyler, and we have Kristen here, who happens to be an early childhood educator and who is much more up on this than we are. I think Sarah and I are very much in the spoken realm, and reading is a little bit new to us, so this is going to be really cool.
+
+SARAH: Yeah, and other than your personal language acquisition project going on there, I don’t think either of us has worked with pre-literate language users in a very long time.
+
+ELI: That’s true, and I am very much an amateur at this.
+
+[SARAH laughs]
+
+ELI: First time ever.
+
+KRISTEN: All right. Well, thanks for having me, you guys. I am not an expert, but I am a practitioner of teaching reading. I taught second and third grade for the past few years, and this year I’m actually teaching preschool, so very much in the early, early, early stages of what will become reading, but yeah, it’s something that I’m super geeky about, and one of the things I miss most about teaching second and third grade is, like, teaching phonics and helping kids learn how to read, so I’m excited to be talking about it today.
+
+SARAH: Awesome.
+
+ELI: Yeah. We’re excited to have you here.
+
+SARAH: Indeed. Thank you for joining us. Okay, so let me set the stage a little bit for how this kept coming up on Slack, which was that members of our Slack would notice that either things they were reading or conversations they were having with people are… folks were like, “Did these people not actually learn how to read? Like, the way that they’re talking or the way that they’re writing just is very strange. What’s up with this?” And I remembered having spoken with you a while back about how some of my high school students really seemed to not know how to read either, and it was very confusing to me, and you mentioned that there was a shift away from, like you had mentioned teaching phonics, and that kind of just before you got into teaching, there was a different style of teaching reading, which turned out not to be so effective. Do you remember this, or like, can you describe that?
+
+KRISTEN: Yeah, absolutely. It is still a process that is being researched and contested and people will have many different opinions about what is the best way and all of that, but what has happened is, over the past fifty years or so, there’s just been an intense amount of reading research done, about how people learn to read, and this is referred to as the science of reading, so you’re going to hear that more and more in discussions about education policy. You can’t work in the world of education under sixth grade and not hear about the science of reading.
+
+KRISTEN: There’s a misunderstanding among a lot of people who aren’t familiar with it that it’s a specific pedagogy or it’s a specific curriculum, and it’s not. It’s just a body of research, and compiled is referred to as the science of reading. So a ton of results have come out of that, and one of those results is that phonics is essential to people learning how to read, and specifically that it needs to be taught systematically and explicitly, and you need a prescribed scope and sequence that should be followed to yield best results. There’s definitely room for opinion about specific pedagogy within that and different curriculums, but the science backs that phonics is essential.
+
+KRISTEN: What you said, some people call it “whole word reading.” Some people call it, there’s a specific school of thought called the three-cueing system, which I can talk about a little bit more, but there’s a line in “New Girl” where Nick Miller goes, “I’m not convinced I learned how to read. I think I just memorized a bunch of words,” and that is a problem that some people have, where they never got the tools they needed to be able to what we refer to as decode (have a word in front of you, figure out what that word both says and means). They just know the words they know, and they know how to use them the way they know how to use them, and that can get you pretty far, and there’s plenty of people who are operating reasonably well in the world that way, but if your goal is to teach someone to read, then having them have to guess or memorize words is not actually teaching them the skill of reading.
+
+ELI: Man, that has some real shades of like early learning a second language kind of a thing, where you’re like, “I know some stuff, but every word that I know in this language fits in this bag.”
+
+KRISTEN: Right.
+
+ELI: “And I can’t do anything else.”
+
+SARAH: And I think that’s where it started to really hit me that a lot of my students had learned in that same way, because I was looking… Like, yeah, in their very first few months, of course, they’re going to have a bag of memorized words, but I was expecting them to be able to apply some of their English reading skills to Latin in year two or year three, and they were like, “Well, I don’t know that word,” and I’m like, “It’s this word, but plural,” and they’re like, “What?!”
+
+KRISTEN: Yeah, well, and that’s the thing is, reading is an incredibly complex thing. Until pretty recently, it was not treated with quite as much respect as it needed to. It is not a simple thing to learn. It’s not even a natural thing to learn. Humans are wired—
+
+SARAH: Yeah.
+
+KRISTEN: —to speak. You will almost inevitably learn how to talk if you’re exposed to language, unless there’s something inhibiting that, but reading is not that way. We are not naturally wired to read, and so we have to be intentional about the way we teach it for people to learn. Something that is interesting is, somewhere between 95 to 98% of people are capable of reading at a proficient level, and when you look at things like national test scores, where you see horrifying numbers like only 40% of fourth graders in the U.S. are reading at the suggested level, which… That is a close statistic, but I didn’t Google that or anything. That’s off the top of my head.
+
+ELI: That’s okay. We don’t do research on this show. [Sarah laughs]
+
+KRISTEN: But you have to be like, “Okay, well, if 95% of people are capable of reading, and 40% of fourth graders are actually doing it, we have some major issues.”
+
+SARAH: Yep.
+
+KRISTEN: Which is not new news, but is relevant.
+
+SARAH: It’s not a math podcast, but I am pretty sure that forty and ninety are different numbers.
+
+KRISTEN: We did talk about that a bit in third grade, yeah.
+
+[KRISTEN and SARAH laugh]
+
+ELI: So I’m curious because you talk about this body of research that’s gone back fifty years, which is quite a ways, and that it is sort of consistently showing that phonics is required and is necessary, and that there’s some other sort of, it sounds like there’s some specific stuff within there in terms of the progression to make and so on. So where is this sort of… On the Slack, it got called “vibes-based reading,” which it’s such a good name for it, but I feel like it prejudices our desire to have a conversation that’s sort of whole, here? Where did that come out of, like what was the impetus behind that, and are we seeing a synthesis between teaching styles, or are we now seeing that sort of like the idea is like, “That was maybe not a great idea, and we need to really swing firmly back in the other direction”?
+
+KRISTEN: I think there’s kind of a two-part answer to that.
+
+ELI: Surprised it’s only two parts.
+
+KRISTEN: Well, yeah, there’s probably a billion-part answer to that, but the two things that it made me want to talk about a little bit is, first, just that we have to understand, in its simplest terms, what is happening when we read. This is literally called the simple view of reading, and it is the idea that word recognition x language comprehension = reading comprehension. And so what that means is, your ability to look at a word and recognize that it is a word and what word it is, multiplied by your ability to understand the language of that word, equals how much you’re going to understand of what you read.
+
+KRISTEN: And it’s essential that that’s a multiplication sentence, because you can have amazing language skills, you can have a robust vocabulary, and if you can’t decode words, then you will not understand anything you read, because you quite literally cannot read it, and so your comprehension goes down to zero. And similarly, if you can decode and read every word on a page, but you don’t know what any of them mean, or you don’t understand the syntax or whatever, which is why, you know, you can sit down and read aloud an entire page of Shakespeare and say, “What happened in this scene?” because you don’t have the language skills of the time to help you understand what they’re actually talking about, unless you have a great copy with great side notes, and you’re in a class or you’re smarter than me—it’s those two things that need to be happening for successful reading is, you need to be recognizing the words—most of the time we refer to this as decoding—and then you need to understand the words that you are decoding. So those are the two components that we need to be teaching and supporting. And phonics speaks to the word recognition part, but it isn’t going to do everything. There needs to be that other language instruction, including things like vocabulary and background knowledge and syntax, that’s what’s going to build robust and proficient readers.
+
+ELI: I think this is just because it’s my background, but I feel like there’s a lot of parallels here to learning a second language, because you don’t have the benefit of that sort of in-built native language stuff. Like you said, humans aren’t wired to read naturally, and so you have to go through that same acquisition of like, not only do I have to learn how to take whatever’s on the page and turn it into words, but I also have to have the words to turn it into—
+
+KRISTEN: Exactly.
+
+ELI: —in the language that I’m reading.
+
+KRISTEN: Exactly. 
+
+SARAH: I remember at some point in college, someone, or it was probably right after college, somebody said, “Oh, you can read Greek?” And I was like, “I can literally read it out loud and make the sounds. I can’t tell you what it means.”
+
+ELI: Useful for street signs, but…
+
+KRISTEN: That’s where I’m at with French now. I took it for four years in high school, and I have lost almost all of my vocabulary, and I can sit down and read it pretty well with pretty good pronunciation—I mean, I’m sure a fairly thick accent, but—I can read you basically any French word. I have no idea what it says. [laughs]
+
+ELI: Yeah, and with the Greek alphabet, I mean, literally when I was in Greece a while ago, like it was great for street signs. If we knew that a thing was on a particular street, like, that’s great, I could sound it out, but I could not read traffic signs.
+
+SARAH: Yeah.
+
+KRISTEN: Yeah. And the second part that I wanted to say in answer to your question, which I think was just talking about how did we get off base with whole word reading—in part, it’s that things can move slowly in education. It’s that, like in any field, there’s going to be competing schools of thought and it takes a while for one to kind of become universally agreed upon, and in many ways, the science of reading is still not universally agreed upon. There’s curriculum that are really widespread that are still very incorrect in terms of that. I mean, I am someone who is young enough in my career that I had no attachment to a previous pedagogy, so it was not at all hard for me to jump on this bandwagon, but, I mean, there’s people who were teaching for 50 years and now are having a very personal reaction to being told, “Well, you’ve been doing this wrong,” and especially if you’ve seen success in kids the way that you’ve done it, which will absolutely happen, in the same way that—I mean, not to put Sarah on blast, but Sarah practically taught herself to read.
+
+KRISTEN: And so people will ask like, “Well, if kids can teach themselves to read, then why would we need to do all of this systematic and explicit instruction?” And the answer is because like 5% of kids will teach themselves to read and because we’re not all my sister, and so some of us need to have some teaching happening in order for us to get there, and you can either do it efficiently and effectively and reach 95% of people, or you can do it less efficiently and less effectively and reach, currently, 40% of people. So, I mean, again, we’re not a math podcast, but like, let’s go one route over the other. [laughs]
+
+SARAH: Yeah, that makes sense.
+
+KRISTEN: There’s so many fun geeky science of reading shirts, but one of my favorites is that teaching is neuroscience, because it really is, and, you know, there’s so many reasons that early childhood educators are not appreciated, but, like I said, teaching reading as a concept has been undervalued for so long, by teachers and non-teachers, because it is such a complex and interesting thing.
+
+ELI: So, cool, I feel like we are doing a pretty good sort of surface level, like, “how did things get here?” like, “what’s the baseline?” that kind of thing, but I’m curious, I mean, you said there’s this whole body of research, and it sounds like we are getting more and more respect for the difficulty of teaching reading and the necessity to do it in a correct way, that people sort of aren’t going to, like, fill in the gaps themselves. I’m curious, like, get us to the good stuff, you know. This is a geeky podcast, let’s dive in on the details.
+
+KRISTEN: For sure. So reading, like I said, it’s not natural. It’s something that has to be taught, and part of that is because it is a super complex process. There’s a lot going on when you’re reading. That simple view that I talked about is the word recognition and the language comprehension, which means that when you’re reading, your brain needs to be recognizing words and understanding language, and several other major things at the same time, while you’re also like breathing and beating your own heart and stuff. It’s crazy. The way that we understand this is through something called the Four-Part Processing Model, and so there are these four different processors in our brain that are working in tandem, most of the time simultaneously, when you are reading a word. So the first part is called the phonological processing system, and it’s in several spots of the brain, is what we use for pronunciation and articulation, it’s what we use for phoneme analysis and phoneme-grapheme association. I’m assuming you guys… I’m not a linguist, so I don’t know, but I’m assuming you guys use the words “phoneme” and “grapheme”?
+
+ELI: Yes.
+
+KRISTEN: Okay.
+
+SARAH: Yep.
+
+KRISTEN: Cool.
+
+ELI: Wait, is this the part that makes the voice in your head?
+
+KRISTEN: I don’t know—
+
+ELI: Which I have, I don’t know if everybody… I know some people don’t have it.
+
+KRISTEN: I do have a voice in my head, I don’t think this is that part. This is the part that it’s categorizing phonemes in our language system, it’s producing the speech sounds and syllable sequences and words, so I don’t know that it is, like, the metacognition part that would be doing that. I think it is… And I don’t know for sure, but I think it’s—
+
+ELI: Sure.
+
+KRISTEN: —happening in a way that you can’t feel. It allows you to imitate and produce prosody. Do you guys use the word “prosody”?
+
+Sarah: Mm-hmm.
+
+ELI: Yep.
+
+KRISTEN: And you can compare and distinguish words that sound similar because of it. You can remember and repeat words, recognize, pronounce, and retrieve words from your lexicon. All of that is happening in the phonological processing system. You can take apart sounds in a word so that they can be matched to an alphabetic symbol. So that’s something else that we’ll have to dive into at some point is the idea of phonemic awareness, but all of that kind of thing is happening in the phonological processor. So it has a lot of jobs that are related to perception, memory, and the production of speech. Phonemic awareness is only one of those critical jobs, but it is super critical. And people who have trouble with phonological processing will have difficulty remembering sounds for letters or blending them together, have difficulty recognizing the subtle differences in similar sounds, and trouble spelling all speech sounds in a word. If you’re struggling with that kind of process, it really can affect your ability to read.
+
+SARAH: So when you say trouble spelling all sounds in a word, is that like that drawing of mine from kindergarten Mom’s obsessed with where I wrote “The car goes bup, bup, bup,” instead of “bump” because I didn’t hear the M in it, or is that just like, “spelling is going to be a disaster?”
+
+KRISTEN: The example that you gave is a great example of what would be a developmentally appropriate omission of sound. In kindergarten, to not hear that M, especially when you’re doing your own writing, is super developmentally appropriate. Because in kindergarten, you’re looking for someone to be able to hear often just that initial or final sound, especially when writing. But practice with phonemic awareness and being able to pull that word apart and say, “When I say the word ‘bump,’ what I’m saying is [b ʌː mː p]” is essential. Or yeah, if you never hear that M, you will never spell “bump” correctly. It’s interesting because accents and dialects can really affect that. When you’re teaching reading, you have to be really mindful of that. I am white and I was teaching third grade in a… in an entirely Black school where children didn’t talk the same way as I did, and on one of my spelling tests, I had the word “bath,” because we had been doing the ⟨th⟩ digraph, and several of my students spelled it B-A-F-F, which, one, was exciting to me because we had already done the FLOSZ rule and they learned that they have to put two Fs at the end of a word if it’s after a short vowel, but, two, was like, “Oh, so there’s like a phonological or… and phonemic awareness issue here where because they say /bæf/, they’re going to spell it with an F to make that sound,” and so you have to figure out, “Okay, how do I… It’s not incorrect to say  /bæf/ if you are who you are and you are where you are, but you also still have to spell it B-A-T-H,” and so that’s something that is tricky. I often think about what it would be like to try to teach reading in England, because I’m like, half of their vowels make the same sound, and how do you teach an R-controlled sound to a British person? It doesn’t make a sound! [laughs] I’m like, it’s half the time it’s just a schwa, so how do you know, like, when to put an ⟨R⟩ there? I don’t know. So that is an interesting… and not really totally related to what we were talking about, but it is why sound is so essential to reading and why… You don’t always think about that as you have to hear the sounds, but you cannot read or spell well if you don’t know the sounds you’re trying to read and spell.
+
+SARAH: Yeah.
+
+ELI: We should find this and put it in the show notes, but there’s a post that goes around where it’s a number of drawings of shapes, and they are labeled, and the one that I can remember is “triango,” which I think is spelled with an O at the end instead of an L-E or “square” is something like S-K-W-R. And you know, the person who posted it is like, “Look what an idiot I was when I was a kid,” and it got a lot of responses that were like, “Look how smart you were. You’re spelling these exactly how you clearly said them,” and you can read them and see exactly how that kid said those words at that time.
+
+KRISTEN: Well, and that’s exactly as a teacher, what you’re looking for. You know, you obviously need kids to move beyond that at some point, because after a while, that’s not cute, it’s wrong, but at a certain age, that’s exactly what you’re looking for is, “did you hear the sounds in the word, and did you, with what you know about the sounds that letters can make, apply that,” and so if you only know the names of letters, and you haven’t been taught all of the sounds that they make, or if you only know the sounds that letters make, and you don’t know about digraphs, and you don’t know about a ton of other spelling rules and vowel teams and all that, then there’s too many sounds, you got to just go with what you got, and so if… When kids do that, it’s so amazing, it’s so awesome to watch the inventive spelling that kids will have, because it often is so smart.
+
+ELI: By the way, Kristen, we’ve got two bangers from you so far. First, we had “This process is happening without you feeling it,” and now we’ve got, “That’s not cute, it’s wrong.” [SARAH and KRISTEN laugh]
+
+SARAH: Those are, those are fantastic.
+
+ELI: The B-A-F-F thing is very interesting to me, because I think a lot of people’s criticism about English orthography is that it’s not phonetic, which we’ve covered why that’s not a great argument on the podcast before, but I think you talking about teaching a population where that final T-H is pronounced as an /f/, or trying to teach in a non-rhotic dialect or that kind of thing, those kinds of accent and sound changes happen in languages that even have, you know, supposedly phonetic spelling, phonetic orthography, and so it’s not like a slam dunk for talking about, “Oh, but Spanish, everything is pronounced,” and that kind of thing as well.
+
+KRISTEN: Well, and that’s interesting that you bring that up, because that was in my notes to talk about earlier and I just kind of skipped over it, is that English has a super deep orthography, and that is super essential to understanding how to teach how to read and spell in it, and is… Spanish has a really shallow orthography, and yeah, it is a, in some ways, more complex issue than to grapple with as deep of an orthography as English has, but the majority—and by majority, I mean vast majority, ninety-some percent—of English words are spelled quote-unquote “regularly.” They follow a phonics rule. And so if you—and by “you,” I mean everyone, especially the kids of today—are taught those rules in a systematic and explicit way, then 90% of words are available to them, and the words that are irregular often are mostly regular except for one part. For example, the word “have,” which I was taught as a kid, “I don’t know, why is it spelled that way? Nobody knows.” Well, we do know. It has a V at the end, and English words cannot end in V, so we put an E there. And why do we say the sound—in the word “love,” why do we say a short U instead of an /ɔ/ sound? And again, there’s an E at the end, because it ends in V, you can’t end an English word in V, and the E is working a second job, which is that the sound /ʌ/ was often spelled with a short U, they call it a scribal O, where it’s thought that because U and V looked so similar, they were like, “this is too hard to read,” and so in words like “dove,” “love,” “shove,” all those O’s making short U sounds are because the sound was /ʌ/, they said, “this looks bad,” and they turned it into an O. So is that confusing? Sure.
+
+SARAH: That’s so cool.
+
+ELI: I’m sorry, the sound that you hear in the background is both Sarah and my head exploding.
+
+SARAH: Correct. That’s amazing.
+
+ELI: “English words can end in a V” is like clearly correct, and yet.
+
+KRISTEN: Well, and that’s the thing is, no one told me that in third grade, but I promise you that any of the third graders in my room know that because I drilled it into them, and every day when we were talking about irregular words and we were talking about words like “have” and words like “love,” which are super important words to be able to read and spell when you’re, I mean, anyone, but especially when you’re in third grade, if you have that conversation, then they no longer feel like, one, “oh, we don’t know. Stop asking questions why,” and there’s a narrative there that is interesting and that your brain hooks onto. I mean, my kids love to tell me about the FLOSZ rule. My kids love to tell me about scribal O.
+
+SARAH: Hold on. Back up. What is the FLOSZ rule?
+
+KRISTEN: Okay. So that goes back to the “bath” example, where—
+
+SARAH: Yeah.
+
+KRISTEN: —“floss,” spelled incorrectly, F-L-S-Z, if words end in F-L-S-Z after a short vowel, it has to be doubled.
+
+SARAH: Cool.
+
+KRISTEN: So like the actual word “floss,” like—
+
+SARAH: Yeah.
+
+KRISTEN: —the word “buzz,” like the word “fell,” like the word—
+
+SARAH: “Baff.”
+
+KRISTEN: “Baff,” “staff.” Yeah, and so that’s just one of those phonics rules, and you can either be someone who, I mean, no one told me that as a kid and I eventually learned how to spell all those words, so you internalize the rule without ever having been told it, if you’re lucky, which most of us, probably all of us on this podcast have, because I’m pretty sure you guys all know how to spell that, but how much easier if someone had told you in the first place?
+
+SARAH: Yeah, that’s awesome.
+
+KRISTEN: And there’s tons of rules like that in the English language, ninety-some of them, and almost all irregularities can be explained with them, and the ones that can’t, the pedagogy that I use is called teaching heart words, and those are words you have to know by heart. But again, you don’t have to know all of it by heart. It’s usually one or two sounds. So a word like “was,” W is making the sound it’s supposed to, /w/, S is making the sound it’s supposed to, /z/, that’s something also that I didn’t know as a kid is, S makes the sound /s/ and /z/. It actually makes the sound /z/ more frequently than it makes the sound /s/. So teach kids that. Don’t teach them that S spells /s/. Teach them that spells /s/ and /z/ so they’re not trying to make their mouth make a sound that it doesn’t need to. And the only part you need to know by heart is that A spells /ʌ/, and so when you’re teaching that you can teach kids to draw a little heart under it and say, “We have to know that by heart,” and you practice it, and you practice spelling it and reading it, and after a while, you know it, but you also didn’t have to just memorize W-A-S. You only had to remember that A can spell /ʌ/ in that instance.
+
+SARAH: Yeah, that’s awesome. And this whole, your thing about like, “oh, you know, 90% of words you can get at if you just know the rules that do exist. I’m pretty sure we’ve talked about this before, but it reminds me of the thing about how to spell the word “fish,” where the guy’s like, “Oh, G-H-O-T-I”—
+
+ELI: Yeah.
+
+SARAH: —“is ‘fish’ because you take the G-H from ‘laugh’ and the O from ‘women’ and the T-I from ‘station,’ and it says ‘fish.’” And it’s like, well, no, it doesn’t, because the rules of English spelling are that G-H can only do that at the end of a word.
+
+KRISTEN: Right.
+
+SARAH: And T-I can only do that in the middle of the word.
+
+KRISTEN: Right.
+
+SARAH: And yeah, and it’s like, no—
+
+ELI: I love this refocus on rules instead of letter sounds, which I think is how a lot of people sort of think about phonics and learning to read, right?
+
+KRISTEN: And that is where you have to start, and there is a not totally agreed upon, but a basically agreed upon scope and sequence for how to do this, and that’s why we talk about it being systematic is because, “Yeah, I’m not going to teach you that I-G-H-T can spell a long I sound when you don’t know a short I sound, or you don’t know that I by itself can make a long I sound,” or whatever. You know, we need to go in an order that makes sense because you can’t learn it all at one time, and because you have to learn some things before you learn other things, but yeah, exactly. There’s a rule for almost everything, and once you get past that, you can move into even more interesting things like roots. And, you know, my kids can tell you that “phone” comes from Greek, and that’s why it’s spelled with a P-H, because that’s relevant to them learning how to spell “phone” correctly, and that is one word that they can all spell well. [laughs]
+
+ELI: And that’s really core, especially, to English spelling, because we have an etymologically conservative orthography, and so having that knowledge about roots and origins and that kind of thing really helps you read and decode and know how to spell.
+
+KRISTEN: Absolutely. And it’s why if you ever watch a spelling bee, like, they will ask for the roots of things, and it is so relevant, and it’s only relevant if someone taught you about how those roots work, and so that is part of that explicit and systematic instruction.
+
+ELI: So we got one of the four processes in before— [KRISTEN and SARAH laugh]
+
+SARAH: Before derailing.
+
+ELI: —we went off on this.
+
+SARAH: Very on brand.
+
+ELI: I would love to know about the other three, yeah.
+
+KRISTEN: Okay. So the phonological processor was the first one. The second one is the orthographic processor, and the orthographic processing system encompasses several functions. That’s how we deal with written symbols, so you get your visual input, you’re looking at it, but you’re able to not just see squiggles, not see a picture, not see that, “Oh, that looks kind of like a dog.” It looks specifically to your brain like a letter. Something that’s super cool, if you think about it, is how many versions of a letter we can see and still see that letter. I mean, think of the billions of fonts out there, the billions of individual handwritings, and your brain can look at that really crappy handwriting and still make letters, because once you have learned that shape, it moves from being a picture or an image into a specific understanding in your brain of “this is a letter,” and that is your orthographic processor that does that. It’s sometimes referred to as the brain’s letterbox for that reason, and it’s why letter recognition is something that is so essential before you can start reading, obviously, is, you have to be able to pretty automatically look at something and recognize that it’s a letter and what letter it is, and that’s something that’s really fun. The age that I’m working with right now, I’m working with two-year-olds, and so they’re not at a place where they can really be writing letters, but they are starting to be able to, like, distinguish what’s a letter, what’s a number, what’s just a symbol, and it’s not something you necessarily think about once you already know your letters, but there’s no reason for that to look different to us until we learn that it’s different.
+
+ELI: Even just sort of before you get to different kinds of, I mean, the different fonts and different handwriting, now I’m thinking about like, you’ve got K with a bowl, you’ve got double-story G, you’ve got, you know, all of these things that you would expect somebody who’s just learning that to like stop and be like, “wait, that… What is that? That’s different,” and you go, “well, that’s a G,” and… go, “well, that’s not what a G looks like, a G looks like this.” “Well, that’s also what a G looks like.”
+
+KRISTEN: Right. As I was working with third graders to help them learn how to type, it was hard for them to find the G on the keyboard often, because it usually is that double G on most keyboards, as opposed to the way we would write it. And that is one of my biggest pet peeves in the, like, educational-industrial complex is when people choose fonts that are not developmentally appropriate for kids. It’s like, that can be the cutest font in the world, but if it’s showing that a capital letter is the same size as a lowercase letter, or if it is showing, like, letters that just don’t quite look right for the sake of being cute, like, that pisses! me! off! [laughs] And it’s not something that people necessarily think about, and unless you have started to… Like, once I started to when I was in college, I… it is now like, you can’t unsee it, and so like walking down a hallway of a school, I’m like, “[frustrated noise] bad font there, bad font there, bad font there,” and it’s like, it seems so nitpicky if you don’t understand why it matters so much, but, like, it does, and if especially, you know, this older school of thought was, “Well, print-rich environments, if we just like surround kids with words, they just won’t be able to help themselves and they’ll learn to read.” And like, there’s a little bit of something to that. Yes, you should have a print-rich environment. Yes, kids should be looking at words, they should be seeing letters all the time. Are they going to learn to read because your trash can has a sign on it that says “trash can”? No. But should your trash can sign be legible to them? Yes, for sure. [laughs]
+
+SARAH: I have slowly been working on Japanese because I hang out with Eli and Jenny, and also my roommate across the hall is a Japanese teacher at school, and, you know, these things happen. Duolingo pisses me off so much because their program is actually… Like, they’ve come a long way on their Japanese program, and they even now have handwriting practice, which I love, but they use a font that uses the Japanese equivalent of the double story G.
+
+ELI: Oh, do they do そ [so] with the flat top?
+
+SARAH: Not そ, the one that looks like ち [chi] but isn’t ち.
+
+ELI: Oh, you’re thinking of さ [sa], but–
+
+JENNY: Yeah.
+
+SARAH: Yes.
+
+ELI: —with a connected—
+
+SARAH: They do さ connected, and then when they go to handwriting, they’re like, “you’re doing it wrong,” and I’m like, “sorry I learned it the way you showed it to me.” Like, don’t… If you’re going to—
+
+ELI: Yeah, that’s something you have to learn, is the…
+
+SARAH: —teach me how to… Also, they’re like, “oh, well, you should be able to recognize this character when it doesn’t have the connecting line drawn,” and I’m like, “So… show it to me without the connecting line drawn?” That should be obvious, but again, to someone who actually knows how to read, they’re like, “oh, obviously, those are the same letter, no problem.” Ugh.
+
+ELI: I mean, I think it’s interesting because there comes a point when you do need to learn that, when you do need to learn that, like, in print, you will sometimes see さ with a connecting line or そ with a with a straight top, or you will see a double story G or a Z with a line through it.
+
+SARAH: Right, but, like—
+
+ELI: But—
+
+SARAH: Pick one version to start with. Don’t just throw me in the deep end with all of the variants on this letter without telling me. Like, I learned that those were two versions of the same letter because I probably came to you and was like, “What the hell?” [laughs] And then you, as a competent user of the language already, explained handwriting, and I’m like, that’s what we have to be doing when we teach kids how to read letters.
+
+KRISTEN: For sure, and when you think about letter formation, which is a whole other aspect of teaching spelling and writing and all of that, which is challenging, I have never written a double-story—
+
+SARAH: Exactly.
+
+KRISTEN: —G with my hand. I would not be able to. It would look ridiculous, but I do need to recognize that, and so that’s true. Yeah, you know, we all went through that pha—Well, I don’t know if we all did, but white girls in Ohio went through that phase of writing their As in that way with like a little whatever, and you changed your handwriting intentionally to try look cool,
+
+ELI: Today I learned I’m a white girl from Ohio. [JENNY and SARAH laugh]
+
+KRISTEN: —and then they actually looked so stupid and I could never write that again in my life, but you could still read that that was an A. [laughs] So yeah, exactly. You do need to expose kids, and there’s like some fun activities that you can do with younger kids, you know, in preschool or kindergarten, of just practicing that letter of recognition, of let me put a bunch of different fonts and different letters in a bag, and you just match the ones that are all the same letter. And that’s really good practice for your brain to categorize all those things as that letter, as well as just explicitly naming what makes a letter a letter. It’s the way that these lines are slanted and… or these lines are round, and practicing the formation of those both so you can make it yourself, but also so you can recognize that when there’s a circle with a line coming down from it, it’s an A, and if you move that line and it’s crossing the circle, now it’s a Q, and if you, you know, move that line even further, and it’s coming out diagonally, and there’s a straight line down, now it’s an R. And so a lot of these same lines and round li—straight lines and round lines will make different letters, and, you know, let alone get into the like P, Q, D, B, debacle of letter reversal and all that, but that is a step of being able to be like, “Well, I know it’s one of these lines on one of these round things.”
+
+ELI: The B, D, P, Q thing is interesting because now I start thinking about Canadian syllabics. Maybe it’s not Canadian syllabics. Maybe it’s… is that different than the Inuktitut language? Yeah, where they use a symbol… I think it gets rotated for like voicing and non-voicing… or vowel, it gets rotated for a vowel, and then the voicing and palatalization is—
+
+JENNY: Yep.
+
+ELI: –a diacritic on it. We should put a link to WhatTheFont in the show notes, because that’s a cool way, if you’re kind of wondering, “Wait, hold on, what versions are there?” it’s ostensibly a thing that helps you identify a font, but it does it by saying, “What does the M look like, are the sides straight or not? What does the W look like, is it pointed in the middle, or do the middle strokes sort of cross like a little X? What does the lowercase G look like, does it have a single or double story?” And so you can see sort of all of these, like, “What does the Q look like?” Because Q has like eight different variations, especially in fonts.
+
+KRISTEN: I did have one more thing I wanted to mention about the orthographic processing system, which, as foreign language geeks, I think you would probably find interesting, which is that the orthographic processing system can recognize unfamiliar words, and it can tell possibly what languages it is, or at least if it’s not in the language you read and speak, and that is based on the orthography that you know. So maybe you know enough of Spanish or French orthography that you can see a word and say, “Oh, that’s Spanish. Oh, that’s French.” For people who only speak their native language, though, it’s pretty clear, if you are fluent in that language, which words are in your language and which words aren’t, even if you’re unfamiliar with the word, and so a lot of that comes down to those phonics rules of, if you saw a word that had one F at the end after a short vowel, it would look wrong to you, and maybe it’s a nonsense word, or maybe it’s a word in another language. English words can’t end in I, so when we see a word that ends in an I, we know that is either a borrowed word or not English, and so—
+
+ELI: My brain just immediately was like, “German, Icelandic.”
+
+KRISTEN: Exactly, and that’s why we have words like “ski,” because we took that from places where people ski. [laughs]
+
+ELI: Very cool.
+
+KRISTEN: So it’s just, it’s a super, obviously, interesting phenomenon, but it’s super essential to reading, and when people struggle with orthographic processing, they’re… the people who are struggling with basic reading skills and are typically poor spellers, they might have trouble forming sight words, which is another conversation we could have if we wanted, but that ability to recognize words automatically without having to decode them each time, and they will often read slowly, because instead of being able to automatically recognize a word, they have to sound everything out. And while that is definitely a part of reading, to be a fluent reader, we obviously, when we’re reading, you’re not sounding out each word, it slows you down so fast, and so that automaticity is essential to being a strong reader, and if your orthographic processing isn’t working, there’s, it’s very challenging to read.
+
+ELI: Wait, so there are words where you’re skipping over sounding them out entirely rather than… I always just assumed that it was like, you just did it so quickly that you couldn’t notice it.
+
+KRISTEN: There is that, but think about when you are reading like a scientific text where there’s… You know, if I read a medical journal, I have to stop, and I don’t have to sound out every single sound because I know enough like morphological chunks and—
+
+ELI: Sure.
+
+KRISTEN: —chunks that I don’t have to sound out each sound, but I do have to slow down and maybe be careful with my syllabication, whereas most of the time, for many of us, our sight word bank is hundreds of thousands of words that you can read pretty automatically. That gets confusing for people, because that sounds like whole word reading, but it’s not. It’s because you learned those rules and you read that word enough time that yes, now your brain does not need to break it down into chunks anymore, but you didn’t just look at that word as a whole the first time you saw it and read it. Your brain had to read that word enough times to put it in the bank.
+
+ELI: So whole word reading is the idea that that’s how you should learn to read—
+
+KRISTEN: Yes.
+
+ELI: —whereas sight words are words that you are just so familiar with that now you no longer have to do the process kind of manually.
+
+KRISTEN: Exactly, and that is kind of a newer definition for that. Historically, and still for many people who are… You know, if you’re a child, or you, when you were in school, were sent home with a list of sight words and they just said, “Do these flashcards until you know all these words.” There’s a little bit of a reason for that, only in the sense that when you are first learning to read, you don’t know enough rules for your reading to be meaningful, and so you can read more sentences if you just memorize a few extra things, like if you memorize words like “was,” “have,” “I,” “is,” even if you haven’t learned all of the letter-sound correspondences that are necessary for that, because it’s way more fun to be learning to read if you can read a sentence like, “I am a girl” even if you never learned that ⟨ir⟩ spells /ə˞/, and you’re probably not going to learn that till first or second grade, and so you should probably still be exposed to the word “girl” in kindergarten because that’s what makes it meaningful to you. But… drilling words like that can lead to progress, but what’s more effective is to say to someone, “We know that G spells /g/. We know that L spells /l/. We haven’t learned yet about IR. We’ll talk about it more later, but for now, you just need to know that in this word, it spells /ə˞/, ‘girl,’” and practice that with them, they learn the word “girl,” and later down the road you can be like, “Yeah, you remember IR from ‘girl’? Well, in this word, let’s blend [s.t.ə˞]. There’s ‘stir,’ IR spelling that same sound again.” And for some kids, those kind of exposures will lead to them generalizing them and being able to apply them elsewhere. For other kids, no. They’re not going to ever read ⟨ir⟩ until you’ve sat down and taught them ⟨ir⟩ explicitly. And so when people argue like, “Oh, this isn’t necessary,” yeah, for some kids, it’s maybe over the top, or for some kids it… they were going to get there themselves eventually, but no one is going to be harmed by it, and certainly people will be left behind without it.
+
+SARAH: It sounds like, the way that you describe fluent readers having this sight bank of hundreds of thousands of words, it feels like to me maybe somebody looked at the way fluent readers read and said, “Well, why don’t we try to teach students… Why don’t we try to teach four-year-olds to do it the way fluent people do, because that’s the end goal?” And, like, somewhere in there we missed the step that, like, you don’t get to the Olympics by just jumping in a pool.
+
+KRISTEN: There’s definitely a little bit of that. Yeah, it’s why when I first was learning how to teach phonics, my mind was blown the way yours was about the English words can’t end in V, I, U, or J, because I didn’t know that, and I’m very fluent in English, and I’m a very good reader. [laughs]
+
+SARAH: Yeah.
+
+KRISTEN: And I didn’t know the FLOSZ rule, and I didn’t ever… I had never considered that ⟨s⟩ could make two different sounds, yet that didn’t inhibit my reading. And so it is partially that, of people not being aware of what they didn’t know, but also, this kind of leads into… There is one more—
+
+SARAH: Yep.
+
+KRISTEN: One or two more processing systems we have to get to, but one of the popular schools of thought that relates to whole word reading, or, as you guys so perfectly put it, “vibes-based” reading, is called the three-cueing system. It sounds really similar to the four-part processing model, but what it omits is, it doesn’t separate the orthographic processor from the phonological processor and ignores the fact that both of those things need to be happened for words to be known by sight or known automatically.
+
+ELI: Yeah, so we’ve gotten two out of four. What is the third process?
+
+KRISTEN: So the next process is the meaning processing system, also known as the semantic processor. The way that the semantic processor works is… exactly like it sounds like, It’s where you make meaning from both the sounds that you have grappled with with your phonological processor and the letters that you got with your orthographic processor, so it uses several areas of the brain. It is… that part is way above me, even. It interprets the meanings of words both in and out of context.
+KRISTEN: So if we associate speech sounds with print symbols but we can’t access the meaning behind them, it might be like reading a foreign language, like we kind of talked about before, so our mental dictionaries, or lexicons, right, are where we have the meanings of words, the different pronunciations of words, so if we know the spelling of a word, it becomes part of what we know, and it’s what we conjure up when we’re thinking about that word, and because many spoken and written word forms have different meanings or multiple uses, context has to be involved for us to be able to put that word in the right space as we’re reading or as we’re writing, and so that is what the work of the semantic processor, so it’s working with those roots and other morphemes that we talked about. It’s working with synonym relationships and shades of meaning, common meaning associations and connotations, and it’s kind of like a filing system.
+KRISTEN: And I wish I could speak to this better, but there’s such a cool video which if I can find it I’ll send to you guys for you to link, but they’ve done some really cool brain mapping of what words touch other words inside of our brain and where those words are housed, because it’s not all in like one spot, and so you can say words and different parts of people’s brains will light up, and you can, like, visually see the word map that you could write out on a piece of paper of what words are connecting to which. It’s super fascinating, and that’s happening because of semantic processing.
+
+ELI: That’s awesome.
+
+SARAH: Yeah. I imagine that those maps are going to have some overlap among people, but also have some really specific differences based on how individuals learn a word or, you know, some kind of inside joke that, for some reason, you know, I associate dogs with blueberries, even though that’s not like a common association.
+
+ELI: Gosh, I would love to be able to pull my own word map out of my head and, like, look at it.
+
+KRISTEN: Well, and it’s so interesting, because sometimes things will be linked because of meaning, right? Like you have that joke of dogs and blueberries, but also, “dog” might be linked to “bog” because they rhyme, or “dog” might be linked to “dish” because they both start with ⟨d⟩, and when you think about people who are having some sort of problem, like, for instance, a stroke, and, like, words are not connecting the way that they’re supposed to and other words are being substituted, sometimes—again, as a 0% medical professional—like, it does speak to how words are linked in our brains, so it could make absolutely no sense, but also, if you had the key, it would be like, “Oh, well, that connected to that this way and that connected to that this way.”
+
+SARAH: One of the things in second language acquisition is, on a certain level, if you say the wrong word, it’s the wrong word. Right? You know that that was not what you should have said. But there comes a point in that acquisition where the mistake you make is because you’re pulling a word that’s associated by meaning instead of by sound or spelling, and that represents a sort of level up where you’re making the type of mistake that native speakers make where, you know, I say, “Oh, someone remembered me” instead of “somebody reminded me,” or “Hand me the salt—sorry, I meant the pepper,” or whatever, because I’m actually thinking in what the words mean, not just saying, “Oh, hand me a dog. I meant a log,” or whatever.
+
+KRISTEN: And it’s… That’s super interesting, but, to me, it’s also interesting, like when I am forgetting a word and I’m trying and like, “Oh, I know it starts with this,” or, “Oh, it reminds me of this weird thing that I know isn’t actually related to it,” and then sometimes you find the word and you’re like, “Oh, it didn’t start with that letter. Why did I think it started with that letter?” And it’s like, “Oh, because it was the name of a flower, and I was thinking of a different flower that does start with that letter.” Like, very bizarre things going on. The brain is crazy. [laughs]
+
+SARAH: Correct.
+
+ELI: Gosh, there’s all kinds of things to branch out from there. Like, I’m thinking about like, oh, the word feels like it starts like with a letter. Even if it doesn’t, you have an overriding feeling that it ought to, which then makes me think about like color-grapheme synesthesia or that kind of thing, where you get these sort of intangible background associations with words. I would expect it’s not exactly the same thing as the semantic processing and the lexicon, but it feels like it lives in the same place where when you’ve spent enough time with your lexicon and your vocabulary, like, you start to sort of navigate it intuitively, rather than sort of explicitly.
+
+KRISTEN: For sure. My first year teaching, I had two kids who had double Es in their name, and, like, there was nothing else similar about their name. I guess they both had two syllables, but totally different phonemes otherwise. The double Es weren’t even in the same syllable of their names, but I called them the wrong names all the time, and I could see in my head that it was because they both had a double E in them, and like… I was talking to a coworker about it and he was like, “That’s not why,” and I was like, “No, I promise you it is because I’m seeing a double E in my head when I say their names, and, like, that is why that’s happening,” and he was like, “That’s insane,” and I was like, “Okay, well, it’s what’s happening.” [laughs]
+
+SARAH: I have a student I’ve called the wrong name multiple times this year because when he introduced himself, I was like, “Oh, that’s the same name as somebody in my homeroom,” and I just mapped it to the wrong kid in my homeroom, and so I’ve called him the wrong name like four times.
+
+ELI: Sarah, not only are you not associating that kid with themself, but you’re not even associating them with the right person that isn’t themself.
+
+SARAH: I know. [laughs]
+
+KRISTEN: You guys probably saw this, I feel like it was on like email chains back in the day, but you know those paragraphs where they will have jumbled the middle of words, but the first and the last word… and that has been used as an argument to why whole word reading works, but it doesn’t work if you jumble them well, it only works if you keep important letters together so that, like, the correct graphemes can happen. If you truly jumble everything randomly except for the first and last letter, no one can read that, but your brain is so good at distinguishing the known graphemes in the language that it can unjumble the graphemes and make the word right. It’s not just looking at the first and last word. It’s just even smarter than we thought.
+
+JENNY: Yeah, that makes a lot of sense.
+
+KRISTEN: And I don’t… That’s probably not exactly how it works, I don’t have any, like, notes in front of me on that, I just remember reading about it once and thought it was interesting, so a little grain of salt there, but there’s something there to support systematic and—
+
+ELI: Kristen, the number of times Sarah or I have said, “I just remember reading about this once”—
+
+[SARAH and KRISTEN laugh]
+
+ELI: —as a source for this podcast, like, you’re in good company. Don’t worry about it.
+
+SARAH: Well, and that’s what makes me think, where it’s like, yeah, as a fluent reader of English, I can read those jumbled-up paragraphs and I can read continuous scripts. Right? This is a thing that blows my students’ minds all the time, because when Latin first began to be written down, they didn’t use punctuation, and they didn’t use spaces, and for that matter, they didn’t use lowercase letters. So—
+
+KRISTEN: So someone was just screaming at you with no break the entire time?
+
+SARAH: Correct. Which, at least in their defense, it didn’t have the connotation of screaming yet, but yes, it was just a solid page of no space caps lock, and like, I’ll show them an example, and they’re like, “How in the hell do you read that?” And I’m like, “Okay, but if I put this in English, it’s hard, but I can do it because as a fluent reader in the language, I know what word breaks look like, I know that ⟨gh⟩ has to come at the end of a syllable, so I know when I see that it’s going to be the end of a syllable, things like that,” and yeah, doing that in a language that you don’t know how to read yet is hard. And so yeah, being like, “Oh, well, because I’m a fluent reader, I can do a thing; therefore, a brand new person should be able to do the thing” just isn’t valid.
+
+KRISTEN: Right. This is also… I don’t know this for sure, but I am guessing it is also the semantic processing system that does make all caps feel like screaming and does make an old person typing like eight ellipses feel so spooky to you.
+
+[SARAH laughs]
+
+KRISTEN: Like, it’s because your brain has created meaning for that type of written language.
+
+SARAH: Yeah.
+
+ELI: It’s interesting to take that assertion and sort of put it next to the linguistics version of that, which is probably talking about sort of sociolinguistic and pragmatic implications of writing in all caps or having an ellipsis or ways of speaking? Like, tones that you use with other people that are maybe… You know, it’s the “you’re welcome” / “no problem,” kind of a thing. It’s interesting because I wouldn’t have ever put it at the reading semantic processing level, because that seems to me to still be kind of more unconscious than kind of sociolinguistic, like dot dot dot or “you’re welcome” versus “no problem,” but I don’t have any basis for that, actually. Maybe it’s looking at the same thing from two different angles.
+
+SARAH: Well, and we’ve talked often about how the different subfields of linguistics are this giant Venn diagram mess, right? And, like, it wouldn’t surprise me at all if those sorts of tones of voice and orthographic equivalences we’ve come up with and phatic expressions like that and all those things, like, have to have a root somewhere in semantics, because otherwise you couldn’t misunderstand them, if they didn’t have a meaning to begin with.
+
+ELI: Yeah, and we now have more and more informal written communication, and so you’re getting more and more of these things that only happened in speech out loud that are crossing over into written and read communication. So, we’re not the experts on reading comprehension here, so I have no basis to sort of evaluate that.
+
+KRISTEN: And I don’t know for sure. That’s my suspicion.
+
+SARAH: It stands up to the sniff test? Yeah.
+
+ELI: Yeah, it makes sense to me, just dividing up the pie in different—
+
+SARAH: Yeah.
+
+ELI: —different quadrants, yeah.
+
+KRISTEN: Right. So when that semantic processing system isn’t working well or someone has a weak vocabulary, has a limited knowledge of English or weaknesses with verbal reasoning, so if you don’t know about how metaphor works, you don’t know other, you know, important facets of language, it can really affect reading comprehension because the semantic lexicons are not developed the way they need to be to support fluent reading, and it’s part of why reading to kids is so important for them to be good readers. Is it going to teach them phonics? No, but is it going to give them the semantic processing support that they need to make use of their phonics? Absolutely.
+
+ELI: Going back, reading to kids does the reverse of the informal communication in text now, where it allows you to take stuff that’s written down and speak it aloud, and, for example, if you’re reading a story, you’re doing dialogue, you’re going to read the dialogue in the tone of voice the person would say it if they were doing it in a play.
+
+KRISTEN: Right.
+
+ELI: Right? And you’re kind of reversing that to build that. Okay, I g—Now this totally makes… Like, I see the mirror image. I see the… Yeah, okay. Cool.
+
+KRISTEN: And then the last processing system is the context processing system, and there’s a diagram that’s used to explain the four-part processor, which I will do my best to describe simply, since this is an auditory experience, but if you imagine the first three processors that we talked about as a triangle, there are arrows going in both directions connecting all three, so they’re all three interfacing with each other. This last processor, the context processor, really only interfaces with the meaning processor, the semantic processor, so it’s kind of… In pictures, it’s up on top, so it’s kind of like the cherry on top of this triangle, connecting to only the meaning processor, because it’s interfacing to support meaning processing, so context is the sentence (or—the sentence, sequence, paragraph, whatever) that the word you’re reading is found in and the different ideas or events that are happening in the text that you are reading, so it provides the context for the word’s meaning, especially in a language like English that has a lot of homonyms and homophones, it is essential. So words like “past” and “passed,” one of those, even though they have the exact same phonemes, one of those has an -ed ending and is spelled totally differently, and I know that that is a verb, whereas one of those is a noun, and I can figure out which one someone is saying to me because of my context processor and I can figure out which one to use because of my context processor. So when you have strong context processing happening, you’re just getting that last layer of meaning happening the way it’s supposed to so it can resolve the ambiguities of multiple meaning words. It can help you fix errors. It’s why, especially with young readers, you’ll hear them get to the end of a sentence and then go back and fix the word they made a mistake on because they get to the end, and that’s a good sign, that’s a sign that they are reading and understanding what they’re reading, because they get to the end of the sentence and it didn’t make sense, and so a good reader goes back and tries again, and that is because the context said, “No, that word can’t belong there.”
+
+ELI: I like that that, again, situates reading not as sort of understanding individual words, but reading as an exercise in deriving the meaning of the sentence and the context and so on, where normally I think, and there’s probably a place for this, but you would say, “Oh, that word wasn’t correct,” after they’ve said the word, as opposed to the sign of a strong reader being getting to the end of the sentence, you know, and then going, “Wait, hold on. My sort of meta-analysis said that doesn’t make any sense, so I have to go back and try again.” Even if… You know, they’re not going to catch it in the middle, they’re going to catch it when the context is present.
+
+KRISTEN: Right, exactly, because… And you’ll find the same thing… You know, if you’re reading a book aloud, usually to a kid but to anyone, if you’re reading aloud, you will often make mistakes, because you’re just, I mean, especially reading aloud is a challenge compared to reading in your head, and it’s easy to mispronounce things or assume you read part of something, or some words, you know, don’t fit on the line and are hyphenated and whatever. There’s tons of reasons to make mistakes even if you are a great reader, and you’ll also find yourself going like, “wait, what? that didn’t make any sense,” and trying again.
+KRISTEN: And it is concerning when kids make mistakes on text and don’t go back and fix it, because it’s a sign they don’t know what they were talking about. Like, it didn’t feel wrong because none of it ever felt right, and that is, I think, one of the questions that I saw in the notes was like, what is that difference between students who are just learning to read and students who are fluent or, you know, not students who are fluent? And that is a huge difference is, if you are doing the work of decoding and the work of recognizing the word, you just have less capacity to understand what you’re reading, and so it’s going to take more time, you’re going to understand less, and the more fluent you become, the more automatic you become at decoding, the more space is freed up for you to think about what you’re reading, and so as you become a better reader, you can start to do that meta-analysis both of your own reading, but also of like, “Ooh, I wonder what’s going to happen next in the story.” You can make predictions. You can wonder. You can ask questions. You can think, have like emotional reactions to what you’re reading and be like, “No, that’s horrible,” or, “I disagree,” and for all of that to come and for you to be engaged in reading meaningfully, there has to be enough capacity on board for you to not just be working really hard to decode what’s in front of you.
+
+ELI: Makes sense.
+
+SARAH: Yeah.
+
+KRISTEN: So that is the four-part processing model, and that is why reading is as crazy of a phenomenon as it is, because it is using all sorts of parts of your brain. There’s no, like, switch you flip on to just start reading. It’s a whole situation.
+
+SARAH: And it’s amazing that, given how much of a situation it is, like how automatic it can become.
+
+KRISTEN: Yeah.
+
+SARAH: I remember as a small child at some point in elementary school saying to my parents like, “I wish I could go back to when I was just learning to read, because then I could decide if I wanted to read something,” whereas at that point, I’m like, “If you just put English text in front of me, it will be processed by my eyes, and I can’t not read it.”
+
+KRISTEN: I remember that same feeling. I don’t know if I had a conversation with our parents about it or not, but I remember having that thought of like, “I can’t make it stop.” Like, “it’s happening!” [laughs]
+
+SARAH: And, right, it’s like, you know, I’ve basically gotten over that at this point, but every once in a while I stop and I’m just like, “Why does…” Like, I’m looking at this to-do list that’s over behind my computer and I’m like, “Why does that particular set of squiggles just throw information into my brain without my consent?” Like—
+
+KRISTEN: Because your processors be processing. [laughs]
+
+SARAH: They do. It’s wild.
+
+JENNY: So how old were you guys when you learned to read?
+
+KRISTEN: I learned to read in kindergarten, I think in the second half of the year, and it’s interesting. It’s such an interesting question when people ask when people learned to read, because it is such a continuum, and so there is—
+
+JENNY: For sure.
+
+KRISTEN: —like that initial spark (right?) of like, “Oh, all of a sudden, like, letters have meaning, and words have meaning,” and I, like, I went from not being able to read anything to being able to read some things. At the same time, like, I wish I could remember more of the process of me learning to read. Being on the other side of it and teaching it is… I don’t know, like, I know I could read… There were some picture books I could check out from the library and read, but so much of someone’s ability to read depends on their interest in the text, depends on the vocabulary they have at the time. It depends on the phonics rules that they know. And so I just wish I had more of a roadmap of what that journey looked like for me, having watched it in so many other people.
+
+SARAH: Yeah. I definitely learned to read before kindergarten. I don’t remember how or why. I definitely, as Kristen mentioned earlier, I definitely did teach myself a lot, and I don’t really know what sparked it.
+
+KRISTEN: I mean, Mom will say, like, you were always fascinated with letters, like from an extremely young age, like, “She was the like 18-month-old who was like saying letters and letter sounds with the magnets on the fridge.”
+
+SARAH: Yeah. I—
+
+ELI: This tracks.
+
+[SARAH and KRISTEN laugh]
+
+KRISTEN: She’s been a nerd since birth.
+
+SARAH: It’s true, it’s true. But I do know for sure that I was, like, relatively competent in reading before I got to kindergarten, because on the first day of kindergarten, we had name tags, which was really for the benefit of the teacher, but a kid who ended up becoming one of my best friends asked me what my name was, and I said, “Well, it’s on my name tag,” and she looked at my name tag and said, “Sa… Samantha!” And I was like, “No,” and she was like, “You’re Samantha.” And so I was like, “No, I’m a huge bitch.” [laughter]
+
+ELI: You did that to yourself, really.
+
+SARAH: I did do that to myself, and it’s amazing that she actually stayed friends with me after that.
+
+ELI: I do not remember when I learned to read. I’m told I learned to read really early. I don’t know if it was before kindergarten. I am told also that I learned to read off of the newspaper, which—
+
+JENNY: Okay, that’s a new one on me.
+
+ELI: —seems advanced. I don’t know how much I believe that, but I do know that I learned to read early and loved to read and love to read and I think had maybe a similar journey to a lot of linguists where I sort of had the, like, “Reading is great, and words are great, and grammar is great, and wait, hold on, all the English teacher stuff is like… is not the the direction. Like, there’s this secret other linguistics path to go on.” The idea of, you know, Kristen, you said like learning to read is a continuum and there’s no sort of one point in time, made me even think you can get more and more shells outside of that. You were talking earlier about, like, reading an academic paper and like, yeah, you are not usually, like, sounding out the words or trying to figure out the context, but you’re one step up where you are saying, “Okay, I expect like… here’s the…” not even just like, “Here’s the structure of the paper,” but like, “here’s how they’re going to explain things.” You could do that same, like what’s going to happen next in the story, as like, “Okay, they’re setting up an experiment, so they’re going to tell me more about how that’s set up and what the variations were,” and then, you know, or if you’re leading… reading a legal brief or a newspaper article or all of these other kinds of things. You have a number of shells, not just one more, but like a number of sort of other concentric shells or processes or models—
+
+KRISTEN: Absolutely.
+
+ELI: —that you continue to learn how to read.
+
+KRISTEN: And that’s why just teaching phonics is not a comprehensive literacy curriculum, because, yeah, reading all the words is great—
+
+ELI: That’s a great point to make.
+
+KRISTEN: —but yeah, exposure to genre is super important. Do you understand what a table of contents is? Do you understand what an index is? Do you understand that when they put a little box to the side with a word, they’re going to define that word? Do you understand like how chapters work or how paragraphs work? Do you understand how metaphor works? Do you understand the meanings of words beyond ju—you know, there’s like cool activity you can do with shades of meaning, of having kids think about the difference between “disgusted,” “grossed out,” “put off,” “nauseated,” like which one’s the worst, which one’s the mildest, you know, and all of these things that help us to understand written language, both when we’re reading and writing it, that is a crucial part to literacy instruction. And so I think people worry when they hear about teaching phonics that that’s the end-all be-all, and it certainly is not. It is essential, but it is not the end-all be-all.
+
+SARAH: Okay, so we talked about those four processes, and then I think earlier you mentioned that there was this three-cueing system that was part of the whole word vibes-based thing. What are those three cues?
+
+KRISTEN: So the three-cueing system proposes that word recognition uses three systems of linguistic cues in a text, and those three systems are a graphophonic visual system, a semantic meaning system, and a syntactic system where the linguistic context helps you to identify the words in the sentences. So at first glance, it doesn’t feel that different than what we just talked about. A lot of those—
+
+ELI: Sure.
+
+KRISTEN: —words are in there. And so what the critical difference is, is that the phonological and the orthographic processing systems, which were the first two we talked about, so phonological, having to do with sounds, and orthographic, having to do with the actual print on the page, are not distinguished, and they’re together in that visual system. And so that leads to people underestimating the importance of things like phonemic awareness, being able to hear those different sounds and words and underestimating the importance of phonics, of learning that explicit and systematic explanation for the rules of how those sounds pair with letters and other graphemes. So when that is not explicitly taught and the skill to decode with phonics is not prioritized, you’re leaving people unarmed to attack words they don’t know, and so what that ends up looking like is, instead of teaching people to read, you teach them how not to read. You teach them a ton of other skills that is not reading. You teach them to—maybe you would have heard this as a kid—to look at the picture to help them. You teach them to look at the first letter and guess. You teach them to skip it and finish the sentence and come back to it. And sometimes that will help. Sometimes they will get the right word. Sometimes they will understood what they read entirely, but they never read that word. And—
+
+ELI: So reading coping mechanisms—
+
+KRISTEN: Exactly.
+
+ELI: —rather than actually reading.
+
+KRISTEN: And so what will happen—and that is what is probably happening with a lot of your high schoolers who are struggling—is, they got really good at not reading because they were given these crutches to support their inability to read. And so you can get really far, but it doesn’t always feel great, and it means that it’s never going to feel as easy as you want it to, because you were never given the tools to decode any word in front of you.
+
+SARAH: And you’re probably never going to find yourself in that situation of, “Oh, I learned this word because I saw it on a book, and I’ve never heard it out loud,” because you just skipped right over that word. Right.
+
+KRISTEN: And for some people it’s fine. For some people, they do compensate enough to pass whatever tests, or to not feel the struggle, or for their own ability to generalize to kick in and they can kind of teach themselves the rules without having been taught. And, like, that’s fine, that’s great. That’s why there are people reading before the science of reading was published, but like, when you know better, do better, and we now know that there’s a better way to do this, and it is to give people the tools that they need to decode words.
+
+SARAH: Cool.
+
+ELI: I mean, I would also expect that there are a lot of folks who are saying that, like, “Oh, it will be fine,” or like, “They’ll figure it out, how to generalize,” that themselves are in that sort of like 5%, 10%, who can do that without so much help because those are the folks who are going to be thinking about their reading as a positive thing and thinking about, you know, their experience as a really sort of enjoyable and gratifying one, as opposed to other folks who maybe had a longer road and like, yeah, they can read totally fine, but it’s not something sort of… It’s not like a enjoyable precious process to them.
+
+KRISTEN: And I think teaching is such an emotional and such a personal endeavor that that does get tied up in it, and people do feel like their identity is tied up in both how they learned and how they have previously taught, and so it is hard to let go of for a lot of people, and not for nothing, but also, at least it is my belief that a good teacher is first and foremost a learner, and so you got to be willing to learn. Even if that is hard to look back on however many years of doing it a different way, that doesn’t mean you were a bad teacher then, it just meant you knew what you knew, you did what you could, and now you know something different. That shift has… If it continues in the way that it’s going, I mean, more and more states are hopping on board with the science of reading and requiring that kind of training for teachers. It should be credited at some point in this podcast that much of what I know is due to a professional development course called LETRS by Louisa Moats and Carol Tolman, and so, one, if you’re super interested in this, you should take that course—it is thrilling—but two, basically all the information that I’m sharing came from that course and from all of the studies that are cited in that.
+
+SARAH: What you’re saying about teaching as being a learner first, I have often felt that the best teachers I had—and what I hope to do as much as I can as a teacher myself—is like, the people who enjoyed the subject matter but not the ones to whom it came super duper naturally, because I’ve had language teachers… I had a physics teacher who I loved as a human, but he would just do physics at you, and you’d be like, “But why?” And he’s like, “Because the integral is the right thing to do,” and I’m like, [clearly confused voice] “Cool!”
+
+ELI: Yeah, I’ve had math teachers on both sides of that where they clearly understood it deeply, and some of them worked to figure out then how to sort of eject themselves from that and bring you along with them, and some of them, namely actually when I got to college and took—retook—calculus in college and found it harder than I found it in high school, because that teacher was just like, “This is how math works.” I was like, “To you.”
+
+[JENNY laughs]
+
+KRISTEN: Well, and you find that so much as you get up into, you know, high school, college, graduate school, and it’s what is so infuriating about the phrase, “If you can, do. If you can’t, teach,” because it’s like if you can, do, and if you can, you maybe shouldn’t teach. What you need to be able to do if you’re teaching is, you need to be able to do it backwards and you need to be able to do it from mixed-up pieces, and if you can’t do it that way, then you’re not going to be an effective teacher.
+
+SARAH: Correct.
+
+JENNY: I learned a lot more from my second Japanese teacher in college than from my first, because the first was a native Japanese speaker, and the second, Japanese was like her third language, or… and English was her fourth, or maybe the other way around, I don’t remember, but the one who was not a native Japanese speaker was so much better at teaching Japanese. Like, it’s just, it’s—every time, like if you are too good at something, you’re not necessarily going to be a good teacher.
+
+KRISTEN: It’s why I struggle so much to help my grandma with her cell phone, because I, like, I can’t break it down into small enough parts. I’m like, “You just do the cell phone thing,” because it’s so native to me.
+
+ELI: “Just try some stuff, you know?”
+
+KRISTEN: I’m like, “You just push the buttons that make sense to push,” and to her there’s no buttons that make sense to push.
+
+SARAH: Right.
+
+ELI: So you’ve said that there are some kids that don’t do well with a phonics curriculum. Many, many kids do, but there’s a small percentage that don’t, and I’m curious, is whole word reading a good option for students ever, even if it’s not a good option for most students, or… And you could give a one-word answer to this, if you want. Like, is there any merit, or is it something that kind of got very popular and now we know is having adverse effects?
+
+KRISTEN: There really is no time to use whole word reading in lieu of phonics instruction. Systematic explicit phonics instruction is truly the best option there is out there. I did say there’s that 2–5% of kids who won’t learn to read, and I don’t know what the solution to that is. I don’t know that anyone does. Research shows there’s just… There is a small amount of people who, it’s just like, for whatever reason, their brain is not going to make it happen for them the way it will for everybody else, and that is really hard and really sad, but it is not because of the science of reading or phonics instruction. And what it does mean is that for that gap of almost 50% of kids or more who have the capacity to learn to read but maybe haven’t so far, that a more thorough instruction is needed. In education, we talk about a multi-tiered system of support, and so what that looks like is either more intensive, more rigorous teaching, or more time spent, maybe better accommodating disabilities, maybe better accommodating different types of learners, but what it doesn’t mean is to, like, throw out what we know about what works and say, “This will never work for you.”
+
+ELI: It isn’t very often that we get a definitive answer on this podcast.
+
+JENNY: Yeah!
+
+KRISTEN: And there are plenty of people who would disagree with me. You know, that’s—
+
+ELI: Ah, now we’re back into familiar territory.
+
+KRISTEN: I mean, there are people who will live and die by the same pedagogy that’s been going on for a long time, or, you know, even less known pedagogies that we haven’t necessarily discussed, but, I mean, the science is pretty clear, so in that way, the experts are pretty much on the same page.
+
+SARAH: So if you have someone, either one of those students that we’ve been talking about who has the capacity but hasn’t reached that level yet, or even an older student or an adult who feels like they’re leaning more on these reading coping mechanisms rather than actual reading skills, is there anything that you can do later in life?
+
+KRISTEN: Absolutely. You know, I learned a ton of phonics as an adult in order for me to teach it. You know, I was lucky enough that I haven’t found that it’s changed my ability to read that much, other than I am possibly now a more observant reader in terms of the phonetic makeup of words, but if you are someone who is either self-motivated enough or just, like, has enough self-awareness to be like, “I want to teach this to myself,” there’s tons of resources out there that teachers are using to teach it, that if you wanted to be your own teacher, you could be. My favorite curriculum that I use to teach phonics is called UFLI, we call it [ˈjuˌflaɪ]; it stands for The University of Florida Learning Institute, I believe. All of their resources are free online except for the actual teacher manual, which is like sixty to eighty dollars, I think. It only goes up to about the end of second grade in terms of the phonics scope and sequence, so it’s not going to get you everything ever, it’s certainly not going to get into those more morphological things, and root words, and maybe the more interesting things that would help you when it comes to subject texts in middle school, high school, college, but if you are like, “No, I struggle with the basics of reading,” that is like cream of the crop in terms of curriculum, and it is definitely the type of thing you could practice—maybe not with yourself, but if you have like a loved one or you’re a parent of a middle schooler who is like, “Why is my sixth grader reading like a first grader?” Like, that would be an option.
+KRISTEN: For people who are further along than that but are still kind of dissatisfied, I don’t have any resources off the top of my head, but I know they’re out there, and I could try to find some to link in the show notes, just of like, “What are those rules of English?” or looking into like, “What are those common root words? What are… Let me learn about like some of the Greek influence in English, Let me learn about the Latin influence in English. Let me learn about the other main things that are influencing our reading that especially are helpful when it comes to reading things like science, math, medical-type things.” And yeah, it’s definitely… There’s no like, “Oh, it’s too late for you.” You can learn this at any point, and your understanding of language can always get deeper.
+KRISTEN: If you are someone who, like, you’re dissatisfied with your reading rate, one of the best things you can do is to read, and to read aloud. It is certainly a skill that you just have to practice, and if you’re coming upon issues then of like, “Oh, I’m struggling with my rate because I’m struggling to decode,” like, what are you struggling to decode? What words are hard for you? Is it parts of words? Is it like longer words with syllables? There’s a whole bit we didn’t get into about the different syllable types in English that really cracks open like the entire language that I think a lot of adults have their minds blown by of like, “Oh, every syllable in English is one of these six syllable types, and if you understand how to read them, then you can read almost anything.” So things like that, if you feel like you’re missing those building blocks, absolutely you can go back and learn them and reapply them.
+
+ELI: I think it’s worth mentioning, by the way, that for most of the history of literacy, literate people read either aloud to themselves or with a finger alongside the text, and this sort of like reading silently with only your eyes is a really recent thing in—
+
+KRISTEN: Yes.
+
+ELI: —the history of literacy, and I mean, people that you would think of who were very smart who were philosophers, who were theologians, who were people who wrote and read lots and lots, were probably reading either aloud to themselves or with a finger underlining each word as they went along, so if you’re finding yourself having to do that, know that you’re part of a long tradition rather than not living up to what you think you might need to do.
+
+KRISTEN: Absolutely, and I am absolutely a proponent of becoming like a comfortable fluent reader and reading as much as you want to. Like, I love to read, but also, like, if you are forever going to be someone who prefers audiobooks, like, that’s fine. There is not something like pure and holy about reading printed word over other forms of communication and language sharing, and so like that kind of elitist thinking I think is super gross and, like, feel good about reading in the way that you like to read, whether that’s like slowly and with your finger, or to auditory, or some combination thereof, and, like, for sure, seek out the resources you need to get you to the place you want to be, but like, if you’re a slow reader, that is not, like, a moral failing. [laughs]
+
+SARAH: Cool.
+
+ELI: Well, that was awesome. Thank you so much for sharing about the science of reading and going through in such excellent detail. And I know that we’ve left a lot of stuff that we haven’t talked about. [unclear]
+
+KRISTEN: I know. I’m like, I could go on forever. [laughs] Thank you for having me. [laughs]
+
+ELI: That’s I think why you’re such a natural fit to be a guest on the podcast.
+
+SARAH: Yeah, this was fantastic. Thank you so much.
+
+KRISTEN: Guys, this was so fun. I’m a podcaster now.
+
+SARAH: You are, and if, you know, if there’s stuff that you wanted to talk about that you didn’t get a chance, feel free to shoot us a thing that’s like, “Here’s a fact about reading. What do you think?” And we’ll throw them into some future episodes.
+
+KRISTEN: Okay, sounds good. Love it.
+
+SARAH: So yeah, thank you so much, and I think that’s a great way to end off here, so let’s go into our puzzler. So last time, our puzzler was, “A number of musical artists were quizzed about their favorite Pokemon. Daniel Merriweather said Charizard. Eiffel 65 chose Blastoise. Coldplay said Pikachu. [hesitantly] Spandau Ballet chose Ho-Oh.” Anybody know if that’s how you say that artist? Oh, well. “Echo & the Bunnymen said Lugia, and New Order said Suicune. What answer did the Kaiser Chiefs give?”
+
+ELI: I can see you using all four of your reading processes.
+
+[SARAH and JENNY laugh]
+
+SARAH: Thank you. Thank you. I try hard. So the answer is that the Kaiser Chiefs chose Groudon because each artist has a song named the same thing as a Pokemon game, and their favorite Pokemon is the one that’s on the cover of the game that has the same name as their song. So, for instance, Daniel Merriweather has a song called “Red,” and Charizard is on the cover of Pokemon Red. New Order has “Crystal,” with Suicune, and so on. The Kaiser Chiefs have a song called Ruby and the cover of Pokemon Ruby features Groudon. So if that was your answer, you know far too much about Pokemon, and good job. [laughs]
+
+KRISTEN: I know I just talked for like an hour about how to teach people to read, but that was the nerdiest thing in this podcast.
+
+SARAH: We have to cap it off well. [laughs]
+
+ELI: You also know a lot about music.
+
+SARAH: That’s true.
+
+ELI: I have to tell you I didn’t know Groudon was a Pokemon, or Suicune.
+
+SARAH: I didn’t know that half of those were singers.
+
+KRISTEN: I was going to say I knew Coldplay, so… [laughs]
+
+SARAH: That’s the thing, when we first had this, I was like, “I know Coldplay and ‘Yellow’ and Pikachu, so I can see that that’s where this is going,” but I knew none of the other artists or colors.
+
+ELI: I think it would be okay to give yourself credit if you looked this up on Wikipedia but you knew exactly what you were looking for.
+
+SARAH: Yes, I think that’s true.
+
+ELI: If you did that. And I’m not just saying that so that I can get credit.
+
+[SARAH and JENNY laugh]
+
+SARAH: That’s a side effect.
+
+ELI: Should we move on to the new puzzler?
+
+SARAH: Yes, we should. Please tell us.
+
+ELI: Okay, so today’s puzzler is a cryptic crossword clue. I’ve fallen pretty hard into cryptic crosswords, and I have been doing the Lovatts puzzle and the simple daily puzzles, cryptic crossword, almost every day. And cryptic crosswords are very cool, but they work a little bit differently than sort of American-style crosswords where—the clues are not just synonyms or fill-in-the-blanks or so on. So I’ll explain how cryptic crossword clues work, and then I’m going to give you one that I encountered in a Lovatts puzzle a while ago and found was fun enough to save it for a puzzler.
+
+SARAH: Cool.
+
+ELI: By the way, has anybody else on the podcast done cryptic crosswords?
+
+KRISTEN: I’ve not.
+
+SARAH: I’ve done a couple. I was not good at them yet.
+
+JENNY: I’m not a big fan of crosswords, but I’ve run into what might be a related type of puzzle that was just called cryptics.
+
+ELI: Sometimes they are just called “cryptics.” Cryptic crosswords are hard to get good at, partially because, especially if you’re doing British ones that are not quote-unquote “easy” or quote-unquote “modern,” you kind of have to be like a sailor from the 1870s who lives in the middle of the UK. I don’t know, there’s been a lot of stuff where I’ve been like, “I guess those three letters sound like they could be a river somewhere in Britain. Let me look it up,” and like, I don’t count that as cheating, because I don’t have the cultural context.
+
+KRISTEN: Are sailors from previous centuries a big part of your listenership?
+
+[SARAH and JENNY laugh]
+
+ELI: I don’t know. I don’t think that we get those metrics.
+
+[KRISTEN laughs]
+
+SARAH: Okay, so how do the clues work?
+
+ELI: Okay, so there are several different sort of styles of clue, but they all work in the same way.  The clue is broken in half. Half of the clue or one part of the clue will be what’s called the definition, which is always a synonym or analogy or category that matches the answer exactly.
+
+SARAH: Okay.
+
+ELI: And it could be one word or multiple words. And then the rest of the clue tells you how to put that word together, usually kind of letter by letter or like word part by word part or that kind of thing, so it’s like assembly instructions. But that’s where the cryptic bit comes in, because (a) you don’t know… you have to figure out, is the definition at the beginning or the end, and where does it start and end? And (b) a lot of times things are sort of cloaked or cryptic. So as an example, if you had a clue that was “remote designed for object in the sky,” if you encounter that as an American clue, it makes no sense. Oh, you also—you get the number of letters in the word, although you see that because you see the puzzle, but this has six letters. So if you look at this you could say, “Well, ‘remote’ could be the definition. ‘Remote designed’ doesn’t really make sense as a definition. ‘Designed for object in the sky’ doesn’t really make sense as a definition. ‘Sky’ or ‘the sky’ might be a definition, ‘object in the sky’ might be a definition,” and then you might think about it a little bit like, “Well, six letters, actually, ‘remote’ has six letters. ‘Designed’ could mean you want to design the letters in ‘remote’ and make ‘meteor,’ which is an object in the sky.”
+
+KRISTEN: Oh, my gosh. [laughs]
+
+SARAH: Luckily, we’ll have a month to work on this.
+
+ELI: Yes, so this will have a lot of juicy bits to it. Okay, so this is the cryptic crossword clue that is this episode’s puzzler. It’s two words. The first word is six letters, and the second word is nine letters. The clue is: “Second in command managed jewel branch. A boy, last minute, made breakfast spread.” I will give it again: “Second in command managed jewel branch. A boy, last minute, made breakfast spread.”
+
+SARAH: Okay.
+
+ELI: Yeah. So if this kind of thing sounds interesting and you want to dip your toe in, there’s a site called Minute Cryptic and they do a clue every day, and has a really great interface for… there’s a button that will show you a hint, which is what part of the clue is the definition, and it will also sort of give you a par and let you reveal letter by letter, and so it’s a really great way to sort of train yourself into this. If you’re bored with American crosswords and you want to start screwing your brain up in a different way, I’ve been having a lot of fun with it.
+
+SARAH: Cool. Well, thank you for that puzzler. I shall be puzzling.
+
+KRISTEN: Yeah, that blew my mind.
+
+ELI: All right, well, that’s it for this episode. Thanks for listening, and thanks especially to Kristen for joining us, and to Bex and Skylar for suggesting and helping to plan this episode.
+
+SARAH: Audio editing is done by Chris. Question wrangling and show notes are done by Jenny, and transcriptions are a team effort. Our music is “Covert Affair” by Kevin McLeod.
+
+ELI: Our show is entirely listener-supported. You can help us by visiting patreon.com/emfozzing, E-M-F-O-Z-Z-I-N-G, and by telling your friends about us. Ratings and reviews wherever you are listening help as well.
+
+SARAH: Every episode, we thank our patrons, and today we want to say thanks to these awesome patrons: Trickey_7, Riker, Geoff, Rachel, and Jason. We also want to thank folks who engage with us on Apple Podcasts, Spotify, YouTube, Instagram. Wherever you can do that, we love to hear what you think, so thank you.
+
+ELI: Find all our episodes and show notes online at linguisticsafterdark.com or on all your favorite podcast directories, and send those questions, text or audio or carrier pigeon, to questions@linguisticsafterdark.com. You can reach us on Facebook, YouTube, Instagram, and regrettably, though probably not for much longer, on Twitter @lxadpodcast. If you don’t find us on your platform of choice, let us know. You should also join our Slack community at the-crossings.slack.com, and a link to that is on our website so you don’t have to type it yourself.
+
+KRISTEN: And until next time, if you weren’t consciously aware of your tongue in your mouth, now you are.
+
+[outro music]
+
+[beep]
+
+ELI: I’m sorry, folks, we were going to have a guest on this podcast episode, but I think we’re going to need to make a late-minute cancellation.
+
+[beep]
+
+SARAH: And my cat has just left the room, so I’m going to go shut the door.
+
+[beep]
+
+ELI: God forbid you could send us an email.
+
+[beep]
+
+SARAH: When you learn some words, you can be our next guest.
+
+[beep]
+
+ELI: Oh, no. Do we want to take this, a podcast about specific linguistics things, to a very geeky place?
+
+SARAH: Yes. Yes. Very yes.
+
+[beep]
+
+ELI: Today I learned I’m a white girl from Ohio.
+
+[beep]
+
+KRISTEN: I’ve got the notes right in front of me. [laughs]
+
+[beep]
+
+ELI: If you’re a Jack Tar from the 1870s, send us an email.
+
+[beep]
+
+SARAH: I associate dogs with blueberries.
+
+[beep]
+
+ELI: And I’m sure we have multiple kinds of syllables in the word “emfozzing.”
+
+[beep]
+
+KRISTEN: I’m a really good reader, guys. [laughs]
+
+[beep]
+
+ELI: Ladies and gentlemen, the cat has left the room.
+
+[music]
