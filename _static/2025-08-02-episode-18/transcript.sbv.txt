@@ -1,0 +1,1245 @@
+[music]
+
+ELI: Hi, and welcome to Linguistics After Dark. I’m Eli.
+
+JENNY: I’m Jenny.
+
+SARAH: And I’m Sarah. If you’ve got a question about language and you want experts to answer it without having done any research whatsoever, we’re your podcast.
+
+ELI: Settle in, grab a snack or a drink, and enjoy. If you have made it to this episode, you probably don’t need the reminder, but we just want to make sure that, like, the “don’t do research” tag is because we think that that’s funny. It basically means that we can just get on here and talk about stuff and go off on wild tangents rather than feeling like we have to have the academic rigor. This thing was born of me and Sarah getting drunk and answering linguistics questions in a room, and the podcast is basically just an extension. While we don’t do research for the taping, we do research when we do the show notes so that the stuff in the show notes is correct, even if these two idiots are not correct when we talk during the episode. We do know how to do the research to answer your questions. We just don’t feel like it until afterwards. Would you say that’s fair?
+
+SARAH: Yeah, it’s fun to see what we know off the top of our heads, and honestly, pretty fun to laugh at ourselves afterward when it turns out we wildly misremembered something.
+
+ELI: If you want to see us answer linguistics questions drunk and live, you should come to CrossingsCon, which is this August. Go to crossingscon.org and buy a ticket and then come to Philadelphia and then ask us a weird linguistics question at midnight. All right, on to the episode.
+
+SARAH: All right, how’s it going, folks?
+
+ELI: It’s going okay. I’ve been sick for a while. I don’t know if it’s going to come across on the podcast. I got a little tickle on the back of my throat. This is just life with an infant at daycare, I guess?
+
+SARAH: Yeah, I was talking to my mom about that, actually, because I was at your house a week ago, and she asked, like, “Oh, what were you doing with your friends?” And I mentioned that you’ve gotten every single baby germ, and she was like, “Yeah, the first time that you went to preschool—” because I’m the oldest of our family—she was like, “I think we went to the pharmacy once a week for some medication.”
+
+ELI: That tracks.
+
+SARAH: And I was like, “Oh, my God, is it ever going to end?” And she promises me, and therefore you, that it will end, actually.
+
+ELI: Ah. I note that there’s not a timeframe attached to that.
+
+[JENNY laughs]
+
+ELI: Look, I definitely haven’t gotten every baby germ yet. There’s definitely a bunch of stuff that’s out there. The daycare just had a round of conjunctivitis, and the kid did not get it, at least not yet. He did bring COVID back on day two of daycare,
+
+JENNY: Oh, god.
+
+ELI: so that was unfortunate for all of us. You know, it’s a thing. We have neighbors who have kids who are grown, and he likes to joke that he has had 299 out of the 300 known rhinoviruses. 
+
+[SARAH and JENNY laugh]
+
+SARAH: Do you get some kind of reward when you finally punch the 300th one?
+
+ELI: Yeah, I think your kids are grown up and they move out of the house.
+
+SARAH: Okay, that’s fair.
+
+[JENNY laughs]
+
+ELI: I should say real quick, please don’t take that too far. I love my son. He is fantastic. Just turned 10 months. Everything is wonderful. Oh, there is a baby phonics update, actually!
+
+SARAH: Ooh, do tell.
+
+ELI: Yes, so, as of a couple of days ago, he now has a tooth, and that means that there’s a whole myriad of places of articulation that are now open to him. So he’s been doing a lot of /f/ and /v/. He hasn’t quite gotten any /θ/ or /ð/. That’s a F and V or theta and eth for those of you transcribing along. [JENNY laughs] But he really went ham on the F and V now that he’s got a tooth to actually do it with.
+
+SARAH: That’s awesome. Because yeah, you really, like, you can fake a lot of sounds without teeth, but the labio-dental ones really do require both labio and dental.
+
+ELI: Yeah, can’t say “teeth” without teeth.
+
+SARAH: So true. Is that the episode title, by the way?
+
+JENNY: I think it might be the episode title.
+
+ELI: That might be the episode title.
+
+SARAH: [laughs] Beautiful. 
+
+JENNY: That was fast!
+
+SARAH: Love how we get there that quickly.
+
+ELI: It’s been great. He’s slowly, slowly expanding his consonants. He’s slowly differentiating vowels. No words yet, but I think that’ll come. We’ve been trying to do a little bit of baby sign. I don’t know how well it’s working, but we got to try to be consistent about it, not want to introduce too much too quickly and all of that.
+
+SARAH: Yep. Well, speaking of myriad things, you want to teach us a language thing of the day?
+
+ELI: Yeah, absolutely. So today’s Language Thing of the Day, we’re going to give a hat tip out to Bex, who suggested this and sent us a Tumblr post as an overview of this topic, which I’m sure we will link in the show notes, but we are going to talk about the short scale and the long scale, because this is secretly an episode of Mathematics After Dark.
+
+SARAH: Dun-dun-dun!
+
+ELI: This is about what we call different numbers, and I got really excited about this because I at first thought that this was about all of the lurking hidden twelves in English, because there’s a dozenal system hidden in English. We think that it’s a base ten system, but also secretly there’s a bunch of twelves happening there, and there’s the long hundred and the short hundred and it has to do with acres and it’s a whole thing, but unfortunately, that’s not what the short scale and the long scale are about. This is about what we call different numbers. Say if I write down a one and then three zeros after it, what do you call that?
+
+SARAH: A thousand.
+
+ELI: If I write down a one and I put six zeros after it, what do you call that?
+
+SARAH: A thousand thousand. [laughs]
+
+ELI: You could call it a thousand thousand.
+
+SARAH: But I could also call it a million.
+
+ELI: You could also call it a million. I’m going to note, just going ahead, because it’s going to be useful, that “thousand” is a weird word because in a lot of the other Indo-European languages, that word starts with an M. So, in English, we have the word “myriad,” which means a thousand, and then you’ve got “mille” in French and “mil” in Spanish.
+
+SARAH: And like “millipede” and “millimeter” and all those things.
+
+ELI: Yeah, exactly. If I ask you how many zeros are after the one in a billion, what are you going to say? We got three for a thousand. We got six for a million. How many after the one in a billion?
+
+SARAH: I’m going to say nine.
+
+ELI: And that is correct for us, but if you say a billion in French, they mean a one with twelve zeros after.
+
+SARAH: And you’re going to say that that’s not just because French numbers are dumb.
+
+ELI: No, the French numbers being dumb is totally different.
+
+SARAH: Great.
+
+ELI: They do this in German. They do this in Dutch. Basically anywhere on continental Europe or any place that got colonized by continental Europe is going to treat things this way.
+
+SARAH: Okay.
+
+ELI: And the idea is basically that the long scale goes in jumps of millions, so a billion is a million million. A trillion is a million billion. A quadrillion is a million trillion.
+
+SARAH: So you add six zeros every time instead of three.
+
+ELI: Exactly.
+
+SARAH: Okay.
+
+ELI: And then the short scale is the idea that you go and jump a thousand. So a million is a thousand thousand. A billion is a thousand million. A trillion is a thousand billion.
+
+SARAH: Got it.
+
+ELI: So you add three zeros.
+
+SARAH: This seems like an even easier way to create errors than converting between imperial and metric.
+
+ELI: Oh, yeah, absolutely, and I’m sure there’s no end of mistakes or, you know, orders that were too big or too small or things that were constructed in weird ways.
+
+SARAH: What if we just go completely to like scientific notation?
+
+ELI: I mean, scientific notation, as far as I’m aware, is pretty recent.
+
+SARAH: No, I understand that, but I’m saying going forward, like what if we just get rid of the words “million” and “billion” and all that and just be like “10 with six zeros” or “1 with six zeros”?
+
+ELI: Yeah? You’re going to… Okay, I challenge you to do that for the rest of the podcast.
+
+SARAH: No, I just said, I just… What if we did that? I don’t want to do it myself.
+
+ELI: I feel like it would be extremely cumbersome. I also think we often use “million” and “billion” as, yeah, order of magnitude markers, but also kind of approximate—
+
+SARAH: For sure.
+
+ELI: —order of magnitude, and so it’s like, “Oh, are you 10 to the six or 10 to the seven, or…” You might also be thinking like, “Hey, there’s a gap there. Like, I would like to be able to say ‘a thousand million’ in a language where ‘billion’ is a million million.”
+
+SARAH: Oh, yeah, for sure.
+
+ELI: Yeah. So that’s called a “milliard” [mɪlɑɹd] or a “milliard” [mijɑɹd], I’m not sure? I’m not the French speaker here, but it’s that word cognated into a bunch of different languages.
+
+SARAH: Interesting.
+
+ELI: And then the equivalent one that’s a thousand billion, if for you a million billion is a trillion, is a “billiard,” which seems very made up.
+
+SARAH: Okay, so you go million, milliard, billion, billiard.
+
+ELI: Exactly.
+
+SARAH: Is that where billiards are from?
+
+ELI: I don’t think so.
+
+SARAH: Okay, we’ll have to look that up for the show notes now, because we’re not allowed to do it, but I want to know.
+
+ELI: This is the portion of the show we’re allowed to do research for.
+
+SARAH: All right, fine. I’m looking it up. You keep talking.
+
+ELI: Okay, so basically the long scale, which is jumps of six places or millions, was the original version, and that actually, in the late 1400s, a bunch of mathematicians were like, “We should name all these giant numbers that we don’t have any reason to use,” and so they like, you know, wrote a bunch of stuff where they were like, “And in this decimal place, it’s this, and this decimal place, it’s that,” and they made up a bunch of names for these numbers. The short scale, on the other hand, sort of started a little bit in France, which is ironic because they’re very long scale now, but it really got steam in the United States around the early 1800s or so, and I think the reason is probably because at some point we switched from setting off zeros in groups of six to setting off zeros in groups of three.
+
+SARAH: Okay.
+
+ELI: And so I think it was like, “Okay, well, if we’re going to do that, like, we should, you know, chunk these up by thousand.” The U.S. basically dragged the whole Anglosphere down with it, and the U.K., which was a big holdout, changed over in the ‘70s. And then France, probably out of spite, went the other way in the late 1800s. They were like, “Oh, we cannot abide these Americans using our short scale, so,” I… Also, like, a lot of stuff happened in France in the 1800s.
+
+SARAH: [laughs] It’s true.
+
+ELI: Just going to gloss totally all over that. And so they started using the long scale again. Also, the long scale had been pretty consistent to the rest of continental Europe, so it’s sort of easy for them to do that.
+
+SARAH: Okay.
+
+ELI: So, yeah, we have this big confusion. We’ve got million and billion and trillion, and the milliard, billiard, trilliard, and people made words for these like all the way up, much, much higher than we would ever… Like, higher than the number of particles in the known universe, like, all the way—
+
+SARAH: “Septeptrilliard.” I hate that.
+
+ELI: Yeah, I also hate that. Thank goodness we use the short scale. By the way, you know what a one with 100 zeros after it is?
+
+SARAH: That’s a googol, right?
+
+ELI: It is a googol. Yeah. Do you know what a one with a googol zeros after it is?
+
+SARAH: A googolplex.
+
+ELI: It is a googolplex, which is also the name of Google’s headquarters building.
+
+SARAH: Which is good because they had that opportunity, and I’m glad that they took it.
+
+ELI: Yeah. Back when Google wasn’t evil, that was cute.
+
+SARAH: Yeah, fair. Also, googol the number is G-O-O-G-O-L, which—
+
+ELI: Correct.
+
+SARAH: —is great, and also given how prevalent the knockoff spelling is now, breaks my brain a little bit.
+
+JENNY: I mean, didn’t Google the search engine… It was supposed to be googol the number, but someone misspelled it, and they were like, “Hey, we could use that,” because it was like a deliberate play on, like, having all the links to ever… like, being the best search engine, so you have like a googol links.
+
+SARAH: I knew it was a—
+
+JENNY: Or something like that.
+
+SARAH: —play on the number. I didn’t know if the spelling was intentional or accidental.
+
+JENNY: I think I remember hearing it was a typo, or like a…
+
+ELI: That seems reasonable.
+
+JENNY: Someone thought that was how it was spelled.
+
+SARAH: Yeah.
+
+JENNY: That said, I haven’t heard the story in like fifteen years, so who knows?
+
+SARAH: Yeah. Also, just very quickly, Eli was right. Billiard the number and billiards the game are not related. Apparently, billiards the game comes from the diminutive of the Old French word “bille,” which is a tree trunk.
+
+ELI: Oh, I was all set to be like, “Oh, diminutive of ‘ball.’”
+
+SARAH: Nope. [laughs]
+
+ELI: But no.
+
+SARAH: No, it’s the game with the sticks.
+
+ELI: All right. I’m one and one with linguist’s intuition.
+
+SARAH: Yeah.
+
+ELI: Okay. So we talked about we have these two different scales. You know, they’re both totally fine scales. You just have to be really clear about which one you’re using.
+
+SARAH: Yeah.
+
+ELI: So you should not be Canada, which—
+
+SARAH: Oh, no.
+
+ELI: —uses the short scale in English and the long scale in French.
+
+SARAH: Oh, God, of course they do.
+
+ELI: Yes, although the government officially says that you shouldn’t say “billion,” and instead you should say “mille milliards.”
+
+SARAH: I mean, that is way more clear, but also—
+
+ELI: At that point, just, like, you’re counting by thousands. Come on now.
+
+SARAH: Yeah…
+
+ELI: And this is apparently pretty common in countries that sort of commonly use languages that are either Anglosphere or kind of continental Europe, so apparently Puerto Rico uses the short scale for like economic and technical stuff, which they… you know, not that they do that in English, but like, that’s the English influence and—
+
+SARAH: Yeah.
+
+ELI: —then use the long scale sort of in Spanish for other things. We’ve got countries that use both. Right now, basically the whole Anglosphere, and also… Is there a word like “Anglosphere” for the Arabic-speaking world?
+
+SARAH: I don’t know.
+
+ELI: Anyway, the Arabic-speaking world, basically the whole Anglosphere, and then like Indonesia, Russia, and weirdly Brazil, which doesn’t fit the pattern, all use the short scale, and then Greece also uses the short scale, but instead of loaning the words in, they calqued them, which I love for Greece. Well done.
+
+SARAH: Uh-huh.
+
+ELI: Actually, I should look up what Iceland uses, because they do… They don’t even calque. They, like, redefine when they bring words in.
+
+SARAH: Okay.
+
+ELI: Anyway, I don’t speak Greek, but Sarah, you do.
+
+SARAH: [hesitantly] Sure.
+
+ELI: You want to take a crack at these numbers?
+
+SARAH: I can read Greek out loud. I wouldn’t say that I can speak it. So we have εκατομμύριο [ekatommurio] or εκατομμύριο [ekatommýrio], depending on what… millennium you’re speaking in.
+
+ELI: I was going to say, if you live now or several thousand years ago.
+
+SARAH: Correct, and so that’s a hundred myriad, so 100 times 10,000, and then δισεκατομμύριο [disekatommýrio] for bi-hundred myriad, which is a short scale billion, and then τρισεκατομμύριο [trisekatommýrio] for 300 myriad, and that’s three multiplication, not addition, I think. Yeah.
+
+ELI: So, good for you, Greece. Like, I’d love to see more of that. Love to see languages calquing stuff. That’s always cooler than loaning, I feel.
+
+SARAH: Yeah.
+
+ELI: On the other side of the fence, continental Europe and places that are using languages from continental Europe are on the long scale side, and also Iran uses the long scale. I guess it just has to be different. So we’re, like, we’re not done with this. I feel like a lot of times people talk about the long scale and the short scale, and they’re like, “Oh, there was this weird thing where for a while, a billion was a million million, and now it’s not.” And like, this still exists. This is still with us.
+
+SARAH: Yeah.
+
+ELI: But I want to finish this up because we’ve talked a lot about what happened in Europe, and that happens quite often, so I want to make sure that we talk a little bit about people who are not counting in groups of three zeros or six zeros.
+
+SARAH: Yup.
+
+ELI: Because there are a bunch of places that have their own numbering systems, traditional numbering systems, that are still used, although there are a lot of those places that have also been colonized by the UK, so in English, they’ll often use the short scale, and then in whatever language they speak, they will use their own numbering system, but one of these ones is India, which has the lakh, which is a hundred thousand, five zeros, and then they have the crore—or [cɹɔ˞]? I may be mispronouncing that; it’s tough because it has the R at the end, but of course there’s the influence from British English, which isn’t rhotacized. Anyway—and that’s ten million or seven zeros, and they will group their digits according to that. So they’ll put a comma after five zeros, I guess because it’s going from left to right. If you have a crore, it’s 1,00,0000.
+
+SARAH: Yeah, I think I’ve seen that, actually. That makes sense.
+
+ELI: Yeah.
+
+JENNY: Yeah.
+
+ELI: And Japan, and I think also China, has a scale that goes up by four zeros at a time, so their scale is one myriad, and a myriad myriad, and myriad myriad myriad.
+
+SARAH: Okay.
+
+ELI: So they have ten hundred thousand, and then they have 万 [man], which is ten thousand, 億 [oku], which is eight zeros, so a hundred million, and then there’s others past that,
+
+SARAH: Sure.
+
+ELI: I never needed to learn them.
+
+SARAH: I have two fun facts related to the India and Japan thing. One is from a YouTube video I watched recently. I think it was NativLang, which is a channel I’ve referenced before. They did a really cool video about timekeeping around the world, how a lot of the world, presumably under European influence, came to this 12-slash-24-hour system in sixty minutes and sixty seconds and all this stuff, but that there are other places that have other native timekeeping systems, including, I believe, India and Japan, whose timekeeping systems are maybe not exactly related to these number systems, but it makes sense to me that those places would have a different way of counting time and also a different way of just counting. Anyway, we should link that video in the show notes because it was very interesting. But also—and I haven’t fact-checked this, so maybe we should do that later, too—but I believe the whole like “ten thousand steps a day” thing originated because of that number 万 [man], which is just a convenient number in Japanese, and also, if I recall correctly, the kanji happens to look like a person walking.
+
+ELI: It does, a little bit. I could totally see that.
+
+SARAH: And so some company was just like, “Yeah, you know, walk a lot, do one 万 [man] steps every day,” and then the whole world was just like, “Oh, 10,000 steps is the magical number of steps to walk,” and I just—
+
+ELI: Oh, my gosh.
+
+SARAH: —think it’s very funny because if the company who had done it was in a different country, like, the magical number would be different. Okay.
+
+ELI: Yeah, that’s very cool. I didn’t know that that was just like a marketing thing.
+
+SARAH: I believe so. We’ll have to see if we can find a source for that, but…
+
+ELI: I mean, it does make sense because I feel like 万 [man] is often used as just, like, a big number?
+
+SARAH: Sure.
+
+ELI: Right? Like, “You should do a lot.” You get this a lot in like, well, I know it from Biblical Hebrew. There’s a number of times in the Bible or in the Tanakh where it’s like, “And there he lived for seventy years,” or like, “There were seventy thousand whatever,” and it’s like… That is, it’s just meant to be like, “There were a lot.” “He lived for a while.” Like, “There was a lot of things happening at that point.” And so there’s… And there is a lot of this. I think most cultures have some number that is the sort of designated like “this is a lot” number.
+
+SARAH: Yep. There’s a verse in the New Testament where somebody says, like, I think Jesus says, like, you know, “Forgive people who sin against you,” and this person’s like, “Well, how often should we forgive them? Like at some point, it’s the last straw. Like seventy times? Like, like a lot of times?” And Jesus is like, “Not just seventy, but seven times seventy.”
+
+ELI: Right. Yeah.
+
+SARAH: “Like, literally forever.” And meanwhile, a lot of people who don’t have that context, and I guess I didn’t realize—or if I did, I’d forgotten—that seventy was that sort of arbitrarily large number, and I’m sitting there like, “So the 491st mean thing that you do,” [laughs]
+
+ELI: Then you’re out! That’s it.
+
+SARAH: “491 strikes and you’re out.” Yeah, that’s cool.
+
+ELI: So you’re reading something that is Hebrew or Hebrew-derived and you come across a number that is seventy-ish, you know, you should know that that just kind of means like “a lot.” We use this in English, too. You say, like, “Oh, there’s like thousands of reasons why blah, blah, blah, blah, blah.” Right?
+
+SARAH: Yeah.
+
+ELI: Or it might be upgraded at this point to “There’s millions of reasons why blah.”
+
+SARAH: Yeah.
+
+ELI: So yeah, that’s the short scale and the long scale, and it’s all about what people call different kinds of numbers. You’re bringing up of like, “Why don’t we just use scientific notation for everything?” is like similar to like, “Why don’t we just use like the metric prefixes and suffixes…”
+
+SARAH: …yeah.
+
+ELI: “...for everything?” And it’s like, because people aren’t going to do that. This is language and people are going to keep using it.
+
+SARAH: Right.
+
+ELI: But it is cool and also probably something to watch out for if, I guess, you somehow don’t know about this and are in charge of large sums of money crossing international borders.
+
+SARAH: Yeah.
+
+ELI: Thanks for listening to our podcast, if that’s you.
+
+SARAH: [laughs] Indeed. Okay. Shall we move on to some real language questions submitted by real listeners?
+
+ELI: Yeah, let’s do it.
+
+SARAH: All right. If you want to send us a question, email in text to questions@linguisticsafterdark.com, or send us an audio recording of you speaking your question aloud, which is especially handy for phonology or accent questions. So I’ve got our first question. Mary asked via email, “Why do we use ‘on’ to refer to spiders being on ceilings? To me, the spiders aren’t on top of the ceiling. They’re under. All the languages I know use a very similar preposition to ‘on’ in English, so I’d like to know if any other languages use a different preposition or postposition.”
+
+ELI: You know what this question reminds me of?
+
+SARAH: What?
+
+ELI: It reminds me of trying to figure out whether you use “on” or “in” for transportation for various transportation things.
+
+SARAH: Oh, yes.
+
+ELI: Are you on a train or are you in a train? Are you on a car or in a car? Are you on a bus or in a bus?
+
+SARAH: So true. So, okay, so this actually has to do with transportation. There’s a smartphone app called Transit that I like a lot.
+
+ELI: Familiar with it. Yeah.
+
+SARAH: They do public transit tracking in a lot of different cities, and you can see when the next bus or train is scheduled, and then part of their whole thing is that, if you want, you can mark yourself as like on a specific train or bus and then it will use your position to track that vehicle instead of just guessing where the vehicle is in order to give better data to other people waiting for that vehicle. Great! Sometimes it will give you little surveys like, “What’s the quality of the bus you’re on?” or “Is there a trashcan at your train stop?” or whatever. And because I’m me and my phone is in French, I have learned a lot of cool words for things in French.
+
+ELI: Oh, yeah, that’s nice.
+
+SARAH: And there was a couple survey questions that I just couldn’t figure out, and I haven’t been able to find them in English, and so I took one of them to a group of French speakers I know online and I was like, “What does this question mean?” And they were like, “This seems weird, like, I don’t think you’ve copied it over correctly,” and I don’t remember exactly what the wording was, but as I was describing the situation, I was trying to say “on board the bus,” but in French, whatever the word is for “board” in that situation, if you include the word “the” or not, it either means like “you are on the bus, you’re riding the bus,” or it means “you are on top of,” like hanging onto the roof. And I accidentally said, “Oh, but, you know, like when you’re on the roof and they give you the survey,” [laughs] and they were like, “When you’re where?” And I was like, “Isn’t that how you say that?” and they were like, “Yeah, but don’t put the word ‘the’ in there.” I was like, “Oops.”
+
+ELI: That’s that really discounted fare. [SARAH and JENNY laugh] You got to get up on the roof and hang on.
+
+SARAH: “How’s the temperature on the roof of the bus?”
+
+ELI: Exactly.
+
+SARAH: “Not great.” Anyway, to go back to Mary’s actual question.
+
+ELI: Well, so I brought it up because I think it’s actually related.
+
+SARAH: Yeah.
+
+ELI:  So I know the answer that I saw and seems to have been pretty consistent for the transportation thing.
+
+SARAH: Okay.
+
+ELI: Which is, has to do with whether you’re sitting or standing sort of normally, because obviously, like in a bus or on a train, you will sit or stand, but like, so you are in a car because you are sitting basically the whole time. You’re on a train because the train has room for you to kind of stand and for that to be like a normal way for you to be… Right? Like, you walk onto a train, but you have to sit to get into a car.
+
+SARAH: Okay.
+
+ELI: And so similarly, you’re on a bus, because you, like, walk onto the bus—and there are seats, but like, your entry into the bus.
+
+SARAH: Okay, but all right, so then, and you’re on a plane, and you’re on a boat—
+
+ELI: And you’re in a helicopter.
+
+SARAH: In a helicopter, in a canoe, you’re on a bike, but in the same way that you’re on a horse, because it doesn’t have a roof.
+
+ELI: Yeah.
+
+SARAH: But you’re also in a canoe that doesn’t have a roof.
+
+ELI: Well, so I think “on a horse” and “on a bike” are a little… I feel like they’re not like enclosed transportation, and so that’s like—
+
+SARAH: Well, that’s true. They’re not… They don’t have walls, either. Like a canoe has walls, but there’s not a roof.
+ 
+ELI: You’re like, on the horse.
+
+SARAH: You are literally on top. Yeah.
+
+ELI: Right.
+
+SARAH: That’s fascinating. I’ve never noticed that pattern.
+
+ELI: Yeah. I… Look, send us your counterexamples, because I’m sure there are counterexamples, but for the most part, I feel like it’s the question of, like, getting into the thing and what is your position once you’re, like, immediately in the mode of transportation.
+
+SARAH: Yeah.
+
+ELI: Right? Like a plane, everyone’s sitting on a plane, but you walk onto the plane.
+
+SARAH: Yeah, yeah, yeah.
+
+ELI: You’re on the plane.
+
+SARAH: Yeah. No, that’s really—
+
+JENNY: You walk to your seat. You don’t walk… Like, you don’t walk up to where you’re sitting in a car. Like, you sit.
+
+ELI: Right. Or like a helicopter where you have to like climb in and immediately be on your…
+
+SARAH: Yeah. Yeah. Yeah. That’s really interesting, and I am curious if there are similar patterns or like related patterns in other languages, too?
+
+ELI: Well, and English has “on” versus “in,” but there’s a lot of languages that only have one word—
+
+SARAH: Well, right—
+
+ELI: —that does double duty there.
+
+SARAH: So there’s one word for that, but then there’s also, like in French, I have not yet figured out the pattern for what prepositions go with what vehicles, because you can be “dans,” which is like “inside,” but you can also be “en,” which is like, I don’t—
+
+ELI: One of those double duty words.
+
+SARAH: —even know what… yeah, I mean, it’s like, what I think of, it’s the one you use to say, “Oh, I’m speaking “en français” or “en anglais,” but it could also be like “in” or “on” something.
+
+ELI: So it’s like in… “in.” It’s like inhabiting. It’s like—
+
+SARAH: Yeah, and then “dans” is like “inside of,” but then there’s other things that I feel like you go “à” or “au,” which is, normally I would translate as like “to” or “at.”
+
+ELI: Oh, would you say “via”?
+
+SARAH: Maybe. Maybe? Yeah, and I haven’t quite figured out which ones go with which.
+
+ELI: So are you “dans” or “en” a mech suit? [SARAH and JENNY laugh]
+
+SARAH: I don’t know. French speakers, comment on this episode, let us know. But so like I wonder… there’s got to be some kind of… I mean, there doesn’t have to be, people can make arbitrary, weird decisions, but I would love to know if there’s some similar pattern amongst all of these. Like, I know also in French, you have different prepositions for when you go to a place, if you go “à” the place or “en” the place, which has to do, I think, with the gender of the name of the place, but also possibly the size of the place? Like, I think cities versus countries, it differs.
+
+ELI: Man, I was not going to guess either of those things. I was, like, going to guess, is it covered or is it a building or is it…
+
+SARAH: I am fully talking out of my ass right now because it’s been a long time since I thought about this, but I do know that it’s a thing because it’s one of those things that I get wrong on Duolingo all the time, and it gives—
+
+ELI: That’s the show, Sarah.
+
+SARAH: —me the little thing that’s like, “When you go to a country, you should say blah, blah, blah,” and I’m like, “Cool, I’ll remember that for the next thirty seconds.” Like, as a non-native speaker, that’s just going to take me forever to actually learn.
+
+ELI: Yeah, I feel like those kinds of things that, you know, maybe there’s a rule, but they mostly seem arbitrary, are the kinds of things where you have to kind of just build an intuition for which one to use, and then you just, like, pray that you’re correct, basically.
+
+SARAH: Yeah, and you pray that there’s not the issue of, like, being on board versus being on top of something.
+
+ELI: Right.
+
+SARAH: Like that, I feel like it’s a very unlikely situ—like, obviously it happens some places, but most of the time… 
+
+ELI: Well, yeah, most of the time people won’t assume that you actually climbed to the top of the bus.
+
+SARAH: Right, and, I mean, the other thing, too, about English—and potentially French, I don’t know, and probably many other languages—like, I think it also depends just on the number of prepositions that exist. Like, English—I mean, English has an enormous vocabulary to start with.
+
+ELI: Yes.
+
+SARAH: But English also has a surprising number of prepositions.
+
+ELI: Yeah. Well, we’ve got no case system and we have no verb endings.
+
+SARAH: Well, sure, but—
+
+ELI: So—
+
+SARAH: —why do you need—
+
+ELI: We got to do it somehow.
+
+SARAH: Why do you need “above” and “over” and “atop” and “on top of”? Like, at least one of those could probably be gotten rid of.
+
+ELI: Because English is a… It’s a word-making machine. It’s—
+
+SARAH: Well, right. I mean, that’s—
+
+ELI: You know, people love to… Also, a bunch of those, I feel like, are smashing a bunch of other things together, and—
+
+SARAH: I mean, right, they are, but, again, it’s like, English just loves making all these words, and so it’s both simultaneously unsurprising to me that there are other languages that have like a single preposition that does like six things, and then English has six separate prepositions for it—
+
+ELI: Yeah, you’re like—
+
+SARAH: —but then also—
+
+ELI: —“you need to chill.”
+
+SARAH: Right, but then also English has “on,” which I don’t actually mind “on,” even in the examples that Mary gives, because it’s not “on top of.” Like, we have the phrase “on top of.” “On” is like, “attached to the surface.”
+
+ELI: Yeah, so—
+
+SARAH: And a spider is on the ceiling because it’s attached to the surface. It just happens… And, like, technically, the ceiling only has a—
+
+ELI: I don’t even think “attached to,” but like “resting.”
+
+SARAH: Resting, sure.
+
+ELI: [unclear]
+
+SARAH: Like, touching, and a ceiling, weirdly, by definition, only has an underside, because the overside is either the floor or the roof of the next thing.
+
+ELI: Well, so here’s the thing is, Mary’s like, “to me, the spiders are under the ceiling,” which is a little weird to me because I feel like “under” almost implies not touching at all.
+
+SARAH: Agreed.
+
+ELI: Right? Like there’s some space there, but also like you got to think of it from the spider’s perspective.
+
+SARAH: That’s true.
+
+ELI: From the spider’s perspective, the thing they’re standing on is under them.
+
+SARAH: That’s true.
+
+ELI: They’re on the ceiling.
+
+SARAH: That’s true.
+
+ELI: They’re just walking around.
+
+SARAH: Their whole frame of reference is just upside down.
+
+ELI: Yeah. So, I mean, that I feel like is why I would… I think that combined with what you said about sort of like “on” is this kind of like… You know, usually it’s gravity, but I guess in the case of a spider, it doesn’t have to be, you know, where you’re sort of like atop it, but you’re not attached or being held there by anything other than sort of natural forces.
+
+SARAH: Right. Well, and we hang things on the wall, which is, like, parallel to the wall.
+
+ELI: I guess maybe we just sort of assume that, like, the spider’s local gravity is a little weird.
+
+SARAH: Yeah.
+
+JENNY: Honestly, I feel like there’s an Ender’s Game joke in here somewhere.
+
+ELI: Yes. What’s the, uh—
+
+JENNY: “The enemy’s gate is down.” I’m trying to figure out like from the spider’s perspective, I’m not sure we count as enemies? Like, I feel like there’s—
+
+ELI: From a spider’s perspective—
+
+JENNY: —some frames of reference there too.
+
+ELI: —the enemy’s gate is up. [SARAH and JENNY laugh]
+
+SARAH: So Mary said, “I’d like to know if any other languages use a different preposition or postposition,” and, like, probably. None of the ones that I am familiar with. But the way that those types of things get divided up is not completely arbitrary, but somewhat arbitrary. One of the things I like to think of as an example for this is like, at least in my idiolect, I do something “on purpose,” but “by accident.”
+
+ELI: Yes, I agree with that.
+
+SARAH: I know people who say “on accident,” and that… it’s not what I would say, but I hear it often enough that I accept it. I have never once in my life heard someone say “by purpose.” That’s just like, no. You… No.
+
+ELI: That’s *, no thank you. Actually, come to think of it, I think I might be “on purpose” and “on accident.” I think “by accident” is marked for me.
+
+SARAH: Okay, and so it’s like, yeah, “accident” can go either way. “Purpose…” No, it’s “on purpose.” That’s the only preposition that can go with that word. Why? I don’t… I don’t know. It just is.
+
+ELI: Feels like there’s a volitional aspect there, that, like, the accident is something that can happen to you. It’s sort of, it… you know, it goes by you, it’s like, “by accident,” it’s a thing that you’re not involved in, but “purpose” is like, there’s some volitional something there. But also, it could just be arbitrary rules.
+
+SARAH: Well, and the other one besides places, like in and on a bus and whatever, in Latin, a lot of these types of prepositional phrases are done with a naked ablative, so no preposition given, and you have to supply that preposition when you translate it back to English because we need those.
+
+ELI: Are there fights?
+
+SARAH: Not necessarily, but there are often situations where more than one preposition would be viable, and as long as you pick one of the ones it is, that’s cool.
+
+ELI: Man, I was looking for some good like scholarly fights happening over which preposition gets chosen.
+
+SARAH: I’ve not encountered any scholarly fights, but I have had to, like, teach my students to sort of trust their intuition about which ones to use. So there’s this dumb little mnemonic that we use, BWIOFAT, I forget if I’ve mentioned it on the show before, which stands for “by, with, in, on, from, at, than,” which are not all of the prepositions that the ablative can stand for, but it’s a good starting point. And, again, because English has so many basically synonymous prepositions, you can be like, you know, “I’m scared by the fire,” “I’m scared because of the fire,” “I’m scared about the fire.” Like, all of those are fine, whatever.
+
+ELI: By, with, from…
+
+SARAH: In, on.
+
+ELI: In, on, at, than.
+
+SARAH: Yes.
+
+ELI: That’s a lot of different relationships.
+
+SARAH: Yes.
+
+ELI: Although, thinking about it, it is… I feel it isn’t… none of those are really redundant, because—
+
+SARAH: They’re not really redundant, and it is just really convenient that a lot of those relationships, even in English, we use each of those words, other than “than,” I think, for multiple things and very conveniently Latin uses the ablative case for the same set of multiple things, and it’s—
+
+ELI: Sure, yeah.
+
+SARAH: —like, ”Oh, there’s something here about how humans think about relationships. I don’t know quite what to do with it, but that’s kind of cool.” But the place where it really starts to not really fall apart, but makes you look at English and go “what are you doing?” is with time words, because you do something on Saturday in the year 2025 at three o’clock. Why… Why are those different? [laughs]
+
+ELI: Yeah, metaphorical frames of time are a weird thing. You know, you start to… you can get super deep in there. You’re like, “Okay, like a wall clock time is a place.”
+
+SARAH: Yep.
+
+ELI: “But a year is a… or a month is a container.”
+
+SARAH: Yep.
+
+ELI: “But a day is like a surface that I’m standing on.”
+
+SARAH: Yep, and then at some point, you’re just like, “No, like, this is just an arbitrary thing that happened,” and—
+
+ELI: Right. Nobody is actually thinking like this.
+
+SARAH: Yeah, why… Why are these times different like that? I don’t know, they just are, and that’s one of the reasons why, okay, in Latin, ablative can be used to indicate any of these time periods, and so in English, we have to include “at,” “on,” and “in,” because depending on what type of time number you’re using, any of those might be needed.
+
+ELI: So I’ve been thinking about this on the Japanese side, and obviously not a native speaker, but my intuition here… So Japanese has, I would say, three particles that deal with location. One of them is に [ni], which is basically just… It gets translated as “at” a lot, but it’s the sort of generic… It’s the generic location particle. One of them is で [de], which is a little bit different. I feel like it’s weird to call it a location particle. It’s sometimes “in” or “by way of” or that kind of thing, but it’s a little bit different. And then one of them is へ [e], which is spelled using the hiragana for へ [he], but it’s pronounced [e], and that is always “to,” so it’s always “I’m going to somewhere,” or like “Welcome to this place” or whatever. So I think in Japanese, we would just use に [ni]. It would just be like, “There is a spider on the ceiling,” right? “This spider ceiling-ni exists.”
+
+SARAH: Yeah.
+
+ELI: So I think, yeah, we’ve got… Short story is, we have a lot of prepositions in English, and a lot of other languages are a lot more chill about this kind of thing. But I think also, Mary, you got to… You got to look at it from the perspective of the spider. Put yourself in the spider’s eight shoes. [SARAH and JENNY laugh] All right. Shall we move to question two?
+
+SARAH: Yes, let’s do that.
+
+ELI: All right. Elijah asks via email, “Morphologically and grammatically. Japanese and te reo Māori behave very similarly. Tons of particles all over the place.” We were just talking about this. “Compounding as major word source and not many affixes, little to no inflection, reduplication to convey emphasis and very restrictive phonotactics. I see a pattern. Mandarin, Vietnamese and Thai disallow large consonant clusters and are highly analytic. On the other end of the spectrum, there are Georgian, which is agglutinative hell, and fusional Czech, which both have unpronounceable consonant clusters. Is this correlation real or am I imagining things? And if it’s real, what is the reason for this convergent evolution?”
+
+SARAH: Okay. My first question is, is that actually true to say that Japanese doesn’t have many affixes or inflection?
+
+ELI: I don’t think that it is.
+
+SARAH: Okay.
+
+ELI: I think it doesn’t have affixes and inflection in terms of… you know, we’re very used to, like, conjugating for person and number.
+
+SARAH: Yeah.
+
+ELI: But the verb stem plus affix is very, it’s very productive. It’s very patterned. I can sort of see why he’s saying that there are not many affixes and little to no inflection, but I think it just is in a different direction than normal.
+
+SARAH: Okay.
+
+ELI: Well, not that normal… In a different direction than an English speaker or an Indo-European speaker would be looking for it.
+
+SARAH: That makes sense.
+
+ELI: Part of this to me is definitional, right? Like, analytic languages are partially defined by having lots of separate little bits, including, like, particles and words and, you know, combining…  Maybe you don’t combine those little bits, like you put spaces in between them when you’re writing them down, but they work with each other to build up an idea rather than having the sense that they’re actually combining into—
+
+SARAH: Yeah.
+
+ELI: —like a big monster German word, right?
+
+SARAH: Right. I think there’s some sort of correlation here, but I think also there’s a little bit of a sample size problem going on with the things that Elijah is proposing here, because like, actually, if I think about English, obviously, to me as a native English speaker, we have perfectly pronounceable consonant clusters, but the fact that like the word “strength” exists, like, that is a… That is a monosyllabic word with S, T, R, N, G, T, H, seven consonant letters, probably five consonant sounds, run together and a single vowel in the middle.
+
+ELI: Yeah.
+
+SARAH: That’s—
+
+ELI: Crossword constructors hate it. I mean, it’s, yeah.
+
+SARAH: That’s, when you think about it…
+
+ELI: That’s dumb! Why are we doing that?
+
+SARAH: It’s objectively bonkers. Why does that exist? But it’s fine. And also, compared to, frankly, most European languages—and even Japanese, I would say—English is barely inflected at all. One of the things that I struggle with to get my students to understand is that English, first of all, we tell ourselves this cute little lie that English has three verb tenses, and they’re past, present and future. And I would argue, and I probably won’t do here now because we’re already almost at an hour of recording time, I would argue that English has like twelve verb tenses before you even get to the passive voice, and almost all of them include at least one auxiliary verb, if not two or three.
+
+ELI: Oh, yeah, so I was wondering which direction you were going to go with that, because the other thing to argue is that English has two verb tenses and a whole heck ton of auxiliaries that—
+
+SARAH: Sure.
+
+ELI: —do weird stuff, but either way, your point stands.
+
+SARAH: Define “tense” how you want to define “tense,” but the point is we have all of these different verbal phrases that are two, three or four words long—depending how you define “word,” this is a whole other conversation—and in Latin, there’s like three verb tenses that have two words, and those are weird and rare, and I have to keep… once we start talking about them, I have to be like, “guys, this is a two-word verb. Look for both of them. Now that “est” is an auxiliary verb instead of a real verb, it’s actually past tense,” and that’s hard because in Latin, you’re so used to every verb being really condensed and every morpheme in the word telling you like two things. And in English, we’re like, yeah, every morpheme is like one thing, maybe two things if you’re feeling really spicy, like the “-s” on a present tense verb.
+
+ELI: Right.
+
+SARAH: But that’s weird. And so I guess my point is that English on its own kind of breaks the correlation that Elijah has proposed.
+
+ELI: Yeah, I think that there’s…  I think there’s a couple of things that are going on in this pattern recognition here. Like I said earlier, I think some of this is like, you’ve got a circular definition going on here, the… This kind of linguistic typology, which can be helpful, but I think starts to break down when you are not so zoomed out, you know, the, like, analytic, agglutinative, fusional, that kind of thing, polysynthetic. It’s circular with “how are words formed?” and “do people perceive spaces in between their morphemes?” and, like, “is it likely to use particles or not?” You know, I think one of the things that I really loved about looking at morphology and looking at a bunch of different kinds of languages here is, you have a moment—maybe just me, but I had a moment where I sort of saw past the Matrix a little bit and I was like, “But if you put spaces in here, suddenly Ojibwe becomes an analytic language,” right? Like there’s sound changes going back and forth and so on. Although there is some of that—Japanese has rendaku and all of that stuff, but, you know, to a certain extent, it’s about, how are people thinking about their own language? Like, how are they smushing things together or taking them apart? So I think some of the things that Elijah has listed about “are there particles, are there not,” is sort of how has the linguistics of studying that language treated that language—
+
+SARAH: Yeah.
+
+ELI: —and if the writing was different or the perception was different or something like that, like, would we analyze that in a different way?
+
+SARAH: Yeah.
+
+ELI: I think you also point out a really good thing, which is, like, Georgian and Czech have totally pronounceable consonant clusters. Georgians and Czechs pronounce them every day.
+
+SARAH: [laughs] It’s true. I still, like, obviously, everything is pronounceable by people who grow up speaking the language, but it is… And I’m sure it exists somewhere: I’d love to see a map of specific sound patterns or specific clusters that are allowed or disallowed in different languages.
+
+ELI: Well, it does seem… not… I don’t want to say “logical.” It seems to fit my linguist’s intuition that having shorter bits that you use in your language rather than longer ones lends itself more to having something that is more of a consonant-vowel consonant-vowel system, but I can’t substantiate that with anything… There’s no reason for it.
+
+SARAH: Yeah. And then I guess the other thing I’m thinking about is like, I mean, Japanese is very famous for the consonant-vowel consonant-vowel. Maybe you can have a nasal at the end of a syllable if you… you know, little a consonant as a treat.
+
+ELI: Right, exactly.
+
+SARAH: I don’t actually know much about the phonotactics of te reo Māori, and I should know more about Vietnamese and Thai than I do. However, I do know that Mandarin and other… Sinitic, is that the right word?
+
+ELI: Yeah.
+
+SARAH: Sinitic languages used to have more consonants, and…
+
+ELI: Really?
+
+SARAH: Yes. The tone system, or the tones that exist in modern Sinitic languages, are an evolution, at least as far as we know, because, as consonants fell away, you had way, way more homophones, and so this tone thing came in, which maybe was already there because certain consonants would shape the sound of the vowel a little bit, and then as the consonant itself fell away, the pitch and the tone got more emphasized because you actually need to be able to tell words apart sometimes. So there used to be more consonants than there currently are, but also, even like modern Mandarin has a lot of syllable-final consonants. Like, if you look at the list of sounds in Mandarin as described by a Mandarin speaker… If you want to go look up the native Chinese phonetic system for Mandarin, it’s called Bopomofo [boupoumoufou], which is great. Probably more like [bopomofo] because vowels, but that’s how it looks in English, and it’s hilarious.
+SARAH: And so they have a set of syllable-initial sounds and a set of syllable-final sounds and then a very small set of middle sounds that can be combined to make longer finals, if you will, or like a three-part syllable, so you can have like li, and lang, and liang. Those are actually bad examples, but I can’t think of a better example off the top of my head. So on the surface, it feels like, “Oh, Chinese has all of these single-syllable words or characters or morphemes,” and they are, but, like, when you actually break it down and look at all of the individual sounds that can exist, there’s like… I was looking at different romanization styles the other day because I was trying to figure out if two people’s romanized names were actually the same, and I don’t think they are, but also, the Wikipedia page of all of the actual sounds, separated from each other, in Mandarin is like five screens long.
+SARAH: Like, there are so many sounds, but when you look at it on a grid of how the sounds can combine with each other, it looks tiny because you’re like, “Oh, here’s all of the starter sounds, here’s all the ending sounds, you can sneak a couple extra vowels in there if you really want to. Look, it’s like a five-by-seven grid. That’s cool,” and then you’re like, “Oh, but when you do that and you also add in the optional middle sounds and you also do this other thing,” suddenly you’re at like, I don’t know, a hundred different phonemes before you even get to the tones. So I think you’re right, it’s partly about how people see their own language and the way that we break down syllables or we break down sounds varies a lot from language to language, both as native speakers and as linguists studying it.
+
+ELI: Yeah, I mean, for example, in Japanese, it’s much more useful to talk about mora than—
+
+SARAH: Right.
+
+ELI: —syllables, and there are other units that are much more useful to analyze, and so there is a certain bit here of meeting each language on its own terms.
+
+SARAH: Yeah.
+
+ELI: I do want to talk about the other end of the typology spectrum a little bit, which is just to sort of talk about languages that are highly agglutinative or polysynthetic or that kind of thing, and I do think there’s something there for me about, you know, these are languages where we’re expecting making a change or adding an affix or something like that may have wider-ranging consequences throughout the word, right? Where we might expect a sound change, or we might expect maybe sometimes a reordering of affixes or a change from one affix to another, or something like that. For example, you know, pluralizing a noun might put it in a different noun class or something like that. And I think if you have stuff where you have that kind of chain reaction and you’ve tied different morphemes in the word together, and again, you’re perceiving a larger group of syllables or mora or sounds as a single word, there may be more room there within that perception to create… I want to say more complicated sounds, but more complicated clusters, consonant clusters, that kind of thing, where maybe you had a vowel drop out or some kind of, you know, diachronic change there or something like that. I think the thing is, is like, if I’m going to give Elijah’s theory the benefit of the doubt…
+
+SARAH: Sure.
+
+ELI: Like, again, I could see what he’s reaching at. I could see where he’s coming from. I think that in this question, there’s not a lot of sort of digging under the surface to say, “What does this mean?” and that kind of thing, but I can get something there, but I also think he’s mentioned seven languages, and there’s many more than seven languages out there. And yeah, there will be exceptions and so on. So I, you know, I think, like, I’m inclined to be skeptical just because, you know, these are all languages that have communities and linguistic analysis as part of them and that kind of thing, and again, we have that circular definition thing, and—
+
+SARAH: Yeah.
+
+ELI: so, beginning—
+
+SARAH: I would love to both see a bigger sample size for a question like this and, at some point off-mic, I would love to just go look up more about the phonotactics and the morphology and syntax of these languages that he’s mentioned, because I am only actually familiar with Japanese and Mandarin on that list.
+
+ELI: Yeah.
+
+SARAH: Which, I should be more familiar with Vietnamese because it’s on signage all over Boston, and yet the only way that I actually… the only thing I know about it is that when I see it, I’m like, “Oh, you have so many diacritics, that’s really fun. I don’t know what they do.” [laughs] I should work on that. But I also, like, one of the things that has been floating in my mind, I can’t quite put it in here in a useful way, but also I remember in, I don’t know, phonetics or morphology or something when I was in college, in English, we have R and L and I guess N and M that can be syllabic consonants, and there are other languages, which I can’t name anymore because it’s been too long since I thought about them, that have other syllabic consonants.
+
+ELI: Which seems wild and impossible, but I also remember this.
+
+SARAH: It seems wild and impossible. I remember being given an example word from some language. This is, like, useless as an example here, but I can hear Jenny typing that we’re going to look it up for the show notes later, but I remember being given an example word that was like “sdssd” or something, and I’m like, “[sdsdd]. What?” And they’re like, “Yeah, that actually has three meaningful morphemes in it, and it means like, ‘your daughter’s shirt.’” And I’m like, “What? Okay.” And so to me, that is one of those unpronounceable consonant clusters, because how do you even do that?
+
+ELI: Yeah, I think there might be a couple in Polish that are particularly tough for English speakers.
+
+SARAH: But to someone who actually knows whatever language that is, like…
+
+ELI: It’s just how the language works!
+
+SARAH: It’s just how the language works, and it’s not even a cluster, because some of those are actually syllabic in themselves. It’s like going [n̩l̩n̩l̩n̩l̩] in English. You’re like, “I mean, sure, ‘nlnl’ is not a word, but I can pronounce it.”
+
+ELI: Right.
+
+SARAH: Yeah, I don’t know. I feel like that fits in here somewhere. Mostly, I think this is a really cool question. I just feel like, for once, we actually really don’t know enough to actually answer it well.
+
+ELI: You mean you don’t have at your fingertips the phonotactics and syntactic behavior of several thousand languages to be able to immediately compare and contrast?
+
+SARAH: I don’t. It’s very sad.
+
+ELI: Well, that is good, because that would be weird. [SARAH laughs] But—
+
+SARAH: So it would.
+
+ELI: The thing here is like, okay, you know, it’s not total bullshit, but also you’ve got some refinement to do here, you’ve got some teasing out to do here, and also your sample size is tiny and you’ve got to go look at some other languages.
+
+SARAH: This sounds like the start of a really cool thesis project that I—
+
+ELI: Yes, that is—
+
+SARAH: —don’t have time to do—
+
+ELI: —that’s true.
+
+SARAH: —but I desperately want to.
+
+ELI: No, you don’t have to do it. Elijah’s—
+
+SARAH: Yeah.
+
+ELI: —got this.
+
+SARAH: Okay.
+
+ELI: He’s going to do it.
+
+SARAH: Well, Elijah or any other listener who’s looking for a thesis topic, if you write it, please send us a copy. We want to read it.
+
+ELI: Yeah, email us in three years when you’ve written it. [JENNY laughs]
+
+SARAH: Frankly, anybody who has written any paper and you want us to give it some airtime, give us a holler.
+
+JENNY: We will.
+
+ELI: Absolutely.
+
+SARAH: Not that we have like a huge audience, but, you know, it’s more than zero.
+
+ELI: Yeah, but we have an audience of people who are definitely going to be interested in reading—
+
+SARAH: For sure.
+
+ELI: —that paper.
+
+SARAH: All right, cool. Well, that was a fun question. I don’t know if we really got to an answer, but that’s okay. We don’t have to answer everything definitively.
+
+ELI: No, and in fact, I feel like we often don’t. [SARAH and JENNY laugh] I know that we’ve got a big runtime happening. We already… We have a third question coming up, but so I’m going to ask you for a one-word answer, which is, Sarah, how do you actually feel about that language typology model with analytic, agglutinative, you know, polysynthetic, fusional?
+
+SARAH: Forgetful. And on to question three. Angelo asks via email, “Would someone wanting to be a linguist need a degree, or is a degree just a sort of certification? I’ve always wondered this because I’ve always been fascinated by linguistics, but I didn’t pursue it in university, instead opting for translation, which I guess could use linguistics, but you know what I mean. Would you guys, actual linguists, consider someone who studies the subject by themselves and engages in conversations of linguistics to be a linguist?”
+
+ELI: I’m caught in the middle here, I have to say.
+
+SARAH: Okay.
+
+ELI: I’m like, very much, pursue your passions, learn about stuff that’s interesting, like, I’m never going to tell somebody, like don’t… Like, just because you learned it on your own outside of a formal academic structure, like, that means that you’re not, you know, you’re not whatever. Like, there’s tons of ways to learn things. I love, I love that Angelo is saying that, like, they’re fascinated by linguistics, obviously, they’re listening to our podcast. They, you know, they love this stuff. I guess… I think, it’s about context. Where and when are you calling yourself a linguist and in what context? Right? I feel like if you roll up to the LSA and you’re like, “I’m a linguist,” they’re probably going to expect you to have a degree, but—
+
+SARAH: Linguistic Society of America.
+
+ELI: Yes, that’s what the LSA is. Thank you. And I also think that if, generally, you say that you’re a linguist, people will expect you to have some kind of professional training. Even if it’s not a degree, maybe it’s some sort of research or some kind of fieldwork or something like that. That said, I’m not super interested in gating the term, I guess, just out of general philosophy. I don’t know, how do you feel about this?
+
+SARAH: I mean, I think a really easy solution is just to add the modifier “amateur” and be like, “I didn’t! I didn’t go to university for this, but I still study it in my free time.”
+
+ELI: I mean, that’s basically every British noble from like—
+
+SARAH: Well, yes.
+
+ELI: —I don’t know, 1700 to 1900.
+
+SARAH: Yes.
+
+ELI: Right?
+
+SARAH: Also: I did go to university for it and also haven’t done any continuing formal studies since 2015. I’m still here making this podcast, acting—
+
+ELI: Yeah, and—
+
+SARAH: —like I’m an authority of some kind. I’m not. I’m just some guy who likes looking stuff up on Wikipedia and also took classes a decade ago. Jenny minored in linguistics and didn’t even get an official degree about it.
+
+ELI: Yeah, and I graduated in 2008, so my knowledge is even more out of date except for what I’ve kept up on and so on, but I don’t have a grad degree, I don’t have a…
+
+SARAH: And on the third hand, I guess, there’s also the fact that like, “Oh, you majored in translation?” Which, first of all, many people think that’s what linguistics is, so cool, I guess, technically, you count, but also—I mean, I jest, that’s, that’s… They’re different, but it’s okay.
+
+ELI: Yeah, although, like, at least in the United States, the Armed Forces, the CIA, the NSA would call you a linguist. That’s their title for—
+
+SARAH: Translator. [laughs]
+
+ELI: Translators.
+
+SARAH: Because apparently “translator” didn’t exist as a word for them. Anyway. But also, like, for most of us who are not active in academia, there’s always going to be a bit of a, “Oh, I’m a linguist, but.” Because, like, I’m a high school Latin teacher, the last time I actually paid attention to syntax trees was a decade ago, except that one time when I texted Eli about it and nerd-sniped him.
+
+ELI: The community is not gated, for sure. The knowledge—
+
+SARAH: No.
+
+ELI: —shouldn’t be gated at all. And I think also, especially in linguistics, you know, it seems like we have started to get over our kind of collective, like, “You don’t know linguistics. You know what your, like, English teacher taught you in seventh grade,” kind of a thing, and I think at least what I’ve seen is that we’re doing less and less of, like, “Okay, we have to educate you about ‘descriptive’ versus ‘prescriptive,’ and we have to, like, you know, talk to you about usage versus what, you know, quote-unquote is ‘correct’ versus what people actually do,” and I feel like we do a lot less of that these days, and so it’s a lot easier for somebody to get in and up to speed really quickly and be like, “Okay, now I want to talk about, like, cool, like, morphology stuff.”
+
+SARAH: Yeah.
+
+ELI: “And cool syntax stuff,” or, you know… Sociolinguistics is something that people love, and they love to—
+
+SARAH: For sure.
+
+ELI: —jump on it. And so being an enthusiast and being part of the community, absolutely…
+
+SARAH: So I started thinking about, like, parallel terms for other disciplines, and, like, I think the idea that you have to have a fancy degree to call yourself a mathematician is laughable. Like, I’m pretty sure that by common usage, anybody who does math regularly is a mathematician.
+
+ELI: I think this is interesting because, reading mathematics journalism, they will often call out that somebody is an amateur mathematician or that it’s not their normal, like, area, but they still say “mathematician.”
+
+SARAH: Right, and I think that there is value, particularly in that context, to clarify whether you have a degree, whether you are employed at a university, or whatever. On the other hand, I feel like the term “engineer” necessarily implies at this point some sort of qualification or some sort of employment.
+
+ELI: “Engineer” is a highly debated term because there are a number of places where being an engineer is… has ethical dimensions, because you’re going to build something, and you need to care about the fact that it doesn’t fall over and hurt—
+
+SARAH: Right.
+
+ELI: —people. And actually in software development, which happens to be my career, the idea that you would call yourself a software engineer, which is pretty common, there’s a lot of debate about it, because there’s a lot of software that’s crappily made and can hurt people and has a really negative ethical dimension, and that that shouldn’t… you shouldn’t take that title for yourself. But at least in the United States, an engineer, calling yourself an engineer is not gated. In somewhere like Canada, to be an engineer, you have to, like, go through a ceremony. Like, there’s a whole—
+
+SARAH: Interesting.
+
+ELI: —thing. Yeah, I think it’s a pretty Commonwealthy kind of a thing, but there’s like a whole… It’s like a whole ceremony. There’s an oath. I mean, it’s more or less done, you know, depending on where you are, but, like, I know some Canadian software engineers, and their software engineering program, like, ended with this in the same way that, like, the civil engineering program or, like—
+
+SARAH: Sure.
+
+ELI: —hydraulic engineering program or whatever it was, like, ended by basically being like, “Okay, now you know all this stuff. You need to make sure that people don’t die because you screwed up designing a thing.”
+
+SARAH: Right. Like, I don’t know, I guess I just feel like a lot of these terms may have some sort… Like, “engineer” has this inconsistently applied like gated meaning. I guess if someone told me they were a plumber, I would assume they had actually been trained in that and that that’s their job they’ve held for at least some amount of time. But also, like, I don’t think there’s a really consistent pattern in the usage of these words, I don’t—also, I would just like to point out how on brand it is for us to jump from the ethical question of, “Do I count as a real linguist if I didn’t go to university for it” to just discussing the usage of different occupational words? [JENNY laughs]
+
+ELI: Yeah.
+
+SARAH: I just, I really appreciate us.
+
+ELI: On the other hand, there’s “writer,” and I am, for reasons, very familiar with a lot of writing communities, and there’s a really big sense there that you don’t have to be published. You don’t even have to want to be published, not every writer has “being published” as their end goal or even their reason for doing it in… even traditionally self-published or fanfic or whatever, like, if you write and then you put it in a drawer, you’re still—
+
+SARAH: Sure.
+
+ELI: —a writer. Right? You put words on paper. So, I don’t know. One of the other things that I thought of was the phrase “citizen scientist.”
+
+SARAH: I was thinking about that, too.
+
+ELI: So this is often applied for, you know, people who maybe, like, have weather stations and keep weather data or who want to do experiments like when an eclipse is happening, or as a way to sort of gather a lot of data across a country or across a region or something and have people participate in—sometimes in formal programs, but sometimes just people doing it because they want to.
+
+SARAH: Like, the people who collect the data don’t have to be the same people that analyze the data, and they don’t have to have—
+
+ELI: Right.
+
+SARAH: —the same level of skill or knowledge, but they’re still a part of the process. They’re still a scientist. So I feel like “writer” and “mathematician” and “scientist” and “linguist” and all these things, other than maybe “engineer” or “doctor” or things that have like… or “nurse,” like, those have in many situations a very specific definition that necessarily is tied to a degree or a certificate or a job, but I think a lot of these are more descriptive of your general behavior than your specific qualification and that in certain circumstances, like if you are submitting something to a journal, you might want to qualify that description as “amateur mathematician” or “citizen scientist” or whatever or “amateur linguist,” but I don’t think that those qualifications, those modifiers, negate the actual noun at the head of that phrase, right?
+
+ELI: Yeah. An amateur linguist, still—
+
+SARAH: Agreed.
+
+ELI: —a linguist, just an amateur one. Yeah, I think, you know, if you are learning and you’re approaching it in good faith and you are trying to find good, reasonable, like, high-quality sources for information and you’re, you know, engaging in the discipline, like, absolutely. There’s no reason not to call yourself a linguist.
+
+SARAH: Especially when so much of what is taught, especially at an undergrad level, is easily accessible if you… I mean, A, at this point, read Wikipedia, but B, you could buy Peter Ladefoged’s introduction to phonetics, and you could learn exactly as much phonetics as I did in university. And, like, I don’t have a doctorate. I’m not pretending to be a professor who’s writing brand-new research papers, but I know enough that when someone asks me, like… And this is actually a real example that happened to me a week ago, “Hey, why is it that a lot of modern Spanish words start with H when in French and Catalan and Latin, they start with F? Like, why does that make sense?” I can explain that. The explanation, by the way, is, “F and H are really far apart in your mouth, but actually sound really similar, so… it’s chill, it’s fine.” [SARAH and JENNY laugh]
+
+ELI: But actually, I think that this brings up a bit of a… Not a litmus test—
+
+SARAH: Yeah.
+
+ELI: —because I hate that, but like a heuristic.
+
+SARAH: Sure.
+
+ELI: Right? Where I had a similar experience a few weeks ago where I was walking down the street next to my mother-in-law. Shout out to Jeanie, because I know you listen to the podcast. And we were talking about cognate words, and I was like, “Oh, because this sound, you know, and this sound are like… that’s a shift that, like, seems natural to me. Like, I would have to go look it up, but, like, I’m pretty sure I know of some cases where this sound goes to that sound and, like, yeah, it’s like, obviously, you know, B to V makes a lot of…” Or—
+
+SARAH: Yeah.
+
+ELI: Like, whatever it was, right? And she was like, “That’s not intuitive to me at all.” And so I think the heuristic sort of might be, have you started to develop a linguistics intuition? Have you started to be able to create hypotheses and be able to at least try to validate them? Right? Like, we’ve done it several times just in this episode where we’ve talked about, do we think that sound changes jumping between different parts of the words, or like, our thing about the etymology of “billiards,” right, where it’s like, if we had said, “Well, we’re not going to look, but let’s, like, think for a little bit about like, where did that come from?” and like, we probably would have…  not necessarily gotten it correct, but we would have been able to say something that, you know, was plausible, and I think if other linguists were at the table, right, that they would have said, like, “Yeah, I’ll buy that,” right? Like, if it was corrected, we’d put it in a paper. People would look at it and be like, “Yeah, I’ll buy that. That makes sense to me. I’m not going to go like triple-fact-check you because that seems weird and extraordinary.” So I think maybe that’s a heuristic, if you’re looking for something: to be able to have enough facility with enough breadth of things in the discipline to have an intuition that enables you to kind of have a bed of knowledge to rest in.
+
+SARAH: Yeah.
+
+ELI: Because I think that, like, an amateur mathematician who is doing stuff that’s being written about, again, has, like, enough of a background to be able to actually be doing stuff with…
+
+SARAH: Right.
+
+ELI: Right?
+
+SARAH: And like you said earlier about like, you know, every English noble from whatever century, like, half the famous mathematicians of the last couple centuries, that was not their day job. That was—
+
+ELI: Just random-ass people.
+
+SARAH: They just, they had real jobs and then they went home at night and did math because they thought it was cool, and then they wrote about it—
+
+ELI: Right.
+
+SARAH: —and they were like, “Yo, I found this cool thing.” And the fact that we now live in a day and age where you can do math and do linguistics as an actual day job is wild.
+
+ELI: Yeah, but that’s pretty recent.
+
+SARAH: And those of us who don’t do that as a day job can still be part of the community and still contribute. I guess where I think I’m coming down here is that things like “medical doctor” and “nurse” and “engineer” are both descriptions of knowledge bases but also real-world careers and applications that require a certain certificate.
+
+ELI: Yeah, and we all know being a linguist is not a real-world career. [SARAH and JENNY laugh] I mean, the thing I will point out is that “physician” used to also just be some dude who had some spare time and, like, read Galen and, like, you know, decided “I’m going to be—”
+
+SARAH: Right.
+
+ELI: “...a doctor.” Right? Like, that kind of licensing is also relatively new.
+
+SARAH: Right. You know, “linguist,” “mathematician,” “scientist,” “physicist,” like, a lot of these more academic rather than career-oriented terms. I don’t think there is necessarily a reason that you need to have a certain degree before you qualify. I think it’s just maybe contextually, and like “writer,” like you said, or “painter…”
+
+ELI: Step up and inhabit—
+
+SARAH: Yeah.
+
+ELI: —the role.
+
+SARAH: And, you know, if it comes to a point where you have to say, oh, you know, “Oh, what university did you attend?” “Well, I went to, you know, Joe Schmoe College, but my degree is in translation,” cool, whatever, “but I’ve studied these,” like, you know… Or, “I’m a writer. I didn’t actually go to college for writing, but I do actually write words.” You know. That’s fine. Okay, that’s a legit heuristic. However, even if you pass that test, if you are a member of L’Académie Française…
+
+ELI: Oh, yeah, no, they’re out. Disqualified forever. I mean,
+
+SARAH: But—
+
+ELI: and they are immortal, so that’s—
+
+SARAH: That’s true.
+
+ELI: —FOREVER.
+
+SARAH: But what if they actually hire a real linguist one day?
+
+ELI: I mean, would any linguist take the job?
+
+SARAH: I don’t know. Do they—
+
+ELI: Maybe an amateur linguist.
+
+SARAH: —want to, like, infiltrate it from the… [laughs] infiltrate it and take them over from the inside?
+
+ELI: Ah, that’s our next screenplay. We’re going to write a linguist mole who presents themselves as a poet or a painter or somebody and infiltrates L’Académie, gets their sword and then immediately turns around and says, “you fools!” stabs them all, [Sarah laughs] grabs, I don’t know, some artifact from the middle of their headquarters and dashes out and says, “Haha, the French language, it’s mine now.”
+
+SARAH: [laughs] Okay, so if you pass Eli’s heuristic, you can be a linguist, and if you’re a member of L’Académie, many asterisks, your motivation matters a lot.
+
+ELI: Yeah, well, if you are a linguist and you also get into L’Académie, we expect you to burn the whole place down and reclaim French for French speakers.
+
+SARAH: Yeah, keep us posted on that.
+
+ELI: All right, I hope that that gives you some kind of answer, does not give you immense imposter syndrome.
+
+SARAH: Agreed. That’s a really cool question, Angelo. Thank you for asking. With that conundrum maybe solved, Eli, you want to tell us about last time’s puzzler?
+
+ELI: I do. So, last podcast, I gave everybody a cryptic crossword clue. So, cryptic crosswords are a specific kind of crossword. They are British or Commonwealth, and they have a specific clue structure where instead of the clue being a synonym or something that leads you in one way to the answer, the clue has two parts. One of them will be the sort of straightforward clue, a definition or an example of whatever the answer is, and then the other will be wordplay that helps you assemble the word, sometimes by sound, but usually sort of with little chunks of letters and that kind of thing. And there are different kinds of cryptic crossword clues. This one was, although big, pretty straightforward. So the clue that I gave was, “Second in command managed jewel branch. A boy last minute made breakfast spread.” And this is a two-word answer. The first word has six letters and the second word has nine letters. Sarah, to my knowledge, you’ve never done a cryptic crossword. Right?
+
+SARAH: I’ve tried a couple. They didn’t come with instructions, so I struggled, and even after you gave the instructions for this one, I admit I didn’t actually put a lot of effort into it in the past month.
+
+ELI: Jenny, have you done a cryptic crossword?
+
+JENNY: Nah, I’m not really a crossword person in general, and this was even more out of my wheelhouse, so I did try, but I got nowhere.
+
+SARAH: I will share some of my thought process here, at least.
+
+ELI: Yeah.
+
+SARAH: So I had “second in command,” I was thinking like “vice” something, but that’s only four letters, and then “managed jewel branch,” I, like, I couldn’t decide if it was like a part of a jewelry store or like a fancy-ass candelabra, or… I don’t really know what’s going there. And then “A boy last minute made breakfast spread,” I really want the word “omelette” to be in there, but I don’t think that’s true. Oh, actually, “breakfast spread,” not like a bunch of dishes, but like “jam,” like a spread you put on something at breakfast, or “butter,” “butter” is six letters! I have no idea, though.
+
+ELI: So you are… You’re starting to think about this in the right way, and actually, I think at some point you and I should do a cryptic crossword together, because I think it would be a lot of fun.
+
+SARAH: Bonus episode.
+
+ELI: Because we’ve done regular crosswords together. Yeah, we could do a bonus episode of cryptic crossword. Sorry, Escape This Podcast, for totally stealing your bonus episode format. Go listen to Escape This Podcast if you don’t, by the way, it’s fantastic.
+
+SARAH: Eli got me onto it last week, and I’m already almost two seasons through. [JENNY laughs]
+
+ELI: Yeah. You have started to think of the right way in terms of thinking about synonyms and and substitutions and that kind of thing. There’s a little bit of a tricky one in here. I didn’t realize it when I put this down as a puzzler, but one of the problems as an American with a cryptic crossword is that you kind of have to be like an old British guy from the late 1800s who was in the Navy. [SARAH laughs] There’s like a lot of weird abbreviations of… Like one of the ones that sticks in my head is like, if you see a clue about a sailor, it could mean the letters AB, because apparently that stands for “able-bodied,” which is how they—
+
+SARAH: Sure.
+
+ELI: Anyway, whatever. The first thing to do with cryptic crossword clue is to try to figure out which bit is the definition, so… and it’s always on one end or the other. It’s never in the middle. So for this one, it’s probably either “second” or “second in command” or “spread” or “breakfast spread” or “made breakfast—”
+
+SARAH: Okay.
+
+ELI: “—spread.” In this case, “made” is suspicious because it can mean sort of everything before it is a recipe for making the thing after it, which is the case here. “Breakfast spread” is the definition.
+
+SARAH: Okay.
+
+ELI: And the answer is “orange marmalade.”
+
+JENNY: I had wondered about marmalade!
+
+SARAH: All right, hold on. Orange marmalade. Okay. Okay, so “lad” and the last part of “minute” is L-A-D-E. So “marma” is “second in command managed jewel branch”?
+
+ELI: Jenny, why did you think about “marmalade”?
+
+JENNY: Because it’s a breakfast spread that’s nine letters long.
+
+ELI: That’s fair. [SARAH laughs]
+
+JENNY: That’s as far as I’ve gotten. That’s all I’ve got.
+
+ELI: Sometimes, sometimes that’s just what you do.
+
+SARAH: I’m sorry, “second in command managed jewel branch” is “orange marma”? So, I mean, orange is right after red, I guess, and then—
+
+ELI: So—
+
+SARAH: Go ahead, I’m out of it.
+
+ELI: I like this working backwards. I think it is sort of a little bit easier to do it that way. So, yes, the last… So it says “last minute,” so the last letter of MINUTE is E. That’s the end of “marmalade,” and then “boy,” which is “lad,” and then “a,” so you put A there so you have A-LADE
+
+SARAH: Oh, L… Okay.
+
+ELI: “Branch” is an ARM, “jewel” is a GEM, so—
+
+SARAH: Oran-GEM,
+
+ELI: —then you’ve got—
+
+SARAH: okay.
+
+ELI: So “managed” is RAN, and then the one bit that I was like, I didn’t realize that this is that…
+
+SARAH: It’s the second—
+
+ELI: —second in COMMAND is…
+
+SARAH: —letter of “command,” it’s O.
+
+ELI: Yeah, there you go.
+
+SARAH: Oh, wow.
+
+ELI: So “Second in command managed jewel branch. A boy, last minute, made—”
+
+SARAH: Breakfast spread.
+
+ELI: “...breakfast spread.”
+
+SARAH: I was absolutely never going to get there, but that’s awesome.
+
+ELI: So this is, I would say, a good example of a long and involved but pretty straightforward, cryptic…
+
+SARAH: Okay.
+
+ELI: —crossword clue, because if you know how to read them, this starts to get—
+
+SARAH: Yeah.
+
+ELI: “Okay, I’m [unclear]”
+
+SARAH: Like, I can imagine the next clue I see that’s like, “second in line,” I go, “Ah, that’s the letter I.”
+
+ELI: Yeah, exactly.
+
+JENNY: I think I actually thought about that idea of “second in COMMAND” because that kind of thing, I’ve seen that in riddles before and enjoyed the hell out of them, but I couldn’t figure out how the rest of it fit together, so I discarded the idea and then forgot I’d had it.
+
+ELI: Fair enough. So if that was your answer and you know how to do cryptic crosswords, you probably got it pretty quickly. If that was your answer and you don’t know how to do cryptic crosswords, good job, well done, maybe you should start.
+
+SARAH: [laughs] Cool.
+
+ELI: Sarah, do you have a new puzzler for us today?
+
+SARAH: I do. This is another one that I stole from the GCHQ quarantine brainteaser list. It is another one that I have not yet solved because they have answers on their website, so I don’t have to solve it, but the question is, “Complete this sequence: C, F, T, ?, Y, H, N as in “Nancy”, J, I, ?” 
+
+ELI: So it says, “Complete the sequence,” but do you mean fill in where the question marks…
+
+SARAH: I assume that’s what they mean.
+
+ELI: So at first I thought “F” and “T” is five and ten. Then I’m curious about the “Y.” Y is a tough letter to stand for some things, but—and often goes at the end, but J and C often don’t go at the ends of words. What is that, that’s three, six, twenty, something… that’s not a sequence. All right, this a pretty good—
+
+SARAH: Yeah.
+
+ELI: This is a pretty good puzzler.
+
+SARAH: The one thing I’ve also thought of is the previous or maybe two puzzlers ago that we stole from them was about the sequence of months in the year, so I think that this is not that, only because I think that, as a puzzle provider, they wouldn’t duplicate that, but I don’t know if that assumption is true.
+
+ELI: Well, so there are nine things in the list.
+
+SARAH: That’s true, and there’s notably more than nine months in the year.
+
+ELI: I think “nine” and I think planets, but I don’t think that that matches here.
+
+SARAH: “Cercury, Fenus, Terth.” [JENNY laughs]
+
+ELI: Well, I had seen the T and thought of “Terra,” and so I thought maybe it’s Greek equivalents of the Roman planets or whatever, but I don’t see that here.
+
+SARAH: Yeah, all right.
+
+ELI: What else is there nine of?
+
+SARAH: Muses? I don’t think it’s that. They’re not sequential.
+
+ELI: That’s true. What else is there nine of that there’s a sequence of?
+
+SARAH: Current books of the Young Wizards series? That’s not true. There’s ten of them.
+
+JENNY: [laughs] There are ten of them.
+
+[SARAH laughs]
+
+ELI: All right, we will have to think about this.
+
+SARAH: Yeah. All right. Well, we’ll find out next time, then. I guess that’s it for this episode. Thanks for listening.
+
+[music]
+
+ELI: Linguistics After Dark is produced by Emfozzing Enterprises. Audio editing is done by Abby and Charlie, question wrangling and show notes are done by Jenny, and transcriptions are done by Luca. Our music is Covert Affair by Kevin MacLeod.
+
+SARAH: Our show is entirely listener-supported. You can help us by visiting patreon.com/emfozzing, E-M-F-O-Z-Z-I-N-G, and by giving us a good rating on your podcatcher of choice. Even more than that, most people find out about podcasts by word of mouth, and this is a whole show about words and mouths, so why don’t you help us out by using them to tell your friends about us?
+
+ELI: Every episode, we thank patrons and reviewers. Today, we want to say thanks to these awesome patrons: Tim, Benjamin, Bryton, Bex, Jason and Rachel. We also want to thank remalia87 for leaving comments on YouTube and Spotify—overachiever—in addition to Spotify users TedHasColdPants, arp, Aubrey Day, and Glordicus.
+
+SARAH: Find all our episodes and show notes online at linguisticsafterdark.com or on all your favorite podcast directories, and send those questions, text or audio, to questions@linguisticsafterdark.com. You can reach us on all the usual socials @lxadpodcast. And if you don’t find us on your platform of choice, let us know. We’re also on Slack at the-crossings.slack.com, and a link to that is on our website.
+
+ELI: And until next time, if you weren’t consciously aware of your tongue in your mouth, now you are.
+
+[music]
+
+[beep]
+
+SARAH: I’m really good at this. We’re professionals.
+
+[beep]
+
+ELI: We, you know, get together, fuck around on the mics and just put one out whenever we feel like it.
+
+[beep]
+
+JENNY: I spent the next hour and a half desperately fighting to stay awake and mostly not winning.
+
+[beep]
+
+SARAH: Actually, please cut the name [beep]. I don’t want to say that on mic.
+
+ELI: Please put the name Faphrodite at the end of the show.
+
+[beep]
+
+SARAH: I didn’t say that.
+
+[beep]
+
+SARAH: I have zero [misspeaks while saying the word “issues”].
+
+ELI: There it is. That’s the outtake. [JENNY laughs]
+
+SARAH: Shut up. Shut up.
+
+[beep]
+
+SARAH: I have zero issues, actually, with the awareness of my tongue, it’s the teeth that are the problem.
+
+ELI: Yeah, my son also has that problem. [SARAH and JENNY laugh]
+
+[beep]
+
+ELI: I’m going to manage this cat situation. [cat yelling] Okay.
+
+[beep]
+
+SARAH: 491 strikes and you’re out. [laughs]
+
+[beep]
+
+JENNY: I might go make tea, honestly, because I’m already done.
+
+[beep]
+
+SARAH: Fuck you, Audacity.
+
+[beep]
+
+SARAH: Dear editor, I’m sorry. Dear audience, we’re doing our best.
+
+ELI: Deal with it.
+
+[beep]
+
+ELI: God, linguistics podcast, this is shameful. We can write. We’re writers. We’re writers.
+
+SARAH: Not professional ones.
+
+[beep]
+
+ELI: We are not professionals.
+
+SARAH: We’re not professionals.
+
+JENNY: We are not professionals.
+
+[music]
