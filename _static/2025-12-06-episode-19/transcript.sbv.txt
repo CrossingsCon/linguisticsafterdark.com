@@ -1,0 +1,1011 @@
+[music]
+
+SARAH: Hi, and welcome to Linguistics After Dark. I’m Sarah.
+
+JENNY: I’m Jenny.
+
+ELI: And I’m Eli. If you’ve got a question about language and you want experts to answer it without having done any research whatsoever, we’re your podcast.
+
+SARAH: Settle in, grab a snack or a drink, and enjoy. Eli, I just realized last time we forgot to do the drink segment, which is pretty criminal, so, lest we—
+
+ELI: That’s true.
+
+SARAH: —forget today, what are you drinking?
+
+ELI: Yeah, for a podcast that was born out of us literally raiding an alcohol store and then answering everyone’s language questions with no preparation, the drink thing is pretty important. The other day, I happened to mention the podcast and somebody was like, “Oh, what’s your podcast about?” And I was trying to find a way to, like, say it very concisely, and I was like, “We drink alcohol and answer linguistics questions,” and they were like, “Sold, subscribe, send me the link.” So, if you’re listening to this episode, thank you very much. Shout out to the OAs. I’m drinking tea today. It doesn’t have any alcohol in it, actually, but that’s because—I don’t know about where you are, but today is just an absolutely miserable day.
+
+SARAH: Yeah.
+
+ELI: We got like five beautiful inches of snow last night, and now it’s just wintry mix.
+
+SARAH: Mm-hmm.
+
+ELI: Which, can we as linguists ban “wintry mix”?
+
+SARAH: I think only if you come up with a replacement.
+
+ELI: I mean, I feel like it used to just be called, like, “sleet.”
+
+SARAH: Oh, that’s fair. Yeah, I’ve been sick a lot of this past week, and so yesterday was Saturday and I literally woke up, fed the cats breakfast, and then woke up again when they were begging for dinner at 7:45 p.m, so, I missed all of the really pretty snow. I just like, saw it out the window and I was like, “Oh, that’s pretty,” and then it was dark. And then—
+
+ELI: Oh, no.
+
+SARAH: I got up this morning and it was all covered in sleet, and I was like, “Cool.” [laughs] “Timed that poorly.”
+
+ELI: Yeah, we’ve had a bunch of really pretty snows, but we’re coming to the end of that, I feel like, [JENNY laughs] and now it’s wintry mix.
+
+SARAH: Yeah. Anyway, so you’re drinking tea. I’m drinking coffee. It’s just… It’s cold.
+
+ELI: We’re doing well today.
+
+SARAH: Yeah.
+
+ELI: It’s cold. We’re tired. It’s February. Look, I love… I love winter. I will, like, go on vacations to places where it’s winter for it to be more winter at me. [SARAH laughs] And it is the time of February when even I’m like, “Okay, got it. Understood. Check.”
+
+SARAH: “We can move on now,” yep.
+
+ELI: Yes.
+
+SARAH: Fun fact about February, actually. There’s a Mexican place a couple towns north of here that does not serve real margaritas during February because their town has a limited number of year-round liquor licenses, and so they have a quote-unquote “seasonal license” for 11 months out of the year, and so in February they make wine margaritas.
+
+ELI: That’s great. I feel like if you’re going to pick one month to decide not to sell alcohol for, February is probably an okay one.
+
+SARAH: It’s the shortest month of the year. There’s school vacation in the middle of it in Massachusetts, so people might not even be here, and you’re definitely getting zero tourists coming to visit you, so…
+
+ELI: That’s true. Yeah. Not even the ski places are going to get stuff in February. Wait, what is the school vacation?
+
+SARAH: Well, okay, so speaking of skiing, there’s like—apparently some places call this, like “ski break”? It really isn’t anymore, if it ever was, but basically every public school in Massachusetts does the shortest possible break between Christmas and New Year’s and then a week-long break at President’s Day and a week-long break at Patriots’ Day/Marathon Monday.
+
+ELI: Okay.
+
+SARAH: Which is a holiday in Massachusetts and Maine only.
+
+ELI: So this is good stuff for me to know because obviously my kid is not old enough to be in school yet, and they’re not doing a daycare break like that, thank goodness.
+
+SARAH: Sure.
+
+ELI: Obviously, you know because you are a teacher, but I think of, like, oh, beginning-of-the-year breaks, and my head is still in Illinois, where Casimir Pulaski Day is the only thing in sight. [SARAH and JENNY laugh]
+
+SARAH: Yeah.
+
+ELI: Which is a holiday that is only celebrated in Illinois and only because they were like, “There’s a lot of Polish people here. We should make sure they have a holiday.”
+
+SARAH: Nice. Ask me another time, probably when I’m less sober, about my opinions on the Massachusetts public school calendar, but this is not Calendars After Dark. [laughs]
+
+ELI: No, it’s not. Hey, we should do a language thing of the day. Do you have a language thing of the day for us?
+
+SARAH: I do. So, the language thing of today is allophones.
+
+ELI: Like the… With the gray and the trunk [SARAH laughs] and the… You know?
+
+SARAH: Yes. Yes. Absolutely.
+
+ELI: Giant, flappy ears?
+
+SARAH: Yes. For those of you listening, Eli just did the little gesture in front of his nose.
+
+ELI: Yeah. Universal symbol for “elephant.”
+
+SARAH: Yes.
+
+ELI: Yeah.
+
+SARAH: Yes. And then the flappy ears next to his ears. That’s good. I’m also doing this as if anyone can see me. All right. So, no, that’s not what we’re talking about. Allophones, unlike elephants, are not animals. Allophones, if you take that word apart, you get “allo-”, which means “other,” and “phone,” which means “sound.” So, these are versions of a sound, versions of a phoneme, that mean the same thing in a given language. And there’s a couple ways that they can show up. They differ across languages, which is part of what makes it clear that someone has a different accent to you, because the sounds that they use interchangeably maybe are not interchangeable to you.
+
+ELI: Okay. So, what do you mean they mean the same thing? Because they’re just sounds. Right?
+
+SARAH: They are just sounds.
+
+ELI: They’re not like morphemes or something.
+
+SARAH: Right, so they don’t have semantic meaning or morphological meaning, I guess, but in English, if I say, “Oh, I need to get up to the roof of my house. I’m going to climb a ladder ['læɾə˞]” and then I said, “I’m going to get up to the roof of my house. I’m going to climb a ladder ['lædə˞],” those are the same word.
+
+ELI: Right, and so you used a D in one and you used a flap in the other.
+
+SARAH: Yes, and because there are typically rules about when certain allophones come out and are used, you can… like, it—I would say it is typical to use the tap in the word “ladder,” and most of the time people only would pronounce “ladder” with a D in the middle if they were trying to be really clear about what that word was. And, Eli, why do you think someone might need to be super clear about what word that was?
+
+ELI: Well, because tap is kind of in between a D and a T, and we do have this other word, “latter,” like “the former and the latter,” and now that I’m saying that very quickly, it strikes me that saying “latter” as in the opposite of “former” in quick speech also uses the flap, and so you might want to enunciate and make sure. So that’s interesting because it means that the way that the word comes out when you… And I don’t—it’s not like laziness or whatever, it’s just when you are speaking at a normal pace, you get these two words that are totally different words and end up actually sounding the same, except to me, it, like, feels like there’s a D in one and a T in the other, even though I know if I recorded both of them, the spectrograms would be the same.
+
+SARAH: Yeah. I don’t remember anymore what the exact rules are about when the tap shows up for either D or T, but…
+
+ELI: I think it’s intervocalically. I think it’s when you’ve got a vowel on either side.
+
+SARAH: Yes, although it’s still not every time that that happens. Like I think if I were to pronounce “data…” Well, “data,” I guess that’s a tap?
+
+ELI: You definitely tapped.
+
+SARAH: Okay. Whatever. I think it’s that. I think it’s a little bit more specific as well, but—
+
+ELI: Probably.
+
+SARAH: Yes, something like that. There are some other rules about how we say D and T. The way that you say D or T at the beginning of a word, or the beginning of a syllable, is different from the tap, and it is different from how you would say those letters in the middle of a word, so if we can agree that D and T are both dental or alveolar, that they are made by a single speaker, typically, in the same place on the mouth, just we say that D is voiced and T is not.
+
+ELI: We can agree.
+
+SARAH: Great. That’s only kind of true.
+
+ELI: My perceptions, they’ve been shattered.
+
+SARAH: Sorry. Set you up. [laughs]
+
+ELI: I can’t believe you’d betray me like this.
+
+SARAH: I know. I’m a terrible person. So, the reason I say this is because there’s actually more like a scale, and you will get people who will argue about how many points there are on this scale. For the purposes of my discussion, we’re going to go with three. There is the truly voiced sound [d], where you start your voicing and you make the sound at the same time. There is the truly voiceless [t], where you just make the sound, and then there is an aspirated one where you make the sound and then some extra air that comes after, so you have [tʰ]. And two of those are allophones for the sound for the letter <d>, and two of them are allophones for the letter <t>, which, if you’re doing the math, means that one of them is both. So at the beginning of a word, the letter <t> is aspirated. So if you are drinking “tea,” and if you were to make a waveform of that, you would see a bunch of extra air coming across the top.
+
+ELI: Yeah. Or you can say T and you can put a hand in front of your mouth—
+
+SARAH: True.
+
+ELI: —and feel a little gust of air—
+
+SARAH: Yep.
+
+ELI: —come out.
+
+SARAH: “T.” But if you put that hand in front of your mouth and say “D,” “D,” no gust of air. It would be very hard, without trying, to get the truly voiced sound at the beginning of a word because in English we don’t do that.
+
+ELI: Well, and it’s so hard for English speakers that is actually unvoiced, but we hear it as voiced because we are so used to P, T, or K at the beginning of a word being aspirated that if we don’t hear it as being aspirated, we assume that it was the voiced version.
+
+SARAH: Right. On the contrary, if you look in the middle of a syllable, so instead of “T” or “D,” if you say “stay,” if you put your hand in front of your mouth, you will not feel the aspiration because it’s not there. As soon as you put an extra sound, that S, in front of it, it goes to the unaspirated thing, and because we don’t allow S-D as a sound combination in English, we don’t hear that as a D anymore. We hear it as a T. The truly voiced D sound comes more at the end of a word, so if I were to say like “stand,” there you get your actually voiced D, and the T sound at the end of words could be a truly voiceless, it could be aspirated, like I could say “stat” [stætʰ] and very often at the end of words it’s actually clipped where you don’t even fully release it at all, and you just say “stat” [stæt̚], and you can hear the closure, but when you don’t hear the release, that’s only allowed on T sounds, not D sounds.
+
+ELI: And that’s actually, that’s a pretty common rule in English as well.
+
+SARAH: Yep. And like I said earlier, these vary by language, and one of my favorite stories about this comes not from the alveolar stops, but the bilabial ones, so the B-P pair, which acts exactly the same way. My professor asked if anyone in the class spoke both English and Spanish, and one of my friends said, “Yeah, I got you,” and so he called my friend up to the front of the room, put him on microphone, had like Praat or whatever, like, live on the projector and he said, “Okay, kid, when you play that game with the bat and the ball and you run around, you get back to home plate, what are the things that you step on?” And he said, “Bases.” And he was like, “Okay, cool. And then if somebody is, like, walking back and forth in the room, maybe they’re feeling really anxious, what would you say that they’re doing?” And the guy was like, “Well, they’re pacing or they… he paces.” He’s like, “Great. So ‘bases’ and ‘paces.’” And he said, “Okay, Spanish time. What’s the unit of currency in Mexico?” And this guy goes, “Pesos.” He says, “Okay.” “And how do you say kisses?” “Besos.” And it turns out that in Spanish there is no aspirated version of these consonants, and so you—one of the ways you can improve your accent is to not say, “Oh, this costs 18 pesos [pʰeɪsoʊs],” because when you aspirate it like that, you sound very, very English or American or whatever, because that sound doesn’t exist in Spanish. On the flip side, it’s really hard for English speakers to properly pronounce the word for “kisses” until you learn to actually voice a word-initial consonant, because “besos” is not a viable sound in English.
+
+ELI: Not in that position anyway.
+
+SARAH: For sure. And so, anyway, so my professor pulls up the waveform of “bases” like baseball and “pesos” like money and put them next to each other, and it’s the exact same sound, and everyone in the room, and especially the person who had said all of this, was like [makes exploding sound] “What? Mind blown. This is sorcery,” all kinds of nonsense.
+
+ELI: I think you had something hidden in there, which is that that’s one of the best ways to improve your accent if you are trying to speak Spanish, and it’s also… Because of the way that those allophones work in English, it’s one of the hardest things for somebody whose native language is English to do—
+
+SARAH: Yup.
+
+ELI: —when they are trying to improve their Spanish accent, because the truly unvoiced allophone and the truly voiced allophone are the hardest to sort of consciously access. You really have to, like… And you can’t even do it by being like, “Okay, well, I’ll just pretend it’s like voiced and really voiced instead of unvoiced and voiced.” You have to really reteach your mouth how to make these sounds.
+
+SARAH: Yeah.
+
+ELI: But that’s one big step up, and learning how those allophone rules work and how sounds that sound like they are going to be the same sound as in your language but actually are not is like, if you are wondering why your L2s don’t sound like you hear, you might want to go looking to see where the sort of subtle shifts in phonemic inventory are, you know. There’s a bunch of them in Japanese. Big one that I think of that blew my mind was, Japanese has five vowels, /a i u e o/, except /u/ is not [u]. It’s not rounded. /u/ is [ɯ], which is unrounded high back, but the minute that you start pronouncing things with that vowel instead of the English-inflected rounded version, your Japanese sounds much better.
+
+SARAH: Yeah. Likewise, in Spanish that same tap allophone that we have for D and T in English is just the standard pronunciation of R.
+
+ELI: Yes, there’s lots of languages where R is actually tap and not our weirdass English retroflex upside down R.
+
+SARAH: North American R is just weird.
+
+ELI: It’s weird. Why do we do that?
+
+SARAH: I mean, somebody had to, but why was it us? Who knows? For a lot of non-native Spanish speakers, the trill, the double R, is really hard, especially in the middle of a word, but I think people get caught up on that and decide for themselves that they also can’t do the single R. And it’s like, nah, dude, if you can say the word “ladder,” you can put it in Spanish. Like, that’s 100% doable. And that is one where at least I had some luck reading and just saying to myself,  “Pretend there’s a double T in there.”
+
+ELI: So, I want to bring this back to the idea of allophones, because I think we’ve talked about sort of sounds that are actually different and have these different sort of ranges of expression.
+
+SARAH: Yep.
+
+ELI: Is that what allophones are, or where else do allophones show up?
+
+SARAH: Yeah, so allophones can show up in a couple of different ways. The way we were looking at with the D and T sounds at the beginning of words is what we would call complementary distribution because if you are at the start of a syllable, you get aspirated T. If you are not at the start of a syllable, you get voiceless T. If you’re at the start of a syllable, you get voiceless D. If you’re not at the start of the syllable, you get voiced D. That is a 100% Batman and Bruce Wayne kind of thing. You get one or the other, you cannot have them both. At the end of a word. It’s more what we would call free variation, because you can end a word with that sort of [stæt̚], like unreleased sound, you can end the word with the aspiration, you can end the word normally—or quote-unquote “normally”—and they all come across as sounding like T. The test for whether two sounds are actually allophones to one another is to look for contexts where they cannot be in variation anymore.
+
+ELI: Basically, you want to get two words that are exactly the same except for those two sounds and they’re different words.
+
+SARAH: Exactly. So, for instance, when we looked at “bases” and “paces” in English, those are two different words, and so we can say that those two sounds in that context are not allophones for each other. You also want to look at, if you just have a whole dataset and you’re like, “Okay, I want to see what sounds are here. I want to think about whether any of these sounds could substitute for one another because this is a language that I’m not a fluent user of,” or whatever, you want to look at whether you are seeing those sounds in the same position as each other. If you are, then they might be in free variation, or they might actually be different sounds.
+
+ELI: There’s a bunch of examples of this even in English, so we scrounged up a Ling 101 allophone worksheet and put it in the show notes so that you can have fun learning about allophones.
+
+SARAH: Yeah. So, if you are someone who has some of those really famous mergers, right, if you have the cot-caught merger or the pin-pen merger, then to you a pin or a pen would not be two different things, those are just two ways to say the same word. Or whether you have got [gɑt] something or got [gɔt] something, those are the same word.
+
+ELI: So you’re saying that those vowels are in free variation with each other for those people’s dialects.
+
+SARAH: Exactly. The other thing that you might see rather than being in free variation, as I mentioned earlier, is the complementary distribution thing. So you might see that a certain sound never appears where another sound is. That possibly means that they’re allophones, but there’s a really famous example in English of why you need a second condition on this. In English, the /ŋ/ sound like you get in “-ing” at the end of a word, is only ever at the end of a syllable. You cannot start a word with that sound in English.
+
+ELI: I mean, you can if you’re not a coward.
+
+SARAH: Sure. English words do not start with that sound. You can do whatever you want, not that you needed my permission for that.
+
+ELI: Listeners, if you could see how hard Sarah just rolled her eyes at me.
+
+SARAH: [laughs] English words do not end with the sound of an H. You could therefore posit that /ŋ/ and /h/ are allophones of one another.
+
+ELI: Yeah, but they clearly are not.
+
+SARAH: Why? Why are they clearly not?
+
+ELI: Well, so here’s what you need to, right, is like, obviously we are native English speakers and so that sounds pretty preposterous, and also there’s no… I feel like there’s no word where the /ŋ/ at the end of a syllable or a word feels like it could secretly be an H or you could replace it with an H and you’d like feel like it sounded weird-but-okay, right? And vice versa with like replacing an H at the beginning of a syllable with /ŋ/, where you’d be like, “Yeah, that’s like the way that a non-native speaker might say that word,” right? Like sometimes allophone substitution, like the complementary distribution, is a lot less straightforward than this kind of like, “Oh, only one thing changes.” You know, you’re making a good point, which is, it’s preposterous to me as a native speaker, but if you’re just looking at a set of data and you’re not a speaker of that language, you might be led down the garden path to be like, “Hey, these never appear in the same place. Maybe they’re the same sound underlyingly.”
+
+SARAH: Right. So, there’s basically two things you want to do if you’re encountering that. One, if possible, is force one of those sounds into the place of the other one and go find a native speaker and say, “Hey, do you ever call that thing you put on your head a [ŋæt]?” [laughs]
+
+ELI: They would be like, “I don’t—no, I have not ever done that, nor will I.”
+
+SARAH: Right, so they’ll tell you that that is pretty preposterous, which is a great phrase, by the way, and you’ll be like, “Cool. I don’t think those are allophones.” But another thing you can do, even short of finding a native speaker, is ask yourself whether the two sounds are similar to each other in any way, because when we look at the different forms of D and T, they’re all happening basically in the same spot with variations of voicedness, release time, or being so short that it becomes a tap instead of a full-on stop. /ŋ/ and /h/ are really different types of sounds in fairly different parts of the mouth, so it’s not impossible, but it’s very unlikely that they would be allophones for one another, and then on top of the fact that you don’t see any data where in the middle of a word, where something’s on a syllable boundary, it doesn’t shift from one to the other, that’s another piece of evidence against that.
+
+ELI: Yeah, you’re looking for stuff to, like, change quality, or like something like /g/ and /ŋ/, and you might say, “Okay, those are close enough,” right? Or like /m/ and /p/, /m/ and /b/, are close enough, right? Or maybe you’re, like, moving one step over, right? So you get something like /k/ going to /q/, right? Where it’s moving back in the throat.
+
+SARAH: Yeah. I mean, I don’t know if there’s evidence of this as an allophone, but there’s evidence of diachronic evolution between the H sound and the F sound in Latin, Spanish, Portuguese. And on the face of it, that seems pretty bonkers, because—
+
+ELI: Those are pretty far away.
+
+SARAH: You’re like all the way at the very front of your mouth and all the way at the very back of your mouth. And then if you stop for a second, you’re like, “Okay, but they’re both voiceless. They’re both fricatives.”
+
+ELI: Well, and especially if you’re going to allow sort of phi instead of F—
+
+SARAH: Right.
+
+ELI: Right? If you’re going to allow the bilabial version, then you sort of have like both of those are just, like, making a tube with your mouth.
+
+SARAH: Right. If you can get from F to /ɸ/, from /f/ to /ɸ/, and then to /h/, like, it is, it’s very similar, but that’s like a train of similarities that I can trace. I can’t find a reasonable train—
+
+ELI: /h/ to /ŋ/.
+
+SARAH: Yeah. That’s not going to happen.
+
+ELI: You know, there’s also, and this gets a little bit more into the sort of like allomorph side, but it’s still about the environment that it’s in. Sometimes there’s a motivating factor, right? So, sometimes you get stuff that, like, becomes the nasal version of a sound because it’s right before another nasal sound or something like that. So if you’re looking for, “Does this make sense?” sometimes you get that kind of assimilation or you get some kind of like, ‘this changes into another sound because otherwise it would make an illegal consonant cluster’—
+
+SARAH: Yep.
+
+ELI: —or something like that. So you have guideposts—
+
+SARAH: Yep.
+
+ELI: —to look at for like, “Does this rule make sense, or is this an H versus eng situation?”
+
+SARAH: Exactly. I think that’s about what I have to say on the subject of allophones.
+
+ELI: This is cool because this is a Ling 101 phonology base level concept, which I feel like we haven’t done for language thing of the day—
+
+SARAH: Yeah.
+
+ELI:—in a while, but this is like, you’ll learn this in your first, like, couple of months if you take linguistics class, an intro or phonology thing, so I’m glad we’re laying down some fundamentals again.
+
+SARAH: Yeah.
+
+ELI: All right, let’s move on to some real language questions submitted by real listeners. If you want to send us a question, email it in text to questions@linguisticsafterdark.com or send us an audio recording of you speaking your question aloud. Audio is especially handy for phonology and accent questions, if you have a question about allophones, for example.
+
+SARAH: Indeed.
+
+ELI: Moving on to question one. Hayley asks via email, “And you will be ‘so and so’ when confirming identity? Why is it future tense? This cannot possibly be English. This cannot exist. Am I just wrong or is this one of those weird linguistic things?
+
+SARAH: Huh.
+
+ELI: This is interesting, because I would expect this to be, “And you would be,” not “And you will be.”
+
+SARAH: So, I had that thought too, but also I can almost describe a situation where it would be “will.”
+
+ELI: “Will” feels, if not British, then British-inflected Commonwealthy.
+
+SARAH: Which I would believe… I don’t actually know who Hayley is here, but if it is the Hayley that has been talking to us on Slack and working with us a bit, I think she lives in Hong Kong.
+
+ELI: All right.
+
+SARAH: Well, okay. So, actually, I could see either way, if we said, “you would be” has like a, “I don’t want to make a statement that you are John Roberts, because I could be wrong, and that would be weird, so I’m assuming that you would be John Roberts,” and then you can be like, “No, actually, I’m Eli,” and we can get away without me having totally put my foot in my mouth.
+
+ELI: Definitely weird to call me the Chief Justice of the Supreme Court. Honestly, I don’t want that on my head.
+
+SARAH: I don’t know why that name popped into my head.
+
+ELI: I don’t know why that name popped into your head, either.
+
+SARAH: I thought that I was just making up a really generic-sounding name, which like it is, but also.
+
+ELI: He is a really generic white guy. To me, it sounds subjunctive. That would be my first blush, especially with “would” instead of “will,” but to be honest, in English, subjunctive is… I don’t know, it’s sort of evaporating into thin air anyway.
+
+SARAH: Yeah.
+
+ELI: So, you’re making a point where you’re uncertain about it, but also like you’re asking about whether this is the world where you are that person. Right? It’s, you know, “Dr. Livingstone, I presume.”
+
+SARAH: Yeah.
+
+ELI: I mean, “At the risk of being straightforward about it.” This seems subjunctive to me because it’s like combining an irrealis world, bringing it into this world.
+
+SARAH: Yeah, and I could also, even in my dialect, I could see using “will” if… it’s toward the, if you’re not the only person that I’m confirming identity with. Like, if I have an attendance list or a roster—
+
+ELI: Oh, yeah, okay.
+
+SARAH: —or something and I’m like, “Okay, so that’s Dr. Livingstone, and that’s John Roberts, and so you’ll be Eli.” [SARAH and JENNY laugh]
+
+ELI: What a weird dinner party that would be.
+
+SARAH: Look, we’re just going to lean into it.
+
+ELI: Okay. Yeah. With that, that totally makes sense to me, right? If you’ve got like a guest list or a roll call or something or, you know, something like, “Okay, this is our fighter, this is our cleric, you’ll be our rogue,” like whatever.
+
+SARAH: Yeah.
+
+ELI: “We’ve got a bunch of dwarves, you’ll be the burglar, then.” Works with a comma, then, question mark at the end of it, right?
+
+SARAH: Yeah.
+
+ELI: “Oh, so you’ll be Sarah, then?”
+
+SARAH: Right, and with the roles there where you’re like, “be the cleric, be the rogue,” that makes sense because it sounds like you’re about to start a thing, and so you’re like, “You will serve this purpose.”
+
+ELI: Well, and to be clear, I wasn’t saying that in terms of the, like, a bunch of people in the real world sitting down to a game and being, “Okay, like, who wants to be this?”
+
+SARAH: Ah, okay.
+
+ELI: “You’ll be that,” I was doing that sort of in-world of like somebody being like, “Ah, here is a bunch of people that I have, like, met at the tavern.” I, you know—
+
+SARAH: Oh, I see—
+
+ELI: Maybe I should have gone with like a heist, like with a heist, right? Like, “Ah, you’ll be the acrobat, you’ll be the lockpicker, you’ll be the forger.”
+
+SARAH: Right. Okay. Right. Out of context, it still sounds like, “oh, so you’re going to take on that role,” but you can do it for, “you must have already had that role.” That is weird. Why is that future tense?
+
+ELI: Well, again, I don’t think that it is. I think it’s subjunctive, but in English, our subjunctive, we don’t always say “would” for subjunctive anymore. We say “will” sometimes now, right?
+
+SARAH: Yeah.
+
+ELI: Like, “That would be a weird thing to happen.” “That’ll be a weird thing to happen.” Like, you know, that’s a bad—
+
+SARAH: Yeah, I suppose that’s true.
+
+ELI: —example, but we definitely have like a collapsing subjunctive.
+
+SARAH: Well, and the future and the subjunctive, I feel like, are often—
+
+ELI: Yes.
+
+SARAH: —collapsible even in places where they both really exist.
+
+ELI: Yeah. I mean, in English the future tense is sort of like a handwavy concept to begin with, so—
+
+SARAH: Right.
+
+ELI: I mean, the future is vast and unknowable and therefore has a lot of overlap with the subjunctive. At least in English, it does. I think there are other languages that probably have much more definite futures.
+
+SARAH: Sure. But I also think that there are… Like, Latin has very specific rules about when you use the future and when you use the subjunctive, and some of the places, both are acceptable and just have slightly different nuance. Some of them, they’re just both fine, and like, some of the forms, not all of them, but some of them, the future tense of some verbs is just the same as the subjunctive of those verbs, and the only reason you know that it’s one or the other is because there’s two other verbs in the sentence that are unambiguous.
+
+ELI: It’s also often the case that the subjunctive just gets called in to do weird jobs, right?
+
+SARAH: Yeah.
+
+ELI: Like it’s sort of—subjunctive is to moods as like the dative is to cases, right? You’re just like, “I don’t know, what do we need for this thing? Whatever. Grab the miscellaneous version of moods [SARAH laughs] and that’s subjunctive.” And that happens cross-linguistically.
+
+SARAH: Yeah.
+
+ELI: There’s a lot of languages where the subjunctive is just like, “I don’t… We don’t have something for this. Let’s just, like… It’s kind of irrealis, let’s, like, put—”
+
+SARAH: Yeah.
+
+ELI: “—the subjective in there.”
+
+SARAH: Or like it maybe made sense the first time, and then you’ve just continued—
+
+ELI: Kept on doing it.
+
+SARAH: Kept on doing it or being like, “Well, this is sort of a parallel idea to this truly subjunctive idea, and then this one’s kind of parallel to that one.”
+
+ELI: Right.
+
+SARAH: And suddenly you’re like, “It’s there because we decided it should be.”
+
+ELI: You ladder your way away from an actual concrete use of the subjunctive. I will also say I think that this phrasing is not helped by being somewhat phatic? Or not phatic, but… I don’t know, lexicalized? What’s the…
+
+SARAH: It’s formulaic.
+
+ELI: Formulaic, I guess, yeah. You know, it’s not phatic because it’s not sort of contentless or totally for a social reason, but it’s…
+
+SARAH: It’s fossilized.
+
+ELI: It’s fossilized. Yeah. Ossified.
+
+SARAH: Ossified. Yeah.
+
+ELI: And so, you know, I also… I think there’s that as a dimension. I think there’s also a dimension where it’s a little indirect, and, oftentimes, especially in English, being indirect means being more polite, and so—
+
+SARAH: Yep.
+
+ELI: You know, I, again, sort of feel like this is a little bit more of like a situation where you have to have your manners, right? And you’re like, “Oh, and you would be Sarah.” Right? “Please,” right? “Would you be Sarah?” Right? Like, “Come this way into the dining hall,” or whatever, right? And so you’re being a little more indirect because, again, if you’re wrong, you know, you want to show that you’re being polite. So I think—
+
+SARAH: Yeah.
+
+ELI: —we’ve got like a confluence of factors, because it’s like, I don’t know, if you were just like meeting a friend of a friend and your mutual friend is, like, not going to… suddenly is going to be ten minutes late, right?
+
+SARAH: Yeah.
+
+ELI: [unclear] hanging out at the cafe. You’re like, “Oh, are you Sarah?” Right? Like I don’t think that I would be like, “And you would be… Sarah?” [SARAH laughs] Dun dun dun! You know? Like, I think there’s an overlay of a bunch of stuff here. I think we’ve got the subjunctive that is collapsing into future tense in English because we don’t really have a big distinction between those anymore. I think you’ve got the indirectness of politeness and then you’ve got the fossilization, a little bit, of this particular phrasing.
+
+SARAH: Mm-hmm. And that all of that is also helpful if you’re trying to be polite or cover your bases on uncertainty or whatever, that that might be why that phrase fossilized in that way in the first place.
+
+ELI: Yeah. Exactly. Well, because it’s embarrassing to identify somebody incorrectly, right? Like, you should probably, at whatever this shindig is, already know who this esteemed personage is. Alas, Hayley, this does exist. It is English, but it is definitely one of those weird linguistic things, and, in fact, it is three of those weird linguistic things! You have hit the linguistic hat trick.
+
+SARAH: All right. Shall we move on to our next question, then?
+
+ELI: Yeah, let’s do question two.
+
+SARAH: All right. Bex asks via email, “If you had to remove one sound from the human phonemic inventory, which one would it be and why?”
+
+ELI: Schwa, for chaos.
+
+SARAH: That’s extremely on brand.
+
+ELI: [laughs] I don’t know if that’s my actual final answer, but I just was like, “What’s the hottest take that I could answer this question with?”
+
+SARAH: I like how they say, “if you had to remove one,” not like “if you got to.”
+
+ELI: Yeah, like some French guy’s holding a sword to your throat. [SARAH and JENNY laugh] Well, what’s interesting here is that Bex has said “the human phonemic inventory,” so it’s not the English phonemic inventory, it’s the entire IPA chart.
+
+SARAH: Yeah.
+
+ELI: Except the gray bits.
+
+SARAH: Except the gray bits.
+
+ELI: We don’t go there. [SARAH laughs] Can I swap? Can we swap one of the phonemes out and swap one of the gray ones in?
+
+SARAH: Give me voiced H.
+
+ELI: Oh, forbidden voiced H.
+
+SARAH: That’s what I want. What are we getting rid of instead? Wait, wait, wait. Get rid of voiceless eng. [ELI laughs] I’m kidding. Go on.
+
+ELI: I have to tell you there’s a voiced H on the IPA chart.
+
+SARAH: What?
+
+ELI: Yeah. /ɦ::::/
+
+SARAH: What?
+
+ELI: I don’t know. I don’t know, but it’s a voiced glottal fricative.
+
+SARAH: I hate that.
+
+ELI: Well, I think we found what Sarah’s answer to the question is. [SARAH and JENNY laugh]
+
+JENNY: So, you actually want to remove the thing you said you wanted to add?
+
+SARAH: Oh, sorry. That’s true. Voiced H does exist. It’s voiced glottal stop that doesn’t exist.
+
+ELI: Yeah, voiced glottal stop is really tough.
+
+SARAH: But if I have magic powers, I want to fuck up our vocal tract to make that happen.
+
+ELI: Yeah. So, the joke here for folks who are not intimately familiar with the IPA chart, I don’t know why you wouldn’t be, but there’s a bunch of gaps in the IPA chart, and they are either colored light gray or dark gray, and the light gray ones are basically sounds that we are pretty sure humans could make but we haven’t found in languages yet—a number of which have actually been filled in over the years, they keep revising the IPA chart and adding symbols—and then the dark gray ones are sounds that are judged not to be physically possible to make. So voiced glottal stop is a dark gray sound, but there’s a bunch of like, you know, labio-dental plosives, which, like, nothing’s stopping you, I guess, from [p̪͡f] or [b̪͡v]. [SARAH and JENNY laugh] I’m torn, because I feel like on the one hand I really would love English R, that, like, retroflex whatever approximant, the English R is like, it’s just a really frustrating sound, but on the other hand, I love it, you know?
+
+SARAH: Yeah. I got to say the thing about English R or like American English R is, it’s so good for, like, growling and other, like, sounds of frustration.
+
+ELI: Just goes on forever. You know, you can /ə˞:::::/.
+
+SARAH: /ə˞:::::/. I mean, is this why like British dogs say “bow-wow” or whatever, because, like—
+
+ELI: Because if they tried to say R it would just be silent because they’re non-rhotic? [SARAH laughs] “Awf, awf.”
+
+SARAH: Right, “arf,” right? Or like, you know, “grrrrrr [gə˞:::::],” you’re like, “[gr:::::]”. [ELI laughs] I mean, maybe. That just—
+
+ELI: How Spanish dogs growl.
+
+SARAH: —does not sound right. [laughs] [gr:::::]. They shiver instead of growl.
+
+ELI: Here’s what I’m thinking, that every fricative from velar on back, except glottal, so like velar, uvular, pharyngeal, all those fricatives, it’s just one now. It’s just one fricative.
+
+SARAH: Yeah.
+
+ELI: You know, you get—
+
+SARAH: Yeah, that’s fair.
+
+ELI: —/ɣ/ and /ʁ/ and /ʕ/, sorry to anybody who’s listening to this on headphones. 
+
+[SARAH and JENNY laugh]
+
+SARAH: So I’m also looking at the chart. I don’t know if this counts as cheating or not, but I’m saying it’s not. There’s only two sounds in the entire pharyngeal category, and it’s just the voiced and voiceless version of each other.
+
+ELI: It’s just because we haven’t gotten away from Proto-Indo-European entirely yet. It’s pharyngeal everything, you know?
+
+SARAH: Yeah.
+
+ELI: I support this. I support no more pharyngeals. You know, there’s that or the other two that I think could just go. There’s labiodental tap, which just, we got other stuff, we don’t need that.
+
+SARAH: [tries to pronounce a labiodental tap] What? How do you even do that?
+
+ELI: No, labiodental. Not your tongue. It’s, I guess it’s a /ⱱ/ /ⱱ/ /ⱱ/ /ⱱ/ /ⱱ/ /ⱱ/ /ⱱ/ /ⱱ/ /ⱱ/.
+
+SARAH: Yeah. /ⱱ/ /ⱱ/ /ⱱ/. Yeah. [unclear]
+
+ELI: My kid has that sound.
+
+SARAH: [laughs] You’re going to take away one of his only consonants?
+
+ELI: Oh, that’s fair.
+
+SARAH: How dare you.
+
+ELI: Okay. Well, then it’s got to be the other one, which is bilabial trill, which he does also have, but I could stand for him to lose that. [SARAH and JENNY laugh]
+
+SARAH: [ʙ::::].
+
+ELI: I mean, look, there’s only three trills on the whole chart. There could probably stand to be more, but I don’t know that bilabial trill needs to be one of them.
+
+SARAH: Yeah, that’s fair.
+
+ELI: I mean, we’ve talked a lot about consonants. Is there a vowel that we want to take away?
+
+SARAH: Other than schwa?
+
+ELI: I just, going for maximum chaos.
+
+SARAH: No, I… That’s the thing, actually, because I feel like if you got rid of schwa, there would be some languages that would just really not be affected whatsoever, and then French and English—
+
+ELI: Just get fucked up.
+
+SARAH: Absolutely fucked up. And I think that’s hilarious.
+
+ELI: I want to say that unrounded back… I guess it’s, what, mid, right? So, whatever the unrounded /ɔ/, /ʌ/. I…
+
+SARAH: /ɔ/.
+
+ELI: That thing needs to be, like, moved.
+
+SARAH: Wait, unrounded. The wedge one—
+
+ELI: Yeah, the wedge.
+
+SARAH: —or the one up above the wedge?
+
+ELI: The wedge.
+
+SARAH: No, that’s just /ʌ/.
+
+ELI: Yeah, it’s just /ʌ/. /ʌ/, it’s not different enough. It doesn’t deserve to be there.
+
+SARAH: Well, if you’re getting rid of schwa, I don’t think you can also get rid of wedge.
+
+ELI: Well, no, that’s—
+
+SARAH: That’s—
+
+ELI: —fair. Maybe… Because then we just call everything “wedge.”
+
+SARAH: Yeah. [laughs]
+
+ELI: I think we’re not going after the clicks. We’re not going after the ejectives. Those are cool. They can stay. I think my final answer is bilabial trill.
+
+SARAH: Yeah, that’s fair. It’s pretty slobbery.
+
+ELI: Yeah.
+
+SARAH: Nobody needs that.
+
+ELI: Say it, don’t spray it. [SARAH and JENNY laugh]
+
+SARAH: Exactly.
+
+ELI: And in its place, Linguistics After Dark’s official position, Linguistics After Dark’s new campaign: Voiced glottal stop 2k25. [SARAH and JENNY laugh]
+
+SARAH: Excellent.
+
+ELI: There we go. That’s the title of the episode is Voiced Glottal Stop 2k25.
+
+SARAH: Nice. Well, Bex, congratulations. You have once again given us a shitpost that we turned into something useful.
+
+ELI: Did we?
+
+SARAH: Well, no, I won’t go that far. [laughs]
+
+ELI: No, I think this one was 100% shitpost. But thank you. This is—that’s basically why people listen to the podcast, right? What is Linguistics After Dark if not a podcast of linguistics shitposting? You want, I don’t know, actual linguistics education, go listen to Lingthusiasm. Which is great! You should also listen to Lingthusiasm!
+
+SARAH: Yeah, nobody is here thinking we’re stealing their show. [laughs]
+
+ELI: No. [laughs] No, you’re here for the linguistics shitposting. It’s just informed linguistics shitposting. No “chat is the fourth person pronoun” bullshit here.
+
+SARAH: Because that’s not shitpost or because that’s not informed?
+
+ELI: Because that’s incorrect.
+
+SARAH: Okay, sure.
+
+ELI: Right. Because that’s not informed. We could make it into a shitpost. Anyway.
+
+[Everyone laughs]
+
+ELI: Shall we move to question three?
+
+SARAH: I think it’s about time.
+
+ELI: All right. Adam Kelly asks via email, “So, English’s pronoun ‘they’ can vary in meaning quite a lot. For example, in phrases like, ‘Well, you know what they say.’ In this case, the meaning of ‘they’ is kind of like ‘the general public.’ An extra pronoun in the language for this could be slightly useful, as confusion could occur between ‘they’ meaning ‘that one specific group of people’ versus ‘the general public.’ My question is whether languages exist where something like this extra pronoun actually exists.”
+
+SARAH: Yes, sort of. I mean, probably. I don’t know of any specific ones that I can cite, but there are definitely languages out there with different styles of pronouns and ones that are more or less specific than English.
+
+ELI: I would be really surprised not to find a language that doesn’t have a distinction between “they,” ‘a group of people over there that I can see,’ and “they,” ‘a large group of people that I can’t necessarily s—’
+
+SARAH: Agreed. The one that came to mind is actually French and that’s the pronoun ‘on,’ which is cognate to the English word “one” and is used in some ways similar to how English might, but doesn’t so much anymore, say, “Well, as one does when one encounters a pile of snow blah blah blah,” whatever.
+
+ELI: What does one do when one encounters a pile of snow?
+
+SARAH: Jump in it.
+
+ELI: Correct.
+
+SARAH: Is that another official stance of the podcast?
+
+JENNY: Well, I think it is now.
+
+ELI: I mean, it can be if you want it to be.
+
+SARAH: Cool.
+
+ELI: Linguistics After Dark: pro-winter until about February 15th. [SARAH and JENNY laugh]
+
+SARAH: Oh, my gosh. Or even a phrase that is quite popular these… “as one does.” So, French uses that in places where modern English tends to use generic “you.” So like in Adam’s example, “You know what they say,” which could be the person you’re actually talking to.
+
+ELI: Well, when I was in elementary and middle school, I was told in writing essays never to use second person “you” for that sort of generic unspecific “you” and instead to use “one,” so that does not surprise me at all.
+
+SARAH: Right, and it is a more formal thing to use “one” or to just rephrase that entirely instead of using “you,” but in casual English…
+
+ELI: Yeah, you would never do that.
+
+SARAH: We basically just use “you,” as you did. Very well done. So you have “on” which is like, “Oh, one could do blah blah blah,” but also, it serves this sort of general “they.” So, “on dit que,” you know, “They say that,” blah blah blah. And it has even moved into a place where English would use “we,” which I find really interesting.
+
+ELI: Oh, that’s interesting.
+
+SARAH: So—
+
+ELI: Is it like a clusivity—
+
+SARAH: Yeah.
+
+ELI: —thing, or how does it work?
+
+SARAH: I don’t know how it interacts with clusivity—meaning whether it’s a “we” including the speaker and the listener, or “”we” excluding the listener—just the other day, I was talking to someone on minesweeper.online in the month of February. It’s the, like, quest exchange thing, so, like, every day you get a certain number of quests, and you can trade them to other people, and I was talking to somebody in the French chat and I was like, “Here’s what I have for today. Do you want to trade?” And they said, “Oh, I’m out of things to trade for today.” ‘On peut reessayer après le reroll.’ Because that was a… Anglicism that just stuck, but ‘on peut reessayer,’ ‘one could try again after the reroll,’ but they absolutely meant me and him, like… or me and them, whatever.
+
+ELI: Oh, interesting. It’s like an indirect… See, the thing is, is I am inclined… and granted you’re… blind idiot translating that, right? You’re calque-translating that.
+
+SARAH: Yeah.
+
+ELI: But that to me sounds indirect as to be formal, but I wouldn’t expect in that context for it to have been formal. Is it?
+
+SARAH: It is not. No, it is just a general thing you could do.
+
+ELI: Because I could definitely see like, [slightly snooty-sounding intonation] “Oh, well, it’s not possible today, but one could try tomorrow after the reroll.”
+
+SARAH: Right. In English, it does sound really formal.
+
+ELI: Right.
+
+SARAH: But in French it’s just very standard.
+
+ELI: Huh.
+
+SARAH: And it took me a while to figure that out, because I could get with “one” a generic third person and “one” a generic second person, but “one” a specific first person is really weird to me.
+
+ELI: Is it definitely plural?
+
+SARAH: Uh-huh.
+
+ELI: Okay, so it’s not that person saying, “I will try again after,” or “you will try again after the reroll.”
+
+SARAH: No.
+
+ELI: Huh.
+
+SARAH: No, it is… And like I can’t come up with any specific quotes for it right now, but I’ve also been, like, watching French TV and stuff, and sometimes if I have the captions on in English and French, because I think there’s a Netflix plugin that lets you do that—anyway, it will often be translated into English as “we should” or “we will” or whatever, and it’s just like two people talking or maybe even a small group.
+
+ELI: Cool.
+
+SARAH: And it’s just “on.” And I haven’t figured out if there’s like a contextual difference between that and actually using the word “we.”
+
+ELI: I wonder if it is casual or if it’s just modern, and it’s just where the language is going.
+
+SARAH: Yeah, I don’t know. We should definitely look into that and see what we can put in the show notes. But to Adam’s original question of if there is a less confusing set of pronouns, I think I’ve given the opposite answer to what he was looking for.
+
+ELI: Well, so “they” is, in English, it’s super useful, and it has more uses even than “that specific third person group of people” versus “the general public.” It also is used as a pronoun when you need a pronoun. It’s a… What is it? Expletive. It can be used as an expletive—
+
+SARAH: Yeah.
+
+ELI: —pronoun. It also, you know, it can be used as a specific pronoun for a person who uses “they/them,” but it also can be used as an epicene pronoun, which is subtly different, and that’s when you don’t know what pronoun to use for a single person. And for a long time now, for at least a thousand years now, one of the perfectly fine options in English has been “they.” For a while, it was fashionable to default to “he” in that case, but that came around after “they” was used and has not survived into modern usage. Not very much, anyway. So there’s a lot of different… Like, “they” gets a lot of use in English, except occasionally for whether it’s somebody’s specific pronoun or whether you’re using it as an epicene pronoun, I think it’s not ever ambiguous enough to be confusing, which I think means there’s no pressure in English to make a differentiation there.
+
+SARAH: Yeah.
+
+ELI: I wonder if in French there’s some kind of pressure that has created these new usages of “on.”
+
+SARAH: Yeah. I don’t know. A very good question.
+
+ELI: You know, French, at least anecdotally to me, seems at least currently to be undergoing kind of a lot of lexical change.
+
+SARAH: How so?
+
+ELI: I don’t know. I feel like I just keep hearing about sort of changes in modern French and that there just sort of seems to be a lot going on at maybe a little bit of a faster rate than I might expect from… well, from a lot of languages. English is the exception because English has a weird history, but…
+
+SARAH: Yeah, I do wonder how much of that is just what we’re hearing about versus what’s actually happening.
+
+ELI: That’s fair.
+
+SARAH: And the rate at which that’s happening, and where changes are happening, because I believe you. I don’t feel like I haven’t heard these things, but also maybe it just hasn’t registered to me or I’m not reading the same newsfeed you are or whatever.
+
+ELI: Well, it has a really large speaker base too, which might motivate that.
+
+SARAH: It has… Right. It has a really large speaker base, and it has a really geographically broad speaker base.
+
+ELI: Yeah.
+
+SARAH: In more confined ways than Engl—like, English has an enormously broad speaker base, but it is also the, ironically, lingua franca of basically the whole world at this point, especially the internet, and so you get lots and lots more exposure of new things and also lots and lots more input from various places than you might necessarily expect to happen with French. On the flip side, French is constantly getting all that input from English as well and deciding constantly what to adopt, what to calque, what to translate, what to chuck out the window. Speaking of which, there was that thing that came up on Slack the other day about the Canadian broadcasting people.
+
+ELI: Oh, yeah.
+
+SARAH: Am I allowed to go pull it up since that was—
+
+ELI: Yeah.
+
+SARAH: —not a real research? Great. I’m going to go pull that up.
+
+ELI: I mean, it’s not a real research, it’s somebody posted a thing on Tumblr, which, you know, so we’re already taking it with a grain of salt.
+
+SARAH: Eli found this Tumblr post and shared it on Slack the other day, which I just pulled up. Somebody said, “All the terminology relating to tech and the Internet is English, and one of the endearing features of the French public broadcasting in Canada is that every time they use an English neologism they have to immediately perform a ritual penance where they apologize and grope for a French translation, whether sanctioned or improvised, and so this comes up all the time in that context.” I don’t know what ‘this’ is, but “Often this is sort of dry but when the English word is already stupid it has a lot of comic potential. I’ve previously heard “doomscrolling” translated as ‘défilement morbide,’ which is already great—you must understand that the speakers grab at these terms like drowning sailors grasping for floating debris—but today I heard it translated as ‘défilement funeste,’ which is just impossibly charming.” Yeah, ‘défilement’ I guess is just scrolling, morbid scrolling, funeral scrolling.
+
+ELI: Love the idea of these broadcasters that use an English term and then go, “Oh, shit, we need a French term,” and they just, like, are nonce-calquing it, right?
+
+SARAH: Yeah.
+
+ELI: And they’re just like grasping for whatever. I mean, it’s a wonderful exercise of creativity and you know, trying to capture the feeling of the English word, especially when it is one that’s so good like “doomscrolling.”
+
+SARAH: Yeah. Right. And so I thought about that because I remember in some of the follow-up conversation on Slack, there was this question of, you know, “is L’Académie showing up with their swords being like, ‘You didn’t translate “doomscrolling” correctly.’” Someone pointed out like, “Well, no, because that’s in Canada,” and I think Eli said, “Les immortels cannot cross running water.”
+
+ELI: That’s why the Canadians are safe.
+
+SARAH: [laughs] Watch out, Switzerland.
+
+ELI: Yeah. I mean, even Northern Africa is in trouble. There’s—there’s landbridge there.
+
+SARAH: That’s true. Even in all of those different places, like Switzerland and Canada and any place in Africa that has French as an official language has their own… I won’t say version of L’Académie, because it’s not, but like, they have their own standards for what official language should be like, and the thing about the public broadcasting is that that’s government-funded, and so they have more obligations on them than a generic person speaking French in Canada would. Probably—I haven’t met every French-speaking person in Canada, shockingly, but I would assume that—any of them who understand the concept of doomscrolling are just going to call it ‘le doomscrolling’ because why invent a new word for something that has a perfectly good name already? But in the government-funded… you know, you got to be a little bit more formal. You got to follow the rules and actually say stuff in French.
+
+ELI: Well, and I think that that’s part of it too, is, right, like they don’t have L’Académie, but they do have, especially in this francosphere, they do have these like government-specified “here is how you say it,” and it’s not like L’Académie, because, like, the government of Canada is under no illusions that they’re, like, setting official words for the population to use. What they want is, like, all their documents to agree on what the word is—
+
+SARAH: Right.
+
+ELI: —for this thing that’s going to be either a loanword or a calque or a reimagining from some other language, usually English. And, like you said, the, you know, public broadcasters have to try to be aware of these things, but also, like, there’s no way that the, like, linguistics office has put out an official, you know, Gouvernement du Canada translation of “doomscrolling,” so they have to do it on the fly. But also, I think that that is like it’s a really important distinction. It’s one of the reasons we harp on L’Académie is because they’re like out of their minds thinking that they can dictate to a population, and then on the other hand, in America, there’s like… Look, whatever government it is, nobody is under any illusions that they can create that kind of official thing, although there’s a lot of framing that happens, there’s a lot of how do they use those terms and do they become unthinkingly used by the population in general. That is not related at all to the question that we’re talking about, so I think that’s one tangent too many.
+
+SARAH: Yep.
+
+ELI: But it is always important to think about who came up with the phrasing that you’re using, and why did they come up with that phrasing?
+
+SARAH: Right. How did we get onto “doomscrolling”? Oh, is there pressure on French to move their pronouns around? No idea. We should look into that another time.
+
+ELI: God, it would be great if somebody was listening to the podcast and was a French linguist and could write in and tell us about that. That would be really cool, actually.
+
+SARAH: Going back to the original question.
+
+ELI: The answer is yes.
+
+SARAH: The answer is yes. I also want to go back to something Eli said briefly, which is the idea of clusivity, which is just being inclusive or exclusive, but without any prefixes, so that it’s both.
+
+ELI: Man, clusivity is in like top three features to add to English, I feel like.
+
+SARAH: Yeah. So, there are languages where the word for “we” either includes or excludes the person listening to you talk, so that I could say like “we” inclusive to mean “me and Eli,” or I could say “we” exclusive to mean like “me and my husband,” as I’m talking to Eli, obviously.
+
+ELI: It, like, avoids a lot of awkward stuff for you to be like, “We are going to the party. We are going to the beach today.” Right? And you, like… I don’t know if you’ve ever been in that like weird situation where the person is not… You’re not sure if you’re getting invited or not.
+
+SARAH: Yep.
+
+ELI: Inclusivity fixes that or maybe—
+
+SARAH: Yes.
+
+ELI: —makes it starker, at least.
+
+SARAH: Yeah. [laughs] And I don’t know off the top of my head if there are like similar things with “they,” but like you said, I would be really surprised to discover that zero languages on the planet have inclusive and exclusive “they” or something like that.
+
+ELI: Well, so I think that there’s a few different things there. One is, you know, I’m thinking about there’s a lot of stuff with sort of smaller groups and larger groups. It isn’t necessarily pronouns, but it’s singular versus plural where you have languages that have a dual or a trual or a paucal or a plural. And so those are singular is one, dual is two people, tr—or two things, trual is three, paucal is a few, and then plural is more than one. And so you can have languages that, for example, have singular, a dual, and a plural, in which case the plural means more than two or a singular, a paucal, and a plural, where you would use the paucal for a small group of people or things, and then the plural means a larger group of people.
+
+SARAH: Yeah.
+
+ELI: It also makes me think about oblique third person, which is occasionally—
+
+SARAH: Oh, yeah, yeah, yeah.
+
+ELI: —called “fourth person,” but that’s like fun and not real. I don’t know, maybe it is, but oblique third person where that’s a little bit more about who’s centered in… Like, who’s either the subject of the sentence or topicalized in the current discourse or whatever, where you’ve got proximate third person and that’s who it is that’s like the story is about, and obviate third person where that’s any other third person there. So, I feel like there’s a lot of mechanisms out there that come close to this kind of thing. It would be really weird to me to not have… even if it was a circumlocation, right? Even if it wasn’t—
+
+SARAH: Yeah.
+
+ELI: —a true pronoun, but it was a fossilized thing that is essentially a pronoun.
+
+SARAH: Yeah. Actually, now that I think about it, I’m surprised I didn’t say this earlier, but Latin has this weird thing where it alternates between “Fuck the third person, we don’t need any pronouns for that,” and “Actually, we have seven.”
+
+ELI: Make up your mind, Latin.
+
+SARAH: Yeah, I think the basic thing is, we don’t really need them for nominative things unless there’s a really good reason, but it turns out that they’re really useful in the objective cases.
+
+ELI: I mean, that makes sense to me.
+
+SARAH: One thing I am quite sure I’ve mentioned on the podcast before, two of the really common ones are the words that get glossed and get put in dictionaries as meaning “this” and “that,” and they do mean those things and they can be used the same way that English would use “this” and “that,” but actually, more frequently they’re used “this (person)” or “that (thing over there)” in places where English might just say “he” or “it,” and you can do it in the plural as well, so you can go through a whole… and I think there’s a bit in the old AP syllabus where Caesar is describing the difference between like the druids and the knights in this one part of Gaul and he’s like, “These guys do blah blah blah, and those guys do XYZ, and these guys wear this kind of clothing, and those guys wear that kind of clothing,” and the whole thing is just, “These guys are the druids and those guys are the knights,” or vice versa. And I would definitely… Like, I could imagine someone in Latin saying, you know, “You know what they say,” and leaving out a pronoun and just meaning like “they” generically, but if you were like, “Ah, you know what those guys say…”
+
+ELI: You’d have to use one of those.
+
+SARAH: Would have to refer to somebody you had just been talking about.
+
+ELI: With respect to the sort of ossified/fossilized thing, something that comes to mind for me is, Spanish uses “todo el mundo” to mean “everybody.” Even if it’s not literally everyone in the world—“todo el mundo” means “all the world”—even if it’s not literally everyone in the world, if you want to say, you know, you’re like addressing a large group and you’re like, “All right, this is…” Actually, addressing a large group probably isn’t a good use for this, but you know, you just kind of want to be like, “Everybody loves ice cream,” right? You probably use “todo el mundo.” And that’s… That, I think, is, again, it’s not exactly the same thing, but it’s kind of getting close. So, I… We don’t have anything specific, but I feel like we’re circling around a lot of cases that are close to this, and yeah, I’d be really surprised not to find something like that.
+
+SARAH: Yeah. French does use that even for addressing people. “Bonjour, tout le monde,” “Hello, the whole world.”
+
+ELI: I think you—
+
+SARAH: Which—
+
+ELI: —can use it for addressing people in Spanish, but I think it, you know, it might be situational.
+
+SARAH: Sure, and the other thing that you mentioned earlier is just like circumlocation or just… I think that sometimes this might be a place where you just want to choose a different phrasing if it is actually becoming ambiguous.
+
+ELI: Right.
+
+SARAH: Yeah. This is a good question, and I wish I had a really specific thing where I could be like, “Ah, yes.”
+
+ELI: “Such and such language.”
+
+SARAH: “Such and such language. That’s the one that does the thing.”
+
+ELI: Bam. Answered. Linguisted. [SARAH and JENNY laugh] Thank you, Adam. That was a great question.
+
+SARAH: That was a great question. Shall we move on to our puzzlers?
+
+ELI: Yeah, absolutely. This one has me totally stumped. I have been thinking about it for a while. I even quote unquote “cheated” and started looking up like lists of nine things, which… there’s not a lot of lists out there of nine things that are different from other lists.
+
+SARAH: I found out that there’s apparently nine specific types of angels in the Bible. I was like, “I don’t think that’s what this is.”
+
+ELI: The phrase “in the Bible” is doing a lot of hard work there, but—
+
+SARAH: Well, right, and I was like, when I said, “Famous groups of nine things,” I don’t think that counts as famous.
+
+ELI: Yeah. I kept getting the Supreme Court justices over and over again, and I was like, “Yes, okay, but that’s clearly not what this is.”
+
+SARAH: What other nine things?
+
+ELI: Also, it’s a sequence, not a collection, which is interesting, so it means that it goes in an order.
+
+SARAH: Right.
+
+ELI: Jenny, you had said that you thought you knew this, but before you jump in, my weird guess that is based, I think, just solely on staring at it for a while… Well, actually, you should say what the puzzler actually is.
+
+SARAH: Oh, that’s true.
+
+JENNY: Right.
+
+SARAH: Okay. So, the puzzler was “Complete the sequence: C, F, T, ?, Y, H, N, J, I, ?.”
+
+ELI: Okay. So, my guess, my guess is, just after staring at this for a while, is, the first question mark is a V and the last question mark is L.
+
+JENNY: Why’s that?
+
+ELI: Because I was sort of looking at how the letters morph into each other, and I don’t know, T in between T and Y feels like you could put a V there and you’ve got J I at the end and L could go after that. I… This is not going to be the correct answer. I know that, but that’s as far as I got. This one totally stumped me.
+
+JENNY: So, I think I figured it out by mistake. I was, like, going to try to figure out what could be in a set of nine things like that or a sequence of nine things. And so, I, like, opened up a blank document and started typing them out, like one letter on each line, to see if, like, arranging them differently would help. Try typing.
+
+ELI: Oh, for fuck’s sake. [SARAH and JENNY laugh] So, it’s “6” and “9” is what it is.
+
+SARAH: Yes.
+
+ELI: So here’s the funny thing about that. I have a split keyboard, and it splits right on the line in between 6 and Y.
+
+SARAH: Ah.
+
+ELI: Like in between 6 and 7, T and Y, G and H, and B and N. 
+
+JENNY: That’s going to make it a lot harder, yeah.
+
+ELI: So I’m not sure that, even if I had done what you had done, I would have gotten this.
+
+SARAH: So, “The characters are a diagonal pattern on a computer keyboard” is what the official answer key says. I would like to state for the record that this pattern could continue past the number 9, and I think that that was misleading. I don’t think I would have solved it. I just want to be petty.
+
+ELI: Yeah.
+
+JENNY: Yeah. They could have said like, “continue” might have made a little easier, but I don’t think it would have made a huge difference because if you’re thinking of a set of nine or more things, that’s still not necessarily going to point you in the direction of staring at your keyboard for a while.
+
+SARAH: No, it’s not.
+
+ELI: Tricky to take out the numbers and also for there to be a different number of letters before each of the numbers. All right, that was a good puzzler.
+
+SARAH: Yeah, I… And that was labeled Level 1 on the Enigma Rotor Scale, so I would just take an L for myself there.
+
+ELI: You know, puzzle hunt puzzles that have to do with how the keyboard is laid out are actually pretty standard. I don’t know, if I had decided to make sure that my, like, puzzle hunt stuff was up to snuff, I feel like it would have been a Level 1 kind of a thing.
+
+SARAH: Okay.
+
+ELI: So I don’t begrudge them that rating.
+
+SARAH: All right. Well, I will have to keep that in mind for future puzzles.
+
+ELI: All right. We’ve got a new puzzler.
+
+SARAH: Excellent. Please tell us about it.
+
+ELI: Yeah, so this one we cribbed directly from Car Talk, because that’s really what we wish this podcast would be is Car Talk. This one was set in to Car Talk way back in the day by Dave Moran. Dave writes, “There’s a fancy French restaurant called Cafe Pretension. It started a new promotion. On their anniversary, a married couple purchasing an entrée at full price would get the second entrée free. The promotion turned out to be a huge success. Of course, the restaurant required diners to bring some proof of the date of their anniversary to receive the discount.
+ELI: One Wednesday night, a waiter came to Francois, the owner, and said [in a silly French accent] ‘Boss, that couple over there are claiming that today is their anniversary, but they don’t have any proof.’ [in his usual accent] Francois went over and introduced himself and engaged in a little tête-à-tête with them. Francois asked the woman, [in a silly French accent] ‘Tell me a little bit about your wedding day.’ [in his usual accent] She said, ‘It was a beautiful Sunday morning. The birds were chirping as I opened my window to prepare to get ready for my wedding. I saw the flowers in bloom. It was spectacular.’
+ELI: She went on to explain to Francois that today was their 28th wedding anniversary. Francois says, [in a silly French accent] ‘How charming, but unfortunately, you do not qualify. I don’t believe that today is your 28th wedding anniversary. In fact, you are a bold-faced liar.’ [in his usual accent] And then he slaps her across the face and spills her husband’s vichyssoise into his lap. How did Francois know that today was not their wedding anniversary?”
+
+SARAH: That was a beautifully read dramatic rendition of that event.
+
+JENNY: Yes, it was.
+
+SARAH: Thank you.
+
+ELI: Thank you. It’s a true event that actually happened, I’m sure. [SARAH and JENNY laugh] When I read this through the first time, I had one thought about what the answer was, but actually having now read through it a couple more times, I have a different and, I think, more solid answer about what the answer is.
+
+SARAH: Okay. I already knew the answer to this one before we stole it.
+
+ELI: It’s up to you, Jenny.
+
+JENNY: I mean, I see an answer that seems pretty obvious. I’m wondering now if there’s a better answer that I’ve missed.
+
+ELI: Well, we’ll find out on the next episode. Apparently, we’ve gone from Level 1 to Level 0 [JENNY laughs] if all three of us are either on top of it or think that we are.
+
+SARAH: All right. Well.
+
+ELI: I feel like we’ve had a bunch of hard puzzlers recently, so maybe it’s nice to have one that’s a little…
+
+JENNY: Yeah, this isn’t the worst thing in the world.
+
+SARAH: I would agree.
+
+ELI: All right, that’s it for this episode. Thanks for listening.
+
+SARAH: Linguistics After Dark is produced by Emfozzing Enterprises. Audio editing is done by Abby and Charlie, question wrangling and show notes are done by Jenny, and transcriptions are done by Luca. Our music is Covert Affair by Kevin MacLeod.
+
+ELI: Our show is entirely listener-supported. You can help us by visiting patreon.com/emfozzing, E-M-F-O-Z-Z-I-N-G, leaving a comment or a review wherever you get your podcasts, and especially by telling your friends about us.
+
+SARAH: Every episode we thank our patrons and reviewers. Today, we want to say thanks to these awesome patrons: Beth, Kali, Geoff, Bex, Jason, and Rachel. We also want to thank Colin for leaving a comment on Spotify. Thank you.
+
+ELI: Find all our episodes and show notes online at linguisticsafterdark.com. You can reach us on all the usual socials @lxadpodcast, and if you don’t find us on your platform of choice, let us know. We’re also on Slack at the-crossings.slack.com, and a link to that is on the website. [in a silly French accent] And until next time, if you weren’t consciously aware of your tongue in your mouth, now you are.
+
+[music]
+
+[beep]
+
+SARAH: Ask me some other time when I’m more drunk.
+
+[beep]
+
+SARAH: Eli just did the little hand—
+
+ELI: We’re not doing video highlights anytime soon, y’all.
+
+[beep]
+
+SARAH: I do think that we should make “hop for the ladder” a thing.
+
+[beep]
+
+ELI: You’ve hit the linguistic hat trick.
+
+[beep]
+
+SARAH: I should have prepared an example.
+
+[beep]
+
+SARAH: I should have not done this with T and D.
+
+[beep]
+
+SARAH: Lord, what was his name? Never mind.
+
+ELI: He is a really generic white guy.
+
+[beep]
+
+SARAH: English words do not start with that sound.
+
+ELI: I mean, you can if you’re not a coward.
+
+SARAH: You can do whatever you want.
+
+[beep]
+
+SARAH: My memory is made of cheese.
+
+[beep]
+
+SARAH: [gr:::::]
+
+[beep]
+
+SARAH: Whoops. I just spiked that so hard. I’m so sorry.
+
+[beep]
+
+ELI: Now that Hayley knows the secret, be on your guard. French people with swords will be after you for misuse of the subjunctive.
+
+[beep]
+
+SARAH: [meaningless/incomprehensible sounds] language.
+
+[beep]
+
+ELI: An extra pronoun in the language for this could be slightly useful. Might I suggest “chat”? [SARAH and JENNY laugh]
+
+[music]
